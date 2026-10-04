@@ -1,0 +1,130 @@
+{
+  "slug": "garo-hills-balpakram-5n",
+  "title": "Garo Hills and Balpakram",
+  "nights": 5,
+  "themes": ["offbeat", "adventure"],
+  "states": ["meghalaya", "assam"],
+  "places": ["guwahati", "balpakram"],
+  "hero": "balpakram",
+  "price_from_inr": 24000,
+  "best_months": [11, 12, 1, 2, 3],
+  "difficulty": "moderate",
+  "max_altitude_m": 910,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Garo Hills tour, 5 nights / 6 days from Guwahati: Tura, Nokrek, two nights in Baghmara, Balpakram canyon and Siju Cave. Private SUV, from ₹24,000 per person.",
+  "quick_answer": "Garo Hills and Balpakram is 5 nights / 6 days from Guwahati by private SUV. You base in Tura for Tura Peak and the edge of Nokrek National Park, then spend two nights in Baghmara for a full day in Balpakram National Park, the 'land of the eternal wind', and a visit to Siju Cave. From ₹24,000 per person.",
+  "overview": [
+    "The Garo Hills in western Meghalaya see a small share of the state's visitors, and this trip is for people who want exactly that. It is a long way from Shillong in both distance and feel: lower hills at 300 to 900 m, Garo villages with bamboo houses, Christian churches beside old sacred groves, and forests that still hold elephants and hoolock gibbons. The roads are slower than on the Khasi side, so we use an SUV and keep the plan to five nights.",
+    "Balpakram is the reason for the trip. The 220 km² national park in South Garo Hills sits at about 910 m on a plateau cut by a deep canyon, and in Garo belief the spirits of the dead rest here on their journey onward. It is a day's outing from Baghmara on a rough road, with a forest department permit and a local guide. We pair it with Nokrek, where the wild ancestor of the orange, Citrus indica, was found, and a short entry into Siju Cave on the Simsang river."
+  ],
+  "highlights": [
+    "A full day in Balpakram National Park and its canyon, with a local guide",
+    "Two nights in Baghmara, headquarters of South Garo Hills, on the Someshwari river",
+    "Siju Cave, a river cave over 4.7 km long, of which visitors see the first section",
+    "Tura Peak at 872 m, above the Garo Hills' main town",
+    "Nokrek National Park, a UNESCO biosphere core zone where Citrus indica was found",
+    "Private SUV throughout, suited to the rough Balpakram road"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Tura",
+      "stay": "Tura",
+      "altitude_m": 350,
+      "drive": "220 km · 5.5–6.5 hrs",
+      "text": "We meet you at Guwahati Airport or the railway station by 8.30 am and drive west on the highway through the Assam plains towards Goalpara, then turn south into the Garo Hills. The route passes paddy fields, areca plantations and small market towns; we stop for lunch on the way. The last stretch climbs gently into Tura, the largest town in the Garo Hills, at about 350 m. Arrive by late afternoon and check in. In the evening, walk through the town centre and try a Garo dish such as nakham bitchi, a dried-fish soup, if your hotel can arrange it.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Tura Peak and the edge of Nokrek",
+      "stay": "Tura",
+      "altitude_m": 350,
+      "drive": "Local sightseeing · about 80 km",
+      "text": "Start early with the walk or drive up Tura Peak, 872 m, where a colonial-era path leads to views over the plains of Assam and Bangladesh. Then drive to Daribokgre village, the base for the northern side of Nokrek National Park, the core of a UNESCO biosphere reserve. With a local guide, walk a forest trail for two to three hours; listen for western hoolock gibbons, whose calls carry across the valleys in the morning. The park protects Citrus indica, the wild orange. Return to Tura by late afternoon. Nokrek trails can be steep and wet; wear shoes with grip.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Tura to Baghmara",
+      "stay": "Baghmara",
+      "altitude_m": 50,
+      "drive": "110 km · 3.5–4 hrs",
+      "text": "Leave Tura after breakfast on the winding road south-east to Baghmara, headquarters of South Garo Hills, about 3.5 to 4 hours away through forest and small Garo villages. Reach Baghmara by lunch and check in. In the afternoon, visit the pitcher plant area at Dilsa Hill, where carnivorous Nepenthes grow wild, and walk along the Someshwari river as it flows towards Bangladesh. Your driver visits the forest office to collect the Balpakram entry permit and confirm a local guide for tomorrow. Baghmara is a small town with basic restaurants, so dinner is at your lodge.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Balpakram National Park",
+      "stay": "Baghmara",
+      "altitude_m": 50,
+      "drive": "About 130 km round trip · 5 hrs driving on rough roads",
+      "text": "Leave Baghmara at 6.30 am with a packed breakfast and lunch; the road to Balpakram is about 60 km and 2.5 hours, rough in places, which is why we use an SUV. At the park, meet your guide and walk to the canyon edge, where the plateau drops into a deep, forested gorge. The guide will show you sites tied to Garo beliefs about the spirits of the dead, including a tree the spirits are said to rest under. Elephant and deer tracks are common; sightings are not. Leave the park by 2.30 pm to be back in Baghmara before dark.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Siju Cave and back to Tura",
+      "stay": "Tura",
+      "altitude_m": 350,
+      "drive": "About 150 km · 6 hrs with the cave stop",
+      "text": "Leave after breakfast for Siju Cave, about 1.5 hours away on the Simsang river. Known locally as the bat cave, it runs more than 4.7 km, but nearly all of it is flooded; visitors go a short way in with a local guide and torches, wading through shallow water. Wear sandals with straps and clothes that can get wet, and carry a change. The limestone formations start close to the entrance. After lunch, drive back to Tura, arriving by early evening. Check in, dry out and enjoy a final dinner in the Garo Hills.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tura to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "220 km · 5.5–6.5 hrs",
+      "text": "Leave Tura by 7 am after an early breakfast. The drive retraces the route through the Garo foothills and across the Assam plains to Guwahati, with a lunch stop on the way. You reach the city around 1.30 to 2 pm, depending on traffic on the Guwahati bypass. Please book flights after 5 pm or trains after 5.30 pm. If you have an early departure the next day, we can add a night in Guwahati and a visit to the Kamakhya Temple, where the general queue is free and special darshan tickets are sold. Your driver drops you at the terminal or station.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights in Tura and 2 nights in Baghmara in the best available hotels and lodges, twin sharing",
+    "Daily breakfast and dinner, with a packed lunch on the Balpakram day",
+    "Private SUV (Scorpio, Bolero or similar) with a driver who knows the Garo Hills",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Local guides for Nokrek, Balpakram and Siju Cave",
+    "Arranging the Balpakram forest permit through the Baghmara forest office",
+    "Driver allowance, fuel, tolls and parking",
+    "Taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Park entry, forest permit, camera and vehicle fees at Balpakram and Nokrek",
+    "Entry and guide fees at Siju Cave and Dilsa Hill, if charged",
+    "Lunches other than on the Balpakram day, and drinks",
+    "Torches, sandals and personal gear for Siju Cave",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Costs from landslides, road closures, bandhs or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Tura: Hotel Sundare or Orchid Lodge (Meghalaya Tourism). Baghmara: Baghmara Tourist Lodge, or similar" },
+    { "tier": "Premium", "options": "Tura: Hotel Rikman Continental. Baghmara: best available lodge, or similar" },
+    { "tier": "Luxury", "options": "The Garo Hills have no luxury hotels; we book the best rooms available in Tura and Baghmara, or similar" }
+  ],
+  "good_to_know": [
+    "Roads in South Garo Hills are slow and rough in places, and the Balpakram road can become impassable after heavy rain; we run this trip from November to March",
+    "Balpakram needs a forest department permit, arranged at Baghmara, and a local guide; rules and fees change, so check current status before you travel",
+    "Mobile signal is weak around Balpakram and Siju, and ATMs are few outside Tura; carry enough cash for the whole trip",
+    "Hotels are simple, with basic restaurants; this is a trip for people who value places over rooms",
+    "Hotels and lodges register every guest on Meghalaya's tourism app; carry original photo ID",
+    "Bandhs and road blockades can happen at short notice in the Northeast; we keep a buffer and reroute where possible"
+  ],
+  "faqs": [
+    { "q": "Where is Balpakram National Park?", "a": "Balpakram is in South Garo Hills, western Meghalaya, near the Bangladesh border. It covers about 220 km² on a plateau at around 910 m, cut by a deep canyon. The nearest town is Baghmara, about 60 to 66 km away by a rough road, and Tura is a further 110 km beyond that." },
+    { "q": "Why is Balpakram called the land of spirits?", "a": "In Garo belief, the spirits of the dead pass through Balpakram on their way to the afterlife and rest there for a while. The name is often translated as 'land of the eternal wind'. Local guides point out rocks, pools and a tree linked to these beliefs. Please treat these sites with respect." },
+    { "q": "What does the Garo Hills and Balpakram package cost?", "a": "It starts at ₹24,000 per person on twin sharing, including five nights in the best available hotels and lodges, breakfast and dinner, a private SUV, local guides and permit arrangements. The price is higher than a Khasi Hills trip of the same length because of the longer distances and SUV." },
+    { "q": "How do we reach the Garo Hills from Guwahati?", "a": "By road, Guwahati to Tura is about 220 km and takes 5.5 to 6.5 hours via the Assam plains and Goalpara district. There is no convenient air link for most travellers. Baghmara is about 110 km beyond Tura, and Balpakram a further 60 km or so." },
+    { "q": "When is the best time to visit Balpakram?", "a": "November to March. The roads are dry, the canyon is often clear, and walking is comfortable. From May to September heavy rain makes the Balpakram road very difficult and forest trails slippery. In November, you can also time the trip with the Wangala festival near Tura." },
+    { "q": "Do we need a permit for Balpakram?", "a": "Meghalaya has no ILP, but Balpakram, as a national park, requires a forest department entry permit, usually arranged at the forest office in Baghmara, along with a local guide. We handle this for you. Rules and fees change, so check current status before you travel." },
+    { "q": "Can we see wildlife in Balpakram?", "a": "Balpakram has elephants, deer, wild buffalo and smaller cats, but the forest is thick and there are no safari vehicles, so sightings are rare. You are more likely to see tracks, birds and pitcher plants. The trip is about landscape and culture, not a wildlife safari like Kaziranga." },
+    { "q": "Is Siju Cave safe to enter?", "a": "The first section of Siju Cave is safe with a local guide and torches, though you will wade through shallow water and walk on slippery rock. Deeper parts are flooded and only for trained cavers. Do not enter after heavy rain, and follow the guide's instructions at all times." },
+    { "q": "Is the Garo Hills safe for tourists?", "a": "The Garo Hills are generally calm for tourists today, and local people are welcoming. The main difficulties are rough roads, limited hotels and occasional bandhs. We travel in daylight, use experienced drivers and local guides, and keep a buffer day in mind. Check current advisories before you travel." }
+  ]
+}

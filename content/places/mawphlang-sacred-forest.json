@@ -1,0 +1,65 @@
+{
+  "slug": "mawphlang-sacred-forest",
+  "name": "Mawphlang Sacred Forest",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["forest", "culture", "nature-walk"],
+  "tagline": "A Khasi sacred grove where nothing, not even a leaf, leaves the forest",
+  "altitude_m": 1800,
+  "coords": [25.4515, 91.7545],
+  "best_months": [10, 11, 12, 1, 2, 3, 4, 5],
+  "best_time": "October to May for dry paths; the forest is green and moody in the monsoon but leeches are common.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Entry is only with a local guide from the gate; pay entry and guide fees in cash",
+    "foreigners": "No permit needed. Guided entry only, same as Indian visitors"
+  },
+  "from_hub": { "hub": "Shillong", "km": 25, "hours": "1" },
+  "ideal_stay": "A 2 to 3 hour visit from Shillong, or combined with the Sohra road",
+  "meta_description": "Mawphlang Sacred Forest, Meghalaya: Khasi sacred grove 25 km from Shillong. Guided walks, fees, rules, best time and 9 FAQs.",
+  "quick_answer": "Mawphlang Sacred Forest is a Khasi sacred grove at about 1,800 m in East Khasi Hills, Meghalaya, 25 km (about 1 hour) from Shillong. You enter only with a local guide on a walk of about an hour through old forest, monoliths and ritual sites. The rule is strict: take nothing out. Entry and guide fees are paid in cash.",
+  "intro": [
+    "Khasi villages have protected patches of forest for generations as law kyntang, sacred groves where cutting trees or removing anything is forbidden. Mawphlang's grove, called Law Lyngdoh, is the best known and the easiest to visit, just outside Mawphlang village on the high grassland west of Shillong.",
+    "From the outside it looks like a dark island of trees in open, rolling country. Inside, the canopy closes overhead, and the floor is thick with moss, ferns, fungi and roots. The guided walk passes clusters of monoliths and flat stones where the clan once held rituals, and your guide will explain the local belief that a guardian spirit protects the grove and the rule that nothing taken from it can leave.",
+    "We go on a dry morning between October and April and take the full guided walk, not a quick look at the edge. The village also has monoliths near the entrance and a heritage area. Mawphlang is the start of the David Scott Trail, a well-known day hike on an old colonial bridle path."
+  ],
+  "highlights": [
+    { "name": "Old-growth grove", "text": "Dense forest with moss-covered trees, ferns, orchids and fungi, protected by village custom." },
+    { "name": "Monoliths and ritual stones", "text": "Standing stones and flat stones inside the grove mark places once used for clan ceremonies." },
+    { "name": "Guided walk", "text": "Local guides explain Khasi beliefs, plant uses and the grove's rules on a walk of about an hour." },
+    { "name": "The no-removal rule", "text": "Nothing may be taken out, not a leaf or a stone; guides take this seriously." },
+    { "name": "David Scott Trail", "text": "A day hike on an old bridle path that starts near Mawphlang and runs through Khasi villages and valleys." }
+  ],
+  "things_to_do": [
+    "Take the guided walk through the sacred grove",
+    "Learn about Khasi clan traditions and the grove's guardian spirit from your guide",
+    "See the monoliths near the village entrance",
+    "Photograph moss, fungi and ferns inside the grove, without touching or taking anything",
+    "Walk part or all of the David Scott Trail with a local guide",
+    "Combine with the Shillong–Sohra road for a full day south of Shillong"
+  ],
+  "how_to_reach": "Mawphlang is about 25 km south-west of Shillong, roughly 45 minutes to 1 hour by car via Upper Shillong and Mawphlang Road. The entrance and guide counter are at the edge of the village, near the monoliths. Shared taxis run from Shillong to Mawphlang, but a private cab is easier for the return. The forest also combines well with the Sohra road, since the two routes meet near Upper Shillong. From Guwahati, stay a night in Shillong before visiting.",
+  "where_to_stay": "Most visitors stay in Shillong and make Mawphlang a half-day trip. Police Bazar and Laitumkhrah give the widest choice of hotels and food, while Upper Shillong homestays shorten the drive. A few homestays and small lodges operate around Mawphlang village for travellers who want a quiet night in the countryside or an early start on the David Scott Trail; standards are simple, so confirm hot water and meals in advance. There is no large hotel in the village itself.",
+  "tips": [
+    "Do not pick up or take anything from the grove, including leaves, stones or flowers",
+    "Wear shoes with grip; roots and stones are slippery after rain",
+    "Solo travellers can often join another group to share the guide fee",
+    "Carry insect repellent and check for leeches in the monsoon",
+    "Keep voices low inside the grove; it is a sacred site",
+    "Carry cash for entry, guide and parking fees"
+  ],
+  "faqs": [
+    { "q": "Is a guide compulsory at Mawphlang Sacred Forest?", "a": "Yes. Visitors enter the sacred grove only with a local guide, arranged at the entrance counter. The guided walk takes about 45 minutes to an hour and explains Khasi beliefs, plants and ritual stones. Guide fees are charged per group, so solo travellers can often share with another party to reduce the cost." },
+    { "q": "What is the entry fee for Mawphlang Sacred Forest?", "a": "The entry fee is small, typically under INR 100 per person, and the compulsory guide is paid separately per group, along with small parking and possibly camera charges. All fees are cash only and are set by the local community, so check the rates locally and check current status before you travel." },
+    { "q": "What are the timings of Mawphlang Sacred Forest?", "a": "The forest is usually open in daylight, with guided walks from roughly 9 am to 4 or 4.30 pm, though some sources quote longer hours. Arrive by 3 pm to be sure of a full guided walk. Timings can change on community holidays, so check current status before you travel." },
+    { "q": "Why can't you take anything from the Mawphlang sacred forest?", "a": "Khasi custom holds that the grove is protected by a guardian spirit, and that removing anything, even a dry leaf or twig, disrespects it and may bring misfortune. The rule has helped protect the forest. Guides and villagers take it seriously, so leave everything as you find it." },
+    { "q": "How far is Mawphlang from Shillong?", "a": "Mawphlang is about 25 km from Shillong, roughly 45 minutes to 1 hour by car through Upper Shillong. The sacred forest entrance is at the edge of the village. Most visitors do it as a half-day trip or combine it with the road south to Sohra." },
+    { "q": "What is the best time to visit Mawphlang Sacred Forest?", "a": "October to May is best, with dry paths and comfortable temperatures. Mornings are quietest. The forest is at its greenest and most atmospheric from June to September, but paths are slippery, leeches are common and rain can cut walks short. Winter afternoons are cold on the open grassland outside." },
+    { "q": "Is Mawphlang sacred forest suitable for seniors and kids?", "a": "Largely yes. The guided walk is mostly on uneven but fairly gentle forest paths, taking about an hour. Seniors should wear shoes with good grip and may want a walking stick. Children enjoy it, but explain the no-touching and no-taking rule before you go in." },
+    { "q": "What is the David Scott Trail?", "a": "The David Scott Trail is a day hike on an old bridle path built in colonial times, named after a British administrator. The popular section starts near Mawphlang and runs through Khasi villages, rivers and valleys to Lad Mawphlang. It takes most of a day; hire a local guide." },
+    { "q": "Can I visit Mawphlang in the monsoon?", "a": "Yes, but be prepared. The grove is deep green, misty and full of fungi between June and September, but the paths are muddy and slippery and leeches are common. Wear closed shoes and long socks, carry repellent and allow for guided walks being shortened in heavy rain." }
+  ],
+  "nearby": ["shillong", "laitlum-canyons", "sohra", "mawsynram", "elephant-falls"],
+  "image_query": "Mawphlang sacred forest"
+}

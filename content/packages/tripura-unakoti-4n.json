@@ -1,0 +1,120 @@
+{
+  "slug": "tripura-unakoti-4n",
+  "title": "Agartala and Unakoti",
+  "nights": 4,
+  "themes": ["culture", "offbeat"],
+  "states": ["northeast"],
+  "places": ["agartala", "unakoti"],
+  "hero": "unakoti",
+  "price_from_inr": 17000,
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "difficulty": "easy",
+  "max_altitude_m": 100,
+  "start": "Agartala Airport (IXA)",
+  "end": "Agartala Airport (IXA)",
+  "meta_description": "Tripura tour, 4 nights / 5 days from Agartala: Ujjayanta Palace, a night near the Unakoti rock carvings, Neermahal and Tripura Sundari temple.",
+  "quick_answer": "This 4-night Tripura trip starts and ends in Agartala. You see Ujjayanta Palace, then drive about 180 km north to the 7th–9th century rock carvings of Unakoti and stay nearby at Kailashahar, before returning for Neermahal lake palace and the Tripura Sundari temple. No permits are needed. Best October to March.",
+  "overview": [
+    "Tripura is the easiest Northeast state to visit: no Inner Line Permit, no Protected Area Permit, and a flat, green landscape of rubber plantations, rice fields and low hills. Agartala holds the white Ujjayanta Palace, built by the Manikya kings in 1901 and now the state museum. The real reason to come, though, is Unakoti, a forested hillside near Kailashahar where giant faces of Shiva and other deities were cut into the rock, most dated between the 7th and 9th centuries. The central Unakotiswara Kal Bhairava head is about 9 m tall.",
+    "Unakoti is about 180 km from Agartala, 4.5 to 5 hours by road on NH-8 over the Baramura and Atharamura hills, so we stay a night at Kailashahar and see the carvings in both evening and morning light. The last full day covers the south: Neermahal, the royal summer palace built between 1930 and 1938 in the middle of Rudrasagar lake, and the Tripura Sundari temple at Udaipur, one of the 51 Shakti Peethas. Food is close to Bengali cooking with Tripuri touches like mui borok and fermented fish."
+  ],
+  "highlights": [
+    "Unakoti's giant rock-cut faces of Shiva, Ganesha and other deities in a forest setting",
+    "A night at Kailashahar so you see Unakoti at both sunset and morning",
+    "Ujjayanta Palace, the 1901 royal palace that now houses the Tripura State Museum",
+    "Neermahal, a palace built in the middle of Rudrasagar lake, reached by boat",
+    "Tripura Sundari temple at Udaipur, one of the 51 Shakti Peethas",
+    "No permits needed for Indian or foreign travellers"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Agartala and Ujjayanta Palace",
+      "stay": "Agartala",
+      "altitude_m": 15,
+      "drive": "12 km · 30 mins, plus city sightseeing",
+      "text": "Our driver meets you at Agartala Airport, about 12 km north of the city centre. After check-in and lunch we visit Ujjayanta Palace, the white Indo-Saracenic palace built by Maharaja Radha Kishore Manikya in 1901, set behind two large ponds and Mughal-style gardens. It now houses the Tripura State Museum, with galleries on the state's tribes, royal history and crafts; allow 1.5 hours. Next door is the Jagannath temple, painted orange and built on a raised base. In the evening walk around the palace ponds when the building is lit, or visit the Heritage Park in the city for its miniature versions of Tripura's main sites, which is a good way to preview the week.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Agartala to Unakoti via the Atharamura hills",
+      "stay": "Kailashahar",
+      "altitude_m": 30,
+      "drive": "About 180 km · 4.5–5 hrs",
+      "text": "We leave at 7.30 am for the long drive north on NH-8, which crosses the Baramura and Atharamura ranges on a winding road through forest and bamboo before dropping into the Manu and Deo river valleys. Stop for tea and fish curry lunch at a roadside dhaba around Ambassa. We reach Kailashahar by mid-afternoon, check in, and drive 8 km to Unakoti. The carvings are spread across a wooded hillside with steps and small streams; the most famous is the huge Kal Bhairava head, flanked by smaller figures and a three-eyed Ganesha panel. Late light brings out the depth of the carving. Return to Kailashahar for the night, a small town near the Bangladesh border.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Unakoti in morning light and back to Agartala",
+      "stay": "Agartala",
+      "altitude_m": 15,
+      "drive": "About 190 km · 5 hrs",
+      "text": "Go back to Unakoti at 7 am, when the site is empty and the light falls on the other set of carvings, especially the Ganesha panel and the stone images by the stream. Our guide explains the legend of the koti, or ten million, deities who overslept and were turned to stone by Shiva, which gives the site its name. After breakfast we drive back south to Agartala, with a lunch stop on the way. You reach the city by late afternoon. The evening is free: try a Bengali-style meal with fish, or Tripuri dishes like mui borok with berma, the fermented fish that gives Tripuri food its strong flavour. Early night before the southern loop.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Neermahal and Tripura Sundari temple",
+      "stay": "Agartala",
+      "altitude_m": 15,
+      "drive": "About 150 km loop · 5 hrs with stops",
+      "text": "We drive south about 53 km to Melaghar and the shore of Rudrasagar lake, where a boat takes you across to Neermahal, the red-and-white summer palace built for Maharaja Bir Bikram Kishore Manikya between 1930 and 1938. Walk through the courtyards, the royal chambers and the upper terraces that look over the water. From there it is about 30 km to Udaipur and the Tripura Sundari temple, one of the 51 Shakti Peethas, built in 1501 on a small hill shaped like a tortoise shell. Next to it, Kalyan Sagar lake holds large turtles that pilgrims feed. On the way back we stop at Sepahijala Wildlife Sanctuary, if time allows, to look for Phayre's langur with its white-ringed eyes.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Departure from Agartala",
+      "stay": "Departure",
+      "altitude_m": 15,
+      "drive": "12 km · 30 mins",
+      "text": "After breakfast there is time for shopping. Tripura's bamboo and cane work is among the best in India, and the state emporiums near the palace sell baskets, lamps and furniture pieces that pack flat. Tripura handloom rignai and risa cloth make good gifts, and Queen pineapple from Tripura is famous if you are travelling in season. For late flights we can visit the Tripura State Museum again or the Rabindra Kanan park. Our driver takes you to Agartala Airport at least two hours before departure. Agartala has direct flights to Kolkata, Guwahati, Delhi, Bengaluru and Imphal, which makes it an easy link to other Northeast states.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights in Agartala and 1 night in Kailashahar on twin sharing",
+    "Daily breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Agartala Airport pickup and drop",
+    "Local guide at Unakoti",
+    "Boat ride to Neermahal",
+    "Two visits to Unakoti at different times of day",
+    "Driver allowance, fuel, tolls and parking",
+    "WhatsApp support through the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Agartala",
+    "Palace, museum, sanctuary and camera fees",
+    "Temple offerings and special puja fees",
+    "Lunches, drinks and snacks",
+    "Tips, shopping and personal expenses",
+    "Travel insurance",
+    "Costs from strikes, bandhs or flight changes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Welcome Palace, Agartala, or similar; Unakoti Tourist Lodge (Tripura Tourism), Kailashahar, or similar" },
+    { "tier": "Premium", "options": "Polo Towers, Agartala, or similar; Unakoti Tourist Lodge, Kailashahar, or similar" },
+    { "tier": "Luxury", "options": "Polo Towers, Agartala, in a suite, or similar; Agartala has no five-star hotel and Kailashahar has only simple lodges, so the Unakoti night stays basic" }
+  ],
+  "good_to_know": [
+    "Tripura has no Inner Line Permit or Protected Area Permit requirement for Indian or foreign tourists. Check current status before you travel.",
+    "Kailashahar and parts of the Unakoti route run close to the Bangladesh border. Carry photo ID at all times for police and BSF checks.",
+    "Unakoti draws large crowds during the Ashokastami fair in March or April. Book the Kailashahar night early if your dates match.",
+    "Summer (April–June) is hot and humid, often above 35°C, and the monsoon (June–September) is heavy. October to March is the best time.",
+    "Neermahal boats stop running after dark and may not run in very low water. We time the visit for the morning.",
+    "Remove shoes at Tripura Sundari and other temples. Photography inside the sanctum is not allowed."
+  ],
+  "faqs": [
+    { "q": "How far is Unakoti from Agartala?", "a": "Unakoti is about 180 km north of Agartala, a drive of 4.5 to 5 hours on NH-8 over the Baramura and Atharamura hills. The carvings are 8 km from Kailashahar town. Because of the distance, we stay one night at Kailashahar rather than doing a tiring same-day return, and you get two visits." },
+    { "q": "How old are the Unakoti carvings?", "a": "Most of the rock-cut figures at Unakoti are dated between the 7th and 9th centuries, though some stone images may be later. The largest is the Unakotiswara Kal Bhairava head, about 9 m tall. The site is protected by the Archaeological Survey of India and remains an active place of worship, especially during the spring fair." },
+    { "q": "Do I need a permit to visit Tripura?", "a": "No. Tripura does not require an Inner Line Permit for Indian citizens or a Protected Area Permit for foreign nationals. Carry photo ID, since there are police and BSF checks near the Bangladesh border. Rules in the Northeast change from time to time, so check current status before you travel." },
+    { "q": "How much does this Tripura tour cost?", "a": "It starts at ₹17,000 per person on twin sharing, with standard hotels, a night at the Unakoti Tourist Lodge, a private vehicle, a local guide at Unakoti, the Neermahal boat ride and breakfast and dinner daily. Flights and entry fees are extra. Premium rooms at Polo Towers raise the price." },
+    { "q": "What is Neermahal?", "a": "Neermahal is a royal summer palace completed in 1938 for Maharaja Bir Bikram Kishore Manikya in the middle of Rudrasagar lake, about 53 km south of Agartala. It mixes Hindu and Mughal styles, in red and white. You reach it by boat from Melaghar. A light and sound show runs on some evenings." },
+    { "q": "What is Tripura Sundari temple?", "a": "Tripura Sundari is a temple to the goddess Tripura Sundari at Udaipur, about 55 km south of Agartala. It was built in 1501 by Maharaja Dhanya Manikya and is counted among the 51 Shakti Peethas. The hill is said to be shaped like a tortoise, and the Kalyan Sagar lake beside it has large turtles." },
+    { "q": "When is the best time to visit Tripura?", "a": "October to March is best, with dry weather and daytime temperatures of 20–28°C. December and January mornings are misty and cool. From April the heat and humidity rise, and the monsoon from June to September brings heavy rain, though the countryside is very green then. Unakoti's main fair is in March or April." },
+    { "q": "What food should I try in Tripura?", "a": "Try mui borok, the Tripuri style of cooking with berma, a fermented dried fish, and dishes like chakhwi, a bamboo shoot and pork stew. Bengali food is common too, so fish curries, rice and sweets are easy to find. Tripura's Queen pineapples are known across India and are in season in summer." },
+    { "q": "Can I combine Tripura with other Northeast states?", "a": "Yes, by air. Agartala has direct flights to Guwahati, Kolkata and Imphal, and Aizawl is connected on some schedules. Road links to Mizoram and Assam are long, so flights save a full day. A good combination is Tripura with Meghalaya via Guwahati, or with Mizoram. Ask us for a multi-state plan." }
+  ]
+}

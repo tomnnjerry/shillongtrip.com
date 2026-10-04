@@ -1,0 +1,122 @@
+{
+  "slug": "manipur-loktak-4n",
+  "title": "Imphal and Loktak Lake",
+  "nights": 4,
+  "themes": ["culture", "offbeat"],
+  "states": ["northeast"],
+  "places": ["imphal", "loktak-lake"],
+  "hero": "loktak-lake",
+  "price_from_inr": 19500,
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "difficulty": "easy",
+  "max_altitude_m": 790,
+  "start": "Imphal Airport (IMF)",
+  "end": "Imphal Airport (IMF)",
+  "meta_description": "Imphal and Loktak Lake tour, 4 nights / 5 days, valley only: Ima Keithel, Kangla, a night by Loktak and Keibul Lamjao. Read our advisory note.",
+  "quick_answer": "This 4-night Manipur trip flies in and out of Imphal and stays inside the Imphal valley: Kangla Fort, Ima Keithel, a night by Loktak Lake, Keibul Lamjao and Moirang. Manipur is under travel advisories, so we run this trip only when current advisories allow, and we confirm conditions with you before taking any booking.",
+  "overview": [
+    "First, the plain position. Manipur has seen ethnic violence since May 2023, and as of late 2026 the UK, US and Australian governments still advise against travel to the state. Daily life in Imphal and around Loktak Lake has largely resumed and domestic visitors do come, but the hill districts and the valley-hill fringe are not places we send travellers. We run this trip only inside the valley, fly in and out of Imphal rather than using the Dimapur–Imphal highway, avoid night driving, and run the trip only when current advisories allow. We confirm conditions with you before we accept a booking, and again with our local partner a week before you travel. If the situation worsens, we move you to our Nagaland or Meghalaya trips with no change fee.",
+    "Inside those limits, Imphal and Loktak are rewarding. Ima Keithel is a market of several thousand stalls run only by women. Kangla Fort was the seat of Manipur's kings for centuries. Loktak, about 45 km south, is the largest freshwater lake in the Northeast, covered with floating mats of vegetation called phumdis, and at its southern end Keibul Lamjao is the only floating national park in the world and the last home of the sangai deer."
+  ],
+  "highlights": [
+    "Ima Keithel, the women-run market at the centre of Imphal",
+    "Kangla Fort and the Shree Govindajee temple beside the old palace",
+    "A night beside Loktak Lake with a boat ride among the phumdi huts",
+    "Sangai deer from the watchtower at Keibul Lamjao National Park",
+    "The INA Memorial at Moirang, where the Indian National Army raised its flag in 1944",
+    "Imphal War Cemetery and a Manipuri dance performance, when available"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Imphal, Kangla and Ima Keithel",
+      "stay": "Imphal",
+      "altitude_m": 786,
+      "drive": "10 km · 30 mins, plus city sightseeing",
+      "text": "Our driver meets you at Imphal Airport. Indian citizens can complete the Manipur ILP at the self-service kiosk in the arrival hall in a few minutes if they have not applied online. After check-in and lunch we visit Kangla Fort, the walled seat of Manipur's kings on the banks of the Imphal river, with its restored gateway, dragon statues and coronation hall ruins. Late afternoon is the best time for Ima Keithel, the mothers' market, where women traders sell fish, fermented foods, handloom phanek and shawls from long rows of stalls across three large buildings. Try singju, a spicy salad, from a stall outside. We return to the hotel before dark, which is our standing rule in Manipur.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Imphal to Loktak via Bishnupur and Moirang",
+      "stay": "Loktak Lake",
+      "altitude_m": 770,
+      "drive": "50 km · 2 hrs with stops",
+      "text": "We drive south through the rice fields of the valley to Bishnupur, where the 15th-century Vishnu temple built in brick with a Chinese-style roof is a short stop. At Moirang, the INA Memorial marks the spot where the Indian National Army raised the tricolour on 14 April 1944, and a small museum holds letters and photographs from the campaign. From Moirang it is a few kilometres to the lake shore at Sendra, a low hill jutting into Loktak with views across the water. In the afternoon take a country boat out among the phumdis, the floating mats of reed and soil, some carrying fishermen's huts. We stay by the lake tonight and watch the sun go down over the water.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Keibul Lamjao and back to Imphal",
+      "stay": "Imphal",
+      "altitude_m": 786,
+      "drive": "60 km · 2.5 hrs",
+      "text": "Wake early for the sunrise over Loktak, when fishing boats move out and mist lies on the phumdis. After breakfast we drive a short way to Keibul Lamjao National Park at the southern end of the lake, about 40 sq km of floating vegetation. Climb the watchtower with binoculars to look for the sangai, the brow-antlered deer found nowhere else in the wild, which are easiest to see in the early morning. Our guide explains how the park floats and why rising water levels threaten it. We return north by midday, with a stop at Sendra or a lakeside village for lunch, and reach Imphal by mid-afternoon. The evening is free near the hotel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Govindajee temple, War Cemetery and museum",
+      "stay": "Imphal",
+      "altitude_m": 786,
+      "drive": "20 km in city · 1.5 hrs in total",
+      "text": "Start at the Shree Govindajee temple next to the old palace grounds, with its twin domes and a large prayer hall; the morning aarti is the time to see Manipuri Vaishnav worship. Then visit the Manipur State Museum, which has a good collection of tribal dress, weapons and a royal boat. After lunch we go to the Imphal War Cemetery, maintained by the Commonwealth War Graves Commission, where more than 1,600 soldiers from the 1944 battle are buried. If a performance is scheduled, we book seats for a Manipuri classical dance evening at the Jawaharlal Nehru Manipur Dance Academy or a local cultural centre. Otherwise, try eromba and chak-hao kheer, black rice pudding, at a local restaurant.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Departure from Imphal",
+      "stay": "Departure",
+      "altitude_m": 786,
+      "drive": "10 km · 30 mins",
+      "text": "After breakfast there may be time for a last walk through Ima Keithel, which opens early, or for shopping at the handloom emporiums for Manipuri shawls and phanek. Black rice, dried fish and the region's fermented bamboo shoot are popular things to carry home, sealed well. Our driver takes you to Imphal Airport at least two hours before your flight. Security checks at the airport can be slower than elsewhere, so leave plenty of buffer. Imphal has direct flights to Guwahati, Kolkata, Delhi and Bengaluru, and connections to Shillong and Aizawl, so you can continue to Meghalaya or Mizoram on the same day if you are extending your Northeast trip.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights in Imphal and 1 night beside Loktak Lake on twin sharing",
+    "Daily breakfast and dinner",
+    "Private vehicle with a local driver for all transfers and sightseeing, daytime only",
+    "Imphal Airport pickup and drop",
+    "Local guide for Imphal, Moirang and Keibul Lamjao",
+    "Country boat ride on Loktak Lake",
+    "Help with the Manipur ILP application",
+    "Pre-departure situation check with our Imphal partner a week before travel",
+    "Driver allowance, fuel and parking",
+    "WhatsApp support through the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Imphal",
+    "Manipur ILP fee",
+    "Monument, museum, national park and camera fees",
+    "Dance performance tickets",
+    "Lunches, drinks and snacks",
+    "Tips and personal expenses",
+    "Travel insurance, which may not cover Manipur while government advisories are in force; check your policy",
+    "Costs from curfews, bandhs, strikes or flight changes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Nirmala or Hotel Sangai Continental, Imphal, or similar; a Loktak lakeside homestay, or similar" },
+    { "tier": "Premium", "options": "Hotel Imphal by Classic, or similar; Sendra Park and Resort, Loktak, or similar" },
+    { "tier": "Luxury", "options": "Classic Grande, Imphal, or similar; Sendra Park and Resort, Loktak, or similar, as there is no higher tier at the lake" }
+  ],
+  "good_to_know": [
+    "Manipur carries travel advisories; as of late 2026 the UK, US and Australian governments advise against travel there. We run this package only when current advisories allow, inside the Imphal valley and by day, and we confirm before taking a booking. Check current advisories before booking.",
+    "Indian citizens need a Manipur Inner Line Permit; the tourist Temporary Permit is valid for 30 days. Apply online at manipurilponline.mn.gov.in, with an Aadhaar-OTP route, or at the Imphal Airport counter and kiosks, and pay the fee the portal shows. Check current status before you travel.",
+    "Foreign nationals need a Protected Area Permit for Manipur, which was reimposed in December 2024. Given current foreign government advice, we do not plan this trip for foreign passport holders at present.",
+    "Bandhs (shutdowns) and curfews can be called at short notice. We keep a free day in the plan so one closed day does not cost you Loktak or Keibul Lamjao.",
+    "We do not use the Dimapur–Imphal road through the hill districts. Fly in and out of Imphal.",
+    "If conditions change before your trip, we move you to a Nagaland or Meghalaya package without a change fee."
+  ],
+  "faqs": [
+    { "q": "Is it safe to visit Manipur now?", "a": "We say it plainly: as of late 2026, several foreign governments still advise against travel to Manipur because of the ethnic conflict that began in 2023. Imphal and Loktak have been receiving domestic tourists. We run this trip only when current advisories allow, only in the valley and by day, and we confirm conditions with you before taking any booking." },
+    { "q": "What happens if Manipur is not advisable on my dates?", "a": "We check with our Imphal partner a week before departure. If a curfew, shutdown or new advisory makes the trip unwise, we move you to a Nagaland or Meghalaya package of similar length with no change fee, or refund the land cost minus any non-refundable bookings. Flights booked by you follow the airline's rules." },
+    { "q": "Do I need a permit to visit Imphal and Loktak?", "a": "Indian citizens need a Manipur Inner Line Permit. The tourist Temporary Permit is valid for 30 days; apply online at manipurilponline.mn.gov.in or at the Imphal Airport counter, and pay the fee the portal shows. Foreign nationals need a Protected Area Permit. Check current status before you travel, since rules have changed recently." },
+    { "q": "How far is Loktak Lake from Imphal?", "a": "Loktak Lake is about 45 km south of Imphal, roughly 1.5 hours by road through Bishnupur to Moirang and Sendra. Keibul Lamjao National Park sits at the lake's southern end, a few kilometres further. We stay one night by the lake so you get the sunrise and early morning sangai sightings." },
+    { "q": "What are the phumdis on Loktak Lake?", "a": "Phumdis are floating mats of vegetation, soil and organic matter, some large enough to hold huts and grazing ground. Fishermen build circular fish enclosures from them. The largest continuous phumdi forms Keibul Lamjao National Park, the only floating national park in the world, which is home to the endangered sangai deer." },
+    { "q": "Can I see the sangai deer?", "a": "Usually, yes, but from a distance. The sangai lives on the floating grassland of Keibul Lamjao and is best seen from the watchtower in the early morning, with binoculars. Sightings are not guaranteed. The population is small, a few hundred animals, so the park is managed carefully and visitors do not walk on the phumdis." },
+    { "q": "How much does this Imphal and Loktak trip cost?", "a": "It starts at ₹19,500 per person on twin sharing, with standard hotels, a lakeside night, a private vehicle with local driver, a guide, a boat ride and breakfast and dinner daily. Flights, permit fees and entry fees are extra. Premium and luxury tiers use Hotel Imphal and Classic Grande." },
+    { "q": "Can foreign nationals take this trip?", "a": "Not at present. Foreigners need a Protected Area Permit for Manipur, and the UK, US and Australian governments advise against travel there, which usually voids travel insurance. We suggest our Northeast for International Travellers package, which covers Assam and Meghalaya without these restrictions. Check current advisories before booking." },
+    { "q": "When is the best time to visit Loktak Lake?", "a": "October to March is dry and clear, with migratory birds on the lake from November. Mornings in December and January can drop to about 4°C. The Sangai Festival has traditionally been held from 21 to 30 November, but it has been cancelled in some recent years, so check current status before planning around it." }
+  ]
+}

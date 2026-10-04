@@ -1,0 +1,141 @@
+{
+  "slug": "tawang-snow-6n",
+  "title": "Winter Tawang and Sela Snow",
+  "nights": 6,
+  "themes": ["snow"],
+  "states": ["arunachal"],
+  "places": ["guwahati", "dirang", "sela-pass", "nuranang-falls", "tawang", "tawang-monastery", "bomdila"],
+  "hero": "sela-pass",
+  "price_from_inr": 28000,
+  "best_months": [12, 1, 2, 3],
+  "difficulty": "moderate",
+  "max_altitude_m": 4170,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Winter Tawang snow tour, 6 nights / 7 days: frozen Sela Lake, snow at Sela Pass twice, Tawang Monastery in winter and heated rooms, December to March.",
+  "quick_answer": "This 6 nights / 7 days winter trip, run from December to March, is built for snow: you cross Sela Pass twice, see Sela Lake frozen, and spend three nights in Tawang, where January nights drop well below zero. Short days mean a first night at Bhalukpong and no driving after dark. From ₹28,000 per person, twin sharing.",
+  "overview": [
+    "Snow on the Tawang road is almost certain from late December to early March, but it is found mainly at Sela Pass, about 4,170 m, and around Jang and Tawang after fresh falls. Since the Sela Tunnel opened in March 2024, the road to Tawang stays open through most of winter, which has made January trips far more reliable than before. The old road over the pass still opens between snowfalls, and that is where the frozen lake and deep drifts are.",
+    "Winter days in Arunachal are short, with sunset around 4.30 pm, and mountain roads freeze in the evening. So we split the climb differently: an easy first day to Bhalukpong on the Assam border, a second day to Dirang at about 1,500 m to acclimatise, and only then Sela and Tawang. Three nights in Tawang allow a spare day for weather. We use chain-equipped SUVs, book rooms with heaters and return via Bomdila to keep the last drive under nine hours."
+  ],
+  "highlights": [
+    "Sela Lake frozen solid and snow drifts at Sela Pass, about 4,170 m",
+    "Two crossings of Sela, doubling your chances of clear snow views",
+    "Tawang Monastery in winter light, and the Torgya festival in January",
+    "Nuranang Falls near Jang with ice along its edges",
+    "Snow-dusted Tawang town and the war memorial",
+    "Heated rooms, chain-fitted SUVs and no driving after dark"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Bhalukpong",
+      "stay": "Bhalukpong",
+      "altitude_m": 215,
+      "drive": "230 km · 5.5–6 hrs",
+      "text": "Pickup at Guwahati airport by 11 am at the latest. We drive along the north bank of the Brahmaputra through Mangaldai and Balipara, past tea gardens in their winter pruning, to Bhalukpong, where the Kameng river leaves the hills. Winter days here are mild, around 22 to 24 degrees, so this is a gentle start before the cold. We cross the Arunachal check gate, where your eILP and ID are checked, and settle in by late afternoon. Our driver fits and tests the snow chains this evening and briefs you on tomorrow.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Bhalukpong to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1500,
+      "drive": "142 km · 5.5–6 hrs",
+      "text": "Leave at 7.30 am to use the daylight. The road follows the Kameng gorge past Tipi and Tenga and climbs to Bomdila at about 2,400 m, where frost usually lingers in shaded bends until late morning. Lunch in Bomdila, then 42 km down to Dirang, arriving by about 2.30 pm. Dirang in winter is dry, sunny and cold at night, around zero. Spend the late afternoon in the hot springs by the river, which feel best in this season, and walk through Dirang Dzong's stone lanes before dark.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dirang to Tawang over the snows of Sela",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "140 km · 6–7 hrs in snow",
+      "text": "An 8 am start, with the driver checking the army's road update first. Above Nyukmadung the snow begins, and by Sela, at about 4,170 m, it can lie a metre or more deep. If the old road is open we stop at the pass gate and frozen Sela Lake for an hour of snow and photographs; tea at the army canteen helps. If the pass is closed, the Sela Tunnel takes you through. Beyond, stop at Jaswant Garh and at Nuranang Falls near Jang. Reach Tawang by mid-afternoon and warm up; the first night at altitude should be quiet.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tawang Monastery and town in winter",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "Local · about 25 km",
+      "text": "Winter is the monastery's quiet season, with low sun and clear air. Arrive for morning prayers around 8 am, when young monks chant in the assembly hall, then see the gilded Buddha and the museum. If you are here in January, the monastery's three-day Torgya festival brings masked cham dances in the courtyard; dates follow the lunar calendar. After lunch visit Urgelling, the Giant Buddha and the war memorial. Tawang's market is a good place to buy yak-wool socks and caps. Nights fall to around minus 5 to minus 10 degrees.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Snow day around Tawang",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "Local · up to 80 km depending on roads",
+      "text": "A flexible day chosen by the weather. After fresh snowfall, the slopes above the Ani Gompa nunneries and Khinmey monastery turn white and make easy snow walks close to town. Indian citizens can apply for Bum La and Madhuri Lake, but in winter the road is frequently closed after snow, so treat it as a bonus and check current status before you travel. If the sky is clear, we drive to viewpoints on the Tawang ridge for the snow peaks to the north. This day also works as a buffer if Sela closed on Day 3.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tawang to Bomdila via Sela again",
+      "stay": "Bomdila",
+      "altitude_m": 2400,
+      "drive": "175 km · 6.5–7.5 hrs in snow",
+      "text": "We leave at 7.30 am and climb back to Sela, your second chance at clear views and snow play at the frozen lake if the old road is open. Lunch in Dirang, then on to Bomdila, arriving before dark around 4 pm. Bomdila in winter is cold and often clear, with views of the snow ranges to the north from the monastery above town. Dinner at the hotel. Splitting the return here instead of driving to Guwahati from Dirang keeps tomorrow within daylight and within about eight to nine hours.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Bomdila to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "290 km · 8–9 hrs",
+      "text": "An early 6 am start, with frost on the upper bends, descending through Tenga and Bhalukpong to the plains, where it is suddenly 20 degrees warmer. Lunch near Balipara or Tezpur. We reach Guwahati by about 4 pm, so please book a flight after 6.30 pm, or stay a night in the city if your flight is in the morning. Winter fog in the Brahmaputra valley can slow the last stretch and delay early flights, so keep a margin. Tezpur Airport, about 150 km from Bomdila, is another option.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "6 nights in the chosen hotel tier with room heaters, twin sharing",
+    "Daily breakfast and dinner",
+    "Private chain-equipped SUV with a driver experienced in snow",
+    "Arunachal Temporary ILP processing for Indian citizens",
+    "Protected Area Permit processing for foreign nationals (two or more)",
+    "All sightseeing listed at Dirang, Sela, Jang and Tawang",
+    "Driver allowance, fuel, tolls, parking and inter-state taxes",
+    "Oxygen canister and a first-aid kit in the vehicle",
+    "Guwahati airport pickup and drop",
+    "24-hour WhatsApp support"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Government eILP fee (about ₹300–500) or PAP royalty (USD 30–50)",
+    "Bum La and Madhuri Lake excursion, if open",
+    "Snow boots, gumboots and jacket hire",
+    "Monastery, museum and memorial fees",
+    "Lunches, snacks and drinks",
+    "Extra nights caused by road closures",
+    "Tips and personal expenses",
+    "Travel insurance, which should cover road delays"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Bhalukpong: Bhalukpong Tourist Lodge; Dirang: Hotel Pemaling; Tawang: Hotel Tawang Heights; Bomdila: Hotel Tsepal Yangjom, or similar" },
+    { "tier": "Premium", "options": "Balipara: Wild Mahseer (in place of Bhalukpong); Dirang: Dirang Boutique Cottages; Tawang: Hotel Menda-La or Timilo Boutique; Bomdila: Hotel Tsepal Yangjom deluxe, or similar" },
+    { "tier": "Luxury", "options": "Balipara: Wild Mahseer heritage bungalow; Dirang: Dirang Boutique Cottages; Tawang: Vivanta Arunachal Pradesh, Tawang; Bomdila: best available room, or similar" }
+  ],
+  "good_to_know": [
+    "Snow is most reliable at Sela from late December to early March. Tawang town gets snow on some days in January and February, not every week.",
+    "The Sela Tunnel keeps the road open in most winter weather, but fresh snow can still close the approaches for a few hours or a day. We build in a buffer; extra nights from closures are payable locally. Check current status before you travel.",
+    "Bum La is often closed after snow from December to March and is open to Indian citizens only.",
+    "Pack a down jacket, thermals, waterproof gloves, woollen cap, two pairs of woollen socks, sunglasses and lip balm. Snow boots can be hired in Tawang.",
+    "Indian citizens need an Arunachal Temporary ILP, about ₹300–500 at eilp.arunachal.gov.in; pay whatever the portal shows. Foreigners need a Protected Area Permit.",
+    "Losar, the Monpa new year, falls in February or March, and Tawang's Torgya festival is in January. Both are good times to visit; book early."
+  ],
+  "faqs": [
+    { "q": "When is the best time to see snow in Tawang?", "a": "Late December to early March. Snow is almost certain at Sela Pass in this window and lies around Tawang after fresh falls, especially in January and February. November sometimes has early snow at Sela. By late March snow is mainly on higher slopes." },
+    { "q": "Is the road to Tawang open in winter?", "a": "Mostly, yes. The Sela Tunnel, opened in March 2024, keeps the Dirang to Tawang road open through most of winter. Heavy fresh snow can still close the approaches for a few hours or a day, and the old road over the pass opens only between snowfalls. Check current status before you travel." },
+    { "q": "How cold does Tawang get in January?", "a": "Days are usually around 2 to 6 degrees Celsius and nights around minus 5 to minus 10, colder at Sela with wind chill. Hotel rooms have heaters but old buildings can be draughty. Dress in layers and keep a warm hat on in the evenings." },
+    { "q": "Can we visit Bum La in winter?", "a": "Sometimes. Bum La, at about 4,600 m, is open to Indian citizens only on a DC Tawang permit stamped by the army, and the road often closes after snowfall between December and March. We apply on request but treat it as a bonus on a winter trip." },
+    { "q": "How much does the winter Tawang package cost?", "a": "Our indicative price starts at ₹28,000 per person, twin sharing, with standard hotels with heaters, breakfast and dinner, a chain-equipped SUV and permit processing. Premium and luxury stays cost more, and Christmas and New Year dates carry hotel surcharges. Permit fees and lunches are extra." },
+    { "q": "Is a winter Tawang trip safe for families?", "a": "Yes, with care. Children cope well with snow if properly dressed, but very young children and elderly travellers feel the altitude and cold more. We keep drives in daylight, use experienced drivers and carry oxygen. Anyone with heart or lung problems should consult a doctor first." },
+    { "q": "What is the Torgya festival?", "a": "Torgya is the annual festival of Tawang Monastery, held over three days in January according to the lunar calendar. Monks perform masked cham dances in the courtyard to drive away evil and bring prosperity, and people from surrounding villages attend in traditional dress. Dates change yearly, so check current status before you travel." },
+    { "q": "Why do we sleep in Bhalukpong and Dirang before Tawang?", "a": "Winter days are short, so we avoid long drives that end in darkness on icy roads. Bhalukpong keeps the first day short, and Dirang at about 1,500 m lets your body adjust before Sela at 4,170 m and a night in Tawang at 3,050 m. Sleeping in Tawang straight from the plains risks altitude sickness." },
+    { "q": "Do we need snow chains or a 4x4?", "a": "A chain-equipped SUV with an experienced driver is enough for the main highway in most winter conditions. Four-wheel drive helps after heavy snowfall, and we can arrange one at extra cost. The army and BRO clear the road quickly; local drivers know when to wait rather than push on." }
+  ]
+}

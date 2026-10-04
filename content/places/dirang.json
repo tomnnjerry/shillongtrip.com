@@ -1,0 +1,138 @@
+{
+  "slug": "dirang",
+  "name": "Dirang",
+  "state": "arunachal",
+  "state_name": "Arunachal Pradesh",
+  "district": "West Kameng",
+  "types": [
+    "valley",
+    "village",
+    "hot-spring",
+    "road-trip"
+  ],
+  "tagline": "A river valley at about 1,500 m, the best night's sleep before Sela",
+  "altitude_m": 1500,
+  "coords": [
+    27.3622,
+    92.2408
+  ],
+  "best_months": [
+    3,
+    4,
+    5,
+    9,
+    10,
+    11,
+    12
+  ],
+  "best_time": "March to May for blossom and September to December for orchards, clear days and black-necked cranes in Sangti valley.",
+  "permit": {
+    "required": true,
+    "indians": "Tourist eILP for Arunachal Pradesh (about Rs 300 to 500; pay what eilp.arunachal.gov.in shows; valid 15 days for the whole state), checked at Bhalukpong.",
+    "foreigners": "Protected Area Permit (PAP) covering West Kameng, normally through a registered Indian tour operator for groups of two or more. Royalty is reported at USD 30–50 per person and the permit at 30 days; confirm with your operator."
+  },
+  "from_hub": {
+    "hub": "Tezpur",
+    "km": 205,
+    "hours": "6.5"
+  },
+  "ideal_stay": "1 night each way on the Tawang road, or 2 to 3 nights for a slow stay",
+  "meta_description": "Dirang guide: a 1,500 m valley on the Tawang road with Dirang Dzong, hot springs and Sangti valley. Permits, drive times, stays and best months.",
+  "quick_answer": "Dirang is a river valley town at about 1,500 m in West Kameng, around 205 km and 6 to 7 hours from Tezpur and about 135 km before Tawang. It is the best overnight stop before Sela Pass, with an old stone dzong, hot springs, orchards and Sangti valley. Indians need an eILP, foreigners a PAP.",
+  "intro": [
+    "Dirang is where we break every Tawang trip. The valley floor sits at around 1,500 m, roughly 900 m lower than Bomdila, so people sleep well, and the next morning's climb to Sela at 4,170 m is shorter. The Dirang Chu runs through the middle, with kiwi and apple orchards, pine slopes and Monpa villages on both banks.",
+    "The old settlement of Dirang Dzong, a cluster of stone houses behind fortified walls, is a short walk from the highway, and the hot springs are a few kilometres up the road. Across the river, Sangti valley is a flat, wide plain where black-necked cranes have been seen in winter, and the ICAR National Research Centre on Yak works in the area. The National Institute of Mountaineering and Adventure Sports is also based here.",
+    "If you have time, two nights here are better than one. The valley suits slow walks, orchard stays and a drive up to Mandala Top, and it is noticeably warmer than Tawang in winter."
+  ],
+  "highlights": [
+    {
+      "name": "Dirang Dzong",
+      "text": "An old fortified Monpa village of stone houses above the river, still lived in."
+    },
+    {
+      "name": "Hot springs",
+      "text": "Natural hot water pools a short drive from town, popular with locals in the cold months."
+    },
+    {
+      "name": "Sangti valley",
+      "text": "A broad, flat valley with orchards, a quiet river and winter visits from black-necked cranes."
+    },
+    {
+      "name": "Kiwi and apple orchards",
+      "text": "Orchards and farmstays throughout the valley, with fruit on the trees from August to October."
+    },
+    {
+      "name": "Mandala Top",
+      "text": "A ridge at around 3,000 m on the Thembang road, with rows of stupas and a wide mountain view."
+    },
+    {
+      "name": "Thembang village",
+      "text": "A fortified Monpa heritage village on a ridge, about an hour from Dirang."
+    }
+  ],
+  "things_to_do": [
+    "Walk through Dirang Dzong and the lanes of the old village",
+    "Soak at the hot springs on a cold evening",
+    "Spend half a day in Sangti valley walking by the river and orchards",
+    "Drive to Mandala Top and Thembang for views and village life",
+    "Visit the Kalachakra gompa above the old village",
+    "Taste local kiwi wine and apple products in season",
+    "Stop at the yak research farm area on the Sela road if it is open to visitors",
+    "Leave early for Sela Pass the next morning, before cloud builds"
+  ],
+  "how_to_reach": "Dirang is on NH-13, about 42 km beyond Bomdila, 205 km from Tezpur and roughly 360 km from Guwahati. From Tezpur, expect 6 to 7 hours via Bhalukpong (permit check), Tenga and Bomdila; from Guwahati it is a long day of 10 to 11 hours. Tezpur has the nearest airport. Shared Sumos run from Tezpur towards Tawang and can drop you here. Onward, Tawang is about 135 km and 5 to 6 hours over Sela Pass or through the Sela Tunnel. Check current status before you travel, especially in the monsoon.",
+  "where_to_stay": "Dirang has the best range of homestays on the Tawang road, many of them family-run farmhouses with orchards along the river and in Sangti valley. Dirang Boutique Cottages, a small riverside farmstay with traditional-style cottages near Dirang Dzong, is one well-known option. Mid-range hotels line the highway in town. For quiet nights, pick a place in Sangti or by the river rather than on the main road, where army convoys move early. Heating is simpler than in Tawang, but still ask for it from November to March.",
+  "tips": [
+    "Sleep here on the way up to Tawang; it makes the altitude gain much easier",
+    "Leave by 7 am for Sela to cross before afternoon cloud",
+    "Carry cash; Dirang's ATMs are few and can run dry",
+    "Jio, Airtel and BSNL work in town; Sangti has weaker signal",
+    "Ask your homestay about crane sightings in Sangti from November to February",
+    "Respect privacy in Dirang Dzong; it is a living village, not a museum"
+  ],
+  "faqs": [
+    {
+      "q": "Why stop at Dirang on the way to Tawang?",
+      "a": "Dirang sits at about 1,500 m, so you sleep lower than in Bomdila and adjust gradually before Sela Pass at 4,170 m and Tawang at around 3,050 m. It also splits the 500 km Guwahati to Tawang drive into two reasonable days, with Tawang about 135 km and 5 to 6 hours onward."
+    },
+    {
+      "q": "Do I need an Inner Line Permit for Dirang?",
+      "a": "Yes. Indian citizens need the Arunachal Pradesh tourist eILP, which costs about Rs 300 to 500 per person and is checked at Bhalukpong. Under the 2026 rules a tourist permit runs for up to 15 days and covers the whole state, so make sure its dates cover your full trip. Check current status before you travel."
+    },
+    {
+      "q": "Can foreigners stay in Dirang?",
+      "a": "Yes. Dirang lies in West Kameng, which is open to foreign nationals with a Protected Area Permit arranged by a registered Indian tour operator, usually for groups of two or more. Homestays here regularly host international travellers. Check current PAP rules and fees before you book."
+    },
+    {
+      "q": "What is the altitude of Dirang?",
+      "a": "The valley floor around Dirang town is at about 1,500 m, with nearby ridges and villages such as Mandala Top rising to around 3,000 m. That makes Dirang lower and warmer than both Bomdila and Tawang, and a comfortable place to sleep before the climb to Sela Pass."
+    },
+    {
+      "q": "Does Dirang get snow?",
+      "a": "Dirang town rarely gets heavy snow, as it lies at around 1,500 m. The ridges above, including Mandala Top, and the road towards Sela Pass often get snow from December to March. Stay in Dirang for comfort and drive up for snow in the day."
+    },
+    {
+      "q": "What is the best time to visit Dirang?",
+      "a": "March to May brings blossom and mild days, and September to December is ideal for orchards, clear skies and the chance of black-necked cranes in Sangti. The monsoon from June to August is green but wet, with landslides possible on the road from Bhalukpong."
+    },
+    {
+      "q": "Are there ATMs and mobile network in Dirang?",
+      "a": "Dirang has a couple of ATMs in town, but they can run out of cash, so carry enough from Tezpur. Jio, Airtel and BSNL generally work in town. Sangti valley and some riverside homestays have weaker signal, which many guests enjoy."
+    },
+    {
+      "q": "Is Dirang good for families and senior citizens?",
+      "a": "Dirang is one of the easiest stops in western Arunachal for families and seniors. The altitude is moderate, the valley is warmer than Tawang, and most sights are a short drive. Homestays serve home-cooked food, and the hot springs and orchard walks suit all ages."
+    },
+    {
+      "q": "How far is Sela Pass from Dirang?",
+      "a": "Sela Pass is roughly 55 to 60 km from Dirang, about 2 to 2.5 hours of climbing via Baisakhi. Leaving Dirang around 7 am usually gets you to the pass before cloud and wind pick up. When heavy snow closes the pass road, traffic uses the Sela Tunnel instead."
+    }
+  ],
+  "nearby": [
+    "bomdila",
+    "sela-pass",
+    "nuranang-falls",
+    "tawang"
+  ],
+  "image_query": "Dirang valley Arunachal Pradesh"
+}

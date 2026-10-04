@@ -1,0 +1,64 @@
+{
+  "slug": "krang-suri-falls",
+  "name": "Krang Suri Falls",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "West Jaintia Hills",
+  "types": ["waterfall", "swimming"],
+  "tagline": "A blue-pool waterfall in the Jaintia Hills where you can swim",
+  "altitude_m": 900,
+  "coords": [25.3240, 92.1140],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for blue water and safe swimming; the pool can be closed in heavy monsoon rain.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Buy an entry ticket at the gate; a life jacket is compulsory to enter the pool",
+    "foreigners": "No permit needed. Same ticket and life jacket rules"
+  },
+  "from_hub": { "hub": "Shillong", "km": 93, "hours": "3" },
+  "ideal_stay": "A half-day from Jowai, or a long day from Shillong combined with Jowai or Dawki",
+  "meta_description": "Krang Suri Falls, Meghalaya: blue-pool waterfall near Jowai. Entry fee, swimming and life jacket rules, timings, best season and 9 FAQs.",
+  "quick_answer": "Krang Suri is a waterfall with a deep blue pool near Amlarem in West Jaintia Hills, Meghalaya, about 29 km from Jowai and 93 km (3 hours) from Shillong. It is one of the few falls where swimming is allowed, with a compulsory life jacket. Go between October and April. Entry is a small cash fee; check locally.",
+  "intro": [
+    "Krang Suri is the waterfall people in Jowai recommend when you ask where they swim. The falls pour over a limestone lip into a wide, deep pool that turns a clear sky-blue in the dry months, and the local management has built changing rooms, a cafe and paved steps so that visitors can get into the water safely.",
+    "The falls lie in Amlarem sub-division of West Jaintia Hills, about 29 km south of Jowai and 31 km from Dawki. From the parking area a stone path and steps lead down through forest, past a viewpoint that looks onto the falls from above, to the pool edge. Most people take 15 to 30 minutes each way.",
+    "We plan it for a sunny day between November and March, around late morning, when light reaches the pool. The water is cold all year. In the monsoon the flow turns powerful and brown, and the pool may be closed to swimmers; the view is still worth it from the path."
+  ],
+  "highlights": [
+    { "name": "The blue pool", "text": "A wide, deep pool that turns clear blue from about October to April." },
+    { "name": "Swimming with life jackets", "text": "Swimming is permitted, and a life jacket, available for hire on site, is compulsory in the water." },
+    { "name": "Walk behind the falls", "text": "In the dry months some visitors can reach a ledge behind the curtain of water; follow staff advice." },
+    { "name": "Visitor facilities", "text": "Changing rooms, toilets, bamboo seating and a small cafe near the pool." }
+  ],
+  "things_to_do": [
+    "Swim in the pool with a life jacket in the dry season",
+    "Photograph the falls from the viewpoint on the way down",
+    "Walk behind the water curtain where staff allow it",
+    "Relax at the bamboo seating and cafe near the pool",
+    "Combine with Jowai, Thadlaskein Lake or Nartiang on a Jaintia Hills day",
+    "Continue to Dawki, about 31 km away, for boating on the Umngot"
+  ],
+  "how_to_reach": "Krang Suri is about 29 km from Jowai via Amlarem, roughly 1 hour by car, and about 93 km from Shillong, usually 3 hours. From Shillong the route runs east on the highway to Jowai, then south. It can also be linked with Dawki, about 31 km away, making a loop of Shillong, Jowai, Krang Suri and Dawki over one or two days. There is no dependable public transport to the falls, so hire a taxi from Shillong or Jowai. Parking is near the ticket gate.",
+  "where_to_stay": "The nearest town with hotels is Jowai, about an hour away, which has modest hotels and guest houses suited to one or two nights. Homestays around Amlarem and nearby villages offer simple rooms if you want to be close to the falls. Travellers heading on to the river can stay in riverside camps at Shnongpdeng or basic homestays in Dawki, about an hour away. Anyone wanting more choice and comfort should stay in Shillong and plan a long day trip.",
+  "tips": [
+    "Life jackets are compulsory in the pool; hire one at the counter",
+    "The water is cold even in April; swim in short spells",
+    "Rocks around the pool are slippery; walk, do not run",
+    "Arrive by 10 am on weekends to find space on the bamboo seating",
+    "Swimming may be stopped after heavy rain; follow staff instructions",
+    "Carry cash for tickets, life jacket hire and the cafe"
+  ],
+  "faqs": [
+    { "q": "What is the entry fee for Krang Suri Falls?", "a": "Krang Suri charges a small entry fee, typically under INR 100 per person, collected in cash at the ticket gate. Life jacket hire, compulsory for swimmers, is extra, and parking may be charged separately. Fees are set locally and change from season to season, so check locally and check current status before you travel." },
+    { "q": "Can you swim at Krang Suri Falls?", "a": "Yes. Krang Suri is one of the few waterfalls in Meghalaya where swimming is officially allowed. A life jacket is compulsory for anyone entering the pool, and staff may stop swimming after heavy rain. The water is deep and cold, so stay near the edge if you are not a strong swimmer." },
+    { "q": "What are Krang Suri Falls timings?", "a": "The falls have generally been open in daylight, with reported hours of about 7 or 9 am to 5 or 6 pm. Swimming may be restricted late in the day or during poor weather. Arrive before noon for the best light on the pool, and check current status before you travel." },
+    { "q": "How far is Krang Suri Falls from Shillong?", "a": "Krang Suri is about 93 km from Shillong, a drive of roughly 3 hours via Jowai. It is about 29 km from Jowai and 31 km from Dawki, so it fits well into a Jaintia Hills loop or a route that continues to the Umngot River at Dawki." },
+    { "q": "What is the best time to visit Krang Suri?", "a": "October to April is the best time. The pool is clear blue, the flow is moderate and swimming is usually open. November to March gives the brightest colour. From June to September the falls are powerful and the water turns brown; swimming may be closed and paths can be slippery." },
+    { "q": "Is Krang Suri safe for kids and seniors?", "a": "The path involves steps and a slope of 15 to 30 minutes each way, which most families manage slowly. Seniors with knee trouble may find the climb back tiring. Children must wear life jackets in the water and be watched constantly, as the pool is deep close to the edge." },
+    { "q": "Are there changing rooms at Krang Suri?", "a": "Yes. There are separate changing rooms for men and women near the pool, along with toilets, bamboo seating and a small cafe. Carry a towel, a change of clothes and a plastic bag for wet swimwear. Life jackets can be hired at the counter, which is compulsory for swimmers." },
+    { "q": "Can I visit Krang Suri in the monsoon?", "a": "You can, but expect the pool to be brown and fast, and swimming may be suspended. The path and rocks are slippery, and landslides can affect the roads in the Jaintia Hills. It is better to visit from October to April; in the monsoon, check current status before you travel." },
+    { "q": "Where should I stay near Krang Suri Falls?", "a": "Jowai, about an hour away, has the nearest hotels and guest houses. Homestays near Amlarem suit travellers who want an early start. If you are continuing to the Umngot River, stay in riverside camps at Shnongpdeng or in Dawki. Shillong is about 3 hours away for a long day trip." }
+  ],
+  "nearby": ["jowai", "nartiang-monoliths", "dawki-umngot", "shnongpdeng"],
+  "image_query": "Krang Suri Falls Meghalaya"
+}

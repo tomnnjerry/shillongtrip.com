@@ -1,0 +1,30 @@
+{% load static trips_tags %}<!doctype html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ page_full_title }}</title>
+<meta name="description" content="{{ page_description }}">
+<link rel="canonical" href="{{ canonical }}">
+<meta name="robots" content="{% if noindex %}noindex{% else %}index, follow, max-image-preview:large{% endif %}">
+<meta property="og:type" content="{{ og_type }}"><meta property="og:site_name" content="{{ site.name }}"><meta property="og:title" content="{{ page_title }}"><meta property="og:description" content="{{ page_description }}"><meta property="og:url" content="{{ canonical }}"><meta property="og:image" content="{{ og_image }}"><meta property="og:locale" content="en_IN">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0E4B36">
+<link rel="icon" href="{% static 'assets/favicon.svg' %}" type="image/svg+xml"><link rel="apple-touch-icon" href="{% static 'assets/apple-touch-icon.png' %}"><link rel="manifest" href="/site.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Hanken+Grotesk:wght@400;500;600;700&display=swap">
+{% preload_link preload_im %}
+<link rel="stylesheet" href="{% static 'assets/app.css' %}?v={{ build_id }}">
+<script>(function(){try{var t=localStorage.getItem('st_theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}document.documentElement.classList.add('js');})();</script>
+{% for obj in jsonld %}{% json_script_ld obj %}
+{% endfor %}</head>
+<body>
+{% include "trips/c/header.html" %}
+<main id="main">
+{% block body %}{% endblock %}
+</main>
+{% include "trips/c/footer.html" %}
+<script>window.ST={{ st_config|safe }};window.ST.csrf="{{ csrf_token }}";</script>
+<script src="{% static 'assets/app.js' %}?v={{ build_id }}" defer></script>
+</body>
+</html>

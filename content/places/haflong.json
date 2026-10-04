@@ -1,0 +1,66 @@
+{
+  "slug": "haflong",
+  "name": "Haflong",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Dima Hasao",
+  "types": ["hill-station", "offbeat", "lake", "rail"],
+  "tagline": "Assam's only hill station, with a lake, blue hills and Jatinga",
+  "altitude_m": 680,
+  "coords": [25.1689, 93.0161],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for dry roads and clear hills; September to November for the Jatinga bird phenomenon.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed. Carry photo ID; Dima Hasao is a hill district with its own council",
+    "foreigners": "No RAP or PAP needed for Assam. Carry your passport and visa for hotel registration"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 320, "hours": "8" },
+  "ideal_stay": "2 nights in Haflong",
+  "meta_description": "Haflong, Assam's only hill station: Haflong lake, Jatinga, the hill railway, Dima Hasao, how to reach from Guwahati, stays and 9 answered FAQs.",
+  "quick_answer": "Haflong is the headquarters of Dima Hasao district and Assam's only hill station, about 320 km (8 hours by road) south of Guwahati. Come for Haflong lake, rolling blue hills, Dimasa culture and Jatinga village, 9 km away, where birds descend on foggy autumn nights. The train from Guwahati is the most scenic way in.",
+  "intro": [
+    "Haflong surprises people who think of Assam as flat tea country and floodplain. The town sits on a ridge in the Barail range, with forested hills falling away on every side, a small lake in the middle of town and a cool breeze most of the year. It is the headquarters of Dima Hasao, a hill district governed by an autonomous council and home to the Dimasa, Zeme Naga, Hmar and other communities.",
+    "Getting here is part of the trip. The Lumding to Silchar railway, converted to broad gauge in 2015, winds through tunnels and over high viaducts to New Haflong station, and many travellers say it is one of the best train rides in the Northeast. By road the journey is long, and landslides can close stretches in the monsoon.",
+    "Nine kilometres away, the village of Jatinga is known for an unexplained phenomenon: on dark, foggy nights between September and November, birds fly towards lights and come down in the village. Nobody fully agrees on why. We come to Haflong for the quiet, the views and the chance to see a part of Assam very few tourists reach."
+  ],
+  "highlights": [
+    { "name": "Haflong lake", "text": "A small lake in the town centre with a walking path and boating, and the town's hills rising behind it. Best at sunrise." },
+    { "name": "Jatinga", "text": "A village 9 km from Haflong where birds come down on dark, foggy nights between September and November. A watchtower and information centre explain the phenomenon." },
+    { "name": "The hill railway", "text": "The broad-gauge line through Dima Hasao runs through dozens of tunnels and over tall bridges between Lumding and Silchar. Sit on the window side in daylight." },
+    { "name": "Hill views", "text": "Viewpoints on Haflong hill look over folded blue ridges of the Barail range, often under low cloud in the mornings." },
+    { "name": "Maibang", "text": "About 45 km away, with ruins of the Dimasa kingdom's later capital, including a stone house carved from a single rock." }
+  ],
+  "things_to_do": [
+    "Walk around Haflong lake at dawn and take a boat out",
+    "Drive to Jatinga and visit the bird observation tower and information centre",
+    "Ride the train through the Dima Hasao hills between Lumding and New Haflong in daylight",
+    "Climb to viewpoints on Haflong hill for the ridge views",
+    "Visit the Dimasa kingdom ruins at Maibang",
+    "Try Dimasa food and local rice beer at a homestay",
+    "Time a visit for the Jatinga bird season from September to November"
+  ],
+  "how_to_reach": "The most scenic route is by train. Daily trains between Guwahati and Silchar stop at New Haflong station, and the journey from Guwahati takes about 7 to 8 hours, with the best scenery in the Dima Hasao section. By road Haflong is about 320 km from Guwahati via Jagiroad, Lanka and Umrangso, 8 hours or more, and about 110 km from Silchar. Silchar airport, with flights from Kolkata and Guwahati, is the nearest airport. Landslides can close roads and occasionally the railway in the monsoon; check current status before you travel.",
+  "where_to_stay": "Haflong has a small number of simple hotels, government circuit houses and tourist lodges, mostly around the town centre and the lake. Rooms are basic and hot water may be on request. Homestays run by local families are a good way to try Dimasa food. There are no large resorts. Book ahead in November, when the Jatinga season and local festivals bring more visitors, and carry cash, since card payments are not widely accepted.",
+  "tips": [
+    "Take the train in at least one direction, in daylight, for the tunnels and viaducts",
+    "Bird activity at Jatinga, when it happens, is usually between about 6 and 9.30 pm on dark, foggy nights; it is not guaranteed",
+    "Carry cash; ATMs are limited and cards are rarely accepted",
+    "Mobile data can be weak; download offline maps before you arrive",
+    "Avoid the peak monsoon from June to August, when landslides are common",
+    "Ask before photographing people in villages, and dress modestly"
+  ],
+  "faqs": [
+    { "q": "Why is Haflong called Assam's only hill station?", "a": "Haflong is the only town in Assam that developed as a hill station, set on a ridge in the Barail range in Dima Hasao district. It has cooler weather than the plains, a lake in the centre of town and views over forested hills. Other parts of Assam are mostly low-lying river plains." },
+    { "q": "How do I reach Haflong from Guwahati?", "a": "Take a train from Guwahati towards Silchar and get off at New Haflong station, about 7 to 8 hours away. By road it is about 320 km via Jagiroad, Lanka and Umrangso, 8 hours or more. Silchar, about 110 km away, has the nearest airport. Check current status before you travel in the monsoon." },
+    { "q": "What happens at Jatinga?", "a": "On dark, foggy nights between September and November, usually between about 6 and 9.30 pm, birds fly towards lights in Jatinga village, 9 km from Haflong, and come down disoriented. Scientists link it to weather, fog and wind, but it is not fully explained. Sightings are not guaranteed, and killing of birds is now discouraged." },
+    { "q": "What is the best time to visit Haflong?", "a": "October to March is best, with dry roads, cool weather and clear views. September to November is the season for the Jatinga bird phenomenon. December and January nights are cold. The monsoon from June to August is very wet, with landslides that can close roads and sometimes the railway." },
+    { "q": "Is the Haflong train journey scenic?", "a": "Yes. The broad-gauge line between Lumding and Silchar through Dima Hasao passes through many tunnels and over tall viaducts above river valleys, and the stretch around New Haflong is especially scenic. Sit on the window side and travel in daylight. Trains can be delayed after heavy rain." },
+    { "q": "How many days do I need in Haflong?", "a": "Two nights is enough to see Haflong lake, the hill viewpoints, Jatinga and Maibang at a relaxed pace, allowing for the long journey in and out. Travellers heading on to Silchar, Tripura or Mizoram often break the journey here for one night." },
+    { "q": "Is Haflong safe for tourists?", "a": "Haflong is generally quiet and safe for tourists, and the district has been peaceful in recent years. Follow local advice, avoid travelling on remote roads after dark and carry ID. Landslides are the main travel risk in the monsoon, so build a spare day into your plans and check current status before you travel." },
+    { "q": "Do I need a permit to visit Haflong?", "a": "No. Haflong and Dima Hasao are in Assam, which does not require an Inner Line Permit for Indians or a Protected Area Permit for foreigners. Carry photo ID for hotel registration. If you continue into Mizoram or Manipur, you will need permits for those states." },
+    { "q": "What is there to do in Haflong?", "a": "Walk or boat on Haflong lake, climb to viewpoints on Haflong hill, visit Jatinga and its bird observation tower, see the Dimasa kingdom ruins at Maibang and ride the hill railway. Most of all, Haflong is a place for slow walks, local food and quiet views rather than a long sightseeing list." }
+  ],
+  "nearby": ["guwahati", "jowai", "krang-suri-falls", "shillong", "unakoti"],
+  "image_query": "Haflong Dima Hasao Assam hills"
+}

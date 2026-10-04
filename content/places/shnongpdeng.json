@@ -1,0 +1,67 @@
+{
+  "slug": "shnongpdeng",
+  "name": "Shnongpdeng",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "West Jaintia Hills",
+  "types": ["river", "camping", "adventure"],
+  "tagline": "Riverside camps and clear-water swims upstream of Dawki",
+  "altitude_m": 60,
+  "coords": [25.2361, 92.0092],
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "best_time": "November to April for clear water, calm current and dry camping on the riverbank.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Camps and activity operators charge per person; carry photo ID for registration",
+    "foreigners": "No permit needed. Carry your passport and visa for camp registration"
+  },
+  "from_hub": { "hub": "Shillong", "km": 90, "hours": "3" },
+  "ideal_stay": "1 night in a riverside camp, combined with Dawki and Mawlynnong",
+  "meta_description": "Shnongpdeng, Meghalaya: riverside camping, kayaking and snorkelling on the Umngot near Dawki. Prices, safety, season, how to reach and 9 FAQs.",
+  "quick_answer": "Shnongpdeng is a Pnar village on the Umngot River in West Jaintia Hills, Meghalaya, about 10 km upstream of Dawki and 90 km (3 hours) from Shillong. Between November and April the river is clear and slow, and camps offer kayaking, snorkelling, cliff jumping and ziplining. No permit is needed; operators charge per activity.",
+  "intro": [
+    "If Dawki is where you look at the Umngot, Shnongpdeng is where you get into it. The village sits a few kilometres upstream, where the river widens between forested hills and a pebble beach runs along the bank. In winter the water is clear, green-blue and slow enough to float in with a life jacket.",
+    "Shnongpdeng has grown into Meghalaya's main river-camping spot. Tents appear on the riverbank from November, and small operators offer kayaks, snorkels, rowing boats, a zipline across the river and cliff jumps from rock ledges into deep pools. A steel suspension footbridge crosses the river, and from its middle you can watch boats and swimmers far below.",
+    "We like a night here more than a rushed boat ride at Dawki. Evenings are quiet once day visitors leave, and the river is at its clearest early the next morning. Do the adventure activities only with operators who give you life jackets and a briefing, and never swim alone."
+  ],
+  "highlights": [
+    { "name": "Riverside camping", "text": "Tents on the pebble bank from November to April, most with simple meals and a bonfire." },
+    { "name": "Clear-water swimming", "text": "Slow, transparent pools where you can float with a life jacket in the dry months." },
+    { "name": "Suspension footbridge", "text": "A long footbridge high over the Umngot with views straight down into the water." },
+    { "name": "Kayaking and snorkelling", "text": "Short guided sessions on calm stretches, suitable for beginners who can follow instructions." },
+    { "name": "Cliff jumping and zipline", "text": "Operator-run jumps into deep pools and a zipline across the river, for confident swimmers." }
+  ],
+  "things_to_do": [
+    "Camp overnight on the riverbank",
+    "Float or swim in the clear pools with a life jacket",
+    "Kayak on the calm stretches with a guide",
+    "Snorkel to see fish and the pebble riverbed",
+    "Try cliff jumping with a trained operator if you are a confident swimmer",
+    "Zipline across the river",
+    "Walk the suspension footbridge at sunrise",
+    "Visit Dawki and Mawlynnong on the way in or out"
+  ],
+  "how_to_reach": "Shnongpdeng is about 90 km from Shillong via Pynursla and Dawki, usually around 3 hours by car. From Dawki it is about 10 km upstream on a narrow village road; the last stretch is steep and winding. There is no regular public transport to the village, so hire a taxi from Shillong or arrange pickup with your camp from Dawki. Many travellers combine it with Mawlynnong on the way down and Dawki the next morning.",
+  "where_to_stay": "Most visitors stay in riverside tent camps run by village families and small operators. They range from basic two-person tents with shared toilets to larger tents with beds and attached washrooms, and most include dinner, breakfast and a bonfire. A few village homestays offer rooms above the river. Choose a camp with clean toilets, life jackets for every activity and a clear safety briefing. Camps typically operate from November to April; in the monsoon many close. Book ahead for December and New Year.",
+  "tips": [
+    "Wear a life jacket for every water activity, even if you swim well",
+    "Only cliff jump where a trained operator shows you a checked, deep pool",
+    "Carry a torch and warm layer; nights by the river are cold in winter",
+    "Keep all rubbish in your bag and use camp toilets only",
+    "Agree what is included in camp and activity prices before paying",
+    "In the monsoon, camps and activities usually stop; check current status before you travel"
+  ],
+  "faqs": [
+    { "q": "What is the best time to visit Shnongpdeng?", "a": "November to April is the best time, with December to March usually giving the clearest, calmest water. Camps generally open around November and close with the first heavy rains in May or June. During the monsoon the Umngot runs high and murky, and most water activities stop." },
+    { "q": "How far is Shnongpdeng from Dawki and Shillong?", "a": "Shnongpdeng is about 10 km upstream from Dawki, 20 to 30 minutes by car on a narrow road. From Shillong it is about 90 km, around 3 hours via Pynursla. Most visitors combine it with Dawki and Mawlynnong over a night or two." },
+    { "q": "How much does camping at Shnongpdeng cost?", "a": "Camping prices vary widely by tent type and inclusions. Basic riverside tents with dinner and breakfast cost the least, while larger tents with attached washrooms and activity bundles cost more. Operators set their own rates by season, so compare two or three camps, confirm exactly what is included and check current status before you travel." },
+    { "q": "Is swimming allowed at Shnongpdeng?", "a": "Swimming is common in the calm, clear pools during the dry season, but always wear a life jacket and stay in areas that camp staff or operators say are safe. Currents can be stronger than they look, and depths change suddenly. Do not swim after rain, alone, or after drinking alcohol." },
+    { "q": "What adventure activities are available at Shnongpdeng?", "a": "Operators offer kayaking, snorkelling, boating, cliff jumping, ziplining and sometimes scuba try-dives on the Umngot. Prices are per person per activity or in bundles with camping. Choose operators who provide life jackets and helmets where needed and give a safety briefing before you start." },
+    { "q": "Is Shnongpdeng safe for kids and families?", "a": "Families with children do visit, and floating in life jackets in shallow, calm water is easy. Keep kids away from cliff jumping, the zipline and deeper pools unless the operator's age and weight rules allow it. Supervise children every minute near the water, and choose a camp with proper toilets." },
+    { "q": "Is Shnongpdeng better than Dawki?", "a": "They suit different plans. Dawki is the classic spot for a boat ride and bridge views, but it is busy and near the border checkpoint. Shnongpdeng is quieter, with camping, swimming and adventure activities. Many travellers do a boat ride at Dawki and spend the night at Shnongpdeng." },
+    { "q": "Do I need a permit for Shnongpdeng?", "a": "No permit is needed for Indians or foreign nationals. Camps and homestays must register guests on the Meghalaya tourism app, so carry photo ID or your passport and visa. Although it is close to the Bangladesh border, visitors do not need extra permission for the village." },
+    { "q": "Can I visit Shnongpdeng in the monsoon?", "a": "You can visit the village, but it is not the season for water activities. From June to September the river rises and turns brown, currents strengthen and most camps close. If you are in Meghalaya in the monsoon, see the waterfalls around Sohra instead and keep Shnongpdeng for winter." }
+  ],
+  "nearby": ["dawki-umngot", "mawlynnong", "krang-suri-falls", "jowai"],
+  "image_query": "Shnongpdeng Umngot river"
+}

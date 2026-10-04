@@ -1,0 +1,149 @@
+{
+  "slug": "arunachal-honeymoon-7n",
+  "title": "Arunachal Honeymoon",
+  "nights": 7,
+  "themes": ["honeymoon", "snow"],
+  "states": ["arunachal", "assam"],
+  "places": ["tezpur", "bomdila", "dirang", "sela-pass", "nuranang-falls", "tawang", "tawang-monastery", "madhuri-lake", "bum-la-pass"],
+  "hero": "madhuri-lake",
+  "price_from_inr": 41500,
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 4600,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Arunachal honeymoon, 7 nights / 8 days from Guwahati: three nights in Tawang, Sela snow, Madhuri Lake, Dirang and Bomdila, private cab and room decor.",
+  "quick_answer": "This 7 nights / 8 days honeymoon runs from Guwahati to Tawang and back in a private car, with three nights in Tawang, a night each in Dirang and Bomdila, and Tezpur at both ends. It includes Sela Lake, Madhuri Lake and one decorated room and candlelight dinner. Snow is likely at Sela from December to March.",
+  "overview": [
+    "Tawang is the snow honeymoon of the Northeast. From December to March the Sela Pass area at about 4,170 m is usually white, and the Sela Tunnel, open since March 2024, keeps the road to Tawang running through winter. This trip takes the road slowly: Tezpur on the first night, Dirang at 1,620 m on the second, and only then Tawang at about 2,670 m for three nights, so neither of you spends the honeymoon with an altitude headache.",
+    "We keep the couple's details simple and real: a private car and driver for the whole week, flower decoration and a cake on one night in Tawang, a candlelight dinner and rooms with a view where the hotel has them. In Tawang you get a day for the monastery and a day for Madhuri Lake and, for Indian citizens, Bum La when the Army allows it. On the way back, Tezpur's Agnigarh hill tells the old love story of Usha and Aniruddha, which makes a fitting last evening."
+  ],
+  "highlights": [
+    "Three nights in Tawang, with a decorated room and candlelight dinner",
+    "Snow at Sela Lake most years from December to March",
+    "Madhuri Lake and, for Indian citizens, Bum La at 4,600 m on Army permission",
+    "Tawang Monastery, founded in 1681, and the war memorial light and sound show",
+    "Dirang's hot spring, old dzong and river valley",
+    "Agnigarh hill in Tezpur and the Usha–Aniruddha legend",
+    "Private car and driver throughout, no shared sightseeing"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Tezpur",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "180 km · 4 hrs",
+      "text": "Your driver meets you at Guwahati Airport with the car you keep for the week. The road crosses the Brahmaputra and runs along the north bank through Mangaldoi to Tezpur, a quiet river town about 4 hours away. Check in and rest. In the late afternoon, if you arrive in time, walk the riverside Chitralekha Udyan (Cole Park), where 9th-century stone carvings sit among the lawns. Dinner at the hotel. If you choose the premium tier, tonight is at Wild Mahseer, a heritage tea-planter's bungalow at Balipara, 30 km further on the Tawang road.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Tezpur to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "195 km · 6 hrs",
+      "text": "Leave at 7.30 am. Your ILP is checked at Bhalukpong, the gate into Arunachal, and then the road climbs along the Kameng river. Stop at the Tipi orchid centre if orchids are in flower, then climb through Rupa to Bomdila at 2,415 m for lunch and the view over the ranges. From there it is 42 km down to Dirang, a river valley at about 1,620 m with apple and kiwi orchards. Check in and, if you have the energy, soak in the Dirang hot spring before dinner. Sleeping here first is the key to feeling well in Tawang.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dirang to Tawang over Sela",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "135 km · 5 hrs",
+      "text": "Leave Dirang by 7.30 am. In fair weather we take the old road over Sela Pass, about 4,170 m, for photographs at Sela Lake, frozen and snow-covered from roughly December to March; in bad weather we use the Sela Tunnel and skip the lake. Stop at the Jaswantgarh war memorial for tea and then at Jang for the Nuranang falls, about 100 m high. Reach Tawang in the early afternoon. Tonight your room is decorated with flowers, with a cake waiting. Rest, drink water and keep dinner light on your first night at this height.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tawang Monastery and town",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "25 km · local",
+      "text": "An easy day. Start at Tawang Monastery, founded in 1681 and the largest in India, when the morning prayers are on and the courtyard is in sun. Its museum has old thangkas and manuscripts. Visit Urgelling, the birthplace of the sixth Dalai Lama, a short drive below town, and the Gyangong Ani Gompa nunnery. After lunch, walk the Old Market for Monpa woollens and yak-hair caps. At dusk, go to the Tawang War Memorial for the light and sound show. Your driver files the Bum La and Madhuri Lake permit at the DC office today.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Madhuri Lake and Bum La",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "80 km · 6–7 hrs round trip",
+      "text": "Leave at 7 am in a local Tawang taxi; outside cars are not allowed on this road. Madhuri Lake (Sangetsar Tso) sits at about 3,700 m among dead tree stumps and ridges, and it is quiet enough for a long walk around the shore. Indian citizens can continue to Bum La at 4,600 m on the India–China border, where Army staff talk visitors through the post. Bum La runs on Army permission day by day and often closes after snow between December and March; foreign guests cannot go. Tonight we set up your candlelight dinner at the hotel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tawang to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2415,
+      "drive": "171 km · 6 hrs",
+      "text": "Leave Tawang after breakfast and drive back through the Sela Tunnel, or over the pass for a second look at the snow if the road is clear. Stop for lunch at Dirang. Continue to Bomdila at 2,415 m, which has a small monastery, the Gontse Gaden Rabgye Ling, on the ridge above town, and a craft centre selling Monpa carpets and masks. On a clear evening the Kangto and Gorichen ranges show on the skyline. This night halves the drive back to the plains so you are not on the road for 10 hours tomorrow.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Bomdila to Tezpur and Agnigarh",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "155 km · 5 hrs",
+      "text": "A gentle descent through Tenga and Rupa to Bhalukpong and out onto the plains, with tea gardens either side of the road to Tezpur. Check in by early afternoon. At about 4 pm, climb Agnigarh hill, where sculptures tell the story of Usha, daughter of King Bana, and Aniruddha, grandson of Krishna; the legend says Bana kept Usha in a fort ringed by fire on this hill. The view of the Brahmaputra and the Kalia Bhomora bridge at sunset is the best in town. A quiet last dinner together tonight.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Tezpur to Guwahati and depart",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "180 km · 4 hrs",
+      "text": "After breakfast, drive back along the north bank to Guwahati Airport, about 4 hours away. We suggest a flight after 2 pm. If you have a later flight, we can stop at the Umananda or Kamakhya temples, or at the riverfront for a short walk before the airport. If you would rather have a last night in Guwahati for a Brahmaputra sunset cruise, tell us at booking and we will add it at extra cost. We stay on WhatsApp until your flight leaves.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "7 nights in hotels on twin sharing, with a mountain-view room where available",
+    "Daily breakfast and dinner",
+    "Flower decoration and cake on the first night in Tawang",
+    "One candlelight dinner in Tawang",
+    "Private car (Innova, Scorpio or similar) for the couple only, Guwahati to Guwahati",
+    "Local Tawang taxi for Madhuri Lake and Bum La",
+    "Help with the Arunachal tourist ILP for Indian citizens",
+    "PAP paperwork through our approved partner for foreign couples",
+    "Driver allowance, fuel, tolls and parking",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "ILP, PAP and Bum La permit fees",
+    "Lunches, snacks and drinks",
+    "Monastery, museum and camera fees",
+    "Snow chains or extra vehicle costs if the Sela road needs them",
+    "Extra nights from snow closures, landslides or bandhs",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Tezpur: Cygnett Inn Imperial Tezpur or similar. Dirang: Pemaling Lords Inn or similar. Tawang: Hotel Tawang Heights or Hotel Menda-La, or similar. Bomdila: Himland House or similar" },
+    { "tier": "Premium", "options": "Balipara: Wild Mahseer or similar. Dirang: Dirang Boutique Cottages or similar. Tawang: Hotel Gakyi Khang Zhang or Timilo Boutique, or similar. Bomdila: Hotel Elysium or similar" },
+    { "tier": "Luxury", "options": "Balipara: Wild Mahseer (heritage bungalow) or similar. Dirang: Dirang Boutique Cottages (best rooms) or similar. Tawang: Vivanta Tawang or similar. Bomdila: Hotel Elysium (best rooms) or similar" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500, so pay whatever the portal shows. Foreign couples need a Protected Area Permit through an approved operator. Check current status before you travel.",
+    "Bum La is for Indian civilians only, with a DC Tawang permit stamped by the Army, and often closes after snow from December to March. Madhuri Lake uses the same permit.",
+    "Snow at Sela is likely from December to March but never guaranteed. The Sela Tunnel keeps Tawang reachable in winter; the old pass road and lake stop depend on the weather on the day.",
+    "Tawang nights drop to around −5°C to −8°C in January. Rooms have heaters or electric blankets, but pack thermals, gloves and a down jacket each.",
+    "Guwahati to Tawang takes two driving days each way, which is why this trip has nights in Dirang and Bomdila.",
+    "Tell us your wedding date at booking; many hotels add a small extra for honeymoon couples when they know."
+  ],
+  "faqs": [
+    { "q": "Is Tawang good for a honeymoon?", "a": "Yes, if you enjoy mountains, snow and quiet towns more than resorts and nightlife. Tawang has good mid-range hotels, a luxury option in Vivanta Tawang, the monastery, Sela Lake and Madhuri Lake. The catch is distance: Guwahati to Tawang takes two driving days each way, so a Tawang honeymoon needs at least 7 nights to be relaxed." },
+    { "q": "When will we see snow on an Arunachal honeymoon?", "a": "Snow is most likely at Sela Pass and Madhuri Lake from December to March, and Tawang town gets snow in December and January in many years. November and April can bring fresh snow on the passes too. Snow is never guaranteed on a fixed date, so check current status before you travel if snow is essential." },
+    { "q": "What honeymoon extras are included?", "a": "The package includes flower decoration and a cake on your first night in Tawang, one candlelight dinner at your Tawang hotel, a mountain-view room where the hotel has one, and a private car and driver for the whole week. We do not add shared sightseeing, so the two of you set the pace every day." },
+    { "q": "Can we visit Bum La on our honeymoon?", "a": "Indian citizens can usually visit Bum La (4,600 m) with a permit from the DC office in Tawang, stamped at the Army cantonment, travelling in a local Tawang taxi. It runs on Army permission day by day and often closes after snow. Foreign nationals are not allowed. Madhuri Lake is on the same route and permit." },
+    { "q": "Is altitude sickness a problem in Tawang?", "a": "Most couples feel fine because this trip sleeps at Dirang (1,620 m) before Tawang (about 2,670 m) and never goes straight from the plains. Short visits to Sela and Bum La are higher, at 4,170 m and 4,600 m. Drink plenty of water, avoid alcohol on the first night and tell us if either of you has heart or lung problems." },
+    { "q": "How cold is Tawang in winter?", "a": "Tawang's days in January are around 3–5°C and nights can fall to −5°C to −8°C. Sela and Bum La are colder and windier. Hotels provide heaters or electric blankets, and hot water is usually available morning and evening. Pack thermals, a down jacket, gloves, a woollen cap and warm, waterproof shoes." },
+    { "q": "Do we need permits for an Arunachal honeymoon?", "a": "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500 per person, so pay what the portal shows, and carry it with your original ID. Foreign nationals need a Protected Area Permit through an approved operator. Bum La needs a separate Tawang permit. Check current status before you travel." },
+    { "q": "Can we fly or take a helicopter to Tawang?", "a": "There is no airport at Tawang. A Guwahati–Tawang helicopter service has operated in the past, but we could not confirm a current schedule, so treat it as subject to operation and check current status before you travel. We plan this honeymoon entirely by road, which also lets you stop at Sela Lake and the waterfalls." },
+    { "q": "How much does the Arunachal honeymoon package cost?", "a": "This 7 nights / 8 days honeymoon starts from ₹41,500 per person on twin sharing, with standard hotels, breakfast and dinner, a private car, decoration, cake and one candlelight dinner. Premium stays at Wild Mahseer and Gakyi Khang Zhang, or luxury at Vivanta Tawang, cost more. Flights and permit fees are extra." }
+  ]
+}

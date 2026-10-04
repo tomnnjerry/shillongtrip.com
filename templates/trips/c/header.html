@@ -1,0 +1,39 @@
+{% load trips_tags %}<a class="skip" href="#main">Skip to content</a>
+<div class="util"><div class="shell util__in">
+  <span class="util__item">{% icon 'check' %} Permits &amp; roads checked {% checked_date %}</span>
+  <span class="util__item util__hide">{% icon 'pin' %} Shillong · Guwahati</span>
+  <a class="util__item util__wa" href="{% wa_link 'Hi!' %}"{% wa_attrs %}>{% icon 'wa' %} Chat with a planner</a>
+</div></div>
+<header class="top{% if over %} top--over{% endif %}" data-top>
+  <div class="shell top__in">
+    <a class="brand" href="/" title="{{ site.name }}">{% logo_img %}</a>
+    <nav class="nav" aria-label="Main"><ul class="nav__ul">
+      <li class="nav__li dd"><a class="nav__a" href="/packages/" aria-haspopup="true">Packages {% icon 'down' 'nav__car' %}</a><div class="dd__panel">
+        <div class="dd__cols dd__cols--pk">
+          <div><p class="dd__h">By state</p><ul>{% for k, s in STATES.items %}<li><a href="/packages/?state={{ k }}"><i style="background:{{ s.color }}"></i>{{ s.name }}</a></li>{% endfor %}</ul></div>
+          <div><p class="dd__h">By style</p><ul class="dd__pills">{% for s in mega_styles %}<li><a href="/styles/{{ s.key }}/">{% icon s.icon %}{{ s.name }}</a></li>{% endfor %}</ul></div>
+          <div><p class="dd__h">Most popular</p><ul>{% for t in mega_pk %}<li><a href="/packages/{{ t.slug }}/">{{ t.title|trimstop }} <small>{{ t.nights }}N</small></a></li>{% endfor %}</ul><a class="dd__all" href="/packages/">All packages {% icon 'arrow' %}</a></div>
+        </div></div></li>
+      <li class="nav__li dd"><a class="nav__a" href="/places/" aria-haspopup="true">Places {% icon 'down' 'nav__car' %}</a><div class="dd__panel">
+        <div class="dd__cols">{% for g in mega_places %}<div><a class="dd__h dd__h--link" href="/states/{{ g.state.key }}/"><i style="background:{{ g.state.color }}"></i>{{ g.state.name }}</a><ul>{% for d in g.places %}<li><a href="/places/{{ d.slug }}/">{{ d.name|shortname }}</a></li>{% endfor %}</ul></div>{% endfor %}</div></div></li>
+      <li class="nav__li"><a class="nav__a" href="/guides/">Guides</a></li>
+      <li class="nav__li"><a class="nav__a" href="/trip-tools/">Trip tools</a></li>
+      <li class="nav__li"><a class="nav__a" href="/about/">About</a></li>
+    </ul></nav>
+    <div class="top__tools">
+      <button class="ib" type="button" data-search-open aria-label="Search (Ctrl K)">{% icon 'search' %}</button>
+      <button class="ib" type="button" data-theme-toggle aria-label="Switch light or dark">{% icon 'moon' 'on-light' %}{% icon 'sun' 'on-dark' %}</button>
+      <button class="ib" type="button" data-saved-open aria-label="Saved trips">{% icon 'heart' %}<span class="ib__n" data-saved-count hidden>0</span></button>
+      <a class="btn btn--sun btn--sm top__cta" href="/contact/">Free trip plan</a>
+      <button class="ib top__menu" type="button" data-menu-open aria-label="Open menu" aria-expanded="false" aria-controls="mnav">{% icon 'menu' %}</button>
+    </div>
+  </div>
+</header>
+<div class="mnav" id="mnav" data-mnav hidden>
+  <div class="shell mnav__top"><a class="brand" href="/">{% logo_img %}</a><button class="ib" type="button" data-menu-close aria-label="Close menu">{% icon 'close' %}</button></div>
+  <nav class="shell mnav__nav" aria-label="Mobile">
+    <a href="/packages/">Packages</a><a href="/places/">Places</a><a href="/guides/">Guides</a><a href="/trip-tools/">Trip tools</a><a href="/about/">About</a><a href="/contact/">Contact</a>
+    <div class="mnav__states">{% for k, s in STATES.items %}<a href="/states/{{ k }}/" style="--c:{{ s.color }}">{{ s.name }}</a>{% endfor %}</div>
+    <a class="btn btn--sun btn--full" href="/contact/">Free trip plan {% icon 'arrow' %}</a>
+  </nav>
+</div>

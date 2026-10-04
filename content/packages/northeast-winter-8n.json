@@ -1,0 +1,159 @@
+{
+  "slug": "northeast-winter-8n",
+  "title": "Northeast in Winter",
+  "nights": 8,
+  "themes": ["snow", "wildlife"],
+  "states": ["meghalaya", "assam", "arunachal"],
+  "places": ["shillong", "umiam-lake", "kaziranga", "tezpur", "dirang", "sela-pass", "tawang", "tawang-monastery", "bomdila", "guwahati"],
+  "hero": "sela-pass",
+  "price_from_inr": 44500,
+  "best_months": [12, 1, 2],
+  "difficulty": "moderate",
+  "max_altitude_m": 4170,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Northeast winter tour, 8 nights / 9 days, December to February: Shillong, two Kaziranga safaris, snow at Sela Pass and two nights in Tawang.",
+  "quick_answer": "This 8-night winter trip runs Guwahati to Guwahati from December to February: a cold, clear night in Shillong, two nights in Kaziranga for safaris in the dry season, then Dirang, snow at Sela Pass and two nights in Tawang, returning via Bomdila and Guwahati. Indians need an Arunachal ILP. Pack for −5°C.",
+  "overview": [
+    "Winter is when the Northeast shows two faces in one week. The plains are dry and mild, 11–25°C in Kaziranga, with short grass after the annual burning and rhinos easy to see. Two days' drive north, Sela Pass at 4,170 m is usually under snow from December to March, Sela Lake freezes, and Tawang nights fall well below zero. Since the Sela Tunnel opened in March 2024, the road to Tawang stays open through most of winter, which makes this a far more dependable snow trip than it used to be.",
+    "We start in Shillong for a crisp, clear night in the Khasi Hills, drive to Kaziranga for two safaris, then climb through Tezpur and Bhalukpong to Dirang, where the lower altitude helps you adjust before the pass. Tawang gets two nights, with Bum La as an optional extra for Indian citizens when the Army allows it; after fresh snow it often does not. Heavy snowfall can close the old pass road for a day or two, so we keep the route flexible and tell you honestly when plans change."
+  ],
+  "highlights": [
+    "Snow at Sela Pass (4,170 m) and a frozen Sela Lake in mid-winter",
+    "Two Kaziranga jeep safaris in the dry season, when rhino sightings are easiest",
+    "Two nights in Tawang, with the monastery's morning prayers in the cold",
+    "Dirang's hot springs and stone dzong village on the way up",
+    "A clear winter night in Shillong with Umiam Lake at dawn",
+    "Possible Torgya or Losar festival days at Tawang, depending on the lunar calendar"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "115 km · 3–3.5 hrs",
+      "text": "Our driver meets you at Guwahati Airport for the 3 to 3.5 hour drive up NH-6 into the Khasi Hills. Stop at the Umiam Lake viewpoint, where winter skies are clear and the reservoir is at its bluest. Shillong in December and January runs about 15°C by day and 5–7°C at night, and most hotels use room heaters rather than central heating. In the afternoon visit the Don Bosco Museum for its seven floors on Northeast cultures, then walk Ward's Lake and Police Bazar. December brings Christmas lights and carols across the city, which has a large Christian community. The hotel registers you on the Meghalaya tourism app at check-in, so keep ID handy.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Shillong to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "About 250 km · 6.5 hrs",
+      "text": "Leave Shillong at 7 am after an early breakfast, with a stop at Umiam Lake as the morning mist lifts off the water. The road drops to Jorabat and runs east on the highway through Nagaon, with fog possible on the plains until about 10 am in December and January. From Jakhalabandha the highway skirts Kaziranga's southern boundary, and rhinos and elephants often graze in view. We reach your lodge near Kohora by mid-afternoon. Walk through a nearby tea garden before sunset, or visit the Kaziranga National Orchid and Biodiversity Park. Winter evenings are cool, around 11°C, so keep a fleece handy for the open jeep tomorrow.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Two safaris in Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "About 60 km in total · two safaris of about 2 hrs each",
+      "text": "Winter is the best season for Kaziranga. The grass has been burnt back in patches, water has receded into the beels, and animals gather where you can see them. The morning jeep in the Central Range starts around 7.30 am, sometimes in light mist; rhinos, wild water buffalo, swamp deer and elephants are regular sightings. After lunch, the afternoon jeep goes into the Western Range at Bagori, known for its open grassland and dense rhino numbers. Migratory ducks and geese arrive from November, and bar-headed geese are common. Tigers are here but rarely seen. Jeeps cost from about ₹3,500 per vehicle; park entry is included in your package.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Kaziranga to Dirang via Bhalukpong",
+      "stay": "Dirang",
+      "altitude_m": 1560,
+      "drive": "About 265 km · 8 hrs",
+      "text": "A long road day, so we leave at 6.30 am. The route crosses the Brahmaputra on the Kalia Bhomora bridge near Tezpur and heads north to Bhalukpong, where Indian citizens show their Arunachal ILP and foreign nationals their Protected Area Permit. The road then follows the Kameng river gorge and climbs through Tenga to the Bomdila ridge at about 2,400 m, where it turns properly cold, before dropping into the Dirang valley. We reach Dirang by late afternoon. Soak in the riverside hot springs if you have energy, then eat and sleep early. Tonight's lower altitude helps your body adjust before the pass tomorrow.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Snow at Sela Pass, on to Tawang",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "About 135 km · 5–6 hrs in snow",
+      "text": "We leave Dirang by 7.30 am to reach the pass before afternoon cloud. From December to March, Sela Pass at 4,170 m is usually under snow, the prayer-flag gateway stands in drifts and Sela Lake below is frozen white. When the old pass road is clear, we stop at the top for 20–30 minutes; after heavy snowfall, Army and BRO crews may close it and we take the Sela Tunnel, opened in 2024, which keeps the route to Tawang open. Walk slowly at the top and keep your hands and ears covered. Beyond, the road passes Jaswantgarh war memorial and Nuranang Falls, partly frozen in January, before reaching Tawang by afternoon.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tawang Monastery and the war memorial",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "About 25 km around town · 2 hrs",
+      "text": "Tawang Monastery, founded in 1680–81, is the largest Buddhist monastery in India. In winter the morning prayers in the assembly hall are the warmest place in town, with butter lamps, drums and horns, and visitors may sit quietly at the back. Visit the monastery museum, then the Tawang War Memorial for the 1962 war and Urgelling monastery, birthplace of the Sixth Dalai Lama. If the three-day Torgya festival falls in your dates, usually in January by the lunar calendar, you will see masked dances in the courtyard. Indian citizens can request a Bum La permit today for tomorrow morning, but after snowfall the Army often closes the road.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Tawang to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2415,
+      "drive": "About 170 km · 6 hrs",
+      "text": "We leave after breakfast and cross Sela once more, a second chance for clear snow views if the first day was cloudy. If Bum La is open and permitted, it replaces the morning and we overnight in Tawang again, adjusting the rest of the plan; this needs a spare day and costs extra. Otherwise the road descends through Dirang to Bomdila, a ridge town at about 2,400 m with views of the Gorichen and Kangto ranges on clear winter afternoons. Visit the Gontse Gaden Rabgye Ling monastery above the town at sunset. Bomdila is cold at night, often below zero in January, so the hotel's heater and extra blankets matter.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Bomdila to Guwahati",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "About 340 km · 9–10 hrs",
+      "text": "The longest drive of the trip, so we leave at 6 am. The road descends through Tenga and the Kameng gorge to Bhalukpong and the warm plains, where you will shed layers by lunchtime. From there the route runs past Tezpur and along the north bank before crossing the Brahmaputra into Guwahati. Expect to arrive around 5 pm. Staying overnight in Guwahati rather than flying straight out protects you if the mountain road is slow after snow. In the evening, a riverside dinner in the city or a short walk along the Brahmaputra at Uzan Bazar is a gentle end to a week of cold.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Kamakhya and departure",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "About 40 km · 1.5 hrs",
+      "text": "If your flight is after 2 pm, start the morning at Kamakhya Temple on Nilachal hill, one of the most important Shakti shrines in India. The general queue is free but can take hours; special darshan tickets cost ₹501 per person at the last check and shorten the wait considerably. Darshan runs from about 8 am. For earlier flights, the Assam State Museum or a silk shop for Assam muga and eri stoles are shorter options. Our driver then takes you to Guwahati Airport, about 28 km from the city centre, at least two hours before departure. Morning fog occasionally delays winter flights, so keep your phone on for airline updates.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "8 nights on twin sharing: 1 each in Shillong, Dirang, Bomdila and Guwahati, and 2 each in Kaziranga and Tawang",
+    "Daily breakfast and dinner",
+    "Private SUV (Innova, Scorpio or similar) suited to snow roads, with an experienced mountain driver",
+    "Guwahati Airport pickup and drop",
+    "Two jeep safaris in Kaziranga with park entry",
+    "Local guide in Tawang",
+    "Help with the Arunachal ILP application",
+    "Room heaters where the hotel provides them, requested in advance",
+    "Driver allowance, fuel, tolls and parking",
+    "WhatsApp support through the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Arunachal ILP fee, or Protected Area Permit fee for foreign nationals",
+    "Bum La excursion, its permit, separate vehicle and the extra night it needs",
+    "Camera fees at Kaziranga and monastery or museum fees",
+    "Kamakhya special darshan tickets",
+    "Lunches, drinks and snacks",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Extra nights caused by snow closures, landslides or flight changes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Centre Point (Shillong), Aranya Tourist Lodge (Kaziranga), Hotel Pemaling (Dirang), Hotel Tawang Heights (Tawang), Hotel Siphiyang Phong (Bomdila), Hotel Nandan (Guwahati), or similar" },
+    { "tier": "Premium", "options": "Hotel Polo Towers (Shillong), Iora The Retreat (Kaziranga), Dirang Boutique Cottages, Hotel Gakyi Khang Zhang (Tawang), Hotel Tsepal Yangjom (Bomdila), Novotel Guwahati GS Road, or similar" },
+    { "tier": "Luxury", "options": "Ri Kynjai at Umiam (Shillong), Diphlu River Lodge or Borgos Resort (Kaziranga), Dirang Boutique Cottages, Hotel Gakyi Khang Zhang (Tawang), Vivanta Guwahati, or similar; Arunachal has no true luxury hotels" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal ILP; the tourist permit now covers the whole state for 15 days at about ₹300–500, so pay whatever the portal shows. Foreign nationals need a Protected Area Permit through a registered operator. Check current status before you travel.",
+    "Sela Pass is usually snowbound from December to March. The Sela Tunnel keeps the road to Tawang open, but the old pass road can close after heavy snow. Check current status before you travel.",
+    "Bum La runs on Army permission day by day and often closes after snowfall between December and March. It is open to Indian citizens only.",
+    "Tawang nights fall to about −5°C or lower in January. Bring a down jacket, thermals, gloves, a woollen cap and warm socks; hotels rarely have central heating.",
+    "Kaziranga's ranges open in phases from October and close from about May, so winter is prime season. Book jeeps early for the Christmas and New Year weeks.",
+    "Meghalaya hotels register every guest on the state tourism app, and renting self-drive vehicles to tourists is banned there."
+  ],
+  "faqs": [
+    { "q": "Will I definitely see snow on this trip?", "a": "Very likely at Sela Pass between late December and February, where snow usually lies for months. Tawang town gets snow on some winter days but not always. Fresh snowfall is weather-dependent, so no one can promise it on a set date. Early December can have little snow; January is the most reliable month." },
+    { "q": "Is the road to Tawang open in winter?", "a": "Mostly, yes. The Sela Tunnel, opened in March 2024, bypasses the pass and gives all-weather access on the Bomdila–Tawang road. The old road over Sela Pass may close for a day or two after heavy snow, in which case we use the tunnel and stop at safe viewpoints. Check current status before you travel." },
+    { "q": "How much does this winter tour cost?", "a": "It starts at ₹44,500 per person on twin sharing, with standard hotels, a private SUV suited to mountain roads, two Kaziranga safaris, a Tawang guide and breakfast and dinner daily. Flights, permit fees, Bum La and camera fees are extra. Premium and luxury tiers raise the price." },
+    { "q": "How cold does it get?", "a": "Guwahati and Kaziranga are mild, about 11–25°C. Shillong falls to 5–7°C at night. Dirang is around freezing on January nights, and Tawang and Bomdila can drop to −5°C or lower, with Sela colder still, especially in wind. Pack layers you can add and remove on the same day." },
+    { "q": "Is winter a good time for Kaziranga?", "a": "It is the best time. From December to February the grass is shorter after controlled burning, water has pulled back into the wetlands and animals are easier to see. Migratory ducks and geese are present. Mornings can be foggy and cold in an open jeep, so bring a warm jacket." },
+    { "q": "Can I visit Bum La Pass in winter?", "a": "Sometimes. Bum La at 4,600 m is open to Indian citizens only, with a permit from the Deputy Commissioner in Tawang stamped by the Army. After snowfall the Army often closes the road for days. We treat it as an optional extra that needs a spare day and a separate SUV." },
+    { "q": "Is altitude a concern in winter?", "a": "Tawang sits at 2,670 m and Sela at 4,170 m, so take it seriously. The night in Dirang at about 1,560 m helps you adjust. Walk slowly, drink water, avoid alcohol for the first night in Tawang and keep your time at Sela short. Tell us about heart or lung conditions when booking." },
+    { "q": "Are there festivals in Tawang in winter?", "a": "Yes, depending on the lunar calendar. Torgya, a three-day festival of masked dances at Tawang Monastery, usually falls in January. Losar, the Monpa new year, falls in February or early March. Dates move each year, so tell us if you want to plan around them and we will confirm with the monastery." },
+    { "q": "Can foreigners take this winter trip?", "a": "Yes. Assam and Meghalaya need no permit. Arunachal needs a Protected Area Permit, arranged through a registered tour operator; solo foreign travellers are reported to be allowed only for Tawang, Bomdila and Ziro, which suits this route. Bum La is closed to foreigners. Check current status before you travel." }
+  ]
+}

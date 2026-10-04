@@ -1,0 +1,129 @@
+{
+  "slug": "dirang-slow-5n",
+  "title": "Slow Dirang and Bomdila",
+  "nights": 5,
+  "themes": ["seniors", "offbeat"],
+  "states": ["arunachal", "assam"],
+  "places": ["tezpur", "bomdila", "dirang"],
+  "hero": "dirang",
+  "price_from_inr": 26500,
+  "best_months": [3, 4, 5, 10, 11],
+  "difficulty": "easy",
+  "max_altitude_m": 2415,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Slow Dirang and Bomdila trip for seniors, 5 nights / 6 days from Guwahati: two nights in Dirang, hot spring, orchards, monasteries, short drives.",
+  "quick_answer": "This 5 nights / 6 days trip from Guwahati is built for older travellers and anyone who wants the Arunachal hills without the long Tawang drive. It stays below 2,500 m, spends two nights in Dirang's river valley and one in Bomdila, and keeps most drives under 5 hours, with Tezpur on the plains at both ends.",
+  "overview": [
+    "Most West Kameng trips rush through Bomdila and Dirang on the way to Tawang. This one stops there. Bomdila, at 2,415 m, is a ridge town with a large monastery and long views of the Kangto and Gorichen ranges. Dirang, about 42 km beyond at 1,620 m, is a warmer river valley of orchards, an old stone dzong and a hot spring. Neither place is high enough to cause trouble for most people, and neither needs a pass crossing, so the trip avoids Sela's snow and cold.",
+    "We plan the pace for travellers in their sixties and seventies: late starts, lunch stops every day, hotels with lifts or ground-floor rooms where possible, and a car with good legroom. There is no trekking. Short walks are on paved or level paths, and every sight can be seen from close to the car park. Tezpur at both ends breaks the Guwahati drive into four-hour days, and a night at Wild Mahseer's tea bungalows is available as an upgrade."
+  ],
+  "highlights": [
+    "Two unhurried nights in Dirang at 1,620 m, with the hot spring and the stone dzong",
+    "Bomdila's Gontse Gaden Rabgye Ling monastery and views of the Kangto range",
+    "Sangti valley, where black-necked cranes winter from about November to February",
+    "Apple and kiwi orchards and a yak research farm near Dirang",
+    "The Tipi orchid centre on the Kameng river",
+    "No pass crossings, no altitude above 2,415 m and no drive over 6 hours"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Tezpur",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "180 km · 4 hrs",
+      "text": "Your driver meets you at Guwahati Airport and you set off along the north bank of the Brahmaputra through Mangaldoi, with a tea and toilet stop halfway. Tezpur is a calm river town with wide roads and old trees. After check-in and a rest, drive to Chitralekha Udyan, the riverside park where old stone carvings from Tezpur's ruins line the lawns; it is flat and has benches. If you are comfortable with steps, the view from Agnigarh hill over the river at sunset is worth the short climb. Dinner at the hotel and an early night.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Tezpur to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2415,
+      "drive": "155 km · 5 hrs",
+      "text": "Start after a relaxed breakfast at 8.30 am. At Bhalukpong, the Arunachal gate, your ILP is checked. The road follows the Kameng river to the Tipi orchid centre, where the glasshouses and garden paths are level and easy, then climbs through Tenga and Rupa to Bomdila at 2,415 m. We stop for lunch on the way so no stretch is longer than two hours. Check in, rest, and in the late afternoon drive up to the Gontse Gaden Rabgye Ling monastery above town. Drink water and take the stairs slowly on the first evening.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Bomdila to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "42 km · 1.5 hrs",
+      "text": "A short morning. Visit the Bomdila craft centre, where Monpa carpets, masks and wooden bowls are made, and the small market for local cheese and woollens. Then drive 42 km down to Dirang, losing about 800 m of height, which most people feel as easier breathing and warmer air. After lunch, visit Dirang Dzong, an old stone fort village on a hillock, where Monpa families still live in the stone houses. End the day at the Dirang hot spring by the river; the bathing pools are a short walk from the road, and you can simply soak your feet if you prefer.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Sangti valley and Dirang orchards",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "40 km · local",
+      "text": "No long drive today. Go first to Sangti valley, about 10 km away, a flat, green river valley where black-necked cranes spend the winter from about November to February; outside those months it is still a lovely, level place for a short walk. On the way back, stop at an apple or kiwi orchard; the harvest runs from about August to October. After lunch, visit the Thupsung Dhargye Ling monastery in Dirang town, and if you are curious, the yak research farm above the valley. Evening free on the hotel verandah with a view of the river.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Dirang to Tezpur",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "195 km · 6 hrs with stops",
+      "text": "Leave at 8 am. The drive climbs back over Bomdila and descends to the plains at Bhalukpong. We stop for tea in Bomdila and lunch at Bhalukpong, so the time on the road is broken into three easy pieces. Reach Tezpur by mid-afternoon and rest. If you choose the premium tier, tonight is at Wild Mahseer in Balipara, a restored tea-planter's bungalow among heritage gardens, 30 km short of Tezpur and on the way. Otherwise, a quiet evening in Tezpur, with the Mahabhairab temple nearby if you would like to visit.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tezpur to Guwahati and depart",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "180 km · 4 hrs",
+      "text": "After breakfast, drive back along the north bank to Guwahati Airport, about 4 hours with one tea stop. We suggest a flight after 2 pm so there is no rush. If you would like a night in Guwahati to break the journey home, we can add one at a hotel close to the airport or in the city, with the Kamakhya temple and a Brahmaputra evening cruise. Your driver helps with luggage to the terminal door. We stay in touch on WhatsApp until you board.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "5 nights on twin sharing: 2 in Tezpur, 1 in Bomdila, 2 in Dirang",
+    "Ground-floor or lift-served rooms requested at every hotel",
+    "Daily breakfast and dinner",
+    "Private car (Innova or similar) with good legroom, Guwahati to Guwahati",
+    "Lunch stops planned every day, no stretch longer than about 2 hours",
+    "Help with the Arunachal tourist ILP for Indian citizens",
+    "PAP paperwork through our approved partner for foreign guests",
+    "Driver allowance, fuel, tolls and parking",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "ILP or PAP fees",
+    "Lunches, snacks and drinks",
+    "Monastery, orchid centre and camera fees",
+    "Medical expenses and travel insurance",
+    "Extra nights from landslides or bandhs",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Tezpur: Cygnett Inn Imperial Tezpur or similar. Bomdila: Himland House or similar. Dirang: Pemaling Lords Inn or similar" },
+    { "tier": "Premium", "options": "Tezpur: Cygnett Inn Imperial Tezpur, with Wild Mahseer (Balipara) on night 5, or similar. Bomdila: Hotel Elysium or similar. Dirang: Dirang Boutique Cottages or similar" },
+    { "tier": "Luxury", "options": "Balipara: Wild Mahseer on both plains nights, or similar. Bomdila: Hotel Elysium (best rooms) or similar. Dirang: Dirang Boutique Cottages (best rooms) or similar" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500, so pay whatever the portal shows. Foreign nationals need a Protected Area Permit through an approved operator. Check current status before you travel.",
+    "Bomdila, at 2,415 m, is the highest point you sleep. Most healthy seniors feel fine; if you have heart or lung conditions, check with your doctor and tell us before booking.",
+    "Dirang and Bomdila have district and community health centres, but serious cases go to Tezpur. Carry your regular medicines for the whole trip plus a few extra days.",
+    "Evenings are cool even in April and October, around 8–12°C in Bomdila. Pack a warm jacket, a cap and comfortable walking shoes.",
+    "The Bhalukpong–Bomdila road has landslides in the monsoon, June to September. We do not run this trip in those months. Check current status before you travel.",
+    "Hotels in Bomdila and Dirang are small and some have stairs only; we request ground-floor rooms but cannot always guarantee them."
+  ],
+  "faqs": [
+    { "q": "Is Dirang suitable for senior citizens?", "a": "Yes. Dirang is at about 1,620 m, only about 100 m higher than Shillong, and the sights are close to the road: the hot spring, the old dzong, Sangti valley and the orchards. This trip keeps drives under 6 hours, adds lunch stops every day and never crosses Sela Pass, so seniors can enjoy the hills comfortably." },
+    { "q": "How high is Bomdila and will altitude affect us?", "a": "Bomdila is at 2,415 m, the highest point you sleep on this trip. Most healthy older travellers feel only mild breathlessness on stairs, which passes in a day. Walk slowly, drink water and avoid alcohol on the first evening. If you have heart, lung or blood pressure conditions, speak to your doctor before booking." },
+    { "q": "Why not continue to Tawang?", "a": "Tawang adds at least two more nights, a crossing of the Sela area at about 4,170 m and a sleep at about 2,670 m in a much colder town. For many older travellers that is too much. This trip gives you the Monpa monasteries, mountains and orchards of West Kameng at a lower, gentler height." },
+    { "q": "How far is Dirang from Guwahati?", "a": "Dirang is about 300 km from Guwahati, too far for a comfortable single day. This trip splits it with a night in Tezpur on the plains and a night in Bomdila on the ridge, so no day on the road is longer than about 6 hours with stops. On the way back, we break the drive in Tezpur again." },
+    { "q": "What is the best time to visit Dirang and Bomdila?", "a": "March to May and October to November are the best months, with mild days and clear views. Sangti valley has black-necked cranes from about November to February, and apple and kiwi harvests run from about August to October. We avoid June to September, when monsoon landslides slow the Bhalukpong–Bomdila road." },
+    { "q": "Do senior citizens need an ILP for Arunachal?", "a": "Yes. Every Indian citizen from outside Arunachal Pradesh needs a tourist ILP, whatever their age. Apply online at eilp.arunachal.gov.in; it costs about ₹300–500, so pay what the portal shows. Carry the permit and your original photo ID. Foreign nationals need a Protected Area Permit through an approved operator. Check current status before you travel." },
+    { "q": "Is there any walking or trekking on this trip?", "a": "There is no trekking. Walks are short, usually 10–30 minutes, on level paths or gentle slopes: the orchid centre, the dzong lanes, Sangti valley and the monastery courtyards. Agnigarh hill in Tezpur has steps and is optional. You can see most sights from close to where the car parks." },
+    { "q": "What kind of rooms and food can we expect?", "a": "Hotels in Bomdila and Dirang are small, clean mid-range properties with heaters, hot water and simple Indian and Tibetan food; most can cook soft, less spicy meals on request. We ask every hotel for ground-floor or lift-served rooms. Tezpur has larger hotels, and Wild Mahseer's heritage bungalows are available as an upgrade." },
+    { "q": "How much does the Slow Dirang and Bomdila trip cost?", "a": "This 5 nights / 6 days trip starts from ₹26,500 per person on twin sharing, with standard hotels, breakfast and dinner and a private Innova or similar throughout. Upgrades to Wild Mahseer in Balipara and the best rooms at Dirang Boutique Cottages cost more. Flights, permit fees and lunches are extra." }
+  ]
+}

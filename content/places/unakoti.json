@@ -1,0 +1,65 @@
+{
+  "slug": "unakoti",
+  "name": "Unakoti",
+  "state": "northeast",
+  "state_name": "Tripura",
+  "district": "Unakoti",
+  "types": ["heritage", "rock-carvings", "pilgrimage", "offbeat"],
+  "tagline": "Giant rock-cut Shiva faces in a forested gorge of north Tripura",
+  "altitude_m": 60,
+  "coords": [24.3167, 92.0667],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to March for dry steps and clear light on the carvings; April for the Ashokastami Mela.",
+  "permit": {
+    "required": false,
+    "indians": "No Inner Line Permit needed for Tripura",
+    "foreigners": "Tripura is not a Protected Area Permit state. Carry your passport and visa for hotel registration"
+  },
+  "from_hub": { "hub": "Agartala", "km": 180, "hours": "5" },
+  "ideal_stay": "1 night in Kailashahar or Dharmanagar",
+  "meta_description": "Unakoti, Tripura: 7th to 9th century rock carvings, the Unakotiswara Kal Bhairava, Ashokastami Mela, how to reach from Agartala and 9 FAQs.",
+  "quick_answer": "Unakoti is a hillside site of giant rock-cut carvings of Shiva, Ganesha and other deities, about 8 km from Kailashahar in north Tripura and about 180 km (5 hours) from Agartala. The carvings date to roughly the 7th to 9th centuries. The central Shiva head is about 30 feet tall. No permit is needed.",
+  "intro": [
+    "Unakoti is one of the most unusual places in the Northeast. In a forested gorge in the Raghunandan hills, huge faces and figures have been carved into the rock walls and boulders, with a stream running between them. The central figure, the Unakotiswara Kal Bhairava, is a Shiva head about 30 feet high, including an elaborately carved headdress of about 10 feet.",
+    "The carvings are attributed on stylistic grounds to the 7th to 9th centuries CE. The name means one less than a crore, and a popular legend says Shiva, travelling to Kashi with a crore of gods, cursed the others to stone when they failed to wake before dawn. Another local story credits a single devoted sculptor. The site is protected by the Archaeological Survey of India and was added to UNESCO's tentative list in 2022.",
+    "Steps and walkways lead down the slope past the main panels, including three large Ganesha images and figures of Durga and other goddesses. It is still an active pilgrimage site, and the Ashokastami Mela in April draws large crowds. We suggest an overnight trip from Agartala, staying in Kailashahar or Dharmanagar, so you see the carvings in morning light."
+  ],
+  "highlights": [
+    { "name": "Unakotiswara Kal Bhairava", "text": "The central Shiva head, about 30 feet tall including a 10-foot headdress, carved into the cliff face. Flanked by smaller female figures." },
+    { "name": "Ganesha carvings", "text": "Large rock-cut images of Ganesha near a stream, among the most photographed carvings at the site." },
+    { "name": "Stone images across the gorge", "text": "Hundreds of faces, figures and bulls carved on boulders and walls along the slope, many worn by rain and moss." },
+    { "name": "Ashokastami Mela", "text": "A large fair in April when pilgrims from Tripura and nearby states come to worship at the carvings." },
+    { "name": "Forest setting", "text": "Steps descend through a green, shaded gorge with a stream, cool in the mornings and slippery after rain." }
+  ],
+  "things_to_do": [
+    "Walk down the steps to the Unakotiswara Kal Bhairava in morning light",
+    "Look for the Ganesha images and Durga carvings along the stream",
+    "Hire a local guide to explain the legends and identify the figures",
+    "Visit during the Ashokastami Mela in April for the pilgrimage atmosphere",
+    "Combine Unakoti with Jampui Hills in north Tripura, known for orange orchards",
+    "Stay a night in Kailashahar or Dharmanagar to avoid a rushed day trip"
+  ],
+  "how_to_reach": "Unakoti is about 8 km from Kailashahar and about 180 km north of Agartala by road, roughly 5 hours. The nearest railway station is Dharmanagar, about 20 km away, on the line from Agartala towards Silchar and Guwahati; Kumarghat is another option. A practical plan is a morning train from Agartala to Dharmanagar or Kumarghat, then a taxi to Unakoti. The nearest airport with regular flights is Agartala. Hire a local taxi in Kailashahar or Dharmanagar for the last stretch.",
+  "where_to_stay": "Unakoti has no hotels at the site itself. Kailashahar, about 8 km away, has a few simple hotels and a Tripura Tourism lodge, the closest option for an early start. Dharmanagar, about 20 km away and on the railway, has more choice of basic and mid-range hotels. Standards are modest, so check reviews and confirm hot water and power backup. Book ahead for the Ashokastami Mela in April, when rooms fill with pilgrims.",
+  "tips": [
+    "Arrive in the morning for softer light on the carvings and fewer visitors",
+    "Wear shoes with grip; the steps can be wet and mossy",
+    "Carry water and snacks; facilities at the site are limited",
+    "Remove shoes where signs ask, and treat the carvings as a place of worship",
+    "Do not touch or climb on the carvings",
+    "Opening hours are usually daylight hours; check current status before you travel"
+  ],
+  "faqs": [
+    { "q": "What is Unakoti famous for?", "a": "Unakoti is famous for its giant rock-cut carvings of Shiva, Ganesha, Durga and other deities in a forested gorge in north Tripura. The central Unakotiswara Kal Bhairava, a Shiva head about 30 feet tall, is the best known. The carvings date to roughly the 7th to 9th centuries CE and are protected by the Archaeological Survey of India." },
+    { "q": "How far is Unakoti from Agartala?", "a": "Unakoti is about 180 km north of Agartala by road, around 5 hours. You can also take a train from Agartala to Dharmanagar, about 20 km from Unakoti, or to Kumarghat, then a taxi. Because of the distance, we suggest staying a night in Kailashahar or Dharmanagar." },
+    { "q": "What is the legend of Unakoti?", "a": "Unakoti means one less than a crore. One legend says Shiva was travelling to Kashi with a crore of gods and cursed all but himself to become stone when they failed to wake before sunrise. Another local story says a devoted sculptor tried to carve a crore of images in one night but finished one short, which gave the place its name." },
+    { "q": "How old are the Unakoti carvings?", "a": "On stylistic grounds, the Unakoti bas-reliefs are dated to roughly the 7th to 9th centuries CE, earlier than the Manikya kings of Tripura. There are no clear inscriptions that fix their age exactly. The site is protected by the Archaeological Survey of India and was added to UNESCO's tentative list in 2022." },
+    { "q": "When is the Ashokastami Mela at Unakoti?", "a": "The Ashokastami Mela is held every year in April, on dates set by the Hindu calendar. Pilgrims from across Tripura and neighbouring states gather to worship at the carvings, with a large fair nearby. It is the busiest time at Unakoti, so book rooms in Kailashahar or Dharmanagar in advance." },
+    { "q": "What is the best time to visit Unakoti?", "a": "October to March is best, with dry steps, cooler weather and clear light on the carvings. April brings the Ashokastami Mela. The monsoon, roughly June to September, makes the steps slippery and the gorge very wet, though the forest is at its greenest." },
+    { "q": "Do I need a permit to visit Unakoti?", "a": "No. Tripura does not require an Inner Line Permit for Indian citizens or a Protected Area Permit for foreigners. Carry photo ID or your passport for hotel registration. There may be a small entry or parking fee at the site." },
+    { "q": "How much time do I need at Unakoti?", "a": "Allow 1.5 to 2 hours to walk down the steps, see the main carvings and climb back up at a relaxed pace, longer if you are photographing. With the journey from Agartala, plan an overnight trip, or combine Unakoti with Jampui Hills over two nights." },
+    { "q": "Where should I stay near Unakoti?", "a": "Kailashahar, about 8 km away, has a few simple hotels and a Tripura Tourism lodge and is closest for an early start. Dharmanagar, about 20 km away and on the railway, has more choice. There is no accommodation at the site itself." }
+  ],
+  "nearby": ["agartala", "aizawl", "haflong"],
+  "image_query": "Unakoti rock carvings Tripura"
+}

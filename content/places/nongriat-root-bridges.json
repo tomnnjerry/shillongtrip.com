@@ -1,0 +1,66 @@
+{
+  "slug": "nongriat-root-bridges",
+  "name": "Nongriat Double Decker Root Bridge",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["trek", "root-bridge"],
+  "tagline": "About 3,500 steps down to a two-tier bridge grown from living roots",
+  "altitude_m": 600,
+  "coords": [25.2472, 91.6760],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for dry steps and clear pools; the monsoon makes the trail slippery and the rivers fast.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. The village collects small entry and camera fees in cash",
+    "foreigners": "No permit needed. Same village fees apply"
+  },
+  "from_hub": { "hub": "Shillong", "km": 65, "hours": "2.5" },
+  "ideal_stay": "1 night in Nongriat or 2 in Sohra",
+  "meta_description": "Nongriat Double Decker Root Bridge, Meghalaya: the Tyrna trek, about 3,500 steps each way, fees, Sunday closure, homestays and 9 FAQs.",
+  "quick_answer": "The double decker living root bridge is in Nongriat village, below Sohra in Meghalaya's East Khasi Hills, about 65 km (2.5 hours) from Shillong. You reach it on foot from Tyrna, down roughly 3,500 steps, then climb the same way back. Allow 5 to 7 hours return. Small village fees apply; the trail has been closed on Sundays.",
+  "intro": [
+    "Khasi villages in the valleys below Sohra have grown bridges for generations by training the aerial roots of rubber fig trees across streams, then letting them thicken and knot together over decades. At Nongriat, two such bridges grow one above the other over the same stream, and that is the double decker most people come to see. Living root bridge landscapes of Meghalaya were placed on UNESCO's tentative list of World Heritage sites in 2022.",
+    "The only way in is on foot. From the road-end at Tyrna village, a concrete stairway of roughly 3,500 steps drops about 3 km through forest and betel nut groves, past smaller root bridges and over two steel-cable suspension bridges above boulder-filled rivers. The double decker sits at the edge of Nongriat village, with a natural pool below it.",
+    "The descent is easy on the lungs and hard on the knees; the climb back is the real test, usually 2 to 3 hours for a reasonably fit adult. We suggest staying a night in Nongriat if you can, which lets you walk on to Rainbow Falls, 1 to 1.5 hours further, and climb out in the cool of the next morning."
+  ],
+  "highlights": [
+    { "name": "The double decker", "text": "Two living root bridges stacked over one stream, grown and maintained by the village over a long period." },
+    { "name": "Suspension bridges", "text": "Two steel-cable footbridges swing over blue-green rivers on the way down; cross one person at a time if asked." },
+    { "name": "Rainbow Falls", "text": "A waterfall and deep blue pool 1 to 1.5 hours beyond Nongriat; on sunny mornings spray can show a rainbow." },
+    { "name": "Natural pools", "text": "Clear pools below the double decker and along the stream are good for a rest and a paddle in the dry season." },
+    { "name": "Village life", "text": "Nongriat is a working village with homestays, small shops and paths used daily by residents." }
+  ],
+  "things_to_do": [
+    "Walk down from Tyrna to the double decker root bridge",
+    "Cross the suspension bridges above the river on the way",
+    "Rest at the pools below the double decker",
+    "Continue to Rainbow Falls with a local guide",
+    "Stay overnight in a Nongriat homestay and climb out early",
+    "See the single-decker root bridges along the trail",
+    "Hire a local guide to learn how the bridges are grown and repaired"
+  ],
+  "how_to_reach": "The trek starts at Tyrna village, about 12 km from Sohra market and about 65 km from Shillong, roughly 2.5 hours by car. Taxis drop you at the road-end in Tyrna, where there are small shops, parking and guides; from there it is about 3,500 steps and roughly 3 km down to Nongriat. Start walking by 8 or 9 am on a day trip. There is no road to Nongriat, so porters are the only help with bags. From Guwahati, stay a night in Shillong or Sohra first.",
+  "where_to_stay": "Nongriat village has several simple family-run homestays with basic rooms, shared bathrooms and home-cooked meals; book through a Sohra contact or ask on arrival in the dry season, as rooms are few. Staying here breaks the climb and lets you reach Rainbow Falls. If you prefer comfort, stay in Sohra: Cherrapunjee Holiday Resort at Laitkynsew is known for its trekking advice, and homestays on the Tyrna road put you close to the start. Carry cash; there is no ATM below Tyrna.",
+  "tips": [
+    "The trail has been closed to tourists on Sundays since 2021; check current status before you travel",
+    "Start down by 9 am on a day trip so you finish the climb before dark",
+    "Wear trekking shoes with grip, and use a stick if your knees are weak",
+    "Carry 2 litres of water per person and snacks; shops en route are small",
+    "Hire a guide at Tyrna if you plan to go on to Rainbow Falls",
+    "Do not swim in the pools after rain; water rises quickly"
+  ],
+  "faqs": [
+    { "q": "How many steps are there to the double decker root bridge?", "a": "The trek from Tyrna village to the double decker root bridge at Nongriat is about 3,500 steps each way, covering roughly 3 km. Descending takes 1.5 to 2 hours. The climb back up takes 2 to 3 hours for most fit adults, so the full round trip is usually 5 to 7 hours with rest stops." },
+    { "q": "What is the entry fee for the Nongriat root bridge?", "a": "Nongriat village collects a small entry fee, typically under INR 100 per person, plus a separate camera fee. Some sections of the trail may collect a small maintenance charge. Payments are in cash only, and amounts can change, so carry small notes and check current status before you travel." },
+    { "q": "Is the double decker root bridge open on Sundays?", "a": "The village has closed the double decker trail to tourists on Sundays since around 2021, as it is a day of rest and church for residents. Plan your trek from Monday to Saturday. Rules set by the village can change, so confirm locally in Sohra and check current status before you travel." },
+    { "q": "What is the best time to trek to Nongriat?", "a": "October to March is best, with dry steps, cooler air and clear blue pools. April and May are warmer and humid. From June to September the trail is slippery, leeches are common and rivers run fast and brown; the trek is still possible but slower and riskier, so go with a guide." },
+    { "q": "Can seniors and kids do the Nongriat trek?", "a": "Active children over about eight who walk regularly usually manage well. The trek is harder for seniors because of the long, steep climb back, around 3,500 steps. Anyone with knee, heart or breathing problems should consult a doctor and consider the easier root bridge near Mawlynnong instead." },
+    { "q": "Can I stay overnight in Nongriat?", "a": "Yes. Nongriat has a few simple family homestays with basic rooms and home-cooked meals. Staying overnight breaks the climb, gives time to visit Rainbow Falls and lets you walk out in the cool of the morning. Rooms are limited, so arrange ahead in peak season through a Sohra contact." },
+    { "q": "How far is the double decker root bridge from Shillong?", "a": "Tyrna, the start of the trek, is about 65 km from Shillong, roughly 2.5 hours by car via Sohra. It is about 12 km from Sohra market. A day trip from Shillong is possible but long; staying in Sohra or Nongriat makes the trek far more comfortable." },
+    { "q": "Is the Nongriat trek safe in the monsoon?", "a": "It can be done, but with care. Between June and September steps are slick, rivers rise quickly after heavy rain and leeches are common. Wear shoes with strong grip, avoid pools and river crossings after rain, hire a local guide and turn back if water levels look high." },
+    { "q": "How far is Rainbow Falls from the double decker bridge?", "a": "Rainbow Falls is about 1 to 1.5 hours' walk beyond the double decker bridge, on a rougher forest path with rocks and small streams. Adding it to a day trip makes the total walk 8 to 9 hours, so most people stay a night in Nongriat and visit it the next morning." }
+  ],
+  "nearby": ["sohra", "mawsmai-cave", "nohkalikai-falls", "wei-sawdong-falls"],
+  "image_query": "Double decker living root bridge Nongriat"
+}

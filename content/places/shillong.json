@@ -1,0 +1,68 @@
+{
+  "slug": "shillong",
+  "name": "Shillong",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["city", "hill-station", "base"],
+  "tagline": "Meghalaya's pine-cooled capital and the base for most trips",
+  "altitude_m": 1525,
+  "coords": [25.5788, 91.8933],
+  "best_months": [10, 11, 12, 1, 2, 3, 4, 5],
+  "best_time": "October to May for dry roads and clear views; June to September is wet but green and cool.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed. Carry photo ID; hotels and homestays must register every guest on the state tourism app",
+    "foreigners": "No RAP or PAP needed for Meghalaya. Carry your passport and visa; your hotel registers you on arrival"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 100, "hours": "3" },
+  "ideal_stay": "2 nights in Shillong, plus day trips or onward nights in Sohra and Dawki",
+  "meta_description": "Shillong, Meghalaya: altitude, how to reach from Guwahati, where to stay, what to see, best time and 9 answered FAQs from our travel desk.",
+  "quick_answer": "Shillong is the capital of Meghalaya, a hill city at about 1,525 m in the East Khasi Hills, roughly 100 km (2.5 to 3.5 hours) by road from Guwahati. Go for cool weather, cafes and live music, Ward's Lake and the Don Bosco Museum, and as a base for Sohra and Dawki. Indians need no permit; hotels register every guest.",
+  "intro": [
+    "Shillong sits on a ridge at about 1,525 m, and on a clear October morning the air smells of pine and woodsmoke. It is the capital of Meghalaya and the headquarters of East Khasi Hills, which makes it the natural base for almost every trip in the state. Sohra is 54 km south, Dawki about 82 km south-east, and Guwahati 100 km north down the GS Road.",
+    "We treat the city as two or three places at once. Police Bazar is the crowded centre with hotels, momo stalls and taxi stands. Laitumkhrah is the college-and-cafe quarter with churches and bakeries. Upper Shillong, climbing towards the Air Force base, is quieter and greener, with Elephant Falls and Shillong Peak a short drive away.",
+    "Music is part of daily life here. You hear it in the cafes, in church choirs on Sunday mornings and at small gigs through the winter. Most shops close on Sundays, the traffic is slow at school and office hours, and the weather can switch from sun to fog in twenty minutes, so plan your sightseeing for mornings."
+  ],
+  "highlights": [
+    { "name": "Ward's Lake", "text": "A horseshoe-shaped lake from the colonial era in the middle of town, with a wooden bridge, paddle boats and a garden walk of about 30 minutes." },
+    { "name": "Don Bosco Museum", "text": "A seven-storey museum in Mawlai on the cultures of Northeast India, with a rooftop skywalk. Allow two hours; it is the best single introduction to the region." },
+    { "name": "Iewduh (Bara Bazar)", "text": "The old Khasi market where traders sell betel nut, dried fish, bamboo baskets and local produce. Go in the morning, keep your phone in a front pocket and ask before photographing people." },
+    { "name": "Cafes and live music", "text": "Laitumkhrah and Police Bazar have dozens of small cafes. Friday and Saturday evenings are when you are most likely to catch a local band." },
+    { "name": "Cathedral of Mary Help of Christians", "text": "A large Catholic cathedral in Laitumkhrah with stained glass and a hilltop setting. Dress modestly and keep quiet during services." }
+  ],
+  "things_to_do": [
+    "Walk Ward's Lake and the adjoining Botanical Garden early in the morning before the crowds",
+    "Spend two hours at the Don Bosco Museum and finish on the rooftop skywalk",
+    "Browse Iewduh market for local spices, bamboo craft and Khasi tea",
+    "Eat jadoh (rice cooked with pork) and tungrymbai (fermented soybean) at a local eatery",
+    "Catch live music at a Laitumkhrah or Police Bazar cafe on a weekend evening",
+    "Drive 10 km to Shillong Peak for the city view (Indian citizens only, photo ID needed)",
+    "Visit Elephant Falls in Upper Shillong, 12 km from the centre",
+    "Walk the Shillong Golf Course edges at dawn or dusk, among pines",
+    "Stop at Umiam Lake on the way up or down the Guwahati road"
+  ],
+  "how_to_reach": "Most visitors fly into Guwahati (GAU). The airport is about 28 km west of Guwahati city, so the drive to Shillong takes 3 to 3.5 hours; from Guwahati city it is about 100 km and 2.5 to 3.5 hours on the four-lane GS Road (NH6). Shared taxis and buses leave from Paltan Bazar in Guwahati. Shillong's small airport at Umroi, 30 km from the city, has limited small-aircraft flights. A Guwahati–Shillong helicopter is subject to operation; check current status. There is no railway, and self-drive rental cars for tourists are banned in Meghalaya.",
+  "where_to_stay": "Police Bazar puts you in the middle of shops and taxi stands, and it is where Vivanta Meghalaya and Hotel Polo Towers stand; it is noisy and traffic-heavy after 5 pm. Laitumkhrah suits people who want cafes within walking distance. For a quieter heritage stay, Tripura Castle sits in the Cleve Colony area. Homestays in Upper Shillong and Mawlai are cheaper and calmer but need a cab for everything. Families on a road trip sometimes stay by Umiam Lake, 15 km north, at resorts such as Ri Kynjai. Book ahead for October, Christmas and New Year.",
+  "tips": [
+    "Most shops and many restaurants close on Sundays; plan sightseeing, not shopping, for that day",
+    "Traffic between Police Bazar and Laitumkhrah can crawl at 9 am and 4 pm; allow extra time",
+    "Carry a light rain jacket in every month, not just the monsoon",
+    "Self-drive rental cars for tourists are banned in Meghalaya; hire a cab with a driver for the day and agree the route first",
+    "Keep cash for entry fees at viewpoints and falls; card and UPI coverage is patchy outside the city",
+    "Hotels will ask for photo ID to register you on the state app, so keep a copy handy for every traveller"
+  ],
+  "faqs": [
+    { "q": "How far is Shillong from Guwahati?", "a": "Shillong is about 100 km from Guwahati city on the four-lane GS Road (NH6), which takes 2.5 to 3.5 hours. From Guwahati airport, 28 km west of the city, allow 3 to 3.5 hours. Add time if you stop at Umiam Lake or hit evening traffic entering Shillong." },
+    { "q": "What is the best time to visit Shillong?", "a": "October to May is the best time for dry roads and long views, with October, November, March and April the most comfortable months. December and January are cold at night, often near 3 to 5 degrees Celsius. June to September brings heavy rain, fog and occasional landslides, but also full waterfalls and very few crowds." },
+    { "q": "Do I need a permit to visit Shillong?", "a": "No. Meghalaya has no Inner Line Permit and no statewide entry fee. Since June 2025, hotels, homestays and private landlords must register guests on the state tourism app, so carry photo ID for everyone. Registration at entry points has been announced but was not live at last check, so check current status before you travel." },
+    { "q": "How many days are enough for Shillong?", "a": "Two nights cover the city itself: Ward's Lake, the Don Bosco Museum, Iewduh market, Shillong Peak and Elephant Falls. Most people add a day trip or a night in Sohra and another for Dawki and Mawlynnong, which makes four or five nights a comfortable first trip to Meghalaya." },
+    { "q": "Is Shillong good for families with kids and senior citizens?", "a": "Yes, with some planning. The city sights are mostly short walks, though Elephant Falls has a steep staircase and Ward's Lake has uneven paths. Traffic and hilly roads can be tiring, so keep driving days under four hours for seniors, pack motion-sickness tablets for children and stay close to Police Bazar or Laitumkhrah." },
+    { "q": "Is Shillong safe for tourists?", "a": "Shillong is generally safe for tourists, including solo women, with the usual city precautions. Avoid isolated viewpoints after dark, use registered taxis, and keep valuables close in Iewduh and Police Bazar. Occasional bandhs or local strikes can close shops and roads for a day, so follow local news and ask your hotel each morning." },
+    { "q": "Can I fly directly to Shillong?", "a": "Shillong Airport at Umroi, about 30 km from the city, takes only small aircraft. Recent routes include IndiGo to Kolkata, Dibrugarh and Imphal, Alliance Air to Guwahati and other Northeast cities, and SpiceJet to Delhi, but schedules change often. Most visitors still fly into Guwahati and drive up. Any helicopter link is subject to operation; check current status." },
+    { "q": "Where should I stay in Shillong?", "a": "Police Bazar is the most convenient base for first-time visitors, with hotels, food and taxis on the doorstep, though it is crowded. Laitumkhrah suits cafe lovers and couples. Upper Shillong homestays are quieter and cheaper but need a cab. Resorts around Umiam Lake, 15 km north, suit a relaxed stay with water views." },
+    { "q": "Is Shillong worth visiting in the monsoon?", "a": "It can be, if you accept rain on most days between June and September. Waterfalls around Shillong and Sohra run full, hotel rates drop and the hills turn deep green. The trade-offs are fog that hides viewpoints, slippery steps and occasional landslides on the roads to Sohra and Dawki, so keep a spare day." }
+  ],
+  "nearby": ["shillong-peak", "elephant-falls", "umiam-lake", "laitlum-canyons", "mawphlang-sacred-forest"],
+  "image_query": "Shillong city Meghalaya"
+}

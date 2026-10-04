@@ -1,0 +1,67 @@
+{
+  "slug": "dibrugarh",
+  "name": "Dibrugarh",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Dibrugarh",
+  "types": ["city", "tea", "base", "river"],
+  "tagline": "Assam's tea city on the Brahmaputra and the gateway to the far east",
+  "altitude_m": 108,
+  "coords": [27.4728, 94.9120],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for dry days and tea-bungalow stays; March to May and autumn are the busiest tea seasons.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed for Assam. You need an Arunachal ILP if you continue north across Bogibeel to Pasighat or beyond",
+    "foreigners": "No RAP or PAP needed for Assam. Onward travel into Arunachal needs a PAP"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 440, "hours": "9.5" },
+  "ideal_stay": "2 nights in a tea bungalow, plus Dibru-Saikhowa as a day trip",
+  "meta_description": "Dibrugarh, Assam: heritage tea bungalows, Bogibeel bridge, Brahmaputra riverfront, Dibru-Saikhowa, how to reach and 9 answered FAQs.",
+  "quick_answer": "Dibrugarh is Upper Assam's largest town, on the south bank of the Brahmaputra, and the heart of Assam tea country. Fly in rather than drive 440 km from Guwahati. Stay in a heritage chang bungalow on a tea estate, cross the 4.94 km Bogibeel bridge and use it as a base for Dibru-Saikhowa and Arunachal.",
+  "intro": [
+    "Dibrugarh calls itself the tea city of India, and a drive out of town in any direction shows why: estate after estate of flat-topped tea bushes under tall shade trees. Many visitors come for the heritage tea bungalows, the planters' homes built on stilts, known as chang bungalows, that now take guests.",
+    "The town sits on the south bank of the Brahmaputra and has lost parts of its old riverside to floods and erosion over the last century. The riverfront embankment is a good place for an evening walk. About 17 km east of town, the Bogibeel bridge, opened in December 2018, carries road and rail 4.94 km across the river to Dhemaji, cutting hours off the journey to Arunachal's Pasighat and the Siang valley.",
+    "We use Dibrugarh as a hub rather than a destination in itself. Dibru-Saikhowa National Park is about 60 km east, Digboi's old oil refinery and the Dehing Patkai rainforest are within reach, and Sivasagar's Ahom monuments are about 80 km south-west. The airport at Mohanbari has direct flights from Delhi, Kolkata and other cities, which makes it a far better entry point to Upper Assam than a long road trip from Guwahati."
+  ],
+  "highlights": [
+    { "name": "Heritage chang bungalows", "text": "Planters' bungalows on timber stilts inside working estates, such as Mancotta Heritage Chang Bungalow and Chowkidinghee Heritage Tea Bungalow. Stays often include a garden walk and a tea tasting." },
+    { "name": "Tea estate and factory visits", "text": "Walk the bushes with a garden guide and see withering, rolling and drying in the factory during the plucking season, roughly March to November." },
+    { "name": "Bogibeel bridge", "text": "A 4.94 km double-deck road and rail bridge across the Brahmaputra, opened in 2018. Drive across for the river views on the way to Dhemaji or Pasighat." },
+    { "name": "Brahmaputra riverfront", "text": "The embankment along the river near the town centre is a local evening walk, with wide views of sandbanks and boats." },
+    { "name": "Dibru-Saikhowa day trip", "text": "Boat safaris from Guijan Ghat near Tinsukia, about 60 km east, for river dolphins, feral horses and winter birds." }
+  ],
+  "things_to_do": [
+    "Stay two nights in a heritage chang bungalow on a tea estate",
+    "Walk a tea garden at plucking time and visit a working factory",
+    "Buy tea from estate outlets and town shops, and try a proper tasting",
+    "Drive across the Bogibeel bridge and back for the Brahmaputra views",
+    "Take a boat safari in Dibru-Saikhowa National Park from Guijan Ghat",
+    "Visit the Digboi oil museum and centenary refinery area, about 80 km east",
+    "See the Tai Phake village and monastery at Namphake, near Naharkatia",
+    "Walk the Brahmaputra embankment at sunset"
+  ],
+  "how_to_reach": "Dibrugarh airport at Mohanbari is about 15 km from town, with direct flights from Delhi, Kolkata, Guwahati and a few other cities. By rail, Dibrugarh station is the terminus for trains from Guwahati, Delhi and the long-distance Vivek Express from Kanyakumari; the train from Guwahati takes about 10 to 11 hours overnight. By road Dibrugarh is about 440 km from Guwahati, a 9 to 10 hour drive via Jorhat and Sivasagar. Across the Bogibeel bridge, roads continue north to Pasighat in Arunachal, for which you need an ILP.",
+  "where_to_stay": "The reason to stay here is the tea bungalows. Mancotta Heritage Chang Bungalow sits inside Mancotta Tea Estate, a few kilometres from town, and Chowkidinghee Heritage Tea Bungalow is closer to the centre. Both are raised on stilts, with wooden floors and verandas, and usually include meals. Rooms are few, so book early for November to March. Town hotels near the station and along the main roads suit a single night before a train or flight. For Dibru-Saikhowa, some travellers move on to eco-camps and homestays near Guijan.",
+  "tips": [
+    "Fly into Dibrugarh rather than driving from Guwahati; the road takes most of a day",
+    "Book tea bungalows well in advance and ask if factory visits are possible during your dates",
+    "Tea factories are quiet from December to February; plucking resumes around March",
+    "Carry your Arunachal ILP if you plan to cross Bogibeel and continue to Pasighat or Roing",
+    "Insect repellent and long sleeves help in the evenings on tea estates",
+    "Keep an extra day in the monsoon; rain and floods can disrupt roads in Upper Assam"
+  ],
+  "faqs": [
+    { "q": "What is Dibrugarh famous for?", "a": "Dibrugarh is famous for tea. It is often called the tea city of India and is surrounded by large estates, several with heritage chang bungalows for guests. It is also known for the Bogibeel road and rail bridge across the Brahmaputra and as the gateway to Dibru-Saikhowa National Park and eastern Arunachal." },
+    { "q": "How do I reach Dibrugarh?", "a": "The easiest way is to fly into Dibrugarh airport at Mohanbari, about 15 km from town, which has direct flights from Delhi, Kolkata, Guwahati and a few other cities. Overnight trains from Guwahati take about 10 to 11 hours. The drive from Guwahati is about 440 km and takes 9 to 10 hours via Jorhat and Sivasagar." },
+    { "q": "Can I stay in a tea bungalow in Dibrugarh?", "a": "Yes. Mancotta Heritage Chang Bungalow, inside Mancotta Tea Estate, and Chowkidinghee Heritage Tea Bungalow are two well-known heritage stays. They are old planters' homes raised on stilts, with wooden floors, verandas and meals included, and usually arrange a garden walk. Book well ahead for the winter months." },
+    { "q": "What is the Bogibeel bridge?", "a": "Bogibeel is a 4.94 km double-deck road and rail bridge across the Brahmaputra near Dibrugarh, opened on 25 December 2018. It links Dibrugarh on the south bank with Dhemaji on the north bank and has made the journey to Pasighat and eastern Arunachal much faster than the old ferry routes." },
+    { "q": "What is the best time to visit Dibrugarh?", "a": "October to April is the most comfortable time, with dry weather for tea walks and boat trips at Dibru-Saikhowa. If you want to see tea plucked and processed, visit between March and May or in autumn. The monsoon from June to September is hot, wet and prone to flooding." },
+    { "q": "How far is Dibru-Saikhowa National Park from Dibrugarh?", "a": "Guijan Ghat, the main entry point for boat safaris into Dibru-Saikhowa, is about 60 km from Dibrugarh, roughly 1.5 to 2 hours by road via Tinsukia. Leave early, because boat trips are best in the morning. You can do it as a day trip from a Dibrugarh tea bungalow." },
+    { "q": "How many days do I need in Dibrugarh?", "a": "Two nights is a good minimum: one day for tea gardens, a factory visit and the Bogibeel bridge, and another for a boat safari at Dibru-Saikhowa. Add a day for Digboi and the Tai Phake village at Namphake, or use Dibrugarh as the start of a trip into Arunachal." },
+    { "q": "Do I need a permit to visit Dibrugarh?", "a": "No. Dibrugarh is in Assam, which needs no permit for Indian or foreign visitors. If you cross the Bogibeel bridge and continue into Arunachal Pradesh, for example to Pasighat, Roing or Namdapha, Indian citizens need an Arunachal ILP and foreigners need a Protected Area Permit. Check current status before you travel." },
+    { "q": "What tea should I buy in Dibrugarh?", "a": "Look for orthodox leaf tea, especially second-flush teas from May and June, which have the malty flavour Assam is known for. CTC tea, the granular kind used for chai, is widely sold and cheap. Estate outlets and established town tea shops let you taste before you buy." }
+  ],
+  "nearby": ["dibru-saikhowa", "sivasagar", "jorhat", "pasighat", "namdapha"],
+  "image_query": "Dibrugarh tea garden Assam"
+}

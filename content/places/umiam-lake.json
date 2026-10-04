@@ -1,0 +1,66 @@
+{
+  "slug": "umiam-lake",
+  "name": "Umiam Lake",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "Ri-Bhoi",
+  "types": ["lake", "water-sports", "sightseeing"],
+  "tagline": "A pine-ringed reservoir 15 km north of Shillong on the Guwahati road",
+  "altitude_m": 980,
+  "coords": [25.6532, 91.8843],
+  "best_months": [10, 11, 12, 1, 2, 3, 4, 5],
+  "best_time": "October to April for calm water and clear skies; early mornings bring mist over the lake.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Water sports and viewpoints charge small fees; carry photo ID for hotel registration",
+    "foreigners": "No permit needed. Same fees and rules as Indian visitors"
+  },
+  "from_hub": { "hub": "Shillong", "km": 15, "hours": "0.5" },
+  "ideal_stay": "A 1 to 2 hour stop on the Guwahati–Shillong road, or 1 night at a lakeside resort",
+  "meta_description": "Umiam Lake, Meghalaya: reservoir 15 km from Shillong on the Guwahati road. Boating, viewpoints, lakeside stays, timings and 9 FAQs.",
+  "quick_answer": "Umiam Lake, often called Barapani, is a reservoir about 15 km north of Shillong on the Guwahati road, at around 980 m in Meghalaya's Ri-Bhoi district. Stop for the viewpoint, boating or kayaking at the water sports complex, or stay a night at a lakeside resort. No permit is needed; activities carry small fees.",
+  "intro": [
+    "Most people see Umiam before they see Shillong. The GS Road from Guwahati climbs through pine and then swings along the edge of a long, many-armed lake about 15 km before the city. Locals call it Barapani, big water, and it is a reservoir rather than a natural lake: the Umiam River was dammed in the early 1960s, and the first power station here started in 1965.",
+    "The lake sits in Ri-Bhoi district, lower and a little warmer than Shillong. Its shore is a mix of pine slopes, small islands and inlets, with the dam and a few viewpoints along the highway. The Meghalaya Tourism water sports complex runs boats and kayaks, and there are private resorts on quieter arms of the water.",
+    "We usually plan it as a 60 to 90 minute stop on arrival day, when you are coming up from Guwahati, or as a slow morning if you are staying at the lake. Sunrise mist over the water in November and December is the best reason to stay overnight."
+  ],
+  "highlights": [
+    { "name": "Highway viewpoints", "text": "Pull-outs along the GS Road give wide views of the lake and its islands without leaving the route." },
+    { "name": "Water sports complex", "text": "The state-run complex offers rowing boats, speed boats and kayaks, with life jackets, on most days in the dry season." },
+    { "name": "Morning mist", "text": "From November to January, mist often lies on the water until about 8 am, which is when the lake looks its best." },
+    { "name": "Lakeside stays", "text": "A handful of resorts sit right on the water, a calmer alternative to a night in central Shillong." },
+    { "name": "Lum Nehru Park", "text": "A small park by the lake with lawns and a view of the dam area, useful as a stretch-your-legs stop with children." }
+  ],
+  "things_to_do": [
+    "Stop at a GS Road viewpoint for photos on the drive between Guwahati and Shillong",
+    "Take a boat or kayak at the Meghalaya Tourism water sports complex",
+    "Watch sunrise mist from a lakeside resort in winter",
+    "Walk the lawns of Lum Nehru Park with children",
+    "Have a slow lunch at a lakeside cafe or resort restaurant",
+    "Cycle or walk the quieter lanes on the eastern shore with a local guide",
+    "Photograph the dam area at golden hour from a safe viewpoint"
+  ],
+  "how_to_reach": "Umiam Lake is on NH6, the GS Road between Guwahati and Shillong. From Police Bazar it is about 15 km and 30 minutes; from Guwahati city it is about 85 km and 2.5 hours. Any taxi between Guwahati and Shillong can stop at the viewpoints, so ask your driver to add 60 to 90 minutes on arrival or departure day. Shared taxis and buses pass the lake but only stop at their own points, so for the water sports complex or a resort, a private cab is simpler.",
+  "where_to_stay": "Staying at the lake means quiet nights and a 30 minute drive into Shillong for dinner or sightseeing. Ri Kynjai is a well-known lakeside resort with cottages on the water. The Meghalaya Tourism complex, Orchid Lake Resort, is next to the water sports area and is usually cheaper. Smaller homestays around Umiam and Barapani village suit budget travellers with a car. If you want restaurants and nightlife on foot, stay in Shillong instead and treat the lake as a stop.",
+  "tips": [
+    "Wear the life jacket on every boat ride, even on calm water",
+    "Plan the stop for morning or late afternoon; midday light is flat and the viewpoints are busy",
+    "Traffic can back up at the lake viewpoints on weekends; do not park on the bends of the highway",
+    "Carry cash for boating and parking fees",
+    "Water sports may pause during heavy rain or high water; check current status before you travel",
+    "Do not fly drones near the dam without permission"
+  ],
+  "faqs": [
+    { "q": "How far is Umiam Lake from Shillong?", "a": "Umiam Lake is about 15 km north of Police Bazar on the Guwahati–Shillong road, a 25 to 35 minute drive depending on traffic leaving the city. From Guwahati city it is about 85 km, or 2.5 hours, which is why most visitors stop there on the way up or down." },
+    { "q": "Is Umiam Lake natural or man-made?", "a": "Umiam Lake is a man-made reservoir. It was created when the Umiam River was dammed in the early 1960s for hydroelectric power, and the first power station here began working in 1965. Pine slopes and small islands make it look natural, which is why many visitors assume it is." },
+    { "q": "What water sports are available at Umiam Lake?", "a": "The Meghalaya Tourism water sports complex has offered rowing boats, speed boats, kayaks and water cycles, with life jackets provided. Private resorts may offer kayaking for guests. Prices are fixed per ride or per boat and are revised from time to time; activities can stop during heavy rain, so check current status before you travel." },
+    { "q": "What is the best time to visit Umiam Lake?", "a": "October to April is best for calm water, clear skies and comfortable boating. November to January mornings often bring mist on the lake. The monsoon from June to September brings high water and rain, and boating may be suspended on some days, but the hills are at their greenest." },
+    { "q": "Is Umiam Lake called Barapani?", "a": "Yes. Locals often call the lake Barapani, meaning big water, and the surrounding area and nearby institutions carry the same name. On road signs and maps you will see both Umiam and Barapani. If you ask a Shillong taxi driver for Barapani, they will take you to the lake." },
+    { "q": "Is Umiam Lake good for kids?", "a": "Yes. It is one of the easiest outings from Shillong with children: short drive, lawns at Lum Nehru Park and boat rides with life jackets. Keep children well back from the water's edge at unfenced viewpoints, and do not let them near the highway pull-outs where traffic is fast." },
+    { "q": "Can you stay overnight at Umiam Lake?", "a": "Yes. Several resorts and homestays sit on or near the water, including Ri Kynjai and the state-run Orchid Lake Resort next to the water sports complex. A night here gives you misty sunrise views and quiet evenings, with central Shillong about 30 minutes away for dinner or sightseeing." },
+    { "q": "Is Umiam Lake worth visiting?", "a": "Yes, as a stop on the Guwahati–Shillong drive. You do not need to make a separate trip; add 60 to 90 minutes on arrival or departure day. It is worth a night only if you want a quiet lakeside stay rather than being in the middle of Shillong." },
+    { "q": "Is there an entry fee for Umiam Lake?", "a": "The highway viewpoints are free, though some pull-outs charge for parking. Lum Nehru Park and the water sports complex have their own small entry or activity fees, collected at counters on site. Carry cash in small notes, as card and UPI payments are not always accepted." }
+  ],
+  "nearby": ["shillong", "shillong-peak", "elephant-falls", "guwahati"],
+  "image_query": "Umiam Lake Barapani Meghalaya"
+}

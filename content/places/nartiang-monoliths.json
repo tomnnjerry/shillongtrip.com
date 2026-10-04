@@ -1,0 +1,65 @@
+{
+  "slug": "nartiang-monoliths",
+  "name": "Nartiang Monoliths",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "West Jaintia Hills",
+  "types": ["heritage", "culture"],
+  "tagline": "A garden of standing stones raised by the Jaintia kingdom",
+  "altitude_m": 1400,
+  "coords": [25.5733, 92.2120],
+  "best_months": [10, 11, 12, 1, 2, 3, 4, 5],
+  "best_time": "October to May for dry grass and clear light; the site is open year-round.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Entry has been free or a small community fee; carry cash just in case",
+    "foreigners": "No permit needed. Same arrangements as Indian visitors"
+  },
+  "from_hub": { "hub": "Shillong", "km": 65, "hours": "2" },
+  "ideal_stay": "A 1 to 2 hour visit with the Durga temple, on a Jowai day",
+  "meta_description": "Nartiang Monoliths, Meghalaya: Jaintia standing stones up to about 8 m tall, the Durga temple, how to reach from Shillong and 9 FAQs.",
+  "quick_answer": "Nartiang is a village in West Jaintia Hills, Meghalaya, about 65 km (2 hours) from Shillong, with one of the largest clusters of monoliths in the Khasi–Jaintia hills. The tallest stands about 8 m high. Tradition dates the stones to the Jaintia kingdom, roughly 1500 to 1835. The Durga temple is nearby. No permit is needed.",
+  "intro": [
+    "Standing stones are everywhere in the Khasi and Jaintia hills, but nowhere else in such numbers as at Nartiang. In a grassy garden at the edge of the village, hundreds of stones stand or lie in rows: tall upright menhirs, and flat table-like dolmens in front of them. The tallest is about 8 m, and it towers over visitors.",
+    "Nartiang was a summer seat of the Jaintia kings, and local tradition dates the stones to the kingdom's later centuries, from about 1500 until the British annexation in 1835. They were raised to honour rulers, ancestors and events. Upright stones are traditionally seen as male and the flat ones as female, and your guide or a village elder may point out stones linked to particular clans and stories, including the tallest, which tradition credits to a warrior named U Mar Phalyngki.",
+    "A short distance away is the Nartiang Durga temple, a shrine revered as a Shakti peetha, which blends Hindu and Pnar traditions. We pair the two on a day in the Jaintia Hills, often with Jowai and Thadlaskein Lake, or on the way to Krang Suri Falls."
+  ],
+  "highlights": [
+    { "name": "The tallest menhir", "text": "An upright stone of about 8 m, one of the tallest in the region." },
+    { "name": "Menhirs and dolmens", "text": "Rows of upright and flat stones side by side, set in a mown garden that is easy to walk." },
+    { "name": "Nartiang Durga temple", "text": "A temple linked to the Jaintia kings, where the goddess has traditionally been represented without an idol." },
+    { "name": "Old cannons", "text": "Historical guns kept near the temple are reminders that the site was once part of a royal stronghold." }
+  ],
+  "things_to_do": [
+    "Walk among the menhirs and dolmens in the monolith garden",
+    "Stand beside the tallest stone for a sense of its scale",
+    "Visit the Nartiang Durga temple nearby",
+    "Ask a local guide or elder about the stories behind individual stones",
+    "Photograph the stones in soft morning or late afternoon light",
+    "Continue to Jowai and Thadlaskein Lake on the same day",
+    "Link with Krang Suri Falls for a full Jaintia Hills circuit"
+  ],
+  "how_to_reach": "Nartiang is about 65 km from Shillong, usually around 2 hours by car on the Shillong–Jowai highway and then a side road north of Jowai. From Jowai town it is under an hour. The monolith garden is at the edge of the village with parking alongside, and the Durga temple is a short drive or walk away. Public transport is limited to occasional shared taxis, so hire a cab from Shillong or Jowai. Many travellers see Nartiang, Jowai and Thadlaskein in one long day from Shillong.",
+  "where_to_stay": "There are few stays in Nartiang itself. Jowai, the district headquarters, has modest hotels and guest houses and is the most practical base for a night in the Jaintia Hills, especially if you plan to see Krang Suri the next day. Village homestays operate in parts of West Jaintia Hills, with simple rooms and home-cooked food. Travellers who prefer more comfort stay in Shillong and do Nartiang as a day trip; start by 8 am to include Jowai and a lake stop.",
+  "tips": [
+    "Do not climb or sit on the stones; they are sacred and historical",
+    "Visit the temple respectfully, removing shoes where asked",
+    "Carry cash for any community fee or donation",
+    "Morning light gives the best texture on the stones for photographs",
+    "Combine with Jowai and Krang Suri to make the drive worthwhile",
+    "Carry an umbrella; the Jaintia Hills get heavy rain from June to September"
+  ],
+  "faqs": [
+    { "q": "What are the Nartiang monoliths?", "a": "They are a large cluster of standing stones in Nartiang village, West Jaintia Hills. Upright menhirs and flat dolmens were raised, according to tradition, between about 1500 and 1835, during the time of the Jaintia kingdom. They commemorate rulers, ancestors and events, and remain culturally important to the Pnar community." },
+    { "q": "How tall is the tallest monolith at Nartiang?", "a": "The tallest standing stone at Nartiang is about 8 m high, among the tallest monoliths in the Khasi and Jaintia hills. Local tradition credits it to U Mar Phalyngki, a warrior of the Jaintia kingdom. Standing beside it is the best way to appreciate the effort needed to move and raise it." },
+    { "q": "How far is Nartiang from Shillong?", "a": "Nartiang is about 65 km from Shillong, roughly 2 hours by car via the Shillong–Jowai highway and a side road. From Jowai town it is under an hour. Many travellers combine Nartiang with Jowai and Thadlaskein Lake in one long day trip from Shillong." },
+    { "q": "Is there an entry fee for the Nartiang monoliths?", "a": "Entry has generally been free or a small community charge, and parking is informal. Any fee is collected in cash by local caretakers. Donations at the Durga temple are voluntary. Arrangements are set locally and may change, so carry small notes and check current status before you travel." },
+    { "q": "What is special about the Nartiang Durga temple?", "a": "The temple is linked to the Jaintia kings, with tradition dating it to the reign of Raja Jaso Manik in the early 1600s. It is revered as a Shakti peetha and blends Hindu and Pnar customs; the goddess has traditionally been represented without an idol. Old cannons near the temple recall its royal past." },
+    { "q": "What is the best time to visit Nartiang?", "a": "October to May is best, with dry grass, clear skies and comfortable walking. The site is open all year and is green during the monsoon, from June to September, but expect heavy rain and muddy paths. During Durga Puja in autumn, the temple is busier with pilgrims and rituals." },
+    { "q": "How much time do I need at Nartiang?", "a": "One to two hours is enough to walk through the monolith garden, visit the Durga temple and talk to a local guide or caretaker. Add Jowai and Thadlaskein Lake for a half-day, or Krang Suri Falls for a full day in the Jaintia Hills." },
+    { "q": "Is Nartiang suitable for kids and seniors?", "a": "Yes. The monolith garden is mostly flat, grassy ground with short walks between the stones, and cars can park close by. There are a few steps at the Durga temple. It is a good educational stop for children; explain that the stones are sacred and must not be climbed." },
+    { "q": "Can I combine Nartiang with Krang Suri Falls?", "a": "Yes. A Jaintia Hills day from Shillong can cover Nartiang in the morning, Jowai for lunch and Krang Suri Falls in the afternoon, but it means 5 to 6 hours of driving. Staying a night in Jowai makes the plan more relaxed and leaves time to swim at Krang Suri." }
+  ],
+  "nearby": ["jowai", "krang-suri-falls", "shillong", "dawki-umngot"],
+  "image_query": "Nartiang monoliths"
+}

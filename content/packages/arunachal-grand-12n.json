@@ -1,0 +1,194 @@
+{
+  "slug": "arunachal-grand-12n",
+  "title": "Grand Arunachal: Tawang, Ziro and Mechuka",
+  "nights": 12,
+  "themes": ["adventure", "photography"],
+  "states": ["arunachal", "assam"],
+  "places": ["pasighat", "mechuka", "ziro-valley", "nameri", "dirang", "sela-pass", "nuranang-falls", "tawang", "tawang-monastery", "bum-la-pass", "madhuri-lake", "bomdila", "dibrugarh"],
+  "hero": "sela-pass",
+  "price_from_inr": 72500,
+  "best_months": [3, 4, 10, 11],
+  "difficulty": "challenging",
+  "max_altitude_m": 4600,
+  "start": "Dibrugarh Airport (DIB)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Grand Arunachal road trip, 12 nights / 13 days from Dibrugarh to Guwahati: Mechuka, Ziro, Dirang, Sela and Tawang, with rest days and ILP help.",
+  "quick_answer": "This 12 nights / 13 days road trip crosses Arunachal from east to west: Dibrugarh to Mechuka, across to Ziro, then up to Dirang, Sela and Tawang, ending in Guwahati. It covers about 2,300 km with three no-drive days. It suits fit travellers who want all three valleys in one trip and accept several 7–9 hour drives.",
+  "overview": [
+    "Arunachal's three best-known valleys sit in separate river systems with no direct road between them, so seeing Mechuka, Ziro and Tawang on one trip means crossing the state along the Trans-Arunachal Highway and dropping into the Assam plains once. We start in the east at Dibrugarh so that altitude rises gradually: Mechuka at about 1,900 m, Ziro at about 1,690 m, Dirang at 1,620 m and then Tawang at about 2,670 m. Nobody sleeps at Tawang straight from the plains.",
+    "The route is long, and we say so plainly: about 2,300 km, with drives of 7–9 hours on six days. In return you get two nights each in Mechuka, Ziro and Tawang, with a full no-drive day in each. If you can spare two more nights, we add a buffer night in Aalo and a second night in Dirang; tell us when you enquire. Avoid June to September, when landslides are routine on almost every stretch."
+  ],
+  "highlights": [
+    "Two nights each in Mechuka, Ziro and Tawang, with a no-drive day in every valley",
+    "The Bogibeel bridge, the Siang at Pasighat and the Siyom valley to Mechuka",
+    "Apatani villages, pine groves and rice fields in Ziro",
+    "Sela Lake at about 4,170 m and the all-weather Sela Tunnel",
+    "Tawang Monastery, founded in 1681, and the Tawang War Memorial",
+    "Bum La (4,600 m) and Madhuri Lake for Indian citizens, on Army permission",
+    "Altitude built up slowly from east to west, never Tawang on the first night"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Dibrugarh to Aalo via Bogibeel and Pasighat",
+      "stay": "Aalo",
+      "altitude_m": 300,
+      "drive": "255 km · 7 hrs",
+      "text": "Take a morning flight into Dibrugarh; we meet you at Mohanbari airport and cross the Brahmaputra on the 4.94 km Bogibeel bridge. Your ILP or PAP is checked at the Ruksin gate. Lunch at Pasighat, the oldest town in Arunachal, with a short stop on the Siang riverbank. The afternoon road follows the Siang upstream to Pangin, where the Siyom joins it, then turns west to Aalo, the West Siang district headquarters. You arrive around dusk. This is a long first day, so choose a flight that lands in Dibrugarh before 11 am.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Aalo to Mechuka",
+      "stay": "Mechuka",
+      "altitude_m": 1900,
+      "drive": "187 km · 7–8 hrs",
+      "text": "Leave by 6.30 am. The road runs north through Kabu and Tato, the Shi Yomi district headquarters, then climbs through wet forest into the Mechuka valley. The Aalo–Mechuka road is being widened, so expect fresh cuttings and short waits for machines; after rain, add one or two hours. Lunch at Tato. The last stretch opens into a flat, grassy valley with the Siyom running through it and snow on the ridges in winter and spring. Check in to your homestay. Mechuka is close to the Line of Actual Control, so keep your photo ID with you.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Mechuka rest day",
+      "stay": "Mechuka",
+      "altitude_m": 1900,
+      "drive": "30 km · local",
+      "text": "No long drive today. Walk up to Samten Yongcha gompa, a Memba monastery about 400 years old, for the view over the valley at first light. Later, visit the Gurdwara Tapo Asthan, cross the hanging bridges over the Siyom and drive a short way to Dorjeeling village or Hanuman Point. For photographers, the flat valley floor with the river, fences and prayer flags works best in the hour before sunset. Evenings are cold for most of the season, so ask your homestay for a bukhari or extra blankets, and have an early night before tomorrow's drive.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Mechuka to Aalo",
+      "stay": "Aalo",
+      "altitude_m": 300,
+      "drive": "187 km · 7–8 hrs",
+      "text": "Back down the same road to Aalo, leaving around 7 am. Lunch at Tato. If the road crews are working the same stretches, expect similar waits to day 2. Reach Aalo by late afternoon and walk down to the Siyom for an hour, or across one of the town's hanging bridges. Aalo is mostly Galo country; if you are here in early April, the Mopin spring festival may be on. If the road was bad on the way up and you arrived late in Mechuka, we use this day's slack by leaving after the morning light.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Aalo to Daporijo",
+      "stay": "Daporijo",
+      "altitude_m": 600,
+      "drive": "150 km · 6 hrs",
+      "text": "Today you cross from the Siang basin to the Subansiri along the Trans-Arunachal Highway, through Galo and Tagin country. The road climbs over forested ridges and drops into river valleys, with few towns and many small road-side tea stalls. Pack snacks and water, and fill the tank in Aalo. Daporijo sits at about 600 m on the bank of the Subansiri, one of the largest tributaries of the Brahmaputra. In the evening, walk to the river or the town market. Rooms here are simple town hotels; the point of the night is to split a 10-hour crossing into two fair days.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Daporijo to Ziro",
+      "stay": "Ziro (Hapoli)",
+      "altitude_m": 1690,
+      "drive": "160 km · 6 hrs",
+      "text": "The second half of the crossing climbs out of the Subansiri valley through Nyishi villages and forest to the Ziro plateau at about 1,690 m. The last hour is the easiest of the day, as the road flattens out between pine groves and rice fields. Check in at Hapoli, the main town, in the early afternoon. Take a slow evening walk along the paddy bunds near your stay; the rice fields hold fish as well as grain, and families work them by hand. Dinner is often smoked pork with bamboo shoot and rice, and the local rice beer, apong.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Ziro rest day in Apatani villages",
+      "stay": "Ziro (Hapoli)",
+      "altitude_m": 1690,
+      "drive": "35 km · local",
+      "text": "A day off the long roads. With a local guide, walk through Hong, one of the largest Apatani villages, where stilt houses stand in tight rows around lapang platforms used for meetings and rituals. Some older women still have the facial tattoos and nose plugs the community gave up in the 1970s; ask before taking a photograph. In the afternoon, visit Siiro and Hari, the managed pine and bamboo groves, and the viewpoint over the valley. Photographers get the best light over the fields early morning and late afternoon. Get your clothes washed today; the next stretch is five driving days.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Ziro to Nameri across the Assam plains",
+      "stay": "Bhalukpong (Nameri)",
+      "altitude_m": 150,
+      "drive": "350 km · 9 hrs",
+      "text": "The longest day, but most of it is flat highway. Leave by 6 am and drop down through Yachuli and Kimin to the Assam plains near North Lakhimpur. From there the road runs west along the north bank of the Brahmaputra through Gohpur and Biswanath Chariali to Balipara, with tea gardens most of the way. Lunch on the highway. You reach the Nameri eco camp at Potasali or a lodge near Bhalukpong in the evening. This is the only time the route leaves Arunachal, because there is no road between Ziro and the Kameng valley in the hills.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Bhalukpong to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "140 km · 5–6 hrs",
+      "text": "Your ILP is checked again at the Bhalukpong gate. The road climbs along the Kameng river past the Tipi orchid centre, then through Rupa and over the ridge to Bomdila at 2,415 m, where you stop for lunch and the Gontse Gaden Rabgye Ling monastery. From Bomdila it is 42 km down to Dirang at about 1,620 m, a river valley with a stone dzong, a hot spring and apple and kiwi orchards. Sleeping in Dirang before Tawang gives your body a night at middle height. The Bhalukpong–Bomdila stretch has landslides in the monsoon, so check current status before you travel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Dirang to Tawang over Sela",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "135 km · 5 hrs",
+      "text": "Leave Dirang by 7.30 am. The Sela Tunnel, open since March 2024, gives all-weather access to Tawang; in fair weather we still take the old road over Sela Pass at about 4,170 m to stop at the frozen or blue Sela Lake. Descend past the Jaswantgarh war memorial to Jang, where the Nuranang falls drop about 100 m, and reach Tawang by early afternoon. At 4 pm visit Tawang Monastery, founded in 1681 and the largest in India, then the Tawang War Memorial for its evening light and sound show. Your driver files the Bum La permit today.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Bum La and Madhuri Lake",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "80 km · 6–7 hrs round trip",
+      "text": "For Indian citizens, this is the day for Bum La (4,600 m) on the India–China border, 37 km from Tawang. The permit comes from the DC office in Tawang and is stamped at the Army cantonment, and only local SUVs may go. Madhuri Lake (Sangetsar Tso) lies a short way past the Bum La turn on the same permit. Bum La runs on Army permission day by day and often closes after snow between December and March. Foreign guests are not allowed to Bum La; instead we visit Urgelling monastery, the Gyangong Ani Gompa nunnery and the handmade paper centre in town.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Tawang to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2415,
+      "drive": "171 km · 6 hrs",
+      "text": "Leave Tawang after an early breakfast and drive back through the Sela Tunnel, or over the pass if you want a second look at the lake in morning light. Stop in Dirang for lunch and, if you missed it on day 9, the hot spring or the old dzong. Continue to Bomdila, at 2,415 m, for the night. Bomdila's monastery and small market are a short walk from most hotels, and on clear evenings you can see the Kangto and Gorichen ranges. Sleep early; tomorrow is a full day down to Guwahati, so we leave at first light.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Bomdila to Guwahati and depart",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "300 km · 8 hrs",
+      "text": "Leave Bomdila by 6 am. The road drops through Rupa and Tenga to Bhalukpong, then crosses the plains through Balipara, Dhekiajuli and Mangaldoi along the north bank to Guwahati. With a lunch stop you reach Guwahati Airport by about 2 pm on a normal day. Book a flight after 5 pm, or let us add a night in Guwahati at extra cost if your flight is the next morning. If you have spare time, the driver can stop at a Balipara tea garden for fresh Assam tea. We are on WhatsApp until you board.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "12 nights in hotels, homestays and an eco camp on twin sharing",
+    "Daily breakfast and dinner (dinner only on day 1)",
+    "Private SUV (Scorpio, Innova or similar) with one driver for the full route, Dibrugarh to Guwahati",
+    "Local Tawang taxi for Bum La and Madhuri Lake (Indian citizens)",
+    "Local guides in Mechuka, Ziro and Tawang",
+    "Help with the Arunachal tourist ILP for Indian citizens",
+    "PAP paperwork through our approved partner for foreign guests (group of two or more)",
+    "Driver allowance, fuel, tolls, parking and inter-state taxes",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights into Dibrugarh and out of Guwahati",
+    "ILP, PAP and Bum La permit fees",
+    "Lunches, snacks and drinks",
+    "Monastery, museum and camera fees",
+    "Nameri rafting or guided walks",
+    "Extra nights or costs from landslides, snow closures or bandhs",
+    "Travel insurance",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Aalo and Daporijo: clean town hotels (limited choice). Mechuka: Accomoon Valleyside Homes or similar. Ziro: Hotel Zirora or similar. Nameri: Nameri Eco Camp or similar. Dirang: Pemaling Lords Inn or similar. Tawang: Hotel Tawang Heights or similar. Bomdila: Himland House or similar" },
+    { "tier": "Premium", "options": "Mechuka: best homestay rooms. Ziro: Siiro Resort or similar. Nameri: Nameri Eco Camp or similar. Dirang: Dirang Boutique Cottages or similar. Tawang: Hotel Gakyi Khang Zhang or Timilo Boutique, or similar. Bomdila: Hotel Elysium or similar" },
+    { "tier": "Luxury", "options": "Mechuka, Aalo, Daporijo and Ziro have no luxury hotels, so we book the best rooms available. Balipara: Wild Mahseer instead of Nameri. Dirang: Dirang Boutique Cottages (best rooms) or similar. Tawang: Vivanta Tawang or similar. Bomdila: Hotel Elysium (best rooms) or similar" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500, so pay whatever the portal shows. Make sure your ILP dates cover all 12 nights. Foreign nationals need a Protected Area Permit through an approved operator for groups of two or more, and cannot visit Bum La. Check current status before you travel.",
+    "Bum La is open to Indian civilians only, with a DC Tawang permit stamped by the Army, in clear weather and in local SUVs. It often closes after snow from December to March.",
+    "Six days on this route involve 7–9 hours of driving. If you can, add a buffer night in Aalo and a second night in Dirang; we price this on request.",
+    "Avoid June to September. Landslides are routine on the Aalo–Mechuka road, the Trans-Arunachal Highway and the Bhalukpong–Bomdila stretch.",
+    "Tawang nights fall below 0°C from November to March, and Mechuka and Ziro are close to freezing in December and January. Pack thermals, a down jacket, gloves and a warm cap.",
+    "ATMs are unreliable in Mechuka, Daporijo and on the Sela road. Carry cash for several days at a time."
+  ],
+  "faqs": [
+    { "q": "Can you see Tawang, Ziro and Mechuka in one trip?", "a": "Yes, but it takes at least 12 nights by road, because there is no direct road between the three valleys. This route crosses from Mechuka to Ziro on the Trans-Arunachal Highway, drops into the Assam plains to reach the Kameng valley, and then climbs to Dirang and Tawang. We recommend 14 nights if you want an easier pace." },
+    { "q": "Why does this trip start in Dibrugarh and end in Guwahati?", "a": "Starting in the east lets altitude build up slowly, from Mechuka at about 1,900 m to Ziro and Dirang, before Tawang at about 2,670 m. It also puts the longest single drive, Ziro to Nameri, on a flat highway in the middle of the trip. Guwahati has the widest choice of evening flights for the final day." },
+    { "q": "How many hours of driving are there each day?", "a": "Six days involve 7 to 9 hours of driving, four days are 5 to 6 hours, and three days in Mechuka, Ziro and Tawang have no long drive. The total is about 2,300 km. The longest day is Ziro to Nameri, about 350 km and 9 hours, mostly on plains highway. Mountain roads slow down after rain." },
+    { "q": "Do I need permits for the Grand Arunachal trip?", "a": "Indian citizens need one Arunachal tourist ILP that covers all 12 nights, from eilp.arunachal.gov.in; it costs about ₹300–500, so pay what the portal shows. Foreign nationals need a Protected Area Permit through an approved operator, usually for groups of two or more. Bum La needs an extra Army-stamped permit in Tawang. Check current status before you travel." },
+    { "q": "Can foreigners join this Arunachal grand tour?", "a": "Yes, with a Protected Area Permit arranged through an approved operator, usually for two or more travellers on a fixed itinerary. The royalty is around USD 30–50, confirmed by the operator. Foreign nationals cannot visit Bum La, so on that day we plan monasteries and crafts around Tawang instead. Mechuka's permit coverage must be confirmed in advance." },
+    { "q": "What is the best time for the Grand Arunachal trip?", "a": "March, April, October and November are the best months. Skies are clearer, the roads are dry and Sela is usually open without heavy snow. December to February brings snow at Sela and Bum La closures, and very cold nights. June to September is the monsoon, when landslides make this long route unreliable." },
+    { "q": "Is altitude sickness a risk on this trip?", "a": "The risk is low because you sleep at Mechuka, Ziro and Dirang before Tawang, and never go straight from the plains to Tawang. Day trips to Sela at about 4,170 m and Bum La at 4,600 m are short. Drink water, avoid alcohol on the first night in Tawang, and tell us about heart or lung conditions before booking." },
+    { "q": "What kind of vehicle do we travel in?", "a": "You travel in one private SUV, usually a Scorpio or Innova, with the same driver from Dibrugarh to Guwahati. At Tawang, a local taxi is compulsory for Bum La and Madhuri Lake, and we include it for Indian citizens. The SUV carries four adults with luggage comfortably; larger groups use a Tempo Traveller or two cars." },
+    { "q": "How much does the Grand Arunachal package cost?", "a": "This 12 nights / 13 days trip starts from ₹72,500 per person on twin sharing with standard hotels, homestays, breakfast and dinner, and a private SUV throughout. The vehicle is the largest cost, so four people sharing one car pay less each. Flights, permit fees, lunches and entry fees are extra. Premium and luxury upgrades are priced on request." }
+  ]
+}

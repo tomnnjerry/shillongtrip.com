@@ -1,0 +1,65 @@
+{
+  "slug": "mawsynram",
+  "name": "Mawsynram",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["village", "monsoon", "caves"],
+  "tagline": "The rain-record village on the edge of the Khasi Hills",
+  "altitude_m": 1400,
+  "coords": [25.2989, 91.5814],
+  "best_months": [6, 7, 8, 9, 10, 11, 12, 1, 2, 3],
+  "best_time": "June to September to experience the rain; October to March for views and dry caves.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Small cash fees at Mawjymbuin Cave and parking areas",
+    "foreigners": "No permit needed. Same fees as Indian visitors"
+  },
+  "from_hub": { "hub": "Shillong", "km": 65, "hours": "2" },
+  "ideal_stay": "A day trip from Shillong, or combined with Mawphlang on the same road",
+  "meta_description": "Mawsynram, Meghalaya: one of the wettest places on Earth. Rainfall facts, Mawjymbuin Cave, how to reach from Shillong, best time and 9 FAQs.",
+  "quick_answer": "Mawsynram is a village at about 1,400 m in East Khasi Hills, Meghalaya, about 65 km (2 hours) from Shillong. It is among the wettest places on Earth, averaging close to 11,900 mm of rain a year. Visit for the monsoon itself, Mawjymbuin Cave and the Symper Rock views. No permit is needed; small cash fees apply.",
+  "intro": [
+    "Mawsynram sits on the southern edge of the Khasi Hills plateau, about 15 km west of Sohra as the crow flies, and shares its reason for fame: the hills here stand directly in the path of monsoon clouds coming off the Bay of Bengal. Records put its average annual rainfall at roughly 11,900 mm, and in 2022 it recorded more than 1,000 mm on a single June day.",
+    "Mawsynram is often called the wettest place on Earth. It is fairer to say it is one of them: its average is usually a little higher than Sohra's, and some towns in Colombia report similar or higher figures, depending on the period measured. Either way, from June to September rain arrives in long, heavy spells, and cloud often sits in the village for days.",
+    "The village itself is quiet, with a small market, churches and houses roofed against the downpour. Its best-known sight is Mawjymbuin Cave, where a stalagmite beneath a dripping formation draws pilgrims and visitors. We suggest it as a day trip from Shillong, combined with Mawphlang, and ideally in the monsoon, if experiencing the rain is the point."
+  ],
+  "highlights": [
+    { "name": "Monsoon rain", "text": "From June to September the rain is heavy and often continuous; standing in it is the experience." },
+    { "name": "Mawjymbuin Cave", "text": "A limestone cave with a large stalagmite, revered by some visitors as a natural Shiva linga, under a dripping formation." },
+    { "name": "Symper Rock", "text": "A flat-topped, dome-shaped hill in the Mawsynram area with wide views over the plains on clear days." },
+    { "name": "Jakrem hot springs", "text": "Sulphur springs on the Mawphlang–Mawsynram road, used locally for bathing." },
+    { "name": "Plateau edge views", "text": "On clear winter days the land drops away south towards the Bangladesh plains." }
+  ],
+  "things_to_do": [
+    "Experience a full monsoon day of rain in July or August",
+    "Visit Mawjymbuin Cave and its stalagmite formation",
+    "Look out from Symper Rock on a clear day",
+    "Stop at the Jakrem hot springs on the way from Shillong",
+    "Combine with the Mawphlang sacred forest on the same road",
+    "Photograph cloud pouring over the plateau edge in the rains"
+  ],
+  "how_to_reach": "Mawsynram is about 65 km from Shillong, usually around 2 hours by car on the road through Mawphlang, which makes the sacred forest an easy stop on the way. Jakrem hot springs are also along this route. Roads are narrow in places and can be slowed by fog and landslides in the monsoon. Public transport is limited to occasional shared taxis, so hire a cab from Shillong for the day. From Sohra, the two villages are close on the map, but road links are indirect; most visitors go from Shillong.",
+  "where_to_stay": "Mawsynram has very few places to stay: a handful of simple guest houses and homestays with basic facilities. Most travellers visit on a day trip from Shillong, where hotels in Police Bazar, Laitumkhrah and Upper Shillong suit every budget. Staying in Upper Shillong shortens the drive. Travellers already based in Sohra can also plan a day here, but should ask their driver about the route. If you want to stay overnight for the monsoon experience, confirm power backup, hot water and meals before booking.",
+  "tips": [
+    "Carry a full rain suit and waterproof shoes from May to October",
+    "Keep electronics in dry bags; rain is heavy and constant in the monsoon",
+    "Start early and leave by mid-afternoon to avoid driving back in fog",
+    "Cave floors are wet and slippery; wear shoes with grip",
+    "Check road conditions in the monsoon, as landslides can close stretches",
+    "Carry snacks; food options in the village are limited"
+  ],
+  "faqs": [
+    { "q": "Is Mawsynram the wettest place on Earth?", "a": "Mawsynram is among the wettest places on Earth, with an average annual rainfall of roughly 11,900 mm. It usually records a little more than nearby Sohra. Some towns in Colombia report similar or higher averages depending on the years measured, so calling it one of the wettest places is the fairest description." },
+    { "q": "How far is Mawsynram from Shillong?", "a": "Mawsynram is about 65 km from Shillong, roughly 2 hours by car on the road through Mawphlang. It is a popular day trip from Shillong, often combined with the Mawphlang sacred forest and the Jakrem hot springs on the same route." },
+    { "q": "What is the best time to visit Mawsynram?", "a": "It depends on what you want. June to September is the time to experience the famous rain, with heavy downpours and thick cloud. October to March brings drier weather, clearer views from Symper Rock and easier cave visits. April and May are warm with occasional storms." },
+    { "q": "What is Mawjymbuin Cave?", "a": "Mawjymbuin Cave is a limestone cave near Mawsynram. Its best-known feature is a large stalagmite, which some visitors revere as a natural Shiva linga, beneath a dripping formation. The cave is short and easy to visit, though wet and slippery. A small entry and parking fee is collected in cash." },
+    { "q": "Is Mawsynram worth visiting?", "a": "Yes, if you are curious to experience extreme rainfall or want a quieter alternative to Sohra. It has fewer big sights, so treat it as a half-day or day trip with Mawphlang and Jakrem on the way. In the dry season, Sohra offers more for a first-time visitor." },
+    { "q": "How much rain does Mawsynram get?", "a": "Mawsynram's average annual rainfall is roughly 11,900 mm, most of it between June and September. Guinness World Records has recognised it for very high annual totals, and on 17 June 2022 the station recorded over 1,000 mm in a single day. Totals vary widely from year to year." },
+    { "q": "Is it safe to visit Mawsynram in the monsoon?", "a": "Yes, with care. The main risks are on the road: fog, slippery surfaces and occasional landslides. Travel with an experienced local driver, start early, and avoid driving back after dark. At the cave and viewpoints, wet rocks are slippery. Check current status of roads before you travel." },
+    { "q": "Can I stay overnight in Mawsynram?", "a": "There are a few simple guest houses and homestays, but choices are very limited and facilities basic. Most visitors stay in Shillong and make a day trip. If you want a night in the rain, book ahead and confirm power backup, hot water and meals." },
+    { "q": "Is Mawsynram suitable for kids and seniors?", "a": "The drive is long and winding, and the rain in the monsoon can be tiring, but the main sights involve short walks. Mawjymbuin Cave has wet, uneven floors, so seniors should take care. In the dry season, it is an easy outing for most families." }
+  ],
+  "nearby": ["sohra", "mawphlang-sacred-forest", "shillong", "nohkalikai-falls"],
+  "image_query": "Mawsynram Meghalaya"
+}

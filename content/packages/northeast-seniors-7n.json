@@ -1,0 +1,149 @@
+{
+  "slug": "northeast-seniors-7n",
+  "title": "Easy-Pace Northeast for Seniors",
+  "nights": 7,
+  "themes": ["seniors", "family"],
+  "states": ["assam", "meghalaya"],
+  "places": ["guwahati", "kamakhya-temple", "shillong", "umiam-lake", "sohra", "nohkalikai-falls", "kaziranga"],
+  "hero": "umiam-lake",
+  "price_from_inr": 36500,
+  "best_months": [11, 12, 1, 2, 3],
+  "difficulty": "easy",
+  "max_altitude_m": 1525,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Northeast tour for seniors, 7 nights / 8 days: Kamakhya, three nights in Shillong, a Sohra day trip and three nights in Kaziranga. Short drives.",
+  "quick_answer": "This 7-night trip is paced for travellers over 60: one night in Guwahati for Kamakhya, three in Shillong with an easy day trip to Sohra, and three in Kaziranga for two jeep safaris. Only two hotel changes, most drives under three hours, and no treks. Best November to March.",
+  "overview": [
+    "We built this trip after hearing the same thing from many older travellers: they wanted Meghalaya and Kaziranga, but not a new hotel every night or seven-hour drives back to back. So you stay put: one night in Guwahati, three in Shillong and three in Kaziranga. Sohra is a day trip from Shillong, not a separate stop, and we pick viewpoints with short, level walks. Kamakhya is visited in the morning with the special darshan option to cut the queue. The one long drive, Shillong to Kaziranga, is broken with stops every 90 minutes.",
+    "Rooms are chosen for lifts or ground-floor access where available, with Western toilets and hot water, and we tell each hotel about any mobility needs ahead of arrival. The driver helps with bags and doors, and can slow down on the ghat roads. Kaziranga safaris are in open jeeps; we ask for a front seat and the driver carries a step. November to March is dry and mild, with Shillong at 6–19°C and Kaziranga at 11–28°C, which suits most older travellers far better than the humid summer."
+  ],
+  "highlights": [
+    "Only two hotel changes in eight days: three nights each in Shillong and Kaziranga",
+    "Kamakhya Temple in the morning, with the paid special darshan option to shorten the queue",
+    "Umiam Lake, Ward's Lake and the Don Bosco Museum at a gentle pace",
+    "Sohra as an easy day trip, with level viewpoints at Nohkalikai and Mawsmai",
+    "Two jeep safaris in Kaziranga, with a front seat requested and a step for the jeep",
+    "An evening Brahmaputra cruise in Guwahati and tea garden walks in Kaziranga"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Guwahati, evening on the Brahmaputra",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "28 km · 1 hr",
+      "text": "Our driver meets you at Guwahati Airport, helps with bags and takes you to the hotel, about an hour away. After a long journey, the afternoon is for rest. Around 4 pm we take you to the riverfront for a sunset cruise on the Brahmaputra, about 1.5 hours on a covered boat with seating, subject to operation that day. The river is more than a kilometre wide here, and you pass Umananda, a small temple island, as the sun goes down. Dinner is at the hotel. Tonight we confirm Kamakhya timings and whether you would like the special darshan tickets for tomorrow.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Kamakhya Temple, then up to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 110 km · 3.5 hrs with stops",
+      "text": "After an early breakfast we drive up Nilachal hill to Kamakhya Temple, one of the most important Shakti shrines in India. Vehicles stop close to the entrance, but there are some steps and uneven stone floors inside. The general queue is free but can take hours; the special darshan ticket, ₹501 per person at the last check, shortens it considerably. Darshan runs from about 8 am to 1 pm. After lunch we drive to Shillong, about three hours on a wide four-lane road, stopping at the Umiam Lake viewpoint for tea. Check in to your Shillong hotel by late afternoon. You unpack properly here, since you stay three nights.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Shillong at an easy pace",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 25 km in town · 2 hrs in total",
+      "text": "A slow start today. Mid-morning we visit the Don Bosco Museum, seven floors on the peoples of the Northeast; we take it slowly with rests between galleries, allow 1.5 hours, and those happy with stairs can finish on the rooftop Skywalk for the city view. After lunch walk the flat paths around Ward's Lake, laid out in colonial times with a wooden bridge and gardens, and then see the Cathedral of Mary Help of Christians in Laitumkhrah. Elephant Falls has many steps, so we suggest only the first viewing tier. In the evening, if you are interested, we can book a table at one of Shillong's live music cafes, known for jazz and classic rock.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Day trip to Sohra",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "110 km return · 3.5 hrs in total",
+      "text": "We drive 55 km south to Sohra (Cherrapunji) across open grassland, stopping at the Mawkdok Dympep viewpoint, which is a few steps from the car park. At Nohkalikai Falls a short, paved path leads to the main viewing area over the 340 m drop into a green pool. After lunch at a Sohra restaurant we visit the Mawsmai viewpoint for the Seven Sisters cliffs and Bangladesh plains, and the Sohra Eco Park, which has level paths along the plateau edge. Mawsmai Cave has narrow squeezes and wet steps, so we suggest it only for those comfortable bending low. We are back in Shillong by 5 pm.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Shillong to Kaziranga with rest stops",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "About 250 km · 6.5–7 hrs with stops",
+      "text": "This is the one long drive, and we plan it carefully. We leave at 8 am after breakfast and stop every 90 minutes or so, at clean tea stops and a proper sit-down lunch in Nagaon. The road is a good highway most of the way. From Jakhalabandha it runs along the southern edge of Kaziranga, and you may see rhinos and elephants grazing from the car. We reach your Kaziranga resort by mid-afternoon. The rest of the day is free; most guests sit on the veranda with tea and listen to the birds. Tonight we confirm tomorrow's jeep safari and request front seats.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Morning jeep safari and the orchid park",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "About 40 km in total · 3 hrs including the safari",
+      "text": "The morning jeep safari in the Central Range lasts about two hours on a mostly flat but bumpy track. Rhinos are seen on almost every drive, along with wild buffalo, swamp deer, elephants and many water birds. The driver carries a step for climbing in, and we request front seats, which are less bumpy. After breakfast back at the resort, rest until lunch. In the afternoon visit the Kaziranga National Orchid and Biodiversity Park, a few kilometres away, with level paths through orchid houses, a cactus garden and a display of Assam's rice varieties. Wheelchairs can manage most of it. Evening at leisure, with a cultural dance programme at some resorts.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Second safari or a tea garden morning",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "About 50 km in total · 3 hrs",
+      "text": "Choose how active you want to be. The second option is a jeep safari in the Western Range at Bagori, which has open grassland and good rhino sightings, in either the morning or the afternoon slot. The gentler option is a walk through a working tea garden near Kohora, where a guide explains plucking, and a visit to a small factory in season to see withering and rolling. Many guests do the safari in the morning and rest in the afternoon. This is also a good day to buy Assam tea to carry home. Pack tonight, since tomorrow's drive to Guwahati is about five hours.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Kaziranga to Guwahati Airport",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "About 200 km · 5 hrs with stops",
+      "text": "We leave Kaziranga after breakfast and drive west on the highway through Nagaon, with a tea stop midway and lunch on the way if your flight is late. The drive takes about five hours with breaks, so please book a flight after 3 pm. If you have an evening flight, we can stop at the Assam State Museum in Guwahati or at a silk shop for mekhela chador and Assam silk stoles. The driver takes you to the terminal and helps with bags. If you would rather not travel the same day, we can add a night in Guwahati near the airport and drop you in the morning.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "7 nights on twin sharing: 1 in Guwahati, 3 in Shillong and 3 in Kaziranga",
+    "Rooms with lift or ground-floor access where available, requested in advance",
+    "Daily breakfast and dinner",
+    "Private air-conditioned vehicle (Innova or similar) with an experienced driver",
+    "Guwahati Airport pickup and drop with help with bags",
+    "Two jeep safaris in Kaziranga with park entry, front seats requested",
+    "Brahmaputra sunset cruise in Guwahati, subject to operation",
+    "Local guide in Kamakhya and Shillong",
+    "Meghalaya guest registration handled with each hotel",
+    "Driver allowance, fuel, tolls and parking"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Kamakhya special darshan tickets, ₹501 per person at the last check",
+    "Camera fees at Kaziranga and entry fees at museums and viewpoints",
+    "Lunches, drinks and snacks",
+    "Wheelchair hire, porters and medical assistance",
+    "Tips and personal expenses",
+    "Travel insurance, strongly advised for travellers over 60",
+    "Costs from strikes, landslides or flight changes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Nandan, Guwahati, or similar; Hotel Centre Point, Shillong, or similar; Aranya Tourist Lodge, Kaziranga, or similar" },
+    { "tier": "Premium", "options": "Novotel Guwahati GS Road or similar; Hotel Polo Towers, Shillong, or similar; Iora The Retreat, Kaziranga, or similar" },
+    { "tier": "Luxury", "options": "Vivanta Guwahati or Radisson Blu Guwahati, or similar; Ri Kynjai at Umiam, 15 km before Shillong, or similar; Diphlu River Lodge or Borgos Resort, Kaziranga, or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga's ranges open in phases from October and close for the monsoon from about May, with dates set each year. We plan this trip from November to March. Check current status before you travel.",
+    "Kamakhya's general queue is free; the special darshan ticket costs ₹501 per person at the last check. The temple closes for Ambubachi in late June. Check current status before you travel.",
+    "Meghalaya requires hotels to register every guest on the state tourism app, so carry photo ID. No permit is needed for Assam or Meghalaya.",
+    "Shillong nights fall to 5–7°C from December to February and many hotels have heaters rather than central heating. Bring warm layers and a cap.",
+    "Tell us about knee, heart or breathing conditions when booking. Shillong is at 1,525 m, which most people barely notice, but steps at viewpoints can be tiring.",
+    "Carry your regular medicines for the whole trip plus a few extra days. Pharmacies are easy to find in Guwahati and Shillong, less so in Kaziranga."
+  ],
+  "faqs": [
+    { "q": "Is this Northeast trip suitable for seniors with limited mobility?", "a": "Yes, for most travellers who can walk 15–20 minutes with rests. Hotels are chosen for lifts or ground-floor rooms, viewpoints have short paths, and we avoid caves, treks and long stairways. Kamakhya has some steps inside. Tell us about wheelchairs or walkers when booking and we will check each hotel and site in advance." },
+    { "q": "How long are the drives?", "a": "Most drives are under three hours: Guwahati to Shillong takes about three, and the Sohra day trip about 1.5 each way. The exception is Shillong to Kaziranga, about 250 km, which takes 6.5 to 7 hours with regular rest stops and a proper lunch. The last day to Guwahati takes about five hours." },
+    { "q": "How much does this seniors' tour cost?", "a": "It starts at ₹36,500 per person on twin sharing, with standard hotels, a private air-conditioned vehicle, two Kaziranga safaris, a Brahmaputra cruise, local guides and breakfast and dinner daily. Premium and luxury tiers use Polo Towers or Ri Kynjai in Shillong and Diphlu River Lodge or Borgos in Kaziranga. Flights and entry fees are extra." },
+    { "q": "Is the Kaziranga jeep safari comfortable for older travellers?", "a": "It is bumpy but manageable. Safaris last about two hours on flat dirt tracks in open jeeps. We request front seats, which are steadier, and the driver carries a step to help you climb in. If you have back problems, one safari is enough; the tea garden morning is an easy alternative." },
+    { "q": "How do we skip the queue at Kamakhya?", "a": "The temple sells special darshan tickets, ₹501 per person at the last check, which use a separate, much shorter line. The general queue is free and can be booked online, but it can take several hours on busy days. We go in the morning and buy tickets in advance where possible." },
+    { "q": "When is the best time for seniors to visit?", "a": "November to March is dry and mild. Shillong is 15–19°C by day and 5–10°C at night, and Kaziranga is pleasant at 23–28°C by day. April and May are warmer and stormier, and from June to September heavy rain makes roads slower and Kaziranga closes, so we do not run this trip then." },
+    { "q": "Is altitude a problem in Shillong?", "a": "For almost everyone, no. Shillong sits at about 1,525 m, and Sohra at about 1,480 m, well below the height where altitude sickness usually appears. Some people notice mild breathlessness on stairs for the first day. If you have heart or lung conditions, check with your doctor before travel as a general precaution." },
+    { "q": "What food will be available?", "a": "Hotels on this route serve North Indian, Bengali and simple continental meals as well as local dishes, and we request less spicy and low-oil food on request. Vegetarian and Jain meals are available in Guwahati and Shillong with notice; in Kaziranga resorts, tell us in advance so the kitchen can plan." },
+    { "q": "Can we add a night or slow the trip further?", "a": "Yes. The simplest change is an extra night in Guwahati at the end, so you do not drive and fly on the same day. You can also add a night in Shillong for a quieter day at Umiam Lake. Each extra night adds roughly ₹3,000–6,000 per person depending on the hotel tier." }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "nohkalikai-falls",
+  "name": "Nohkalikai Falls",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["waterfall", "viewpoint"],
+  "tagline": "India's tallest plunge waterfall, dropping about 340 m near Sohra",
+  "altitude_m": 1240,
+  "coords": [25.2756, 91.6867],
+  "best_months": [6, 7, 8, 9, 10, 11],
+  "best_time": "July to October for full flow, with October giving the best mix of water and clear sky.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Pay a small entry and camera fee at the viewpoint gate",
+    "foreigners": "No permit needed. Same entry arrangements at the gate"
+  },
+  "from_hub": { "hub": "Shillong", "km": 58, "hours": "2" },
+  "ideal_stay": "A 1 hour stop from a Sohra base, best early morning",
+  "meta_description": "Nohkalikai Falls, Meghalaya: India's tallest plunge waterfall near Sohra. Height, entry fee, timings, best season, legend and 9 FAQs.",
+  "quick_answer": "Nohkalikai Falls drops about 340 m off the Sohra plateau into a green pool, making it India's tallest plunge waterfall. The viewpoint is 5 km from Sohra market and about 58 km (2 hours) from Shillong in Meghalaya. Go between July and October, early in the day. Entry is a small cash fee; no permit is needed.",
+  "intro": [
+    "Nohkalikai is a single column of water that leaves the edge of the Sohra plateau and falls about 340 m into a round pool, coloured a milky green for much of the year. It is fed by rain collected on the plateau above, so its strength follows the monsoon closely: a thick white column in August, a thin thread in February.",
+    "The viewing area is a paved terrace about 5 km west of Sohra market, with stalls selling tea, snacks, oranges and spices. Railed platforms look straight across the gorge at the falls. On a clear morning you can see the whole drop and the pool; by late morning in the rains, cloud can fill the gorge and leave you looking at white.",
+    "The name comes from a Khasi story about a woman called Likai, and the words noh ka Likai, the leap of Likai. Your driver or a stall owner will tell you the version they grew up with. We plan it as the first stop of a Sohra day, before cloud builds."
+  ],
+  "highlights": [
+    { "name": "The 340 m drop", "text": "A single plunge that falls clear of the cliff, among the tallest in India." },
+    { "name": "The green pool", "text": "The plunge pool below turns a milky green, most visible in the dry months." },
+    { "name": "Railed viewpoint", "text": "Platforms face the falls directly and need only a short walk from the car." },
+    { "name": "Monsoon force", "text": "From July to September the flow is at its heaviest and spray rises up the gorge." }
+  ],
+  "things_to_do": [
+    "Arrive by 8 or 9 am for the best chance of a clear view",
+    "Photograph the falls and pool from the lower platforms",
+    "Hear the story of Likai from a local stall owner",
+    "Buy local cinnamon, bay leaf, honey and Khasi oranges in season at the stalls",
+    "Ask at the viewpoint about local guides if you want to walk towards the pool in the dry season",
+    "Combine with Mawsmai Cave and Seven Sisters Falls on the same morning"
+  ],
+  "how_to_reach": "Nohkalikai Falls is about 5 km west of Sohra market, 10 to 15 minutes by car. From Shillong, the drive is about 58 km and roughly 2 hours via the Sohra road. There is no reliable public transport to the viewpoint, so use a Shillong or Sohra taxi for the day; most Sohra sightseeing circuits include Nohkalikai, Mawsmai Cave and Seven Sisters Falls. There is paid parking at the site. From Guwahati, the falls are around 160 km, so plan an overnight stop in Shillong or Sohra.",
+  "where_to_stay": "Stay in Sohra so that you can reach Nohkalikai early, before cloud rises. Homestays around Sohra market are 10 to 15 minutes away and suit budget travellers. Sa-I-Mika Park Resort is on the edge of town, while Polo Cherrapunjee Resort near Mawsmai and Cherrapunjee Holiday Resort at Laitkynsew are 20 to 40 minutes' drive. A few newer homestays near the Nohkalikai road advertise valley views. If you are on a day trip from Shillong, leave by 7 am and make the falls your first stop.",
+  "tips": [
+    "Go early; in the monsoon, cloud can fill the gorge completely by 11 am",
+    "Do not climb over railings for photos; the drop is sheer",
+    "Carry cash for entry, camera and parking",
+    "Expect a thin flow from December to March",
+    "If the view is hidden, wait 15 to 20 minutes at a stall; gaps in the cloud do open",
+    "Walking down to the pool is steep and not an official path; only go with a local guide in dry weather"
+  ],
+  "faqs": [
+    { "q": "How tall is Nohkalikai Falls?", "a": "Nohkalikai Falls is about 340 m (1,115 ft) high, and it is generally described as the tallest plunge waterfall in India, meaning the water falls clear of the rock face. It drops from the edge of the Sohra plateau into a large plunge pool that often looks milky green." },
+    { "q": "What is the entry fee for Nohkalikai Falls?", "a": "The Nohkalikai viewpoint charges a small entry fee, typically under INR 100 per person, plus parking and sometimes a camera charge. Fees are collected in cash at the gate by the local management and can change, so carry small notes, check the rate locally and check current status before you travel." },
+    { "q": "What are the timings of Nohkalikai Falls?", "a": "The viewpoint is generally open from about 8 or 9 am to 5 pm. The best time of day is the first two hours after opening, especially in the monsoon, when cloud tends to rise through the gorge from late morning. Timings can shift during heavy weather; check current status before you travel." },
+    { "q": "What is the best time to visit Nohkalikai Falls?", "a": "July to October is best for flow, and October usually gives the ideal mix of strong water and clearer skies. From December to March the falls thin out noticeably, though the green pool becomes more visible. In peak monsoon, expect fog and go early to improve your chances of a view." },
+    { "q": "How far is Nohkalikai Falls from Shillong?", "a": "The falls are about 58 km from Shillong, a drive of roughly 2 hours via the Sohra road. They are about 5 km west of Sohra market. Most people see Nohkalikai as part of a full Sohra sightseeing day, together with Mawsmai Cave and Seven Sisters Falls." },
+    { "q": "What is the story behind the name Nohkalikai?", "a": "In Khasi, noh ka Likai means the leap of Likai. Local legend tells of a woman named Likai who, after a family tragedy, threw herself from the cliff here. Versions differ from village to village, and it is best heard from a local, who may share the story at the viewpoint." },
+    { "q": "Can you go down to the pool at Nohkalikai?", "a": "There is no official, maintained path to the plunge pool. Some fit visitors walk down with local guides in the dry season, on a steep, slippery route that takes several hours return. Do not attempt it alone or in the monsoon, and ask at the viewpoint about current conditions before deciding." },
+    { "q": "Is Nohkalikai Falls suitable for seniors and kids?", "a": "Yes. The viewing platforms are a short, mostly paved walk from the parking area, with railings along the edge. Keep children away from gaps in the railing and do not let anyone climb onto walls for photos. Wet paving can be slippery in the monsoon, so wear shoes with grip." },
+    { "q": "Is Nohkalikai worth visiting in winter?", "a": "Yes, but with lower expectations of the flow. Between December and February the column thins, sometimes to a few strands, although the pool colour shows better and skies are clearer. If full water matters to you, plan your Sohra trip for July to October instead." }
+  ],
+  "nearby": ["sohra", "mawsmai-cave", "wei-sawdong-falls", "nongriat-root-bridges"],
+  "image_query": "Nohkalikai Falls"
+}

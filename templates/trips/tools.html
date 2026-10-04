@@ -1,0 +1,51 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="ih"><div class="shell">{% crumbs crumb_list %}<h1>Northeast trip tools</h1><p class="ih__lede">Check permits by state, build a budget, plan a Kaziranga safari and see what each month brings. Nothing here asks for your details.</p></div></section>
+<nav class="jump shell" aria-label="Tools"><a href="#permits">{% icon 'doc' %} Permits</a><a href="#budget">{% icon 'wallet' %} Budget</a>{% if kaz %}<a href="#safari">{% icon 'paw' %} Kaziranga</a>{% endif %}<a href="#months">{% icon 'cal' %} Months</a>{% if stations %}<a href="#rain">{% icon 'rain' %} Rain</a>{% endif %}</nav>
+
+<section class="band tool" id="permits" aria-labelledby="pm-h"><div class="shell tool__grid">
+  <div class="tool__txt"><span class="eyebrow">{% icon 'doc' %} Tool 1</span><h2 id="pm-h">Permit checker</h2><p>Pick your passport and the states on your route. You’ll see which permits apply and how they’re issued.</p><p class="small muted">{{ permits.note }} Last checked {% checked_date %}.</p><a class="more" href="/guides/arunachal-ilp-guide/">Arunachal ILP guide {% icon 'arrow' %}</a></div>
+  <div class="box" data-permit>
+    <div class="seg" role="radiogroup" aria-label="Passport"><label><input type="radio" name="nat" value="indian" checked><span>Indian passport</span></label><label><input type="radio" name="nat" value="foreign"><span>Other passport</span></label></div>
+    <fieldset class="picks"><legend>On my route</legend>{% for a in permits.areas %}<label class="tick"><input type="checkbox" name="area" value="{{ a.id }}"{% if forloop.counter0 < 3 %} checked{% endif %}><span>{{ a.name }}</span></label>{% endfor %}</fieldset>
+    <div class="pout" data-permit-out aria-live="polite"></div>
+    <script type="application/json" data-permit-data>{{ permit_areas_json|safe }}</script>
+  </div>
+</div></section>
+
+<section class="band band--mist tool" id="budget" aria-labelledby="bd-h"><div class="shell tool__grid">
+  <div class="tool__txt"><span class="eyebrow">{% icon 'wallet' %} Tool 2</span><h2 id="bd-h">Trip budget builder</h2><p>A quick, honest range from typical 2026 hotel and car rates in the Northeast. Peak weeks (Durga Puja, Christmas to New Year, Hornbill) cost more.</p><p class="small muted">Includes hotels with breakfast, a private car with driver and the permits you select. Excludes flights, trains, lunches and entry tickets.</p></div>
+  <form class="box" data-budget>
+    <label class="rng"><span>Nights <output data-o="nights">5</output></span><input type="range" name="nights" min="2" max="18" value="5"></label>
+    <label class="rng"><span>Travellers <output data-o="pax">2</output></span><input type="range" name="pax" min="1" max="12" value="2"></label>
+    <div class="seg" role="radiogroup" aria-label="Hotels"><label><input type="radio" name="tier" value="standard" checked><span>Standard</span></label><label><input type="radio" name="tier" value="premium"><span>Premium</span></label><label><input type="radio" name="tier" value="luxury"><span>Luxury</span></label></div>
+    <fieldset class="picks picks--2"><legend>Add</legend>
+      <label class="tick"><input type="checkbox" name="kaz"><span>Kaziranga safaris</span></label>
+      <label class="tick"><input type="checkbox" name="aru"><span>Arunachal (Tawang or Ziro)</span></label>
+      <label class="tick"><input type="checkbox" name="peak"><span>Peak dates</span></label>
+    </fieldset>
+    <div class="est"><p class="est__k">Estimated per person</p><p class="est__v" data-est-pp>—</p><p class="est__s" data-est-total>—</p><a class="btn btn--sun" data-est-cta href="/contact/">Get an exact quote {% icon 'arrow' %}</a></div>
+  </form>
+</div></section>
+
+{% if kaz %}<section class="band tool" id="safari" aria-labelledby="kz-h"><div class="shell">
+  <header class="band__head band__head--split"><div><span class="eyebrow">{% icon 'paw' %} Tool 3</span><h2 id="kz-h">Kaziranga safari planner</h2></div><p class="band__lede" data-kaz-status data-open="{{ kaz.season.open_month }}" data-close="{{ kaz.season.close_month }}">{{ kaz.season.text }}</p></header>
+  <div class="tbl" tabindex="0"><table><caption>Safari ranges and timings (check current slots before booking)</caption><thead><tr><th scope="col">Range</th><th scope="col">Gate</th><th scope="col">Best for</th><th scope="col">Jeep safari</th><th scope="col">Elephant safari</th></tr></thead>
+  <tbody>{% for z in kaz.zones %}<tr><th scope="row">{{ z.name }}</th><td>{{ z.gate }}</td><td>{{ z.best_for }}</td><td>{{ z.jeep }}</td><td>{{ z.elephant|default:'—' }}</td></tr>{% endfor %}</tbody></table></div>
+  {% if kaz.note %}<p class="small muted">{{ kaz.note }}</p>{% endif %}
+  <a class="more" href="/guides/kaziranga-safari-guide/">Full safari guide {% icon 'arrow' %}</a>
+</div></section>{% endif %}
+
+<section class="band band--mist tool" id="months" aria-labelledby="mo-h"><div class="shell">
+  <header class="band__head band__head--split"><div><span class="eyebrow">{% icon 'cal' %} Tool {{ tool_months }}</span><h2 id="mo-h">Month by month</h2></div><p class="band__lede" data-month-note>{{ month_note }}</p></header>
+  {% heatmap id='heat-tools' %}
+  <script type="application/json" data-month-notes>{{ month_notes_json|safe }}</script>
+</div></section>
+
+{% if stations %}<section class="band tool" id="rain" aria-labelledby="rn-h"><div class="shell">
+  <header class="band__head"><span class="eyebrow">{% icon 'rain' %} Tool {{ tool_rain }}</span><h2 id="rn-h">Rain meter</h2><p class="band__lede">Compare monthly rainfall across the region. Figures are long-term averages and vary year to year.</p></header>
+  <div class="seg seg--wrap" data-rain-pick role="tablist">{% for st in stations %}<button type="button" role="tab" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" data-st="{{ st.key }}">{{ st.name }}</button>{% endfor %}</div>
+  {% for st in stations %}<div class="rain-panel" data-st-panel="{{ st.key }}"{% if not forloop.first %} hidden{% endif %}>{% rain_meter st.key %}</div>{% endfor %}
+</div></section>{% endif %}
+{% cta_panel %}
+{% endblock %}

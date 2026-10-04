@@ -1,0 +1,65 @@
+{
+  "slug": "jowai",
+  "name": "Jowai",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "West Jaintia Hills",
+  "types": ["town", "culture", "base"],
+  "tagline": "Hill town of the Pnar people and base for the Jaintia Hills",
+  "altitude_m": 1380,
+  "coords": [25.4480, 92.2020],
+  "best_months": [10, 11, 12, 1, 2, 3, 4, 7],
+  "best_time": "October to April for dry roads and falls trips; July for the Behdienkhlam festival.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Carry photo ID for hotel registration",
+    "foreigners": "No permit needed. Carry your passport and visa for hotel registration"
+  },
+  "from_hub": { "hub": "Shillong", "km": 64, "hours": "1.75" },
+  "ideal_stay": "1 to 2 nights to cover Nartiang, Krang Suri and Thadlaskein Lake",
+  "meta_description": "Jowai, Meghalaya: Jaintia Hills town 64 km from Shillong. Behdienkhlam, Thadlaskein Lake, Nartiang, Krang Suri, stays and 9 FAQs.",
+  "quick_answer": "Jowai is the headquarters of West Jaintia Hills in Meghalaya, a town at about 1,380 m, 64 km (1.5 to 2 hours) east of Shillong. It is the base for Nartiang's monoliths, Krang Suri Falls and Thadlaskein Lake, and hosts the Behdienkhlam festival each July. No permit is needed; the town has modest hotels and guest houses.",
+  "intro": [
+    "Jowai is a working hill town, not a resort, and that is its appeal. It sits at about 1,380 m on a ridge ringed by the Myntdu river, and it is the main town of the Pnar people, whose language, customs and festivals differ from those of the Khasi around Shillong. Traffic, markets and school runs set its rhythm.",
+    "Most travellers come to Jowai on the way to somewhere: Nartiang's monoliths lie north, Krang Suri Falls south towards Amlarem, and Dawki further south on the Umngot. Close to town, Thadlaskein Lake sits beside the Shillong highway about 9 km before Jowai, and Syntu Ksiar on the Myntdu is about 4 km out, a riverside spot with local historical associations.",
+    "The best time to see Jowai at its most distinctive is Behdienkhlam, the Pnar festival held each July after sowing, when towering decorated structures called rots are carried through town and communities gather at a sacred pool. Dates are set each year by tradition; check before you plan. Otherwise we suggest October to April, based here for one or two nights."
+  ],
+  "highlights": [
+    { "name": "Behdienkhlam", "text": "A four-day Pnar festival in July to drive away illness and pray for a good harvest, with large decorated structures carried through town." },
+    { "name": "Thadlaskein Lake", "text": "A small, quiet lake about 9 km before Jowai on the Shillong road, with a park and boating." },
+    { "name": "Syntu Ksiar", "text": "A riverside spot on the Myntdu about 4 km from Jowai, known for local history and a calm setting." },
+    { "name": "Gateway to the Jaintia Hills", "text": "Nartiang, Krang Suri and Dawki are all within a few hours' loop from town." }
+  ],
+  "things_to_do": [
+    "See Behdienkhlam if you are in Meghalaya in July",
+    "Stop at Thadlaskein Lake on the drive from Shillong",
+    "Walk by the Myntdu river at Syntu Ksiar",
+    "Visit the Nartiang monoliths and Durga temple",
+    "Swim with a life jacket at Krang Suri Falls in the dry season",
+    "Explore Jowai's Iawmusiang market for local produce and Pnar food",
+    "Continue south to Dawki and the Umngot River"
+  ],
+  "how_to_reach": "Jowai is about 64 km east of Shillong on the national highway towards Silchar, usually 1.5 to 2 hours by car. Shared taxis and buses run between Shillong and Jowai throughout the day. Thadlaskein Lake is on the way, about 9 km before town. From Guwahati, Jowai is roughly 165 km via Shillong; plan a night in Shillong unless you start early. Heavy trucks use this highway, so expect slow stretches and avoid driving after dark in fog.",
+  "where_to_stay": "Jowai has modest hotels, lodges and guest houses in and around the town centre, most suited to one or two nights. Standards are simple, so check hot water, parking and food options before booking. Homestays in nearby villages offer a more local stay. If you want a wider choice or better facilities, stay in Shillong and visit Jowai on a long day trip, or split the trip with a night in riverside camps at Shnongpdeng after Krang Suri. During Behdienkhlam in July, book well ahead.",
+  "tips": [
+    "Behdienkhlam dates change each year; confirm them locally before planning",
+    "Trucks are heavy on the Shillong–Jowai highway; start early to avoid delays",
+    "Carry cash; ATMs are available in town but can run out",
+    "Ask permission before photographing festival rituals",
+    "Combine Nartiang and Krang Suri with a Jowai overnight",
+    "Many shops close on Sundays"
+  ],
+  "faqs": [
+    { "q": "How far is Jowai from Shillong?", "a": "Jowai is about 64 km from Shillong, usually 1.5 to 2 hours by car on the national highway heading towards Silchar. Shared taxis and buses run regularly from Shillong. Thadlaskein Lake is on the way, about 9 km before Jowai, and makes a useful stop." },
+    { "q": "What is Behdienkhlam?", "a": "Behdienkhlam is the main festival of the Pnar people, held in Jowai each July after the sowing season. The name refers to driving away plague and illness. Over several days, communities carry large decorated structures called rots through town and gather at a sacred pool. Dates vary each year; check locally before you travel." },
+    { "q": "What are the best places to visit near Jowai?", "a": "Near Jowai, see Thadlaskein Lake, Syntu Ksiar on the Myntdu river, the Nartiang monoliths and Durga temple, and Krang Suri Falls, where swimming with a life jacket is allowed. Dawki and the Umngot River are further south and can be linked into a two-day Jaintia Hills loop." },
+    { "q": "What is the best time to visit Jowai?", "a": "October to April is best for dry roads and clear waterfalls. July is the time for Behdienkhlam, though it is also the heart of the monsoon, so expect rain. December and January nights are cold. Avoid planning long drives here in heavy rain, as landslides can delay roads." },
+    { "q": "How far is Krang Suri Falls from Jowai?", "a": "Krang Suri Falls is about 29 km from Jowai via Amlarem, roughly 1 hour by car. It is the most popular day trip from Jowai. Nartiang, with its monoliths and Durga temple, is in the other direction and also under an hour from town." },
+    { "q": "Where to stay in Jowai?", "a": "Jowai has modest hotels, lodges and guest houses near the town centre, suitable for one or two nights while exploring the Jaintia Hills. Check facilities before booking. Village homestays are available nearby. For more comfort, stay in Shillong and do a long day trip, or combine with camps at Shnongpdeng." },
+    { "q": "Is Jowai worth visiting?", "a": "Yes, if you want to see a side of Meghalaya beyond the Shillong and Sohra circuit. Jowai itself is a working town, but it is the best base for the Nartiang monoliths, Krang Suri Falls and Thadlaskein Lake, and for experiencing Pnar culture, especially during Behdienkhlam in July." },
+    { "q": "Is Jowai safe for tourists?", "a": "Jowai is generally safe for tourists, with the usual precautions. The main risks are road-related: heavy truck traffic on the highway, fog and landslides in the monsoon. Avoid driving after dark, keep your valuables close in crowded markets, and follow local guidance during festivals and any occasional local strike." },
+    { "q": "Do I need a permit to visit Jowai?", "a": "No permit is needed for Indians or foreign nationals. As across Meghalaya, hotels and homestays must register guests on the state tourism app, so carry photo ID or your passport and visa. Check current status of any local rules before you travel." }
+  ],
+  "nearby": ["nartiang-monoliths", "krang-suri-falls", "dawki-umngot", "shillong"],
+  "image_query": "Jowai Jaintia Hills Meghalaya"
+}

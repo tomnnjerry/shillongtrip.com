@@ -1,0 +1,25 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="ih"><div class="shell">{% crumbs crumb_list %}<h1>Plan my Northeast trip</h1><p class="ih__lede">Tell us the basics. We reply with a day-by-day plan and a clear price, usually within a working day. No payment until you’re happy.</p></div></section>
+<section class="band band--tight"><div class="shell contact">
+  <form class="box lf lf--big" data-lead="contact" data-enquiry novalidate>
+    <input type="hidden" name="tour" data-enq-tour>
+    <div class="picked" data-enq-picked hidden></div>
+    <div class="two"><label class="lf__f"><span>Your name</span><input name="name" autocomplete="name" required></label><label class="lf__f"><span>Phone / WhatsApp</span><input name="phone" type="tel" inputmode="tel" autocomplete="tel" required></label></div>
+    <label class="lf__f"><span>Email <small>(optional)</small></span><input name="email" type="email" autocomplete="email"></label>
+    <div class="three"><label class="lf__f"><span>Month</span><select name="month"><option value="">Not decided</option>{% for m in MONTHS_LONG %}<option>{{ m }}</option>{% endfor %}</select></label><label class="lf__f"><span>Nights</span><input name="nights" type="number" min="1" max="30" inputmode="numeric" placeholder="6"></label><label class="lf__f"><span>Travellers</span><input name="pax" placeholder="2 adults"></label></div>
+    <fieldset class="picks picks--4"><legend>Where</legend>{% for k, s in STATES.items %}<label class="tick"><input type="checkbox" name="states" value="{{ s.name }}"><span>{{ s.name }}</span></label>{% endfor %}</fieldset>
+    <div class="seg" role="radiogroup" aria-label="Hotel style"><label><input type="radio" name="tier" value="Standard" checked><span>Standard</span></label><label><input type="radio" name="tier" value="Premium"><span>Premium</span></label><label><input type="radio" name="tier" value="Luxury"><span>Luxury</span></label></div>
+    <label class="lf__f"><span>Anything else</span><textarea name="message" rows="4" data-enq-msg placeholder="Places you want, pace, celebrations, mobility needs…"></textarea></label>
+    <label class="hp" aria-hidden="true">Company<input name="company" tabindex="-1" autocomplete="off"></label>
+    <p class="lf__err" data-lead-err role="alert" hidden></p>
+    <button class="btn btn--sun btn--full" type="submit">Send enquiry {% icon 'arrow' %}</button>
+    <p class="lf__note">We use your details only to reply. <a href="/privacy/">Privacy policy</a></p>
+    <div class="lf__ok" data-lead-ok hidden role="status"><b>Thanks, it’s with our trip desk.</b><span>We’ll reply on the number you gave, usually within one working day.</span></div>
+  </form>
+  <aside class="contact__side">
+    <div class="side"><p class="side__h">Talk to us</p><ul class="clist">{% if tel %}<li>{% icon 'phone' %}<a href="tel:{{ tel }}">{{ site.phone }}</a></li>{% endif %}{% if site.whatsapp %}<li>{% icon 'wa' %}<a href="{% wa_link 'Hi' %}" rel="noopener" target="_blank">WhatsApp</a></li>{% endif %}<li>{% icon 'mail' %}<a href="mailto:{{ site.email }}">{{ site.email }}</a></li><li>{% icon 'pin' %}{{ address_line }}</li><li>{% icon 'clock' %}{{ site.hours }}</li></ul>{% socials %}</div>
+    <div class="side"><p class="side__h">What happens next</p><ol class="steps"><li>We read your note and check permits, safari slots and road status for your dates.</li><li>You get a written day-by-day plan with hotel options and a price.</li><li>We adjust until it’s right. A deposit confirms it.</li></ol></div>
+  </aside>
+</div></section>
+{% endblock %}

@@ -1,0 +1,65 @@
+{
+  "slug": "pobitora",
+  "name": "Pobitora Wildlife Sanctuary",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Morigaon",
+  "types": ["wildlife", "sanctuary", "safari", "day-trip"],
+  "tagline": "Rhinos within a morning's drive of Guwahati",
+  "altitude_m": 50,
+  "coords": [26.2333, 92.0500],
+  "best_months": [11, 12, 1, 2, 3],
+  "best_time": "November to March for dry tracks and winter birds; the sanctuary usually reopens in October after the monsoon.",
+  "permit": {
+    "required": false,
+    "indians": "No state permit needed. Buy entry and safari tickets at the Pobitora range or through the forest department; carry photo ID",
+    "foreigners": "No RAP or PAP needed for Assam. Foreigners pay higher entry and safari fees"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 50, "hours": "1.5" },
+  "ideal_stay": "A half-day or day trip from Guwahati; 1 night nearby for a dawn safari",
+  "meta_description": "Pobitora Wildlife Sanctuary near Guwahati: rhino density, jeep and elephant safari timings, season, how to reach, stays and 9 answered FAQs.",
+  "quick_answer": "Pobitora Wildlife Sanctuary is a small rhino reserve in Morigaon district, about 50 km (1.5 hours) east of Guwahati. Its 38.8 sq km of grassland and wetland hold one of the densest populations of one-horned rhinos anywhere. Short jeep safaris run in morning and early afternoon slots, and elephant rides at dawn, usually from October or November to April.",
+  "intro": [
+    "Pobitora is what we suggest when someone wants to see rhinos but has only a day in Guwahati. The sanctuary is small, just under 39 sq km on the south bank of the Brahmaputra, and much of it is open grassland and shallow wetland, so rhinos are easy to spot. With more than a hundred rhinos in such a small area, its density is often higher than Kaziranga's.",
+    "The trade-off is scale. A jeep safari here lasts about an hour on short tracks, and the sanctuary is ringed by villages and fields. You will not get Kaziranga's sweeping drives or its range of big mammals, but you will usually see rhinos, wild buffalo, and in winter plenty of ducks, storks and waders on the beels.",
+    "The drive from Guwahati crosses flat farmland and takes about 1.5 hours. The village of Mayong, known in Assamese folklore for magic and tantric practices, is on the way and has a small museum. Pobitora usually reopens in October after the monsoon, sometimes later if tracks are flooded; in the 2025-26 season gates opened on 23 October. Check current status before you travel."
+  ],
+  "highlights": [
+    { "name": "Rhino sightings", "text": "One of the densest populations of greater one-horned rhinos in the world in under 39 sq km. Most visitors see several rhinos on a single one-hour drive." },
+    { "name": "Jeep safari", "text": "Hour-long drives in slots from about 7.30 am to 3 pm. A full-day jeep option has also been offered in recent seasons at a much higher price." },
+    { "name": "Elephant safari", "text": "Short dawn rides in about 6.30 and 7.30 am slots, when operating. They cross grassland and wetland close to grazing rhinos." },
+    { "name": "Winter birds", "text": "The beels fill with migratory ducks, storks, herons and raptors between November and February." },
+    { "name": "Mayong", "text": "A village on the way from Guwahati known in folklore for black magic and healing traditions, with a small museum of manuscripts and objects." }
+  ],
+  "things_to_do": [
+    "Take a one-hour jeep safari in the morning for the best light and activity",
+    "Book a dawn elephant safari if it is running during your visit",
+    "Scan the wetlands for winter ducks, storks and waders with binoculars",
+    "Stop at Mayong village and its small museum on the way",
+    "Combine Pobitora with Kamakhya and a Brahmaputra cruise for a full Guwahati day",
+    "Visit the weekly Jonbeel Mela at Jagiroad if you are in the area in January, when communities barter goods"
+  ],
+  "how_to_reach": "Pobitora is about 50 km east of Guwahati by road, a drive of about 1.5 hours through Chandrapur or via the Jagiroad side, depending on your starting point. There is no direct public transport to the gate; hire a cab for the day from Guwahati. The nearest railway station is Jagiroad, about 20 km away. Guwahati airport is about 70 km away, so Pobitora also works on the first or last day of a trip. Leave Guwahati by 6 am if you want a dawn elephant ride.",
+  "where_to_stay": "Most visitors stay in Guwahati and come for a morning. If you want a dawn safari without a 5 am start, a handful of resorts, eco-lodges and homestays sit around the sanctuary edge and in Mayong, with simple rooms and home-cooked meals. There is also a forest department tourist lodge near the range office. Facilities are basic compared with Kaziranga, and most places take bookings by phone. In Guwahati, the airport side or the eastern suburbs cut the drive a little.",
+  "tips": [
+    "Go in the morning; the early jeep slots and dawn elephant rides are the most rewarding",
+    "Book December and January safaris a week or two ahead, when slots fill quickly",
+    "Carry binoculars and a zoom lens; some rhinos stay far out on the grassland",
+    "Tracks are short, so combine Pobitora with other Guwahati sights in the same day",
+    "The sanctuary usually closes for the monsoon and reopening dates vary; check current status before you travel",
+    "Wear muted colours and keep noise down in the jeep"
+  ],
+  "faqs": [
+    { "q": "How far is Pobitora from Guwahati?", "a": "Pobitora Wildlife Sanctuary is about 50 km east of Guwahati by road, roughly 1.5 hours by car depending on your starting point and traffic. There is no direct public transport to the gate, so most visitors hire a cab for the day. Guwahati airport is about 70 km away." },
+    { "q": "What are the safari timings at Pobitora?", "a": "In recent seasons jeep safaris ran in one-hour slots from about 7.30 am to 3 pm, and elephant safaris in two dawn slots at about 6.30 and 7.30 am. A full-day jeep option was also offered. Timings and prices are set each season by the forest department, so check current status before you travel." },
+    { "q": "Is Pobitora better than Kaziranga for rhinos?", "a": "Pobitora has a very high density of rhinos in a small area, so you are likely to see several on a one-hour drive, and it is close to Guwahati. Kaziranga is far larger, with longer drives, more elephants, buffalo, deer and birds, and a better overall wildlife experience. If you have time, go to Kaziranga." },
+    { "q": "When is Pobitora open?", "a": "Pobitora usually reopens in October or early November after the monsoon and runs safaris until around April or May. In the 2025-26 season, gates opened on 23 October. November to March is the best time, with dry tracks and winter birds. Check current status before you travel, as dates depend on floods." },
+    { "q": "How many rhinos are in Pobitora?", "a": "Recent censuses have counted more than a hundred greater one-horned rhinos in Pobitora's roughly 39 sq km, which makes it one of the highest rhino densities in the world. Some animals have been moved from here to Manas and other parks to build new populations." },
+    { "q": "Can I do Pobitora as a day trip from Guwahati?", "a": "Yes. Leave Guwahati by 6 am, take a morning jeep or elephant safari, stop at Mayong village on the way back and be in the city by early afternoon. That leaves time for Kamakhya or a Brahmaputra sunset cruise the same day. Book safaris ahead in peak months." },
+    { "q": "What else can I see near Pobitora?", "a": "Mayong, a village known in Assamese folklore for magic and healing traditions, is close by and has a small museum. The Jonbeel Mela at Jagiroad, usually held in January, is a traditional barter fair. Guwahati's Kamakhya Temple and river cruises are 1.5 hours away." },
+    { "q": "Is Pobitora good for children?", "a": "Yes. The drives are short, about an hour, which suits young children who might get restless on Kaziranga's longer safaris, and rhinos are usually easy to see. Carry snacks and water, wear hats in the late morning and keep children seated in the jeep at all times." },
+    { "q": "Where can I stay near Pobitora?", "a": "Most visitors stay in Guwahati. Near the sanctuary there are a few small resorts, eco-lodges and homestays around the park edge and Mayong, plus a forest department tourist lodge. They are simple, with home-cooked food, and suit travellers who want a dawn safari without a very early drive from the city." }
+  ],
+  "nearby": ["guwahati", "kamakhya-temple", "kaziranga", "manas"],
+  "image_query": "Pobitora Wildlife Sanctuary rhino"
+}

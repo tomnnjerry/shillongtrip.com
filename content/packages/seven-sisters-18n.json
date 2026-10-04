@@ -1,0 +1,249 @@
+{
+  "slug": "seven-sisters-18n",
+  "title": "Seven Sisters Grand Tour",
+  "nights": 18,
+  "themes": ["adventure", "culture", "photography"],
+  "states": ["northeast", "meghalaya", "assam", "arunachal"],
+  "places": ["agartala", "aizawl", "imphal", "loktak-lake", "shillong", "sohra", "nohkalikai-falls", "kohima", "khonoma", "kaziranga", "majuli", "ziro-valley", "tezpur", "dirang", "sela-pass", "tawang", "tawang-monastery", "bomdila"],
+  "hero": "tawang-monastery",
+  "price_from_inr": 145000,
+  "best_months": [10, 11, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 4170,
+  "start": "Agartala Airport (IXA)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "All seven Northeast states in 18 nights / 19 days: Agartala to Tawang with four internal flights, Kaziranga, Majuli, Ziro and Kohima. Permits handled.",
+  "quick_answer": "This 18-night tour covers all seven Northeast states, starting in Agartala and ending in Guwahati. Four short flights link Tripura, Mizoram, Manipur, Meghalaya and Nagaland, then the road takes over for Kaziranga, Majuli, Ziro, Sela Pass and Tawang. Indians need four Inner Line Permits; we arrange them. Best in October–November or March–April.",
+  "overview": [
+    "Driving a loop through all seven states would take well over a month, because the road links between Tripura, Mizoram, Manipur and Nagaland are long, slow and, in Manipur's case, not advisable at present. So we fly the southern half: Agartala to Aizawl, Aizawl to Imphal, Imphal to Shillong and Shillong to Dimapur, all on short regional flights. From Kohima onward the trip becomes a road journey through Assam and Arunachal: Kaziranga's rhinos, the river island of Majuli, the Apatani villages of Ziro, and the high road over Sela Pass at 4,170 m to Tawang.",
+    "This is a long trip with early starts and several days of 6–9 hours on the road, balanced by slower days in Aizawl, Imphal, Kohima, Ziro and Tawang. Expect four different climates, from humid Tripura at 15 m to frost at Sela. A few regional flight sectors run only on some days of the week; if one is not operating on your date we route through Guwahati and adjust the plan. The Manipur leg (days 4–5) is optional and runs only when current advisories allow; we confirm before taking a booking. The alternative is a direct flight from Aizawl to Shillong, with those two nights spent at Dawki, the Umngot river and Mawlynnong."
+  ],
+  "highlights": [
+    "All seven Northeast states in one trip, with four regional flights to cut out the longest drives",
+    "Tripura royal history at Ujjayanta Palace and the Neermahal lake palace",
+    "Aizawl's ridgeline city, Loktak's floating phumdis and Kohima's War Cemetery",
+    "Nohkalikai Falls and the Mawsmai cliffs in Sohra",
+    "A morning jeep safari in Kaziranga and a night on Majuli, the Brahmaputra river island",
+    "Apatani villages in Ziro and the drive over Sela Pass (4,170 m) to Tawang Monastery"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Agartala, Ujjayanta Palace",
+      "stay": "Agartala",
+      "altitude_m": 15,
+      "drive": "12 km · 30 mins, plus city sightseeing",
+      "text": "Fly into Agartala from Kolkata, Delhi, Bengaluru or Guwahati. Tripura needs no permit for Indian or foreign travellers, so the arrival is simple. Our driver takes you to the hotel, and after lunch we visit Ujjayanta Palace, the white palace built for Maharaja Radha Kishore Manikya in 1901, which now holds the Tripura State Museum. The galleries give a good first look at the Northeast's many communities, which is useful at the start of a trip across seven states. Walk across to the orange Jagannath temple next door, then watch the palace lights come on over the ponds. Dinner is a Bengali-Tripuri meal with fish curry. Your trip manager briefs you on permits, flights and packing tonight.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Neermahal, then fly to Aizawl",
+      "stay": "Aizawl",
+      "altitude_m": 1130,
+      "drive": "About 110 km · 3 hrs, plus flight and 32 km · 1 hr",
+      "text": "An early start takes us 53 km south to Melaghar, where a boat crosses Rudrasagar lake to Neermahal, the red-and-white water palace of the Manikya kings completed in 1938. Walk the terraces for an hour before returning to Agartala Airport. The Agartala–Aizawl flight runs direct on some schedules; on other days we connect through Guwahati or Kolkata, which takes longer. At Lengpui Airport, Indian citizens show their Mizoram ILP; foreign nationals must register with the police within 24 hours. The 32 km drive to Aizawl crosses the Tlawng river and climbs along the ridges into a city of stacked houses where traffic moves in quiet queues. Dinner at the hotel, with a first taste of Mizo bai stew.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Aizawl and Reiek ridge",
+      "stay": "Aizawl",
+      "altitude_m": 1130,
+      "drive": "60 km return · 2.5 hrs",
+      "text": "We drive about 30 km west to Reiek, a 1,465 m ridge above thick forest, and walk 30–45 minutes to the top for views across the Mizo hills; on clear days the plains of Bangladesh show to the west. Below the ridge, a model Mizo village shows a chief's house and the zawlbuk, the bachelors' dormitory that once organised village life. Back in Aizawl after lunch, visit the Mizoram State Museum and then walk down through Bara Bazar, where stalls sell local vegetables, smoked meat and puan, the woven Mizo wrap. Mizoram is a dry state and very quiet on Sundays, when shops close for church; if today is Sunday we swap it with the market visit tomorrow morning.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Fly to Imphal, Kangla and Ima Keithel",
+      "stay": "Imphal",
+      "altitude_m": 786,
+      "drive": "32 km · 1 hr, plus flight and 10 km · 30 mins",
+      "text": "After breakfast we drive to Lengpui for the flight to Imphal. Alliance Air flies this sector direct on some days of the week; otherwise we connect via Guwahati or Kolkata. At Imphal Airport, Indian citizens complete the Manipur ILP at the self-service kiosks. In the afternoon we visit Kangla Fort, the old royal seat on the Imphal river, then Ima Keithel, the market run entirely by women, with rows of stalls selling fish, fermented foods, handloom phanek and shawls. Our rule in Manipur is simple: valley only, daytime only, local partner on call, and we are back at the hotel before dark. Try singju salad and eromba with your dinner.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Loktak Lake and Keibul Lamjao",
+      "stay": "Imphal",
+      "altitude_m": 786,
+      "drive": "110 km return · 4 hrs with stops",
+      "text": "We drive 45 km south through Bishnupur to Moirang, where the INA Memorial marks the place the Indian National Army raised the tricolour in April 1944. From the Sendra hill viewpoint Loktak Lake spreads out below, covered with round phumdis, floating mats of reed and soil, some with fishermen's huts. A country boat takes you out among them. At the southern end of the lake, Keibul Lamjao National Park is the world's only floating national park and the home of the sangai deer; look for them with binoculars from the watchtower. We are back in Imphal by late afternoon, with time for the Shree Govindajee temple beside the old palace before dark.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Fly to Shillong, city afternoon",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "10 km, plus flight and 30 km · 1 hr",
+      "text": "A short flight on IndiGo connects Imphal with Shillong Airport at Umroi, about 30 km from the city; if the sector is not running on your date we fly via Guwahati and drive up, arriving in the evening. Shillong is the first stop of the trip with no permit requirement for anyone. After lunch visit the Don Bosco Museum, seven floors on the cultures of the Northeast, which ties together everything you have seen so far. Walk around Ward's Lake and then Police Bazar in the evening. Shillong has a strong live music and cafe culture; Laitumkhrah and Police Bazar have the best choice for dinner. Nights are cool, 8–14°C from November to March.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Shillong to Sohra, falls and caves",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "55 km · 1.5 hrs, plus sightseeing",
+      "text": "The road south to Sohra (Cherrapunji) runs across rolling grassland, with a stop at the Mawkdok Dympep viewpoint over a deep gorge. At Nohkalikai Falls the water drops about 340 m from the plateau edge into a green pool, one of the highest plunges in India; it is fullest from June to October and thin from December to February. Then walk through Mawsmai Cave, a short, lit limestone cave with narrow squeezes, and stand at the Mawsmai viewpoint where the Seven Sisters Falls pour off the cliffs in the wet months, with the Bangladesh plains below. Sohra is one of the wettest places on earth, so carry a rain jacket even in winter. Overnight in a Sohra resort on the plateau edge.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Fly to Dimapur, drive to Kohima",
+      "stay": "Kohima",
+      "altitude_m": 1440,
+      "drive": "About 85 km · 2.5 hrs, flight, then 75 km · 2.5–3 hrs",
+      "text": "This is the longest transfer day of the trip. We leave Sohra early for Shillong Airport at Umroi and fly the short Alliance Air sector to Dimapur, which runs on some days of the week; on other days we drive to Guwahati and fly or take the Jan Shatabdi train to Dimapur instead, which adds hours. At Dimapur, Indian citizens need their Nagaland ILP ready, since Dimapur is inside the permit area. The road to Kohima climbs from about 150 m to over 1,400 m in 75 km, taking 2.5 to 3 hours. We check in by evening and keep dinner simple. If your dates fall between 1 and 10 December, this is Hornbill week and Kohima prices rise.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Kohima War Cemetery and Khonoma",
+      "stay": "Kohima",
+      "altitude_m": 1440,
+      "drive": "40 km return · 2 hrs",
+      "text": "Start at the Kohima War Cemetery on Garrison Hill, where the April 1944 battle was fought across the District Commissioner's tennis court, now marked in white. Then drive 20 km west to Khonoma, the Angami village that banned hunting across its forests in 1998 and protects the Blyth's tragopan. A village guide walks you through the stone gateways, clan quarters and the terraced paddies that step down the valley. Lunch is with a village family: rice, local greens, bamboo shoot and pork or chicken with king chilli chutney. In the afternoon, if time allows, stop at Kisama Heritage Village, where the Hornbill morungs stand open all year. Evening free in Kohima.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Kohima to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "About 200 km · 6 hrs",
+      "text": "We drive back down to Dimapur and then east into Assam through Golaghat district, with tea gardens lining the road for long stretches. The drive takes about six hours with a lunch stop. By mid-afternoon you reach Kohora, the village at the Central Range of Kaziranga National Park, home to about two-thirds of the world's one-horned rhinos. Check in, then visit the Kaziranga National Orchid and Biodiversity Park nearby, which has hundreds of orchid species and a good display of local rice varieties, or walk through a tea garden at golden hour. Our safari desk confirms tomorrow's jeep slot and range tonight. Early dinner; the jeep leaves around 7 am.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Kaziranga safari, ferry to Majuli",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "About 95 km · 2.5 hrs, plus ferry 1–1.5 hrs",
+      "text": "The morning jeep safari in the Central or Western Range runs about two hours through tall elephant grass, wetlands and forest. Rhino sightings are almost certain; wild buffalo, swamp deer, elephants and many water birds are common, and tigers are occasionally seen. After breakfast we drive north-east to Nimati Ghat near Jorhat and board the ferry across the Brahmaputra to Majuli, one of the largest river islands in the world. The crossing takes 1 to 1.5 hours, with the car carried on board. In the late afternoon visit a satra, one of the Vaishnav monasteries founded in the tradition of the saint Srimanta Sankardev, and watch the evening prayers. Overnight in a bamboo cottage.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Majuli satras, then north to Ziro",
+      "stay": "Ziro",
+      "altitude_m": 1690,
+      "drive": "About 200 km · 6–7 hrs via North Lakhimpur",
+      "text": "Early morning is for Samaguri Satra, where monks make the masks used in Majuli's religious theatre from bamboo, clay and cloth, and for a short visit to a Mising village with stilt houses. Then we leave the island by its northern road toward North Lakhimpur and turn north into Arunachal Pradesh. Indian citizens show their Arunachal ILP at the Kimin check gate, and foreign nationals show their Protected Area Permit. The road climbs through forest to the Ziro plateau, a wide valley at about 1,690 m ringed by pine-covered hills and filled with paddy fields. We arrive in the evening at a hotel or Apatani homestay. The hills get cold after sunset, so keep a warm layer handy.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Apatani villages of Ziro",
+      "stay": "Ziro",
+      "altitude_m": 1690,
+      "drive": "About 30 km in the valley · 2 hrs",
+      "text": "Ziro is home to the Apatani people, known for their rice-fish farming and, among older women, facial tattoos and nose plugs, a practice stopped in the 1970s. With a local guide we visit Hong, one of the largest villages, with its tightly packed wooden houses and bamboo totem poles called babo, then Hari and Siiro. The paddy fields are irrigated by channels that the Apatani have maintained for generations, and fish are raised in the flooded plots. After lunch walk through the pine and bamboo groves near Old Ziro. If you visit in late September, the Ziro Festival of Music brings stages and crowds to the valley; otherwise it is a very quiet place.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 14,
+      "title": "Ziro to Tezpur",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "About 290 km · 8–9 hrs",
+      "text": "This is a long road day, so we leave Ziro by 7 am. The road drops off the plateau to the Assam plains near North Lakhimpur and then runs west along the north bank of the Brahmaputra through Gohpur and Biswanath Chariali, with tea gardens and rice fields on both sides. We stop for lunch on the highway. Tezpur, reached in the late afternoon, is a pleasant riverside town with Agnigarh hill, linked to the legend of Usha and Aniruddha, and Chitralekha Udyan park near the old stone ruins. If you have energy left, watch the sunset over the Brahmaputra from Agnigarh. This break sets up the climb into the Himalaya tomorrow.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 15,
+      "title": "Tezpur to Dirang via Bomdila",
+      "stay": "Dirang",
+      "altitude_m": 1560,
+      "drive": "About 190 km · 6–7 hrs",
+      "text": "We cross into Arunachal again at Bhalukpong, where the permit check happens, and follow the Kameng river up into the hills. The road climbs through Tenga, with its army cantonment, and over the Bomdila ridge at about 2,400 m before dropping to Dirang in a river valley at about 1,560 m. Stop at Bomdila's monastery if time allows. Dirang is a Monpa town with an old stone dzong village, apple and kiwi orchards and hot springs by the river. The drop in altitude tonight helps your body adjust before Sela tomorrow. Drink plenty of water, skip alcohol and sleep early. Temperatures fall close to freezing on winter nights here.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 16,
+      "title": "Over Sela Pass to Tawang",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "About 135 km · 5 hrs",
+      "text": "The road climbs steadily from Dirang to Sela Pass at 4,170 m, where prayer flags line the pass and Sela Lake lies just below, often frozen from December to March. The Sela Tunnel, opened in March 2024 at about 13,000 ft, keeps the route open through winter; we take the pass road when it is clear so you can stop at the top. Beyond Sela the road drops past Jaswantgarh, the memorial to rifleman Jaswant Singh Rawat of the 1962 war, and Nuranang Falls near Jang. We reach Tawang by mid-afternoon. At 2,670 m, walk slowly, drink water and rest this evening. Our guide checks that everyone feels well before tomorrow's walking day.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 17,
+      "title": "Tawang Monastery and War Memorial",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "About 25 km in town · 2 hrs",
+      "text": "Tawang Monastery, founded in 1680–81, is the largest Buddhist monastery in India and home to several hundred monks. Arrive for the morning prayers in the assembly hall, then see the 8 m gilded Buddha, the library of old manuscripts and the museum. From the courtyard the view runs across the valley to the town. In the afternoon visit the Tawang War Memorial, a stupa-shaped memorial to the soldiers of the 1962 war, and the Urgelling monastery, birthplace of the Sixth Dalai Lama. Indian citizens can apply locally for a Bum La Pass visit on an extra day, subject to army permission and weather; foreign nationals are not allowed at Bum La.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 18,
+      "title": "Tawang to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2415,
+      "drive": "About 170 km · 6 hrs",
+      "text": "We leave Tawang after breakfast and cross Sela once more, which gives a second chance for clear photographs if the first day was cloudy. The road then runs down through Dirang to Bomdila, a hill town on a ridge at about 2,400 m with views of the Kangto and Gorichen ranges on clear days. In the late afternoon visit the Gontse Gaden Rabgye Ling monastery above the town and the small craft centre, where Monpa carpets and masks are made. The last night in the mountains is a good time to settle the trip's accounts and repack for flights. Dinner tonight is thukpa or momos in a local restaurant.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 19,
+      "title": "Bomdila to Guwahati Airport",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "About 340 km · 9–10 hrs",
+      "text": "The final day is a long drive, so we leave Bomdila at 6 am. The road drops through Tenga and Bhalukpong to the Assam plains, then runs past Tezpur and across the Brahmaputra to Guwahati. With breakfast and lunch stops, expect to reach Guwahati Airport between 4 and 5 pm. Please book a flight after 7.30 pm, or ask us to add a night in Guwahati, which also allows a morning at Kamakhya Temple before you fly. If you are leaving by train, Guwahati station is 20 km from the airport. The driver helps with bags at the terminal. This is the end of the loop through all seven states.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "18 nights' accommodation on twin sharing in standard hotels, homestays and bamboo cottages",
+    "Daily breakfast and dinner, plus lunch in Khonoma",
+    "Four regional economy flights: Agartala–Aizawl, Aizawl–Imphal, Imphal–Shillong and Shillong–Dimapur, or via Guwahati when direct sectors do not operate",
+    "Private vehicles with local drivers in each state for all transfers and sightseeing",
+    "One morning jeep safari in Kaziranga with park entry",
+    "Brahmaputra ferry crossing to Majuli with vehicle",
+    "Neermahal boat ride and Loktak country boat",
+    "Local guides in Agartala, Aizawl, Imphal, Khonoma, Majuli, Ziro and Tawang",
+    "Help with Inner Line Permits for Mizoram, Manipur, Nagaland and Arunachal",
+    "A named trip manager on WhatsApp for all 19 days"
+  ],
+  "exclusions": [
+    "Flight into Agartala and out of Guwahati",
+    "Permit fees for Mizoram, Manipur, Nagaland and Arunachal, and Protected Area Permit fees for foreign nationals",
+    "Monument, museum, camera and village entry fees, except Kaziranga",
+    "Extra safaris, Bum La excursion and its vehicle",
+    "Excess baggage on regional flights, which usually allow 15 kg check-in",
+    "Lunches except where listed, drinks and snacks",
+    "Tips, laundry and personal expenses",
+    "Travel insurance, which may exclude Manipur while advisories are in force",
+    "Extra nights or rerouting costs caused by flight cancellations, landslides, snow or curfews"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Welcome Palace (Agartala), Hotel Floria (Aizawl), Hotel Nirmala (Imphal), Hotel Centre Point (Shillong), Sa-I-Mika Park (Sohra), Hotel Japfu (Kohima), Aranya Tourist Lodge (Kaziranga), Me:Po Okum (Majuli), Hotel Blue Pine (Ziro), Prashaanti Tourist Lodge (Tezpur), Hotel Pemaling (Dirang), Hotel Tawang Heights (Tawang), Hotel Siphiyang Phong (Bomdila), or similar" },
+    { "tier": "Premium", "options": "Polo Towers (Agartala), Hotel Regency (Aizawl), Hotel Imphal by Classic, Tripura Castle (Shillong), Cherrapunjee Holiday Resort (Sohra), Hotel Vivor (Kohima), Iora The Retreat (Kaziranga), La Maison de Ananda (Majuli), Siiro Resort (Ziro), Dirang Boutique Cottages, Hotel Gakyi Khang Zhang (Tawang), Hotel Tsepal Yangjom (Bomdila), or similar" },
+    { "tier": "Luxury", "options": "Polo Towers suite (Agartala), Hotel Regency suite (Aizawl), Classic Grande (Imphal), Ri Kynjai (Umiam, Shillong), Polo Orchid Resort (Sohra), Niraamaya Retreats Aradura (Kohima), Diphlu River Lodge (Kaziranga), La Maison de Ananda (Majuli), Siiro Resort (Ziro), Wild Mahseer (near Tezpur), Dirang Boutique Cottages, Hotel Gakyi Khang Zhang (Tawang), or similar; several stops have no true luxury hotels" }
+  ],
+  "good_to_know": [
+    "Indian citizens need Inner Line Permits for Mizoram, Manipur, Nagaland and Arunachal; all four can be applied for online. Arunachal's tourist ILP now runs 15 days for the whole state, about ₹300–500; pay whatever the portal shows. Check current status before you travel.",
+    "Foreign nationals need Protected Area Permits for Mizoram, Manipur, Nagaland and Arunachal. Because several governments advise against travel to Manipur, we plan the foreigners' version without Imphal and add a day in Meghalaya.",
+    "The Manipur leg is optional. It runs valley-only and daytime-only, and only when current advisories allow; we confirm before taking a booking. Otherwise you fly Aizawl to Shillong and spend days 4–5 at Dawki, the Umngot river and Mawlynnong. Check current advisories before booking.",
+    "Some regional sectors, such as Aizawl–Imphal and Shillong–Dimapur, operate only on certain days. We fix your start date around them, and route via Guwahati if a flight is cancelled.",
+    "Kaziranga's safari ranges normally open from October or November to April or May. Sela Pass can close after heavy snow between December and February. Check current status before you travel.",
+    "Altitude runs from 15 m in Agartala to 4,170 m at Sela. The night in Dirang helps you adjust before Tawang; tell us about heart or lung conditions when booking."
+  ],
+  "faqs": [
+    { "q": "Can you really cover all seven Northeast states in 18 nights?", "a": "Yes, but only by flying between the southern states. Road links from Tripura to Mizoram, Manipur and Nagaland are long and slow, so four short flights connect Agartala, Aizawl, Imphal, Shillong and Dimapur. From Kohima the trip is by road through Assam and Arunachal. It is a full trip with several long days, not a relaxed holiday." },
+    { "q": "How much does the Seven Sisters tour cost?", "a": "It starts at ₹1,45,000 per person on twin sharing, including 18 nights in standard hotels, four regional flights, private vehicles in every state, a Kaziranga safari, the Majuli ferry, local guides and breakfast and dinner daily. Your flights into Agartala and out of Guwahati, permit fees and most entry fees are extra." },
+    { "q": "Which permits do I need for this tour?", "a": "Indian citizens need Inner Line Permits for Mizoram, Manipur, Nagaland and Arunachal Pradesh, all available online; we help with each application. Tripura, Meghalaya and Assam need none. Foreign nationals need Protected Area Permits for the same four states. Check current status before you travel, since rules changed in December 2024." },
+    { "q": "Is Manipur safe to include?", "a": "The Manipur leg is optional. As of late 2026 several foreign governments advise against travel there, so we run it only when current advisories allow, valley-only and by day, and confirm before booking. The alternative is a direct Aizawl–Shillong flight and two nights at Dawki and Mawlynnong, at no extra land cost." },
+    { "q": "Can foreign nationals take this tour?", "a": "Yes, with changes. Foreigners need Protected Area Permits for Mizoram, Nagaland and Arunachal, which we help arrange through the right channels. Because of current foreign government advice on Manipur, we drop Imphal and Loktak for foreign travellers and add a day in Meghalaya. Allow at least four weeks for permit processing." },
+    { "q": "What is the best time for the Seven Sisters tour?", "a": "October–November and March–April work best. Kaziranga is open, most roads are dry and Sela Pass is usually clear. December to February is possible but colder, with snow risk at Sela and Hornbill prices in Kohima from 1 to 10 December. June to September brings heavy rain, landslides and Kaziranga's closure." },
+    { "q": "Why fly between some states instead of driving?", "a": "Driving from Agartala to Aizawl, Imphal and Kohima would add at least five full days, on roads that are slow and, for the Dimapur–Imphal highway through the hill districts, not advisable at present. Short regional flights take 40–60 minutes each. The trade-off is that some sectors run only on certain days, so dates matter." },
+    { "q": "How hard is this tour physically?", "a": "No trekking is needed, but the trip has early starts, four flight days and several 6–9 hour drives, including Ziro to Tezpur and Bomdila to Guwahati. Tawang sits at 2,670 m and Sela at 4,170 m, so take the altitude seriously. Travellers in normal health manage well; tell us about any medical conditions." },
+    { "q": "Can I shorten or split the tour?", "a": "Yes. The trip divides naturally into a southern half, covering Tripura, Mizoram, Manipur, Meghalaya and Nagaland in 9 nights with flights, and a northern half, covering Kaziranga, Majuli, Ziro and Tawang in about 9 nights by road. Either half works on its own, and we can start from Guwahati instead of Agartala." }
+  ]
+}

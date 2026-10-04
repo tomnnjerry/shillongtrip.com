@@ -1,0 +1,139 @@
+{
+  "slug": "assam-wildlife-6n",
+  "title": "Kaziranga, Manas and Pobitora",
+  "nights": 6,
+  "themes": ["wildlife", "photography"],
+  "states": ["assam"],
+  "places": ["guwahati", "manas", "pobitora", "kaziranga"],
+  "hero": "manas",
+  "price_from_inr": 34500,
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 150,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Assam wildlife tour, 6 nights / 7 days: Manas on the Bhutan border, a dawn rhino safari at Pobitora and 3 nights with 5 jeep safaris in Kaziranga.",
+  "quick_answer": "This 6 nights / 7 days wildlife trip covers Assam's three best rhino and tiger parks: two nights at Manas under the Bhutan hills, a night in Guwahati for a dawn safari at Pobitora, and three nights at Kaziranga with five jeep safaris across all four ranges. From ₹34,500 per person, twin sharing, November to April.",
+  "overview": [
+    "Most visitors to Assam see only Kaziranga. This trip is for people who want the contrast. Manas, a UNESCO World Heritage Site on the Bhutan border, is forest and riverine grassland with golden langur, Bengal florican and far fewer jeeps. Pobitora, 50 km from Guwahati, is a small sanctuary with a very dense rhino population, where a single morning often gives close views. Kaziranga then gives you scale: open grassland, beels full of birds, and all four ranges over three days.",
+    "The routing is designed around safari timings. Manas is about 140 km north-west of Guwahati, so you can reach it for an afternoon safari on Day 1. Pobitora is best at first light, so we sleep in Guwahati before it and drive on to Kaziranga afterwards, a route of about 180 km. The Kaziranga nights are last, which keeps the best-known park as the finale and places Jorhat and Guwahati within reach for the flight home."
+  ],
+  "highlights": [
+    "Jeep safaris in Manas's Bansbari range, with a chance of golden langur and Bengal florican",
+    "The Manas river at Mathanguri, looking across to the Bhutan hills",
+    "A dawn rhino safari at Pobitora, often at close range",
+    "Five Kaziranga jeep safaris across the Central, Western, Eastern and Burapahar ranges",
+    "Optional elephant ride at Kaziranga from November",
+    "Long, quiet hours for bird and mammal photography"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Manas and an afternoon safari",
+      "stay": "Manas",
+      "altitude_m": 90,
+      "drive": "140 km · 3.5–4 hrs",
+      "text": "Pickup at Guwahati airport by 9.30 am if possible. We drive north-west across the Brahmaputra via Saraighat and through Nalbari to Barpeta Road, then north to the Bansbari range gate. Arrival is by early afternoon, in time for the afternoon jeep safari that usually runs from about 2 to 5 pm. The Bansbari tracks run through sal forest and open grassland, and wild elephants, gaur, hog deer and capped langur are common. Evening at the lodge, with the Bhutan foothills visible to the north on clear days.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Manas: Bansbari to Mathanguri",
+      "stay": "Manas",
+      "altitude_m": 90,
+      "drive": "Local · park roads",
+      "text": "The morning jeep safari leaves around 6.30 am and follows the main track north to Mathanguri on the Manas river, where the water comes out of the Bhutan hills at the international boundary. This is the best stretch for Bengal florican in the grassland in spring, and golden langur live in forest along the river. After lunch at the lodge an afternoon safari explores other grassland tracks. Manas also offers a short elephant ride at Bansbari on some mornings; ask us, as availability varies. The park suits those who like quiet forest more than guaranteed sightings.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Manas to Guwahati",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "150 km · 4 hrs",
+      "text": "A last early walk or bird session around the lodge, where hornbills, drongos and barbets are active at first light. After breakfast we drive back to Guwahati, arriving around lunchtime. The afternoon is for rest and sorting photographs, or for Kamakhya Temple and a Brahmaputra riverfront sunset if you want them. We keep this evening light because the next morning starts early. Dinner in Guwahati. If you want to be closer to Pobitora, we can instead book a simple lodge near the sanctuary on the Mayong side, on request.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Dawn at Pobitora, then on to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "50 km to Pobitora · 1.5 hrs, then 180 km · 4 hrs",
+      "text": "Leave Guwahati at 5.30 am to reach Pobitora for the first safari. The sanctuary is only about 38 square kilometres but holds one of the highest rhino densities anywhere, and rhino often graze near the tracks in the morning. A jeep safari takes about an hour and a half, and a short elephant ride is sometimes available too. After breakfast at a local dhaba we rejoin NH27 at Jagiroad and drive east to Kaziranga, arriving by mid-afternoon. Short walk in a tea garden and dinner at the lodge.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Kaziranga Central and Western ranges",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "Local · park roads",
+      "text": "Optional elephant ride at Kohora or Bagori at dawn from November. The morning jeep enters the Central Range at Kohora, open grassland with rhino, wild buffalo and swamp deer, and watchtowers overlooking beels. After lunch the afternoon jeep goes to the Western Range at Bagori, known for the highest rhino density in the park and good light on the water in the late afternoon. Photographers should sit on the left side of the jeep going in for the western light. Evening review of images and next-day plan with your naturalist.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Kaziranga Eastern and Burapahar ranges",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "Local · about 100 km including range transfers",
+      "text": "Morning jeep in the Eastern Range at Agaratoli, about 30 km east of Kohora, the best range for water birds: spot-billed pelicans, storks, bar-headed geese and ducks from November to March, often in large numbers on Sohola beel. After lunch we drive west to the Burapahar range at Ghorakati for the afternoon jeep, a quieter, hillier range with more forest and, occasionally, hoolock gibbons. Burapahar and the Eastern Range often open later in the season than Central and Western, so check current status before you travel. Last dinner at the lodge.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Early safari and departure",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "215 km to Guwahati Airport · 5 hrs",
+      "text": "A fifth jeep safari in the Central Range at 7.30 am for photographers who want one more morning, or a relaxed breakfast if you prefer. We leave Kaziranga by 10.30 am and reach Guwahati airport around 4 pm, so book a flight after 6 pm. For an earlier flight, we skip the morning safari or drop you at Jorhat Airport, 95 km and two hours east of Kaziranga, instead. Tell us your flight time when booking so safari slots are reserved to match.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "6 nights in the chosen hotel tier, twin sharing",
+    "Full board at Manas; breakfast and dinner elsewhere",
+    "Private air-conditioned vehicle throughout",
+    "3 jeep safaris in Manas with entry and vehicle fees",
+    "1 jeep safari at Pobitora with entry fee",
+    "5 jeep safaris in Kaziranga with entry and vehicle fees",
+    "One still camera fee per person in each park",
+    "All safari bookings and forest department paperwork",
+    "Driver allowance, fuel, tolls and parking",
+    "Airport pickup and drop at Guwahati"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Elephant rides in any park",
+    "Telephoto and video camera surcharges where levied",
+    "Lunches outside Manas, and drinks",
+    "Kamakhya express entry and river cruise",
+    "Tips for guides, drivers and mahouts",
+    "Travel insurance",
+    "Specialist naturalist guide, available at extra cost"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Manas: Birina Eco Camp; Guwahati: Hotel Dynasty; Kaziranga: Wild Grass Lodge, or similar" },
+    { "tier": "Premium", "options": "Manas: Musa Jungle Retreat; Guwahati: Novotel Guwahati GS Road; Kaziranga: IORA The Retreat or Infinity Resorts Kaziranga, or similar" },
+    { "tier": "Luxury", "options": "Manas: Bansbari Lodge; Guwahati: Vivanta Guwahati; Kaziranga: Diphlu River Lodge, or similar" }
+  ],
+  "good_to_know": [
+    "Manas and Kaziranga generally open in October and close by late May or June for the monsoon; Pobitora's season is usually November to April. Opening dates vary with floods, so check current status before you travel.",
+    "Kaziranga's Eastern and Burapahar ranges and its elephant rides typically start around 1 November, a month after the Central and Western ranges.",
+    "Safari slots in Kaziranga fill early from December to February. Book at least six weeks ahead for this trip.",
+    "Bring earth-coloured clothes, a warm layer for early jeeps, binoculars and a 100 to 400 mm or longer lens. Drones are not allowed in any of the three parks.",
+    "Manas has limited mobile coverage inside the range; your lodge will have Wi-Fi or a working signal near reception."
+  ],
+  "faqs": [
+    { "q": "Which is better, Manas or Kaziranga?", "a": "They are different. Kaziranga has open grassland and the easiest rhino, buffalo and bird sightings in India. Manas is more forested and quieter, with golden langur, Bengal florican and the Bhutan hills as backdrop, but sightings take more patience. Seeing both, as on this trip, shows two faces of the Assam grasslands." },
+    { "q": "How far is Manas National Park from Guwahati?", "a": "The Bansbari range gate, the main tourist entry, is about 140 to 150 km from Guwahati. The drive takes three and a half to four hours via Nalbari and Barpeta Road. Leaving Guwahati airport by 9.30 am gets you there in time for an afternoon safari." },
+    { "q": "Is Pobitora worth visiting if we are going to Kaziranga?", "a": "Yes, for a morning. Pobitora is a small sanctuary about 50 km from Guwahati with one of the densest rhino populations anywhere, so close encounters are common. It fits naturally on the way from Guwahati to Kaziranga and costs little extra time." },
+    { "q": "What is the best time for this Assam wildlife tour?", "a": "November to April. November to January has migratory birds and cool mornings, while February to April has shorter grass after controlled burning, making mammals easier to see. All three parks are closed or partly closed from June to September. Check current status before you travel." },
+    { "q": "How much does the Kaziranga, Manas and Pobitora tour cost?", "a": "The indicative price starts at ₹34,500 per person, twin sharing, with standard lodges, nine jeep safaris, park fees for one still camera and a private vehicle. Luxury lodges such as Bansbari Lodge and Diphlu River Lodge add significantly. Elephant rides and flights are extra. We confirm prices once dates are fixed." },
+    { "q": "What animals can we see in Manas?", "a": "Wild elephants, gaur, wild buffalo, hog deer, capped langur and many birds are common. Golden langur, Bengal florican, great hornbill and pygmy hog, which is extremely rare, are the park's specialities. Tigers and clouded leopards live here but are rarely seen. Manas also has one-horned rhinos, reintroduced from the mid-2000s after poaching wiped them out." },
+    { "q": "Can we see all four Kaziranga ranges on this trip?", "a": "Yes, if they are open. We plan the Central and Western ranges on Day 5 and the Eastern and Burapahar ranges on Day 6, plus an optional fifth safari on Day 7. Early in the season, the Eastern and Burapahar ranges may still be closed, and we repeat the other ranges instead." },
+    { "q": "Is this tour suitable for serious wildlife photographers?", "a": "Yes. We schedule every safari in the best light, include nine jeep drives and keep evenings free for backing up images. For a dedicated photography trip we can hire exclusive jeeps and a specialist naturalist at extra cost. A 100 to 400 mm lens is the minimum; longer is better for birds." },
+    { "q": "Do foreigners need permits for Manas or Kaziranga?", "a": "No special permit is needed for Assam's national parks. Foreign nationals pay higher entry and camera fees and register at hotels with passports. Manas lies along the Bhutan border but tourist zones are within India. Rules can change, so check current status before you travel." }
+  ]
+}

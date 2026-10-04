@@ -1,0 +1,23 @@
+{
+  "name": "Shillong Trip",
+  "url": "https://www.shillongtrip.com",
+  "tagline": "Meghalaya, Assam, Arunachal and Northeast India trips, planned properly",
+  "email": "hello@shillongtrip.com",
+  "phone": "",
+  "whatsapp": "",
+  "address": {
+    "street": "",
+    "locality": "Shillong",
+    "region": "Meghalaya",
+    "postalCode": "793001",
+    "country": "IN"
+  },
+  "hours": "Mon–Sat, 9:30 am – 7:30 pm IST",
+  "leads": { "endpoint": "", "popupDelaySeconds": 45, "popupScrollPercent": 60, "popupRepeatDays": 7 },
+  "analytics": { "ga4": "" },
+  "social": { "instagram": "", "facebook": "", "youtube": "", "x": "", "linkedin": "" },
+  "company": { "legalName": "", "gstin": "", "tourismRegistration": "", "foundedYear": "" },
+  "grievance": { "name": "", "email": "", "phone": "" },
+  "team": [],
+  "_note": "Fill phone/whatsapp (digits with country code, e.g. 919800000000), address, social URLs, company and grievance-officer details before launch. leads.endpoint = Google Apps Script web-app URL (tools/leads-apps-script.gs). Empty values are hidden, except social icons, which show as placeholders."
+}

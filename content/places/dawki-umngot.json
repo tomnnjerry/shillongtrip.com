@@ -1,0 +1,66 @@
+{
+  "slug": "dawki-umngot",
+  "name": "Dawki and the Umngot River",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "West Jaintia Hills",
+  "types": ["river", "boating", "border-town"],
+  "tagline": "Boats that seem to float on clear water at the Bangladesh border",
+  "altitude_m": 50,
+  "coords": [25.1833, 92.0167],
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "best_time": "November to April, when the Umngot runs clear enough to see the riverbed; boating often stops in the monsoon.",
+  "permit": {
+    "required": false,
+    "indians": "No permit to visit the river. Stay on the Indian side and do not cross border markers",
+    "foreigners": "No permit to visit. Crossing into Bangladesh via Dawki–Tamabil needs a valid Bangladesh visa and immigration formalities"
+  },
+  "from_hub": { "hub": "Shillong", "km": 82, "hours": "2.5" },
+  "ideal_stay": "A day trip from Shillong, or 1 night in Dawki or Shnongpdeng",
+  "meta_description": "Dawki and the Umngot River, Meghalaya: when the water is clear, boat fares, border rules, how to reach from Shillong and 9 FAQs.",
+  "quick_answer": "Dawki is a border town in West Jaintia Hills, Meghalaya, about 82 km (2.5 to 3 hours) from Shillong, where the Umngot River runs clear enough in winter that boats seem to float. Come between November and April for clarity; boating is often suspended in the monsoon. Boat rides are priced per boat; agree the fare at the ghat.",
+  "intro": [
+    "Photographs of Dawki show wooden boats that appear to hang in the air above pebbles, and on a sunny day between December and March that is roughly what you see. The Umngot River slows as it leaves the Jaintia Hills here, and in the dry months the water is so clear that the boat's shadow lies sharp on the riverbed several metres below.",
+    "Dawki itself is a small trading town on the India–Bangladesh border. The suspension bridge over the river, built in 1932, carries traffic towards the Dawki–Tamabil border crossing, and lines of trucks are part of the view. Just downstream, the river becomes the border; small markers on the bank show where India ends, and Bangladeshi villages are visible across the water.",
+    "Clarity is everything here. From June to September rain turns the Umngot green-brown and fast, and boating is often stopped. We plan Dawki between November and April, and add Shnongpdeng upstream if you want a quieter stretch of river with camping and swimming."
+  ],
+  "highlights": [
+    { "name": "Clear-water boating", "text": "Wooden rowing boats glide over water so clear the riverbed shows through, best on sunny winter days." },
+    { "name": "Dawki suspension bridge", "text": "A 1932 suspension bridge over the Umngot, with views down onto the boats." },
+    { "name": "Border views", "text": "Bangladeshi villages and markets are visible across the river; markers show the line on the bank." },
+    { "name": "Umngot sandbanks", "text": "Boats pull in at a pebble bank upstream where you can step out, paddle and take photos." },
+    { "name": "Shnongpdeng upstream", "text": "A quieter stretch of the same river with camps, kayaking and swimming spots." }
+  ],
+  "things_to_do": [
+    "Take a boat ride on the Umngot between November and April",
+    "Photograph the boats from the Dawki bridge on a sunny late morning",
+    "Walk to a safe viewpoint near the border markers, staying on the Indian side",
+    "Paddle at the pebble banks upstream where boats stop",
+    "Drive 10 km upstream to Shnongpdeng for camping and kayaking",
+    "Combine with Mawlynnong and the Riwai root bridge on the same day",
+    "Eat fresh river fish at a riverside eatery"
+  ],
+  "how_to_reach": "Dawki is about 82 km from Shillong via Pynursla, usually 2.5 to 3 hours by car. The road descends sharply in the last 20 km, and truck traffic near the bridge can add delays. Most visitors hire a taxi from Shillong for a full day that also covers Mawlynnong, about 30 km away. Shared taxis run from Shillong's Bara Bazar area to Dawki in the morning, but returning late can be hard. From Guwahati, stay a night in Shillong first; Dawki is about 180 km from Guwahati.",
+  "where_to_stay": "Dawki town has a few basic hotels and homestays, useful if you arrive late or cross into Bangladesh. Most travellers who want to stay by the river choose camps and homestays at Shnongpdeng, about 10 km upstream, where tents are set on the riverbank. Mawlynnong guest houses, about 30 km away, are another option. Anyone who prefers hotels with more facilities should day-trip from Shillong and accept 5 to 6 hours of driving. Book riverside camps ahead for December and long weekends.",
+  "tips": [
+    "Come on a sunny day between late morning and early afternoon, when light shows the riverbed best",
+    "Wear the life jacket for the whole boat ride",
+    "Agree the boat fare and ride length before you get in",
+    "Do not cross border markers or wade towards the Bangladesh side",
+    "Boating is often suspended from June to September; check current status before you travel",
+    "Carry your rubbish back; the river is under pressure from visitor numbers"
+  ],
+  "faqs": [
+    { "q": "What is the best time to visit Dawki for clear water?", "a": "November to April is the best time, with December to March usually clearest. By then the monsoon silt has settled and the Umngot runs slow and transparent. Sunny days between about 10 am and 2 pm give the floating-boat look. In May the first rains can cloud the water again." },
+    { "q": "Is boating open at Dawki in the monsoon?", "a": "Boating is often suspended between June and September because the river rises, runs fast and turns murky. Even when boats run in the rains, you will not see the riverbed. Decisions are made locally and depend on water levels, so check current status before you travel if you plan a monsoon visit." },
+    { "q": "What is the boating charge at Dawki?", "a": "Umngot boat rides are priced per boat rather than per person, so a full boat of four or five people shares one fare for a ride of roughly 30 to 45 minutes. Rates change with season and route, so agree the fare at the ghat before you board, use the official counters and check current status before you travel." },
+    { "q": "How far is Dawki from Shillong?", "a": "Dawki is about 82 km from Shillong by road, via Pynursla, a drive of 2.5 to 3 hours. Mawlynnong is about 30 km from Dawki, so the two are usually combined in a single long day trip. From Guwahati, Dawki is roughly 180 km, best reached after a night in Shillong." },
+    { "q": "Can I see Bangladesh from Dawki?", "a": "Yes. The river forms the border just downstream of Dawki, and Bangladeshi villages and markets are clearly visible from the Indian bank. Small border markers show the line. Stay on the Indian side, do not cross the markers or wade towards Bangladesh, and follow instructions from border security personnel." },
+    { "q": "Can I cross into Bangladesh from Dawki?", "a": "Dawki is linked to Tamabil in Bangladesh by an official land border crossing. Crossing requires a valid Bangladesh visa and full immigration and customs formalities; the riverside boating area is not a crossing point. Rules and opening hours change, so check current status with the authorities before you travel." },
+    { "q": "Is Dawki boating safe for kids and seniors?", "a": "Boat rides on the calm, clear Umngot are generally gentle, and boatmen provide life jackets, which everyone should wear. Getting in and out of the boats on uneven stones can be tricky for seniors, so ask the boatman for a hand. Avoid boating in high water during or after heavy rain." },
+    { "q": "Where should I stay near Dawki?", "a": "Shnongpdeng, about 10 km upstream, has the best choice of riverside camps and homestays. Dawki town has a few basic hotels and homestays. Mawlynnong guest houses are about 30 km away. Travellers wanting more comfort usually day-trip from Shillong, which means 5 to 6 hours of driving in total." },
+    { "q": "Why is the water at Dawki so clear?", "a": "In the dry months the Umngot carries very little sediment. It flows over a bed of rock, sand and pebbles, and without monsoon runoff the silt settles, leaving clear water. Sunlight on bright days makes it look even clearer. The effect fades once rains wash soil into the river." }
+  ],
+  "nearby": ["shnongpdeng", "mawlynnong", "krang-suri-falls", "jowai"],
+  "image_query": "Umngot River Dawki boats"
+}

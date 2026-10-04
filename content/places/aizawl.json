@@ -1,0 +1,67 @@
+{
+  "slug": "aizawl",
+  "name": "Aizawl",
+  "state": "northeast",
+  "state_name": "Mizoram",
+  "district": "Aizawl",
+  "types": ["city", "hill-station", "culture", "offbeat"],
+  "tagline": "A ridge-top capital of stacked houses, quiet streets and hill views",
+  "altitude_m": 1132,
+  "coords": [23.7271, 92.7176],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for dry, clear weather; March brings the Chapchar Kut festival.",
+  "permit": {
+    "required": true,
+    "indians": "Mizoram Inner Line Permit required. Apply at ilp.mizoram.gov.in or get a temporary pass at the Lengpui Airport counter; valid 15 days and renewable once for 15 days, for a small fee of about INR 120. Check current status before you travel",
+    "foreigners": "Protected Area Permit required again since 17 December 2024, applied for in advance, plus registration with the SP (CID/SB), Mizoram, within 24 hours of arrival. Check current status before you travel"
+  },
+  "from_hub": { "hub": "Lengpui Airport", "km": 32, "hours": "1" },
+  "ideal_stay": "2 to 3 nights in Aizawl, with a day trip to Reiek",
+  "meta_description": "Aizawl, Mizoram: Durtlang views, Solomon's Temple, Bara Bazar, Reiek, Mizoram ILP, the new Sairang railway, where to stay and 9 answered FAQs.",
+  "quick_answer": "Aizawl is Mizoram's capital, spread over ridges at about 1,132 m, about 32 km from Lengpui Airport. Since 2025 it is also reached by train to Sairang, about 15 to 20 km away. See the ridge views, Solomon's Temple, Bara Bazar and the State Museum, and day-trip to Reiek. Indians need a Mizoram ILP.",
+  "intro": [
+    "Aizawl is built along a series of steep ridges, and the houses stack down the slopes on stilts and concrete columns, so the city looks from a distance like a vertical town. At about 1,132 m it has mild weather for most of the year. Mizoram is overwhelmingly Christian, church bells mark Sunday mornings and most shops close for the day.",
+    "What visitors notice first is the order. Traffic moves in disciplined single lines on narrow roads, with very little honking, and people queue patiently at shops. The city is compact enough to explore in two days: the viewpoints at Durtlang, Solomon's Temple in Kidron Valley, the Mizoram State Museum and the long rows of stalls at Bara Bazar.",
+    "Getting here became easier in September 2025, when the Bairabi to Sairang railway line opened, connecting the Aizawl area to the national network with trains including a Rajdhani Express to Delhi. Mizoram is a dry state, and Indian visitors need an Inner Line Permit, available online or at Lengpui Airport. Foreigners again need a Protected Area Permit."
+  ],
+  "highlights": [
+    { "name": "Durtlang hills", "text": "The northern ridge above Aizawl, with viewpoints over the stacked city and the surrounding hills. Go at sunrise or sunset." },
+    { "name": "Solomon's Temple", "text": "A large white church in Kidron Valley, built by a local denomination, with gardens and city views. Dress modestly and keep quiet inside." },
+    { "name": "Bara Bazar", "text": "The main market street, selling Mizo textiles, fresh produce, bamboo goods and imported goods from Myanmar. Most stalls close on Sundays." },
+    { "name": "Mizoram State Museum", "text": "Galleries on Mizo history, traditional dress, weapons and household objects. Check opening days before you go." },
+    { "name": "Reiek", "text": "A hill about 30 km west of Aizawl with a short trail to a rocky summit, a model Mizo heritage village and wide views." }
+  ],
+  "things_to_do": [
+    "Watch sunrise or sunset from the Durtlang hills",
+    "Visit Solomon's Temple and walk its gardens",
+    "Browse Bara Bazar for puan, the Mizo handwoven wrap",
+    "Spend an hour in the Mizoram State Museum",
+    "Drive to Reiek for the summit trail and heritage village",
+    "Try Mizo food such as bai (vegetable and pork stew) and smoked pork",
+    "Attend a Sunday church service with local permission, or simply listen to the choirs",
+    "Time a visit for Chapchar Kut, the spring festival, usually in March"
+  ],
+  "how_to_reach": "Lengpui Airport is about 32 km from Aizawl, roughly an hour by taxi, with flights from Kolkata, Guwahati, Delhi and a few other cities, and an ILP counter for arriving Indian visitors. Since September 2025, trains reach Sairang, about 15 to 20 km from the city, on the Bairabi to Sairang line, with services from Guwahati, Kolkata and Delhi. By road Aizawl is about 180 km from Silchar, 5 to 6 hours, and about 480 km from Guwahati. Landslides can close roads in the monsoon; check current status before you travel.",
+  "where_to_stay": "Most hotels are in the central areas around Zarkawt, Dawrpui and Chanmari, close to Bara Bazar and taxi routes, and range from simple guest houses to comfortable mid-range hotels. Homestays in residential localities give a better sense of Mizo family life and food. Rooms can be limited during Chapchar Kut and on major church and government events, so book ahead. Many hotels have their own restaurants, which helps on Sundays when most eateries close.",
+  "tips": [
+    "Get your Mizoram ILP online before travel or at the Lengpui Airport counter, and carry copies",
+    "Mizoram is a dry state; do not bring alcohol",
+    "Plan quiet activities for Sunday, when shops and many restaurants close",
+    "Follow the local driving etiquette: no honking and no overtaking in queues",
+    "Carry cash; ATMs exist in the city but can run dry on weekends",
+    "Dress modestly at churches and ask before photographing people"
+  ],
+  "faqs": [
+    { "q": "Do I need a permit to visit Aizawl?", "a": "Yes. Indian citizens from outside Mizoram need an Inner Line Permit. Apply online at ilp.mizoram.gov.in or get a temporary pass at the Lengpui Airport counter; it is valid for 15 days and renewable once, for a fee of about INR 120. Foreigners need a Protected Area Permit in advance. Check current status before you travel." },
+    { "q": "How do I reach Aizawl?", "a": "Fly into Lengpui Airport, about 32 km from Aizawl, with flights from Kolkata, Guwahati and Delhi. Since September 2025, trains also run to Sairang, about 15 to 20 km from the city, including a Rajdhani Express from Delhi. By road, Aizawl is about 180 km from Silchar and 480 km from Guwahati." },
+    { "q": "Is there a train to Aizawl?", "a": "Yes, since September 2025. The Bairabi to Sairang railway line, about 51 km long, opened on 13 September 2025, and trains now run to Sairang station near Aizawl from Delhi, Guwahati and Kolkata. Sairang is about 15 to 20 km from the city centre, so take a taxi for the last stretch." },
+    { "q": "What is the best time to visit Aizawl?", "a": "October to March is best, with dry, clear weather and mild temperatures. March brings Chapchar Kut, Mizoram's spring festival of dance and music. The monsoon, roughly May to September, is very wet, with landslides on highways, so we avoid those months for road trips." },
+    { "q": "What should foreigners know about visiting Mizoram?", "a": "Since 17 December 2024, foreigners again need a Protected Area Permit for Mizoram, applied for in advance, and must register with the SP (CID/SB), Mizoram, within 24 hours of arrival. Citizens of some countries need prior government clearance. Work through a registered tour operator and check current status before you travel." },
+    { "q": "What are the main places to visit in Aizawl?", "a": "The main sights are the Durtlang hills viewpoints, Solomon's Temple in Kidron Valley, Bara Bazar, the Mizoram State Museum and the Mizoram Assembly and Raj Bhavan area. Reiek, about 30 km west, has a summit trail and a heritage village. Allow two to three days to see them at a relaxed pace." },
+    { "q": "Is Aizawl safe for tourists?", "a": "Aizawl is widely regarded as calm and safe, with low street crime and orderly traffic. Take normal precautions and follow local advice. Mizoram shares borders with Myanmar and Bangladesh, and border areas can have restrictions, so check current status before travelling far outside the city." },
+    { "q": "Is alcohol available in Mizoram?", "a": "Mizoram is a dry state under its liquor prohibition law, so alcohol is not sold legally to visitors. Do not carry alcohol into the state, as checks happen at entry points and penalties apply. Rules have changed in the past, so check current status before you travel." },
+    { "q": "How many days do I need in Aizawl?", "a": "Two to three nights is right. Spend one day on the city sights, including Durtlang, Solomon's Temple, the State Museum and Bara Bazar, and one on a day trip to Reiek. Remember that most shops close on Sundays, so avoid planning your market day then." }
+  ],
+  "nearby": ["imphal", "loktak-lake", "agartala", "unakoti", "haflong"],
+  "image_query": "Aizawl city Mizoram"
+}

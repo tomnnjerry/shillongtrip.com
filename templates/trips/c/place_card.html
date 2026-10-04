@@ -1,0 +1,6 @@
+{% load trips_tags %}<a class="pl {{ size }}" href="/places/{{ d.slug }}/" data-place data-state="{{ d.state }}" data-months="{{ d.best_months|spacejoin }}">
+  <span class="pl__img">{% img im sizes='(min-width: 1000px) 300px, 50vw' %}</span>
+  <span class="pl__meta">{% state_chip d.state %}<span class="pl__alt">{{ d.altitude_m|num }} m</span></span>
+  <span class="pl__name">{{ d.name }}</span>
+  <span class="pl__line">{{ d.tagline|trimstop }}</span>
+</a>

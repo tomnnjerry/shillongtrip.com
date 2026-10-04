@@ -1,0 +1,66 @@
+{
+  "slug": "khonoma",
+  "name": "Khonoma",
+  "state": "northeast",
+  "state_name": "Nagaland",
+  "district": "Kohima",
+  "types": ["village", "culture", "eco-tourism", "history"],
+  "tagline": "India's first green village, with terraced fields and Angami history",
+  "altitude_m": 1621,
+  "coords": [25.6500, 94.0331],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for dry trails and golden terraces; late autumn after the harvest is especially good.",
+  "permit": {
+    "required": true,
+    "indians": "Nagaland Inner Line Permit required (INR 200 for 30 days, online only at ilp.nagaland.gov.in). The village may charge a small visitor fee; check current status before you travel",
+    "foreigners": "Protected Area Permit required for Nagaland again since 17 December 2024, plus a Nagaland ILP (INR 500 for 30 days) and registration within 24 hours of arrival. Check current status before you travel"
+  },
+  "from_hub": { "hub": "Dimapur", "km": 90, "hours": "3" },
+  "ideal_stay": "1 or 2 nights in a village homestay",
+  "meta_description": "Khonoma, Nagaland: India's first green village, the 1879 battle, tragopan sanctuary, terraced fields, homestays, how to reach and 9 answered FAQs.",
+  "quick_answer": "Khonoma is an Angami Naga village about 20 km west of Kohima, at roughly 1,600 m. It is known as India's first green village after its council banned hunting and created a 20 sq km tragopan sanctuary, and for resisting the British in 1879. Walk its stone lanes and terraced fields and stay in a homestay.",
+  "intro": [
+    "Khonoma sits on a ridge above terraced rice fields, a stone village of clan quarters, gates and memorial stones about 20 km west of Kohima. It is an old Angami settlement, and its fortified hilltop made it the centre of Naga resistance to the British. In October 1879, fighting at Khonoma killed the British political officer G. H. Damant and began a siege that lasted until March 1880.",
+    "A century later the village changed direction. In 1998, after hunters killed several hundred Blyth's tragopans in a single week, the village council banned hunting and set aside about 20 sq km of forest as the Khonoma Nature Conservation and Tragopan Sanctuary. In 2005 Khonoma was recognised as India's first green village, and it now runs community tourism with guides and homestays.",
+    "We like Khonoma for its pace. You can spend a day walking between the three clan areas, watching farmers on the terraces, reading memorial stones and talking with your guide about Angami customs. The village is home to about 2,000 people, so respect their privacy, their Sunday church services and their rules."
+  ],
+  "highlights": [
+    { "name": "Terraced fields", "text": "Rice terraces and alder-based farming systems around the village, green in summer and gold after the autumn harvest." },
+    { "name": "Village lanes and gates", "text": "Stone paths, carved gates and memorial stones across the three clan areas. Hire a village guide for the stories." },
+    { "name": "1879 battle sites", "text": "Memorials to G. H. Damant and to the Naga defenders, with the old fort area on the hilltop." },
+    { "name": "Tragopan sanctuary", "text": "About 20 sq km of community-protected forest where hunting has been banned since 1998. Birding walks need a guide and an early start." },
+    { "name": "Morungs", "text": "Traditional youth dormitories, once the centre of learning and community life for Angami boys." }
+  ],
+  "things_to_do": [
+    "Walk through the three clan areas with a local guide",
+    "See the terraced fields and learn how the alder farming system works",
+    "Visit the memorials from the 1879 battle",
+    "Take an early-morning birding walk towards the tragopan sanctuary",
+    "Stay in a homestay and eat Angami food with the family",
+    "Visit a morung and the village church",
+    "Combine Khonoma with Kohima and the Dzukou Valley trek"
+  ],
+  "how_to_reach": "Khonoma is about 20 km west of Kohima, a drive of 45 minutes to an hour on a narrow hill road. There is no regular bus, so hire a taxi in Kohima for a day trip or a one-way drop if you are staying. Kohima is 74 km from Dimapur, which has Nagaland's airport and main railway station, so allow about 3 hours from Dimapur to Khonoma. Carry your Nagaland ILP; there may be checks on the way.",
+  "where_to_stay": "Khonoma has a number of family-run homestays, arranged through the village tourism committee or directly with families. Rooms are simple and clean, with shared or attached bathrooms, and meals are Angami home food such as smoked pork, local greens and rice. There are no hotels in the village. If you prefer a hotel, stay in Kohima and come for the day, though evenings in Khonoma are the best part. Book in advance for Hornbill season in early December.",
+  "tips": [
+    "Hire a village guide; much of Khonoma's history is not signposted",
+    "Ask before photographing people, homes and memorial stones",
+    "Sunday mornings are for church; plan quieter activities then",
+    "Hunting is banned here; do not buy any wild meat or animal parts",
+    "Carry cash for homestays, guides and village fees",
+    "Nagaland is a dry state; do not bring alcohol into the village"
+  ],
+  "faqs": [
+    { "q": "Why is Khonoma called India's first green village?", "a": "In 1998, after hunters killed a large number of Blyth's tragopans in a single week, the village council banned hunting and set up the Khonoma Nature Conservation and Tragopan Sanctuary across about 20 sq km of forest. The village also limited logging. In 2005 Khonoma was recognised as India's first green village." },
+    { "q": "How far is Khonoma from Kohima?", "a": "Khonoma is about 20 km west of Kohima, a drive of about 45 minutes to an hour on a narrow hill road. There is no regular public bus, so hire a taxi in Kohima. From Dimapur, allow about 3 hours to reach Khonoma via Kohima." },
+    { "q": "What happened at Khonoma in 1879?", "a": "In October 1879, Angami warriors from Khonoma resisted British expansion, and the British political officer G. H. Damant was killed near the village along with others. The British besieged the village for about four months until peace was made in March 1880. Memorials to both sides stand in and around the village." },
+    { "q": "Can I stay overnight in Khonoma?", "a": "Yes. Several families run homestays in Khonoma, usually booked through the village tourism committee or directly. Rooms are simple and clean, and meals are home-cooked Angami food. Staying overnight lets you see the village in the quiet evening and early morning, which a day trip misses." },
+    { "q": "Do I need a permit to visit Khonoma?", "a": "Yes. Indian visitors from outside Nagaland need a Nagaland Inner Line Permit, available online, and the village may charge a small visitor fee. Foreign nationals need a Protected Area Permit for Nagaland and must register with the authorities within 24 hours. Check current status before you travel." },
+    { "q": "What is the best time to visit Khonoma?", "a": "October to April is best, with dry lanes and clear views. October and November, after the harvest, turn the terraces gold. Early December is busy because of the Hornbill Festival nearby. June to September is wet, green and quiet, but trails can be slippery." },
+    { "q": "Can I see Blyth's tragopan in Khonoma?", "a": "It is possible but difficult. The tragopan is shy and lives in dense forest in the community sanctuary. Birders go out at dawn with a local guide, and sightings are more likely in the breeding season in spring. Many other birds are easier to see around the village and terraces." },
+    { "q": "How much time do I need in Khonoma?", "a": "A half-day trip from Kohima covers the village lanes, terraces and memorials with a guide. One or two nights in a homestay let you add a dawn birding walk, a longer hike and a relaxed evening with your host family. Many travellers combine Khonoma with Kohima and Dzukou." },
+    { "q": "What should I know about visiting Khonoma respectfully?", "a": "Khonoma is a living village of about 2,000 people. Hire a local guide, ask before photographing people and homes, dress modestly, avoid loud activities on Sunday mornings when people attend church, and do not buy wild meat or animal products. Carry your rubbish back to Kohima." }
+  ],
+  "nearby": ["kohima", "dzukou-valley", "imphal"],
+  "image_query": "Khonoma village Nagaland"
+}

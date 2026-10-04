@@ -1,0 +1,64 @@
+{
+  "slug": "mawsmai-cave",
+  "name": "Mawsmai Cave",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["cave", "sightseeing"],
+  "tagline": "A lit limestone cave south of Sohra with a 150 m squeeze-through walk",
+  "altitude_m": 1280,
+  "coords": [25.2508, 91.7298],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April, when the floor is drier and the passages are easier to walk.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Buy an entry ticket at the gate; children pay a lower rate",
+    "foreigners": "No permit needed. Buy a ticket at the gate"
+  },
+  "from_hub": { "hub": "Shillong", "km": 56, "hours": "2" },
+  "ideal_stay": "A 45 minute stop on a Sohra sightseeing day",
+  "meta_description": "Mawsmai Cave, Meghalaya: lit limestone cave 4 km from Sohra. Entry fee, timings, how tight it gets, monsoon tips and 9 FAQs.",
+  "quick_answer": "Mawsmai Cave is a lit limestone cave about 4 km south of Sohra and 56 km (2 hours) from Shillong, in Meghalaya's East Khasi Hills. The tourist section is roughly 150 m, with stalactites, tight squeezes and wet floors, taking 20 to 30 minutes. Entry is a small ticket; hours are usually 9.30 am to 5.30 pm.",
+  "intro": [
+    "Meghalaya has some of the longest cave systems in India, most of them only for trained cavers. Mawsmai is the easy one: a short limestone cave near Mawsmai village, south of Sohra, with electric lighting, a one-way route and staff at the entrance.",
+    "Inside, the cave narrows and widens in turn. You walk through chambers with stalactites and flowstone, then duck under low ceilings and turn sideways through a couple of tight gaps before stepping out into daylight on the other side. The whole tourist section is about 150 m and most people are through in 20 to 30 minutes, depending on queues.",
+    "It is a fun stop for families, and a sensible introduction for anyone curious about Meghalaya's caves. It is not for people who panic in tight spaces. We send visitors in early on weekends, because a slow-moving line in the narrow sections makes the walk longer and warmer."
+  ],
+  "highlights": [
+    { "name": "Lit passage", "text": "Electric lights along the route show the limestone formations without a headlamp." },
+    { "name": "Stalactites and flowstone", "text": "Formations built up over a very long time hang from the ceiling and coat the walls." },
+    { "name": "Squeeze sections", "text": "A couple of low, narrow gaps give a small taste of real caving." },
+    { "name": "Close to Seven Sisters Falls", "text": "The Nohsngithiang falls viewpoint is a few minutes away near Mawsmai village." }
+  ],
+  "things_to_do": [
+    "Walk the lit route through the cave, about 150 m end to end",
+    "Photograph the formations in the larger chambers where there is room to stop",
+    "Visit early on weekends to avoid queues in the narrow sections",
+    "Combine with Seven Sisters Falls viewpoint near Mawsmai village",
+    "Stop at the stalls outside for tea and Khasi snacks",
+    "Continue to Nohkalikai Falls or Eco Park on the same Sohra circuit"
+  ],
+  "how_to_reach": "Mawsmai Cave is about 4 km south of Sohra market, 10 minutes by car, and about 56 km from Shillong, roughly 2 hours by road. It is on the standard Sohra sightseeing circuit with Nohkalikai Falls and Seven Sisters Falls, so any Shillong or Sohra taxi driver will know it. There is parking near the entrance and a short walk through a small forest to the cave mouth. There is no dependable public transport to the cave, so keep your cab for the day.",
+  "where_to_stay": "The nearest large property is Polo Cherrapunjee Resort beside the Seven Sisters falls, a few minutes from the cave. Homestays in Mawsmai village and around Sohra market suit budget travellers and put you close to Nohkalikai as well. Cherrapunjee Holiday Resort at Laitkynsew is about 30 minutes away and closer to the root bridge trails. If you are staying in Shillong, the cave fits into a long day trip to Sohra; leave by 7.30 am to cover it with the other sights.",
+  "tips": [
+    "Wear shoes with grip and clothes you do not mind getting muddy",
+    "Leave big bags in the car; some gaps are narrow",
+    "Skip it if you are claustrophobic or have back or knee problems that make crouching hard",
+    "Keep phones in zipped pockets; dripping water is constant",
+    "Go early on weekends, when queues build in the tight sections",
+    "The cave may close after very heavy rain; check current status before you travel"
+  ],
+  "faqs": [
+    { "q": "What is the entry fee for Mawsmai Cave?", "a": "Mawsmai Cave charges a small entry fee, typically under INR 100 per person, with a lower rate for children, plus parking and separate charges for cameras and film shoots. Fees are collected in cash at the gate and are revised from time to time, so check locally and check current status before you travel." },
+    { "q": "What are Mawsmai Cave timings?", "a": "The cave is usually open daily from about 9.30 am to 5.30 pm. On busy weekends and in October, the narrow sections can create queues, so arriving near opening time helps. The cave may be closed after very heavy rain for safety, so check current status before you travel." },
+    { "q": "How long is Mawsmai Cave?", "a": "The tourist route through Mawsmai Cave is about 150 m long and takes most visitors 20 to 30 minutes. The cave system extends further, but only the lit section is open to the public. It is a one-way walk, so you enter at one side and come out at another." },
+    { "q": "Is Mawsmai Cave safe for kids and seniors?", "a": "Children usually enjoy it, and the route is lit and staffed. Seniors should know that several sections are low and narrow, need crouching or turning sideways, and have wet, uneven floors. Anyone with back or knee problems, or who is uncomfortable in tight spaces, should skip the inside and wait outside." },
+    { "q": "Is Mawsmai Cave suitable for claustrophobic people?", "a": "Probably not. Although it is short and lit, the cave has a couple of tight squeezes where you must turn sideways or bend low, and on busy days a queue can stop you inside for a few minutes. If tight spaces worry you, see Seven Sisters Falls nearby instead." },
+    { "q": "How far is Mawsmai Cave from Shillong?", "a": "Mawsmai Cave is about 56 km from Shillong, roughly a 2 hour drive via Sohra. It is about 4 km south of Sohra market. Most people cover it on a Sohra sightseeing day together with Nohkalikai Falls, Seven Sisters Falls and the Eco Park." },
+    { "q": "Can I visit Mawsmai Cave in the monsoon?", "a": "Usually yes, but expect water dripping from the ceiling, wet and slippery floors, and more mud at the entrance between June and September. After very heavy rain the cave can be closed for safety. Wear sandals with grip or shoes you do not mind getting wet, and check current status before you travel." },
+    { "q": "What should I wear inside Mawsmai Cave?", "a": "Wear shoes or sports sandals with good grip, light clothes that can get muddy, and nothing loose that might snag on rock. Leave backpacks and large camera bags in the car. A small torch is not required, since the route is lit, but it helps in dimmer corners." },
+    { "q": "Is Mawsmai Cave worth visiting?", "a": "Yes, as a short and easy caving experience on a Sohra circuit. It is not a deep adventure cave, and it can feel crowded at peak times, but it shows limestone formations up close with lighting and staff. Pair it with Seven Sisters Falls a few minutes away." }
+  ],
+  "nearby": ["sohra", "nohkalikai-falls", "nongriat-root-bridges", "wei-sawdong-falls"],
+  "image_query": "Mawsmai Cave Cherrapunji"
+}

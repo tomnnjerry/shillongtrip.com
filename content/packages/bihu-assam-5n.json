@@ -1,0 +1,130 @@
+{
+  "slug": "bihu-assam-5n",
+  "title": "Rongali Bihu in Assam",
+  "nights": 5,
+  "themes": ["festival", "culture"],
+  "states": ["assam"],
+  "places": ["guwahati", "kamakhya-temple", "jorhat", "sivasagar", "majuli"],
+  "hero": "sivasagar",
+  "price_from_inr": 31500,
+  "best_months": [4],
+  "difficulty": "easy",
+  "max_altitude_m": 116,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Jorhat Airport (JRH)",
+  "meta_description": "Rongali Bihu tour, 5 nights / 6 days in mid-April: Guwahati stage Bihu, Goru Bihu morning, Sivasagar's Rang Ghar, Jorhat tea and Majuli villages.",
+  "quick_answer": "This 5-night trip follows Rongali (Bohag) Bihu, the Assamese new year in mid-April, from Guwahati to Jorhat. You see the evening stage functions in Guwahati, the Goru Bihu cattle ritual in a village, Manuh Bihu at Sivasagar's Ahom monuments and husori troupes on Majuli. Dates follow the Assamese calendar, usually starting around 14 April.",
+  "overview": [
+    "Rongali Bihu, also called Bohag Bihu, marks the Assamese new year and the start of the sowing season. It usually begins around 14 April with Goru Bihu, when cattle are bathed and garlanded at dawn, followed by Manuh Bihu, when people wear new clothes, touch elders' feet and exchange gamosa, the red-and-white woven towel. For a week or more after, towns hold evening stage functions with Bihu dance and songs, and husori groups of singers and drummers go from house to house. This trip puts you in the right place for each part of it.",
+    "You start in Guwahati for the city's stage Bihu, then head east to Jorhat, the tea capital of upper Assam, with a day in Sivasagar, the old Ahom capital, where the kings once watched Bihu games from the Rang Ghar pavilion. The trip ends with two nights on Majuli, where satras and Mising villages celebrate in their own ways. April is warm, around 30°C, with pre-monsoon thunderstorms in the afternoons, and Bihu days are public holidays, so shops and banks close. We fix exact dates once the year's calendar is confirmed."
+  ],
+  "highlights": [
+    "Evening stage Bihu in Guwahati, with dance troupes, dhol drummers and pepa horn players",
+    "Goru Bihu at dawn in a village, when cattle are bathed and garlanded",
+    "Manuh Bihu at Sivasagar's Rang Ghar, Talatal Ghar and Shiva Dol",
+    "A morning in a Jorhat tea garden during the first flush season",
+    "Husori singers visiting homes and satras on Majuli",
+    "Pitha rice cakes, laru sweets and a gamosa of your own"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Guwahati, Bihu markets and a stage function",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "28 km · 1 hr, plus city sightseeing",
+      "text": "Arrive at Guwahati Airport the day before Goru Bihu. Our driver takes you to the hotel, and after lunch we go to Kamakhya Temple on Nilachal hill, busy with families before the new year; the general queue is free and special darshan costs ₹501 per person at the last check. Then walk the Bihu markets in Fancy Bazar and Paltan Bazar, where stalls sell gamosa, mekhela chador, dhol drums, pepa buffalo-horn pipes and pitha rice cakes. In the evening we take you to one of Guwahati's stage Bihu functions, such as the long-running one at Latasil field, where dance troupes compete to fast dhol rhythms late into the night.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Goru Bihu at dawn, then east to Jorhat",
+      "stay": "Jorhat",
+      "altitude_m": 116,
+      "drive": "About 310 km · 7 hrs",
+      "text": "Wake before 6 am for Goru Bihu, the cattle day that opens the festival. In a village on the edge of Guwahati, families lead their cows to a pond or river, rub them with a paste of turmeric and black gram, and wave fresh gourd and brinjal while singing traditional verses; the cattle then get new ropes. It is informal and friendly, and villagers usually welcome polite visitors. After breakfast we drive east on the highway through Nagaon and past Kaziranga, where rhinos often graze near the road, to Jorhat. On the way, look for boys and girls practising Bihu dance under trees in village fields. Check in by late afternoon.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Manuh Bihu in Sivasagar",
+      "stay": "Jorhat",
+      "altitude_m": 116,
+      "drive": "About 120 km return · 3.5 hrs",
+      "text": "Manuh Bihu, the human day, is when people bathe early, wear new clothes, seek elders' blessings and give each other gamosa. We drive 55 km to Sivasagar, capital of the Ahom kingdom that ruled Assam for about 600 years. Rang Ghar, the two-storey oval pavilion from the 18th century, is where Ahom kings watched Bihu sports and buffalo fights, and it is still a focus of celebrations. Nearby are Talatal Ghar, the palace with its underground levels, and Shiva Dol beside the large Sivasagar tank, one of the tallest Shiva temples in India. Afternoon Bihu events and games draw crowds in town. We return to Jorhat in the evening.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Jorhat tea garden, then ferry to Majuli",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "About 25 km · 1 hr, plus ferry 1–1.5 hrs",
+      "text": "April is first flush season, and the tea bushes around Jorhat are bright green. In the morning we visit a working tea estate, where a garden guide explains plucking and, where permitted, shows the factory's withering, rolling and drying lines. Buy a packet of orthodox or CTC tea straight from the region. Then drive 14 km to Nimati Ghat and take the ferry across the Brahmaputra to Majuli, a crossing of about an hour with the car on board. Ferries may run a reduced schedule on Bihu days, so we time it carefully. In the evening, visit a satra for the prayers, which during Bihu week often include special naam-kirtan singing.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Husori troupes and Mising villages on Majuli",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "About 40 km on the island · 3 hrs",
+      "text": "During Bihu week, husori groups of men with dhol drums, cymbals and pepa pipes move from house to house singing blessings, and households give them gamosa, betel nut and a small offering in return. Our local guide tracks where the groups are playing and takes you along. In the morning visit Samaguri Satra, where monks make masks for religious theatre, and Auniati Satra with its museum. In the afternoon, go into a Mising village, where houses stand on stilts and women weave on looms underneath; the Mising community joins the Bihu season with its own songs and rice beer. Evening sunset over the river channels.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Ferry to Jorhat for departure",
+      "stay": "Departure",
+      "altitude_m": 116,
+      "drive": "About 35 km · 2.5 hrs including the ferry",
+      "text": "After breakfast, take a morning ferry back to Nimati Ghat and drive about 20 km to Jorhat Airport, which has flights to Kolkata and Delhi at the last check. April afternoons can bring sudden thunderstorms that delay ferries, so we book flights after 1 pm where possible. If you have time, stop at the Jorhat Gymkhana Club, founded in 1876 and one of the oldest golf clubs in India, or buy muga and eri silk in town. If you prefer to go back to Guwahati, trains and buses take about seven hours, or we can add a night at Kaziranga on the way, since the park is still open in April.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "5 nights on twin sharing: 1 in Guwahati, 2 in Jorhat and 2 on Majuli",
+    "Daily breakfast and dinner, plus lunch on Majuli",
+    "Private air-conditioned vehicle for all transfers and sightseeing",
+    "Guwahati Airport pickup and Jorhat Airport drop",
+    "Entry arranged to a Guwahati stage Bihu function, where seating is ticketed",
+    "Guided Goru Bihu morning in a village",
+    "Local guides in Sivasagar and Majuli",
+    "Tea estate visit near Jorhat, subject to the estate's permission",
+    "Ferry crossings to and from Majuli with the vehicle",
+    "A gamosa for each traveller"
+  ],
+  "exclusions": [
+    "Flights to Guwahati and from Jorhat",
+    "Kamakhya special darshan tickets",
+    "Monument entry and camera fees at Sivasagar",
+    "Lunches except on Majuli, drinks and snacks",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Costs from storms, ferry suspensions or flight changes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Nandan, Guwahati, or similar; a central business hotel in Jorhat, or similar; Me:Po Okum, Majuli, or similar" },
+    { "tier": "Premium", "options": "Novotel Guwahati GS Road, or similar; Thengal Manor heritage bungalow near Jorhat, or similar; La Maison de Ananda, Majuli, or similar" },
+    { "tier": "Luxury", "options": "Vivanta Guwahati or Radisson Blu Guwahati, or similar; Banyan Grove tea bungalow near Jorhat, or similar; La Maison de Ananda, Majuli, as the island has no luxury hotels" }
+  ],
+  "good_to_know": [
+    "Rongali Bihu starts around 14 April each year by the Assamese calendar, with Goru Bihu first and Manuh Bihu the next day. Stage functions run for a week or more. We confirm exact dates each year; check current status before you travel.",
+    "Bihu days are public holidays in Assam. Banks, government offices and many shops close for two or three days, and ferries and buses may run reduced schedules.",
+    "No permit is needed for Assam. Carry photo ID for hotels and ferries.",
+    "April is hot, around 30–32°C in the day, with pre-monsoon thunderstorms in the afternoons. Pack light cotton clothes, an umbrella and sun protection.",
+    "Ask before photographing families during Goru Bihu and at home celebrations. At satras, remove shoes and follow your guide on where photography is allowed.",
+    "Kaziranga is usually still open in April, before closing for the monsoon from about May. You can add one or two nights on the way to Jorhat."
+  ],
+  "faqs": [
+    { "q": "When is Rongali Bihu?", "a": "Rongali, or Bohag, Bihu marks the Assamese new year and usually begins around 14 April. Goru Bihu, the cattle day, comes first, and Manuh Bihu, the human day, follows. Stage functions and husori singing continue for a week or more. Dates follow the Assamese calendar, so we confirm them each year; check current status before you travel." },
+    { "q": "What happens during Rongali Bihu?", "a": "On Goru Bihu, cattle are bathed and garlanded at dawn. On Manuh Bihu, people wear new clothes, seek elders' blessings and exchange gamosa. Homes make pitha rice cakes and laru sweets. In the evenings, towns hold stage functions with Bihu dance and songs, and husori troupes sing blessings from house to house." },
+    { "q": "How much does the Bihu tour cost?", "a": "It starts at ₹31,500 per person on twin sharing, with standard hotels, a private air-conditioned vehicle, the Goru Bihu village morning, a stage Bihu evening, guides in Sivasagar and Majuli, the Majuli ferries, a gamosa and breakfast and dinner daily. Flights and monument fees are extra. Premium tiers use heritage tea bungalows near Jorhat." },
+    { "q": "Where is the best place to see Bihu?", "a": "It depends on what you want to see. Guwahati has the biggest stage functions. Sivasagar and Jorhat in upper Assam are considered the heartland of the festival, with deep local tradition. Villages show the rituals, such as the cattle bath and husori, most closely. This trip includes all three kinds of setting." },
+    { "q": "Can visitors join Bihu celebrations?", "a": "Yes. Assamese families are welcoming, and stage functions are public, though some have ticketed seating. Watching the Goru Bihu ritual is fine if you are polite and ask before photographing. If a husori troupe performs at a home you are visiting, the family will explain what to offer. Your guide helps with local courtesy." },
+    { "q": "What is Rang Ghar in Sivasagar?", "a": "Rang Ghar is an 18th-century, two-storey oval pavilion built by the Ahom kings, from which royalty watched Bihu sports, buffalo fights and games on the field below. Its roof is shaped like an upturned boat. It is one of the best-known Ahom monuments and remains a focus of Bihu events in Sivasagar." },
+    { "q": "What is the weather like in Assam in April?", "a": "Warm and humid, with daytime temperatures around 30–32°C and nights around 20°C. Pre-monsoon storms, called bordoisila, often bring strong wind and heavy rain in the afternoons, which can delay ferries. Mornings are the best time for outdoor events. Pack light clothes, an umbrella and a light layer for air-conditioned rooms." },
+    { "q": "Will shops and banks be open during Bihu?", "a": "Many will not. Bihu days are public holidays in Assam, so banks, government offices and many shops close for two or three days, and some restaurants shorten hours. Hotels stay open. Withdraw cash before the holiday starts, and expect ferries and long-distance buses to run fewer services." },
+    { "q": "Can I add Kaziranga to the Bihu trip?", "a": "Yes. Kaziranga lies on the highway between Guwahati and Jorhat and is usually still open in April. Adding one night lets you take a morning jeep safari on day 3 before continuing to Jorhat. April grass is green and tall after the burning season, so sightings are good but slightly harder than in winter." }
+  ]
+}

@@ -1,0 +1,12 @@
+{% load trips_tags %}<form class="lf {{ cls }}" data-lead="{{ source }}" novalidate>
+  {% if title %}<p class="lf__title">{{ title }}</p>{% endif %}
+  <label class="lf__f"><span>Your name</span><input name="name" autocomplete="name" required></label>
+  <label class="lf__f"><span>Phone / WhatsApp</span><input name="phone" type="tel" inputmode="tel" autocomplete="tel" required></label>
+  <label class="lf__f"><span>When</span><select name="month"><option value="">Not decided</option>{% for m in months %}<option>{{ m }}</option>{% endfor %}</select></label>
+  {% if not compact %}<label class="lf__f"><span>Travellers</span><input name="pax" placeholder="2 adults, 1 child"></label>{% endif %}
+  <label class="hp" aria-hidden="true">Company<input name="company" tabindex="-1" autocomplete="off"></label>
+  <button class="btn btn--sun btn--full" type="submit">Send {% icon 'arrow' %}</button>
+  <p class="lf__note">No payment, no spam. <a href="/privacy/">Privacy</a></p>
+  <p class="lf__err" data-lead-err role="alert" hidden></p>
+  <div class="lf__ok" data-lead-ok hidden role="status"><b>Got it, thank you.</b><span>A planner will message you, usually within one working day.</span></div>
+</form>

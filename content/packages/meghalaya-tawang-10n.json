@@ -1,0 +1,175 @@
+{
+  "slug": "meghalaya-tawang-10n",
+  "title": "Meghalaya and Tawang",
+  "nights": 10,
+  "themes": ["photography", "adventure"],
+  "states": ["meghalaya", "assam", "arunachal"],
+  "places": ["shillong", "laitlum-canyons", "sohra", "nohkalikai-falls", "dawki-umngot", "tezpur", "dirang", "sela-pass", "tawang", "tawang-monastery", "bum-la-pass", "madhuri-lake"],
+  "hero": "dawki-umngot",
+  "price_from_inr": 49500,
+  "best_months": [11, 12, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 4600,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Meghalaya and Tawang photo tour, 10 nights / 11 days from Guwahati: Laitlum, Sohra, clear Umngot at Dawki, Sela Lake and three nights in Tawang.",
+  "quick_answer": "This 10 nights / 11 days trip joins Meghalaya's canyons and rivers to the high monasteries of Tawang, timed for photography. You get three nights in Shillong and Sohra with the clear Umngot at Dawki, then Dirang, three nights in Tawang with Sela and Madhuri Lake, and a return through Dirang and Tezpur. Best from November to April.",
+  "overview": [
+    "Meghalaya and Tawang give you two very different sets of pictures on one trip: limestone gorges, waterfalls and a river so clear the boats seem to float in air, and then snow-edged passes, prayer flags and a 17th-century monastery at about 2,670 m. The link between them is a long day across the Brahmaputra plains, which we place in the middle of the trip and break at Tezpur.",
+    "The plan is built around light. We put you at Laitlum for sunrise, at Nohkalikai when the gorge is sunlit, on the Umngot around midday when the water looks clearest, and at Sela Lake in the morning before cloud builds. Dawki's water is clearest from about November to April; Sela has snow most years from December to March. We sleep at Dirang before Tawang and on the way back, so the Guwahati–Tawang road is split into two days each way."
+  ],
+  "highlights": [
+    "Sunrise at Laitlum Canyons and the view down to the Khasi foothills",
+    "Nohkalikai Falls, a 340 m plunge, and the Sohra gorges",
+    "Boats on the clear Umngot at Dawki, best from November to April",
+    "Sela Lake at about 4,170 m, snow-covered most winters",
+    "Three nights in Tawang: morning prayers at the monastery and Madhuri Lake",
+    "Bum La at 4,600 m for Indian citizens, on Army permission",
+    "A private SUV and a driver who will stop for the shot"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong via Umiam",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "120 km · 3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport and takes NH-6 up to Shillong, 3 to 3.5 hours with traffic. Stop at Umiam Lake, 15 km before Shillong, where the reservoir's inlets and pine slopes work well in late-afternoon side light from the viewpoints above the road. Check in at Shillong, at about 1,525 m. In the evening, walk Police Bazaar for momos and jadoh, a Khasi rice and pork dish. Meghalaya now requires every hotel and homestay to register guests on the state tourism app, so keep your ID handy at check-in.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Laitlum sunrise and Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "90 km · 3 hrs with stops",
+      "text": "Leave at 4.45 am for Laitlum Canyons, about 25 km from Shillong, where the ridge falls away into deep, green gorges and the first light comes in across the valleys; winter mornings are often clear. Back for breakfast, then drive south to Sohra (Cherrapunji), about 55 km. Stop at the Mawkdok Dympep valley viewpoint on the way. In the afternoon, photograph Nohkalikai Falls, a 340 m plunge that is fullest after the monsoon and thin by February, and the Seven Sisters (Nohsngithiang) falls at sunset when the cliffs turn orange.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Sohra to Dawki and back to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "180 km · 5.5 hrs",
+      "text": "Leave Sohra at 7.30 am and drive east through Pynursla to Dawki, about 3 hours, on the Bangladesh border. Around midday, when the sun is high, the Umngot is at its clearest from about November to April and the boats cast shadows on the riverbed. Boat rides are priced per boat, so agree the fare at the ghat. Walk the suspension bridge and, if you want quieter water, go upstream to Shnongpdeng. Return to Shillong, about 2.5 hours, in the late afternoon. On any day but Sunday, you can stop at Mawlynnong on the way.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Shillong to Tezpur across the plains",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "270 km · 7 hrs",
+      "text": "The long transfer day. Leave Shillong at 7 am, drop down NH-6 to Jorabat and head east through Nagaon, then north across the Brahmaputra on the Kalia Bhomora bridge to Tezpur. Lunch on the highway. Arrive by mid-afternoon and climb Agnigarh hill for the sunset view over the river and the bridge you just crossed. There is no direct road from Meghalaya into Arunachal's Kameng valley, so every Meghalaya–Tawang trip has a plains day like this one. Tonight you are at the foot of the hills, and your ILP check is tomorrow morning.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Tezpur to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "195 km · 6 hrs",
+      "text": "Leave at 7.30 am. Your ILP is checked at Bhalukpong, the gate into Arunachal. The road follows the Kameng river, a good place for photographs of the green water between forested walls, then climbs through Tenga and Rupa to Bomdila at 2,415 m for lunch and its monastery. From there it is 42 km down to Dirang at 1,620 m. In the evening light, walk up to the old stone Dirang Dzong for pictures of its houses and the valley below. A night here before Tawang eases the climb in height.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Dirang to Tawang over Sela",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "135 km · 5 hrs",
+      "text": "Leave Dirang at 7 am to reach Sela before cloud builds. In fair weather we take the old road over Sela Pass at about 4,170 m for the lake, usually frozen from about December to March; if the pass is closed, the Sela Tunnel, open since March 2024, takes you through. Descend past the Jaswantgarh war memorial to Jang and photograph the Nuranang falls, about 100 m high, from the path near the base. Reach Tawang in the early afternoon and rest. Your driver files the Bum La permit today at the DC office.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Tawang Monastery at morning prayers",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "25 km · local",
+      "text": "Be at Tawang Monastery, founded in 1681 and the largest in India, for the morning prayers, when young monks cross the courtyard and the light falls on the prayer hall. Ask before photographing monks, and never use flash inside. Visit the museum, then drive to Urgelling, the birthplace of the sixth Dalai Lama, and the Gyangong Ani Gompa nunnery. After lunch, walk the Old Market lanes. For the evening, go to the viewpoint below the giant Buddha statue for the monastery lit up against the hills, then the war memorial light and sound show.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Bum La and Madhuri Lake",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "80 km · 6–7 hrs round trip",
+      "text": "Leave at 7 am in a local Tawang taxi, the only vehicles allowed on this road. Indian citizens go up to Bum La at 4,600 m on the India–China border, where photography is restricted at the post itself; follow Army instructions exactly. On the way back, spend time at Madhuri Lake (Sangetsar Tso), about 3,700 m, where dead tree trunks stand in still water and reflect the ridges on calm mornings. Bum La runs on Army permission day by day and often closes after snow between December and March. Foreign guests are not allowed to Bum La.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Tawang to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "135 km · 5 hrs",
+      "text": "Leave after breakfast and head back to Sela; if you missed good light on the way up, this is your second chance at the lake. Then through the tunnel or over the pass to Dirang by early afternoon. In the late afternoon, drive about 10 km to Sangti valley, a flat river valley with willow and stone walls, where black-necked cranes spend the winter from about November to February. Photographers should bring a long lens and keep their distance. The hot spring in Dirang is a good way to end a cold week in the hills.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Dirang to Tezpur",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "195 km · 6 hrs",
+      "text": "Leave Dirang at 8 am, climb over Bomdila for a tea stop, and descend to Bhalukpong for lunch. From Bhalukpong, tea gardens run most of the way to Tezpur, and in the plucking season from March to November you can ask the driver to stop for pictures of pluckers at work, always with their permission. Check in at Tezpur by mid-afternoon. Use the evening to back up your cards and sort photographs; the hotel Wi-Fi in Tezpur is far better than anything in the hills. Last dinner of the trip.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Tezpur to Guwahati and depart",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "180 km · 4 hrs",
+      "text": "Drive along the north bank through Mangaldoi to Guwahati Airport, about 4 hours with one stop. We suggest a flight after 2 pm. If you have a late flight or want to extend, Guwahati's Brahmaputra riverfront at sunset and the Kamakhya temple on Nilachal hill are both good last stops; the general temple queue is free and special darshan costs ₹501 per person. We stay on WhatsApp until you board, and are happy to suggest where to print and frame your best frames once you are home.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "10 nights on twin sharing: 2 Shillong, 1 Sohra, 2 Tezpur, 2 Dirang, 3 Tawang",
+    "Daily breakfast and dinner",
+    "Private SUV (Innova, Scorpio or similar), Guwahati to Guwahati, with early starts for sunrise",
+    "Local Tawang taxi for Bum La and Madhuri Lake (Indian citizens)",
+    "Help with the Arunachal tourist ILP for Indian citizens",
+    "PAP paperwork through our approved partner for foreign guests",
+    "Driver allowance, fuel, tolls, parking and Meghalaya and Arunachal entry taxes",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Umngot boat rides, priced per boat at the ghat",
+    "Village entry fees at viewpoints and falls, typically under ₹100 per person",
+    "ILP, PAP and Bum La permit fees",
+    "Lunches, snacks and drinks",
+    "Camera and drone fees; drones need separate permission",
+    "Extra nights from snow closures, landslides or bandhs",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Pegasus Crown or Windermere Hotel, or similar. Sohra: Cherrapunjee Holiday Resort or similar. Tezpur: Cygnett Inn Imperial Tezpur or similar. Dirang: Pemaling Lords Inn or similar. Tawang: Hotel Tawang Heights or similar" },
+    { "tier": "Premium", "options": "Shillong: Hotel Polo Towers or similar. Sohra: Polo Orchid Resort or similar. Tezpur: Wild Mahseer (Balipara) or similar. Dirang: Dirang Boutique Cottages or similar. Tawang: Hotel Gakyi Khang Zhang or Timilo Boutique, or similar" },
+    { "tier": "Luxury", "options": "Shillong: Vivanta Meghalaya Shillong or Courtyard by Marriott Shillong, or similar. Sohra: Polo Orchid Resort (best rooms) or similar. Balipara: Wild Mahseer or similar. Dirang: Dirang Boutique Cottages (best rooms) or similar. Tawang: Vivanta Tawang or similar" }
+  ],
+  "good_to_know": [
+    "Dawki's Umngot is clearest from about November to April. From June to September the river is muddy and boats may stop. Check current status before you travel.",
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500, so pay whatever the portal shows. Meghalaya needs no permit, but hotels must register you on the state tourism app. Foreign nationals need a Protected Area Permit for Arunachal through an approved operator.",
+    "Bum La is for Indian civilians only, with a DC Tawang permit stamped by the Army, and often closes after snow from December to March. Photography at the post is restricted.",
+    "Drones need prior permission in Meghalaya and are not allowed near the border at Dawki or anywhere in the Tawang military areas. Leave yours at home unless we have arranged a permit.",
+    "Self-drive rental cars are banned in Meghalaya, so the whole trip runs in our chauffeured SUV.",
+    "Pack for 25°C days on the plains and −5°C nights in Tawang, with spare batteries: cold drains them fast."
+  ],
+  "faqs": [
+    { "q": "Can you combine Meghalaya and Tawang in one trip?", "a": "Yes. There is no direct road from Meghalaya to Tawang, so you return to the Assam plains and cross the Brahmaputra to Tezpur, about 270 km and 7 hours from Shillong. From Tezpur, Tawang is two driving days with a night at Dirang. Ten nights gives you three in Meghalaya and three in Tawang without rushing." },
+    { "q": "When is Dawki's river clearest for photographs?", "a": "The Umngot at Dawki is clearest from about November to April, when rain is low and the water settles. Around midday, with the sun overhead, boats cast sharp shadows on the riverbed. From June to September the monsoon makes the river brown and fast, and boat rides may stop. Check current status before you travel." },
+    { "q": "What is the best month for a Meghalaya and Tawang photography trip?", "a": "November gives clear skies, a clear Umngot and autumn light in Tawang before deep cold. December to February adds snow at Sela and Madhuri but brings Bum La closures and very cold nights. March and April bring rhododendrons in the hills and still-clear water at Dawki. Avoid June to September." },
+    { "q": "Can I fly a drone in Meghalaya or Tawang?", "a": "Not without permission. Drone flying needs prior clearance in Meghalaya, and Dawki is on the Bangladesh border. Tawang and the Bum La road are sensitive military areas where drones are not allowed. We strongly suggest leaving drones at home unless we have arranged written permission well before the trip." },
+    { "q": "Do I need a permit for Meghalaya and Tawang?", "a": "Meghalaya needs no permit, though hotels must register guests on the state tourism app. For Arunachal, Indian citizens need a tourist ILP from eilp.arunachal.gov.in, costing about ₹300–500, so pay what the portal shows; foreign nationals need a Protected Area Permit through an approved operator. Bum La needs a separate Tawang permit. Check current status before you travel." },
+    { "q": "How long is the drive from Shillong to Tawang?", "a": "Shillong to Tawang is about 600 km and takes three driving days on this plan: Shillong to Tezpur (7 hours), Tezpur to Dirang (6 hours) and Dirang to Tawang (5 hours). Driving it faster is possible but tiring, and sleeping at Dirang first makes the height of Tawang, about 2,670 m, much easier on the body." },
+    { "q": "Is Nohkalikai Falls worth visiting in winter?", "a": "Yes, for the gorge and the pool, though the fall itself thins out from December to February and can be a narrow ribbon by March. The 340 m drop is fullest from September to early November. For photography, mid-morning to early afternoon lights the far wall of the gorge. A small village entry fee and parking are charged." },
+    { "q": "Is this trip suitable for non-photographers?", "a": "Yes. The early starts for Laitlum and Sela are optional, and the route covers the best of both Meghalaya and Tawang for anyone. Families with children over about eight manage well, though the plains transfer and mountain days are long. Travellers who dislike early mornings can simply start later on sunrise days." },
+    { "q": "How much does the Meghalaya and Tawang package cost?", "a": "This 10 nights / 11 days trip starts from ₹49,500 per person on twin sharing, with standard hotels, breakfast and dinner, a private SUV and the Tawang local taxi for Bum La. Boat rides, village entry fees, permit fees, flights and lunches are extra. Premium and luxury upgrades are priced on request." }
+  ]
+}

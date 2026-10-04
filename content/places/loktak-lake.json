@@ -1,0 +1,66 @@
+{
+  "slug": "loktak-lake",
+  "name": "Loktak Lake",
+  "state": "northeast",
+  "state_name": "Manipur",
+  "district": "Bishnupur",
+  "types": ["lake", "wildlife", "national-park", "boating"],
+  "tagline": "A lake of floating phumdis and the world's only floating national park",
+  "altitude_m": 768,
+  "coords": [24.5500, 93.7833],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for calm water, clear mornings and sangai sightings, subject to current advisories.",
+  "permit": {
+    "required": true,
+    "indians": "Manipur Inner Line Permit required, valid 30 days, online or at Imphal Airport. Small entry and boat fees at Keibul Lamjao and Sendra. Check current status before you travel",
+    "foreigners": "Protected Area Permit required again since 17 December 2024, plus registration within 24 hours of arrival. Several foreign governments advise against travel to Manipur; check current advisories"
+  },
+  "from_hub": { "hub": "Imphal", "km": 48, "hours": "1.5" },
+  "ideal_stay": "A day trip from Imphal, or 1 night at Sendra",
+  "meta_description": "Loktak Lake, Manipur: phumdis, Keibul Lamjao and the sangai deer, Sendra island, boat rides, ILP rules, current advisory and 9 answered FAQs.",
+  "quick_answer": "Loktak Lake is the largest freshwater lake in Northeast India, about 48 km south of Imphal near Moirang. It is famous for phumdis, floating mats of vegetation, and Keibul Lamjao, the world's only floating national park, home of the sangai deer. Take a boat among the phumdis. Check current advisories before planning; we confirm conditions before booking.",
+  "intro": [
+    "From the hill at Sendra, Loktak looks less like a lake than a green-and-silver puzzle. Circular rings of floating vegetation, called phumdis, drift across the water, some natural and some built by fishing families as round enclosures called athaphums. The lake covers roughly 250 to 500 sq km depending on the season, about 287 sq km on average, and is a Ramsar wetland of international importance since 1990.",
+    "At the southern end, the largest phumdi forms Keibul Lamjao National Park, about 40 sq km and the only floating national park in the world. It is the last natural home of the sangai, Manipur's brow-antlered deer, whose numbers had fallen to 14 in 1975 and recovered to around 260 by the 2016 count. The deer are shy; the best chance is at dawn from the park watchtower.",
+    "Moirang, on the western shore, is where the Indian National Army raised its flag on Indian soil in April 1944, and the INA memorial museum is here. Manipur has seen ethnic violence since 2023, and some foreign governments advise against travel to the state. Check current advisories before planning; we confirm conditions before booking."
+  ],
+  "highlights": [
+    { "name": "Phumdis and athaphums", "text": "Floating mats of soil and vegetation, some thick enough to support huts. Fishing families build ring-shaped athaphums to trap fish." },
+    { "name": "Keibul Lamjao National Park", "text": "About 40 sq km of floating grassland and the home of the sangai deer. Watch from the park watchtower at sunrise, when deer are most active." },
+    { "name": "Sendra island", "text": "A hillock on the lake with a tourist lodge, cafeteria and the best view over the phumdis. Linked to the shore by a road." },
+    { "name": "Boat rides", "text": "Small wooden boats take you out among the phumdis from Sendra and near Keibul Lamjao, usually for a modest fee per person." },
+    { "name": "INA Memorial, Moirang", "text": "A museum and memorial where the Indian National Army hoisted its flag in April 1944, with letters, photographs and uniforms." }
+  ],
+  "things_to_do": [
+    "Watch sunrise over the phumdis from Sendra",
+    "Look for sangai deer from the Keibul Lamjao watchtower at dawn",
+    "Take a small boat out among the phumdis and athaphums",
+    "Visit the INA memorial museum at Moirang",
+    "Watch fishing families at work on the lake from a respectful distance",
+    "Try fresh fish and local rice at a lakeside eatery",
+    "Spend a night at Sendra for sunset and sunrise over the water"
+  ],
+  "how_to_reach": "Loktak is about 45 to 50 km south of Imphal by road, around 1.5 hours via Bishnupur and Moirang. Keibul Lamjao is about 53 km from Imphal and 10 km from Moirang. There is no regular tourist transport, so hire a car with a local driver from Imphal for the day. Imphal airport, 8 km from the city, has flights from Kolkata, Guwahati and Delhi. Road conditions and movement between districts can change; check current advisories before planning; we confirm conditions before booking.",
+  "where_to_stay": "Most visitors stay in central Imphal and come for the day. The Sendra tourist lodge on the hill above the lake has simple rooms and a cafeteria with lake views, and is the best choice if you want sunset and sunrise at Loktak; confirm it is operating before you go. There are a few basic guest houses in Moirang. Facilities around the lake are limited, so carry water and snacks, and confirm bookings and local conditions directly before you set off.",
+  "tips": [
+    "Check current advisories before planning; we confirm conditions before booking",
+    "Carry your Manipur ILP and photo ID; there may be checks on the road",
+    "Arrive at Keibul Lamjao at dawn for the best chance of sangai sightings",
+    "Carry binoculars; the deer often stay far out on the phumdi",
+    "Ask before photographing fishing families and their huts",
+    "Carry cash for boat rides, entry fees and food"
+  ],
+  "faqs": [
+    { "q": "What are phumdis in Loktak Lake?", "a": "Phumdis are floating masses of vegetation, soil and organic matter that drift on Loktak Lake. Some are thick enough to support huts. Fishing families also build circular phumdis called athaphums to trap fish. The largest phumdi, at the southern end of the lake, forms Keibul Lamjao National Park." },
+    { "q": "What is Keibul Lamjao National Park?", "a": "Keibul Lamjao is a national park of about 40 sq km on the largest phumdi in Loktak Lake, and it is the only floating national park in the world. It protects the endangered sangai, Manipur's brow-antlered deer, whose numbers rose from 14 in 1975 to around 260 in the 2016 count." },
+    { "q": "Can I see the sangai deer at Loktak?", "a": "It is possible but not guaranteed. The sangai is shy and lives on the floating grassland of Keibul Lamjao. Go at sunrise to the park watchtower with binoculars, when the deer are most active. October to March, when the weather is dry and clear, gives the best chances." },
+    { "q": "How far is Loktak Lake from Imphal?", "a": "Loktak Lake is about 45 to 50 km south of Imphal, around 1.5 hours by road via Bishnupur and Moirang. Keibul Lamjao National Park is about 53 km from Imphal. Most visitors make it a day trip with a hired car and driver." },
+    { "q": "Is it safe to visit Loktak Lake?", "a": "Manipur has seen ethnic violence since May 2023, with curfews, road blockades and internet shutdowns at times, and several foreign governments advise against all but essential travel to the state. Conditions vary and change quickly. Check current advisories before planning; we confirm conditions before booking." },
+    { "q": "What is the best time to visit Loktak Lake?", "a": "October to March is best, with calm water, clear mornings and cool weather for boat rides and sangai watching. Winter also brings migratory water birds. The monsoon from June to September raises water levels and brings heavy rain. Any trip depends on the current security situation." },
+    { "q": "Can I stay at Loktak Lake?", "a": "Yes. The Sendra tourist lodge, on a hill above the lake, has simple rooms and a cafeteria with views over the phumdis, and a few basic guest houses operate in Moirang. Confirm they are operating before you go. Most visitors stay in Imphal and visit on a day trip." },
+    { "q": "What is the INA memorial at Moirang?", "a": "Moirang, on the western shore of Loktak, is where the Indian National Army raised its flag on Indian soil in April 1944 during the Second World War. The INA memorial complex and museum there hold photographs, letters and other items linked to Subhas Chandra Bose and the INA. It pairs well with a Loktak visit." },
+    { "q": "Do I need a permit to visit Loktak Lake?", "a": "Yes. Indian visitors from outside Manipur need a Manipur Inner Line Permit, valid for 30 days, available online or at Imphal Airport. Foreign nationals need a Protected Area Permit and must register on arrival. Small entry and boat fees are charged locally. Check current status before you travel." }
+  ],
+  "nearby": ["imphal", "kohima", "dzukou-valley", "aizawl"],
+  "image_query": "Loktak Lake phumdi Manipur"
+}

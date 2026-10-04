@@ -1,0 +1,147 @@
+{
+  "slug": "northeast-7n",
+  "title": "Northeast in a Week",
+  "nights": 7,
+  "themes": ["family"],
+  "states": ["meghalaya", "assam"],
+  "places": ["guwahati", "kamakhya-temple", "umiam-lake", "shillong", "shillong-peak", "elephant-falls", "sohra", "nohkalikai-falls", "mawsmai-cave", "dawki-umngot", "mawlynnong", "kaziranga"],
+  "hero": "nohkalikai-falls",
+  "price_from_inr": 29500,
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Northeast in a week, 7 nights / 8 days from Guwahati: Shillong, Sohra, Dawki, Mawlynnong, two nights in Kaziranga and a last night in Guwahati.",
+  "quick_answer": "This 7 nights / 8 days family trip covers the classic Northeast loop from Guwahati: three nights in Shillong, one in Sohra, two in Kaziranga with jeep and elephant safaris, and a last night in Guwahati. Drives are mostly 2–5 hours, with one 6.5-hour day to Kaziranga. It works best from November to April.",
+  "overview": [
+    "If you have one week and want to see Meghalaya's hills and Assam's rhinos, this is the route we recommend most often. Shillong and Sohra give you cool air at about 1,500 m, waterfalls, caves and the clear Umngot river at Dawki. Kaziranga, a day's drive away on the plains, adds jeep and elephant safaris among one-horned rhinos, wild buffalo and elephants. Guwahati at the end means a short airport run on your last morning.",
+    "We plan it for families: no drive longer than 6.5 hours, lunch stops every day, and sights where children can walk safely. Mawsmai Cave is short and lit, Elephant Falls has steps with rails, and the boats at Dawki carry life jackets. The trip works from November to April, when Dawki's water is clear and Kaziranga is open; Kaziranga's dates are set each year, so check current status before you travel."
+  ],
+  "highlights": [
+    "Three nights in Shillong with Umiam Lake, Shillong Peak and Elephant Falls",
+    "A night in Sohra for Nohkalikai Falls and the lit Mawsmai Cave",
+    "Boats on the clear Umngot at Dawki and a walk through Mawlynnong village",
+    "Two nights in Kaziranga with an elephant ride and a jeep safari",
+    "A Brahmaputra evening and Kamakhya temple in Guwahati",
+    "Family-friendly pace: short walks, rails on steps, life jackets on boats"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong via Umiam Lake",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "120 km · 3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport and takes NH-6 into the Khasi Hills. About 15 km before Shillong, stop at Umiam Lake, a large reservoir ringed by pine hills, where children can see the water sports centre and the boats; kayaking and speedboats are available at extra cost. Reach Shillong by mid-afternoon and check in. Meghalaya now requires hotels to register every guest on the state tourism app, so keep IDs for each family member handy. In the evening, walk around Police Bazaar or Ward's Lake, a small lake with a footbridge in the city centre.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Shillong to Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "60 km · 2 hrs",
+      "text": "After breakfast, drive 55 km south to Sohra (Cherrapunji), stopping at the Mawkdok Dympep valley viewpoint. After lunch, visit Nohkalikai Falls, a 340 m plunge into a green pool; the view is from a fenced platform close to the car park. Then Mawsmai Cave, a short limestone cave with lights and a one-way path that takes about 20 minutes; small children love the squeeze points, and adults may need to duck. End the day at the Seven Sisters falls viewpoint as the cliffs catch the evening sun. Sohra has some of the highest rainfall on earth, so pack umbrellas even in winter.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dawki and Mawlynnong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "180 km · 5.5 hrs",
+      "text": "Leave Sohra at 8 am and drive east through Pynursla to Dawki on the Bangladesh border, about 3 hours. From November to April, the Umngot river is clear enough to see the stones on its bed; boat rides are priced per boat, so agree the fare at the ghat, and ask for life jackets for the children. After lunch, stop at Mawlynnong, a Khasi village known for its clean lanes, bamboo dustbins and flower gardens, and walk to the living root bridge at Riwai nearby, about 10 minutes down steps. Return to Shillong, about 2.5 hours, by evening.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Shillong Peak, Elephant Falls and the museum",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "40 km · local",
+      "text": "A relaxed city day. In the morning, drive to Shillong Peak, at 1,965 m the highest point near the city, inside an Air Force area; carry photo ID, and check current status because access has been restricted at times. Next, Elephant Falls, three tiers of falls reached by steps with handrails, about 10 minutes down. After lunch, visit the Don Bosco Museum of Indigenous Cultures, seven floors of Northeast tribal life with a rooftop skywalk that children enjoy. In the evening, try a Khasi dinner of jadoh and dohneiiong, or simply pizza on Laitumkhrah's cafe street.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Shillong to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "250 km · 6.5 hrs",
+      "text": "The longest day of the trip. Leave Shillong at 8 am and drive down to Jorabat, then east on NH-27 through Nagaon, with a lunch stop, to Kohora at the edge of Kaziranga's Central range. The road is a good four-lane highway for most of the way, and you will see paddy fields, tea gardens and small bamboo-walled houses. Check in to your lodge by mid-afternoon. If there is time, visit the Kaziranga orchid and biodiversity park, which has hundreds of orchid species and a cultural show in the evening. Early dinner, as tomorrow starts before dawn.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Kaziranga elephant and jeep safaris",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "40 km · local",
+      "text": "Elephant rides run only in the Central (Kohora) and Western (Bagori) ranges, in one-hour batches between about 5.30 and 7.30 am, and children usually find this the high point of the trip; seats are limited, so we book them early. After breakfast and a rest, take a jeep safari in the Central range in the afternoon from about 1.30 pm, when rhinos come out to graze the open grass and wallow in the beels. Park entry is ₹100 per Indian adult and ₹650 per foreign adult. Evening free at the lodge.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Kaziranga to Guwahati",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "195 km · 4.5 hrs",
+      "text": "After breakfast, drive back west on NH-27 to Guwahati, about 4.5 hours with a stop. After lunch, visit Kamakhya temple on Nilachal hill; the general queue is free and can be booked online, and special darshan costs ₹501 per person. Temple hours are roughly 8 am to 1 pm and 2.30 to 5.15 pm. In the evening, take a Brahmaputra sunset cruise from the riverfront, about 90 minutes on the water, or walk along the riverside promenade. Guwahati has plenty of restaurants for a last family dinner of Assamese thali.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Depart Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "25 km · 1 hr",
+      "text": "After breakfast, check out and drive to Guwahati Airport, about 25 km from the city; allow an hour for traffic. If your flight is late, visit the Assam State Zoo, which has one-horned rhinos, hoolock gibbons and a large bird section, or the Assam State Museum near Dighalipukhuri tank. Both are easy with children and take one to two hours. Our driver drops you at the terminal, and we stay in touch on WhatsApp until you board. Ask us about adding Majuli or Arunachal on your next trip.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "7 nights on twin sharing: 3 Shillong, 1 Sohra, 2 Kaziranga, 1 Guwahati",
+    "Daily breakfast and dinner",
+    "Private car (Innova, Ertiga or similar by group size), Guwahati to Guwahati",
+    "One elephant ride and one jeep safari in Kaziranga (vehicle, driver and range guide)",
+    "Brahmaputra evening cruise in Guwahati",
+    "Child seats on request",
+    "Driver allowance, fuel, tolls, parking and Meghalaya entry tax",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Kaziranga entry and camera fees",
+    "Umngot boat rides, priced per boat at the ghat",
+    "Village entry fees at falls, caves and viewpoints, typically under ₹100 per person",
+    "Kamakhya special darshan",
+    "Lunches, snacks and drinks",
+    "Water sports at Umiam Lake",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Pegasus Crown or Windermere Hotel, or similar. Sohra: Cherrapunjee Holiday Resort or similar. Kaziranga: Aranya Tourist Lodge or Wild Grass Lodge, or similar. Guwahati: Kiranshree Grand or similar" },
+    { "tier": "Premium", "options": "Shillong: Hotel Polo Towers or similar. Sohra: Polo Orchid Resort or Jiva Resort, or similar. Kaziranga: Infinity Resorts Kaziranga or IORA The Retreat, or similar. Guwahati: Novotel Guwahati GS Road or similar" },
+    { "tier": "Luxury", "options": "Shillong: Vivanta Meghalaya Shillong or Courtyard by Marriott Shillong, or similar. Sohra: Polo Orchid Resort (best rooms) or similar. Kaziranga: Diphlu River Lodge or similar. Guwahati: Vivanta Guwahati or Radisson Blu Hotel Guwahati, or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga opens in phases from about October and closes for the monsoon around May, with elephant rides usually from November. Dates are set each year, so check current status before you travel.",
+    "Dawki's Umngot is clearest from about November to April. In the monsoon the river turns muddy and boats may stop.",
+    "Meghalaya needs no permit for Indian or foreign visitors, but hotels must register all guests on the state tourism app. Self-drive rental cars are banned in Meghalaya.",
+    "Shillong Peak is inside an Air Force station. Access has been restricted at times; carry photo ID and check current status before you travel.",
+    "Evenings in Shillong and Sohra are 5–10°C in December and January. Pack jackets for everyone, plus umbrellas for Sohra.",
+    "Mawlynnong has been closed to day visitors on Sundays since January 2026, so if day 3 falls on a Sunday we swap the order of days 3 and 4. Elephant ride seats in Kaziranga are limited and sell out around Christmas, so book early."
+  ],
+  "faqs": [
+    { "q": "Can you see Shillong and Kaziranga in 7 nights?", "a": "Yes. Seven nights gives you three in Shillong, one in Sohra, two in Kaziranga and one in Guwahati. The longest drive is Shillong to Kaziranga, about 250 km and 6.5 hours on a good highway. This is the most popular first-time Northeast route for families, and it avoids permits because it stays in Meghalaya and Assam." },
+    { "q": "Is this Northeast trip good for young children?", "a": "Yes. Most sights are close to the road, the steps at Elephant Falls and the root bridge near Mawlynnong have rails, Mawsmai Cave is short and lit, and boats at Dawki carry life jackets. Children usually love the Kaziranga elephant ride. The one long drive to Kaziranga has lunch and toilet stops built in." },
+    { "q": "When is the best time for this Northeast week?", "a": "November to April is best. Dawki's river is clear, Sohra's skies are mostly dry and Kaziranga is open. December and January are cold in Shillong at night, around 5°C. The monsoon, June to September, brings very heavy rain in Sohra and closes Kaziranga, so we do not run this route then." },
+    { "q": "What is included in the Kaziranga part?", "a": "You get two nights at a lodge near Kohora, one elephant ride at dawn in the Central or Western range and one jeep safari in the Central range. Park entry is ₹100 per Indian adult and ₹650 per foreign adult, and camera fees are extra. An extra jeep safari in another range can be added." },
+    { "q": "Do we need any permit for Shillong and Kaziranga?", "a": "No. Meghalaya and Assam need no permit for Indian or foreign visitors. Meghalaya does require every hotel and homestay to register guests on the state tourism app, so carry photo ID for all travellers, including children. If you later add Arunachal Pradesh, you will need an ILP or PAP." },
+    { "q": "Is Dawki's river clear all year?", "a": "No. The Umngot at Dawki is clearest from about November to April, when rainfall is low. From June to September the monsoon turns it brown and fast, and boat rides may stop. Around midday on a sunny winter day, boats seem to float above the riverbed. Check current status before you travel." },
+    { "q": "How far is Sohra from Shillong?", "a": "Sohra (Cherrapunji) is about 55 km from Shillong, around 1.5 to 2 hours by road with viewpoint stops. We stay one night there so you see Nohkalikai Falls and the Seven Sisters falls in afternoon and evening light, and start the Dawki day from the south side of the hills." },
+    { "q": "Can grandparents join this family trip?", "a": "Yes. Walks are short, the car is private and you can skip any sight. Shillong is at about 1,525 m, which rarely troubles healthy older travellers. The steps at Elephant Falls and the root bridge near Mawlynnong are optional. Tell us about any mobility needs and we will request ground-floor rooms." },
+    { "q": "How much does the Northeast in a Week package cost?", "a": "This 7 nights / 8 days trip starts from ₹29,500 per person on twin sharing, with standard hotels, breakfast and dinner, a private car, one elephant ride, one jeep safari and a Brahmaputra cruise. Children's prices depend on age and bedding. Flights, park entry fees, boat rides and lunches are extra." }
+  ]
+}

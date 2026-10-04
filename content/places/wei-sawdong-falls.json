@@ -1,0 +1,64 @@
+{
+  "slug": "wei-sawdong-falls",
+  "name": "Wei Sawdong Falls",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["waterfall", "short-hike"],
+  "tagline": "Three-tier falls over turquoise pools, down a steep path near Sohra",
+  "altitude_m": 1380,
+  "coords": [25.3105, 91.7060],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April, when the pools are clear blue and the path is dry.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. The local community collects a small entry fee in cash",
+    "foreigners": "No permit needed. A higher foreigner fee has been reported"
+  },
+  "from_hub": { "hub": "Shillong", "km": 50, "hours": "1.5" },
+  "ideal_stay": "A 1.5 to 2 hour stop on the Shillong–Sohra road",
+  "meta_description": "Wei Sawdong Falls, Meghalaya: three-tier waterfall near Sohra. The steep descent, entry fee, best months, safety and 9 FAQs.",
+  "quick_answer": "Wei Sawdong is a three-tier waterfall with turquoise pools just off the Shillong–Sohra road near Dainthlen, about 50 km (1.5 hours) from Shillong in Meghalaya. A steep, rough path with bamboo ladders takes 20 to 30 minutes down. Go from October to April. A small community entry fee is collected; no permit is needed.",
+  "intro": [
+    "Wei Sawdong is a short but steep adventure off the main Sohra road. A hill stream here drops in three steps down a curved rock wall, and in the dry months the pools between the tiers turn a clear turquoise blue. The Khasi name is usually translated as square pool, which makes sense once you see the stepped basins from below.",
+    "Getting there takes a little effort. From the parking area near Dainthlen, the local community has built a trail of mud steps, rocks and bamboo ladders down through forest to the lowest pool. The descent takes 20 to 30 minutes for most people; the climb back is harder. There are no railings on the lower rocks, and the area is not a swimming spot for casual visitors.",
+    "We like it on a winter morning, on the way from Shillong to Sohra, when the light reaches the pools by about 10 am. After heavy rain the path is slippery and the water turns brown and fast; in the peak monsoon, look from the top and move on."
+  ],
+  "highlights": [
+    { "name": "Three tiers", "text": "Water drops in three steps into pools you can see stacked from the lower rocks." },
+    { "name": "Turquoise pools", "text": "Between November and April the water turns a clear blue-green, the reason most people come." },
+    { "name": "Bamboo ladders", "text": "The community-built path includes short bamboo ladders on the steepest bits; take them slowly." },
+    { "name": "Dainthlen nearby", "text": "Dainthlen Falls, with its carved rock legends, is a few minutes away for an easy second stop." }
+  ],
+  "things_to_do": [
+    "Walk down to the lowest viewpoint for the full three-tier view",
+    "Photograph the turquoise pools in mid-morning light in winter",
+    "Stop at Dainthlen Falls a few minutes away",
+    "Pair it with the Mawkdok Dympep valley viewpoint on the same road",
+    "Rest at the tea stalls near the parking area before the climb back",
+    "Continue to Sohra for Nohkalikai Falls and Mawsmai Cave in the afternoon"
+  ],
+  "how_to_reach": "Wei Sawdong is just off the Shillong–Sohra road, near the Dainthlen Falls turn, about 50 km from Shillong and 8 to 10 km before Sohra market. By taxi it takes around 1.5 hours from Shillong. Ask your driver for the Wei Sawdong parking; the trail starts a short walk from there. There is no dedicated public transport, though shared taxis to Sohra pass the junction. Most people add it as a stop on the drive to Sohra, keeping 1.5 to 2 hours for the walk down and back.",
+  "where_to_stay": "There is no accommodation at the falls. Stay in Sohra, 15 to 20 minutes away, where homestays around the market and resorts such as Sa-I-Mika Park Resort and Polo Cherrapunjee Resort make a good base for the falls and the rest of the plateau. Travellers on a tight schedule stay in Shillong and stop at Wei Sawdong on the way to Sohra in the morning. A few homestays have opened along the Shillong–Sohra road near Mawkdok; these suit anyone with a car who wants early starts.",
+  "tips": [
+    "Wear shoes with strong grip; the rocks and ladders are slick with spray",
+    "Do not swim; the pools are deep with strong undercurrents below the falls",
+    "Keep both hands free on the bamboo ladders and use a small backpack",
+    "Skip the descent in heavy rain and view from the top instead",
+    "Allow twice as long for the climb back up as the walk down",
+    "Carry cash for the entry and parking fees"
+  ],
+  "faqs": [
+    { "q": "What is the entry fee for Wei Sawdong Falls?", "a": "The local community collects a small entry fee, typically under INR 100 per person, with a higher rate reported for foreign nationals, plus parking. Fees are cash only and change often, so carry small notes, check the rate locally and check current status before you travel." },
+    { "q": "How difficult is the Wei Sawdong trek?", "a": "It is short but steep: 20 to 30 minutes down and 30 to 45 minutes back up on mud steps, rocks and short bamboo ladders. Anyone who is reasonably fit and wears good shoes can do it in dry weather. It is not suitable for people with knee problems or poor balance." },
+    { "q": "Can you swim at Wei Sawdong?", "a": "We advise against it. The pools look calm but are deep, with strong currents close to the falls and slippery rocks around the edges, and there are no lifeguards. Enjoy the view from the rocks and keep children well away from the water." },
+    { "q": "What is the best time to visit Wei Sawdong Falls?", "a": "October to April is best. The water turns turquoise, the path is dry and the flow is gentle enough to see all three tiers clearly. In the monsoon, June to September, the falls are powerful but brown, and the path becomes dangerous; view from the top or skip it." },
+    { "q": "How far is Wei Sawdong from Shillong?", "a": "Wei Sawdong is about 50 km from Shillong, roughly 1.5 hours by car along the Shillong–Sohra road, near the Dainthlen Falls turn. It is about 8 to 10 km before Sohra market, so most travellers stop there on the way to Cherrapunji rather than making a separate trip." },
+    { "q": "What are Wei Sawdong Falls timings?", "a": "The falls are generally open in daylight, roughly 8 am to 5 pm, with the community gate closing earlier in poor weather. Starting the descent after 3 pm is not wise because the forest path gets dark quickly. Check current status before you travel, especially in the rainy season." },
+    { "q": "Is Wei Sawdong suitable for kids and seniors?", "a": "Only for confident walkers. Older children who are used to hiking usually enjoy it with an adult close by. Toddlers, seniors and anyone with knee or balance problems should stay at the top viewpoint. Dainthlen Falls nearby is a much easier alternative for families." },
+    { "q": "Is Wei Sawdong worth visiting in the monsoon?", "a": "The falls are at their most powerful from June to September, but the water turns brown, spray covers the path and the ladders become slippery. We suggest viewing from the top in the monsoon and keeping the full descent for the dry months, when the pools are blue." },
+    { "q": "What else can I see near Wei Sawdong?", "a": "Dainthlen Falls, with rock carvings linked to a Khasi legend, is a few minutes away. The Mawkdok Dympep valley viewpoint is on the same road towards Shillong. Sohra, with Nohkalikai Falls, Mawsmai Cave and Seven Sisters Falls, is 15 to 20 minutes further south." }
+  ],
+  "nearby": ["sohra", "nohkalikai-falls", "mawsmai-cave", "nongriat-root-bridges", "laitlum-canyons"],
+  "image_query": "Wei Sawdong Falls Meghalaya"
+}

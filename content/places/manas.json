@@ -1,0 +1,66 @@
+{
+  "slug": "manas",
+  "name": "Manas National Park",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Baksa and Chirang",
+  "types": ["wildlife", "national-park", "safari", "unesco"],
+  "tagline": "Tiger reserve on the Bhutan border, with golden langurs and grassland",
+  "altitude_m": 85,
+  "coords": [26.7167, 90.9333],
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "best_time": "November to April for open tracks and good sightings; the season usually runs from late September or October to May.",
+  "permit": {
+    "required": false,
+    "indians": "No state permit needed. Buy park entry, vehicle and guide fees at the Bansbari range office or through the forest department; carry photo ID",
+    "foreigners": "No RAP or PAP needed for Assam. Foreigners pay higher park fees; you cannot cross into Royal Manas in Bhutan from the Indian side without Bhutanese entry formalities"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 170, "hours": "4" },
+  "ideal_stay": "2 nights at Bansbari",
+  "meta_description": "Manas National Park, Assam: Bansbari jeep safaris, season, golden langur, Mathanguri on the Bhutan border, where to stay and 9 answered FAQs.",
+  "quick_answer": "Manas National Park is a UNESCO World Heritage Site and tiger reserve on Assam's border with Bhutan, about 170 km (4 hours) west of Guwahati. Most visitors stay at Bansbari and take jeep safaris towards Mathanguri on the Manas river. It reopened on 24 September in 2025, and November to April is best.",
+  "intro": [
+    "Manas feels wilder than Kaziranga. The park runs along the foot of the Bhutan hills, where the Manas river spills out of the mountains into grassland and forest, and it continues across the border as Bhutan's Royal Manas National Park. It was inscribed as a UNESCO World Heritage Site in 1985, listed as in danger in 1992 during years of unrest, and taken off that list in 2011 after wildlife numbers recovered.",
+    "The park is known for species you will not see easily elsewhere: the golden langur, the pygmy hog, the Bengal florican, the hispid hare and wild water buffalo, alongside tigers, elephants, gaur and more than 450 bird species. Sightings are less predictable than at Kaziranga because the grass is tall and the forest thicker, so we treat Manas as a place for patient, early drives rather than a quick checklist.",
+    "Most visitors use the central Bansbari range, near Barpeta Road. Jeep routes run north through grassland and sal forest to Mathanguri, where the Manas river enters India from Bhutan. The eastern Bhuyanpara range near Pathsala and the western Panbari range are quieter. In 2025 the park reopened on 24 September, and the season usually runs from October to May; check current status before you travel."
+  ],
+  "highlights": [
+    { "name": "Jeep safari to Mathanguri", "text": "Three-hour drives from Bansbari through grassland and forest to the Manas river at the Bhutan border. Morning slots usually start at about 6.30 am." },
+    { "name": "Golden langur", "text": "A golden-coated monkey found only in this part of Assam and Bhutan. Troops are often seen in the forest near Mathanguri and along the river." },
+    { "name": "Mathanguri and the Manas river", "text": "A forest bungalow and viewpoint where the river leaves the Bhutan hills. The Bhutan hills rise directly across the water." },
+    { "name": "Grassland birds", "text": "The Bengal florican, swamp francolin and many raptors live in the park's grasslands, and winter brings migrant ducks to the rivers." },
+    { "name": "Elephant rides at Bansbari", "text": "Short early-morning rides through the grass near the range office, when running. Ask at the range office the evening before." }
+  ],
+  "things_to_do": [
+    "Take a morning and an afternoon jeep safari from Bansbari towards Mathanguri",
+    "Look for golden langurs in the forest near the Manas river",
+    "Stop at Mathanguri for the view of the river emerging from the Bhutan hills",
+    "Walk through a Bodo village near Bansbari and see handloom weaving",
+    "Try Bodo food such as pork with bamboo shoot and narzi, a bitter jute-leaf dish",
+    "Ask your lodge about community-led nature walks on the park fringe",
+    "Combine Manas with Pobitora and Kaziranga for a week-long Assam wildlife loop"
+  ],
+  "how_to_reach": "Fly or take a train to Guwahati. Bansbari, the main gateway, is about 170 km north-west of Guwahati via NH27 and Barpeta Road, a 4 to 4.5 hour drive. The nearest railway station is Barpeta Road, about 20 km from Bansbari, on the Guwahati to New Jalpaiguri line; several trains stop there, and lodges can arrange a pick-up. Local buses from Guwahati reach Barpeta Road, from where you need a taxi. Safaris start from the Bansbari range office, so stay nearby.",
+  "where_to_stay": "Bansbari, on the park's southern edge, is where most stays are. Bansbari Lodge, run by Assam Bengal Navigation, is one of the older properties, with simple rooms beside the range office. Musa Jungle Retreat is a newer cottage property close by, spread over several acres. Several community-run and budget lodges nearby offer basic rooms and help with safaris. Inside the park, the forest bungalow at Mathanguri has a handful of rooms booked through the forest department. Expect limited mobile signal and early dinners.",
+  "tips": [
+    "Book jeep safaris through your lodge or at the Bansbari range office the evening before",
+    "Morning drives from about 6.30 am give the best chance of golden langurs and birds",
+    "Carry binoculars; many sightings are at a distance across grassland",
+    "The park is in the Bodoland Territorial Region; carry photo ID and follow forest staff instructions",
+    "Evenings are cold from December to February; pack a warm jacket for open jeeps",
+    "The park closes for the monsoon and reopening dates vary with road repairs; check current status before you travel"
+  ],
+  "faqs": [
+    { "q": "When is Manas National Park open?", "a": "Manas reopens after the monsoon, in 2025 on 24 September, and the season usually runs until May, though some areas open later if roads need repairs. November to April is the best time, with open tracks and easier sightings. Dates can change each season, so check current status before you travel." },
+    { "q": "How far is Manas National Park from Guwahati?", "a": "Bansbari, the main gateway, is about 170 km north-west of Guwahati via Barpeta Road, a drive of 4 to 4.5 hours. The nearest railway station is Barpeta Road, about 20 km from Bansbari. Most travellers leave Guwahati in the morning, arrive by lunch and take an afternoon safari." },
+    { "q": "What are the jeep safari timings in Manas?", "a": "Jeep safaris from the Bansbari range usually run in slots of about three hours, such as 6.30 to 9.30 am, 10 am to 1 pm and 2 to 5 pm. Each jeep takes up to five or six people with a forest guide and an armed escort. Rates are per vehicle and differ for Indians and foreigners." },
+    { "q": "What animals can I see in Manas?", "a": "Manas is home to tigers, elephants, gaur, wild water buffalo, clouded leopards and the golden langur, found only in this region. Rare species include the pygmy hog, hispid hare and Bengal florican. More than 450 bird species have been recorded. Sightings are less predictable than at Kaziranga because of tall grass and thicker forest." },
+    { "q": "Is Manas better than Kaziranga?", "a": "They are different. Kaziranga gives near-certain rhino sightings on open grassland and has more hotels. Manas is wilder and quieter, with forest, river and Bhutan hill views, golden langurs and rare grassland species, but fewer guaranteed sightings. If you have time, visit both: Manas for atmosphere and Kaziranga for rhinos." },
+    { "q": "Can I see Bhutan from Manas National Park?", "a": "Yes. At Mathanguri, on the northern edge of the park, the Manas river flows out of the Bhutan hills, and the forest across the river is Bhutan's Royal Manas National Park. You can look across, but you cannot cross into Bhutan from here without proper Bhutanese entry formalities." },
+    { "q": "How many days are enough for Manas?", "a": "Two nights is ideal: an afternoon safari on arrival, a full morning drive to Mathanguri the next day and a second afternoon or a village walk. Many itineraries combine Manas with Pobitora and Kaziranga over six nights, since all three are within a day's drive of Guwahati." },
+    { "q": "Where should I stay in Manas National Park?", "a": "Stay at Bansbari, near the range office where safaris start. Bansbari Lodge, run by Assam Bengal Navigation, and Musa Jungle Retreat are established options, with community-run and budget lodges nearby. The forest bungalow at Mathanguri, inside the park, has a few rooms booked through the forest department and very basic facilities." },
+    { "q": "Is Manas safe to visit now?", "a": "Manas has been open to tourists for many years since the unrest of the 1990s and 2000s ended, and it was removed from UNESCO's in-danger list in 2011. Visitors stay at Bansbari and travel with forest guides. As anywhere in the region, follow local advice and check current status before you travel." }
+  ],
+  "nearby": ["guwahati", "pobitora", "hajo", "kamakhya-temple"],
+  "image_query": "Manas National Park Assam"
+}

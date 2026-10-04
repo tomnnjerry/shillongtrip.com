@@ -1,0 +1,66 @@
+{
+  "slug": "balpakram",
+  "name": "Balpakram National Park",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "South Garo Hills",
+  "types": ["national-park", "wildlife", "offbeat"],
+  "tagline": "Remote Garo Hills gorge and plateau, held sacred as a land of spirits",
+  "altitude_m": 910,
+  "coords": [25.4167, 90.8667],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for dry tracks, clear gorge views and cooler walking weather.",
+  "permit": {
+    "required": true,
+    "indians": "Prior permission from the forest department (DFO office, Baghmara) is needed; park fees are paid locally",
+    "foreigners": "No PAP for Meghalaya, but the same forest department permission applies; carry your passport"
+  },
+  "from_hub": { "hub": "Tura", "km": 165, "hours": "6" },
+  "ideal_stay": "2 nights in the Baghmara area, with Siju on the way",
+  "meta_description": "Balpakram National Park, Meghalaya: remote Garo Hills gorge and plateau. Permission, how to reach from Tura, where to stay, best time and 9 FAQs.",
+  "quick_answer": "Balpakram National Park covers about 220 sq km of plateau, gorge and forest at around 910 m in South Garo Hills, Meghalaya, near the Bangladesh border. It is a long day's drive, roughly 6 hours, from Tura. Garo tradition holds it as a resting place of spirits. Go between October and March, with forest department permission and a local guide.",
+  "intro": [
+    "Balpakram is one of the least visited protected areas in Meghalaya, and that is part of the reason to go. The park spreads across about 220 sq km of South Garo Hills, a table-land at roughly 910 m cut by a deep gorge, with grassland on top and dense forest in the valleys below. It was inaugurated as a national park in 1987.",
+    "For the Garo people, Balpakram is more than a park. Local belief holds that the spirits of the dead rest here on their journey onward, and many rocks, pools and trees carry names and stories linked to that belief. A local guide will point them out, and it is the best way to understand what you are looking at. The park's wildlife includes elephants, barking deer, wild water buffalo and smaller cats, though sightings are never promised in this terrain.",
+    "Getting here takes planning. Tura is the main town of the Garo Hills, and from there the drive to Baghmara and on to the park takes most of a day on hill roads. We suggest two nights in the Baghmara area, with Siju Cave and the Simsang river on the way, and a full day inside the park with a guide."
+  ],
+  "highlights": [
+    { "name": "The Balpakram gorge", "text": "A deep, forested canyon cut into the plateau, the park's best-known view from the rim." },
+    { "name": "Spirit sites", "text": "Rocks, pools and trees linked to Garo beliefs about the journey of souls; a guide explains each." },
+    { "name": "Plateau grassland", "text": "Open grassland on top of the table-land, with wide views south towards the plains." },
+    { "name": "Pitcher plants", "text": "Insect-eating pitcher plants grow in the region; ask your guide where to look." },
+    { "name": "Siju Cave nearby", "text": "A long limestone cave near the Simsang river, a common stop on the way from Tura." }
+  ],
+  "things_to_do": [
+    "Walk to the gorge rim with a local guide",
+    "Hear the Garo stories linked to the park's spirit sites",
+    "Look for birds and signs of wildlife on early morning walks",
+    "Photograph the plateau and gorge in clear winter light",
+    "Visit Siju Cave and the Simsang river on the way",
+    "Spend a night in Baghmara to break the journey",
+    "Look for pitcher plants with your guide"
+  ],
+  "how_to_reach": "Tura, the largest town in the Garo Hills, is the usual starting point. From Tura, the drive to the park via Baghmara, the headquarters of South Garo Hills, takes most of a day, roughly 6 hours on winding hill roads; road conditions vary, so check current status before you travel. There is no public transport into the park. Hire a sturdy vehicle with a driver who knows the route. Tura is about 220 km from Guwahati by road, and has a small airstrip with irregular flights. From Shillong, the park is a very long drive; Meghalaya Tourism puts it at 9 to 10 hours.",
+  "where_to_stay": "Stays are simple and limited. Baghmara has a few basic hotels and guest houses, and the forest department has maintained rest-house accommodation near the park, which must be arranged in advance with the DFO office in Baghmara. Siju has small guest facilities used by visitors to the cave. Tura has a wider choice of hotels for the nights before and after. Carry supplies, confirm meals and power backup, and do not expect resort facilities anywhere near the park.",
+  "tips": [
+    "Arrange permission and a guide with the forest department in Baghmara before you go",
+    "Carry food, drinking water, a torch and a first-aid kit; supplies near the park are limited",
+    "Treat spirit sites with respect and follow your guide's instructions",
+    "Mobile coverage is patchy; tell someone your plans",
+    "Avoid the monsoon, June to September, when tracks and roads are at their worst",
+    "Keep cash for permits and fees, and check current status before you travel"
+  ],
+  "faqs": [
+    { "q": "Where is Balpakram National Park?", "a": "Balpakram National Park is in South Garo Hills district, Meghalaya, near the Bangladesh border. It covers about 220 sq km of plateau, gorge and forest at around 910 m. Baghmara, the district headquarters, is the nearest town, and Tura is the main gateway in the Garo Hills." },
+    { "q": "Do I need a permit for Balpakram?", "a": "Meghalaya has no ILP or PAP, but visiting Balpakram requires prior permission from the forest department, usually arranged through the DFO office in Baghmara. Park and camera fees are paid locally. Rules and fees can change, so contact the forest office in advance and check current status before you travel." },
+    { "q": "How far is Balpakram from Tura?", "a": "Balpakram is a long drive from Tura, usually around 6 hours via Baghmara on winding hill roads, depending on conditions. Most visitors break the journey with a night in Baghmara or Siju. Tura itself is about 220 km from Guwahati by road." },
+    { "q": "What is the best time to visit Balpakram?", "a": "October to March is best, with dry tracks, cooler days and clearer views of the gorge. The spring months bring flowering plants but more heat. From June to September heavy rain makes roads and trails difficult, and some areas may be inaccessible." },
+    { "q": "Why is Balpakram called the land of spirits?", "a": "In Garo belief, Balpakram is where the spirits of the dead rest on their journey onward. Many natural features in the park, including rocks, pools and trees, carry names and stories linked to that belief. A local guide is the best person to explain them respectfully." },
+    { "q": "What wildlife can I see at Balpakram?", "a": "The park's recorded wildlife includes elephants, barking deer, wild water buffalo and smaller cats such as the golden cat and marbled cat, along with many birds. Sightings are unpredictable in the dense forest and rugged terrain, so visit for the landscape and culture, and treat any animal sighting as a bonus." },
+    { "q": "Where can I stay near Balpakram?", "a": "Baghmara has basic hotels and guest houses, and the forest department has maintained rest-house accommodation near the park, arranged through the DFO office. Siju has small guest facilities. Tura has more hotels for the nights before and after. Book ahead and confirm meals, water and power." },
+    { "q": "Is Balpakram suitable for families and seniors?", "a": "It suits adventurous travellers who are comfortable with long drives, basic stays and rough tracks. Families with older children who enjoy the outdoors can manage with good planning. Seniors or anyone with health concerns should think carefully, as medical facilities are far away." },
+    { "q": "Is Balpakram safe to visit?", "a": "Travellers visit safely with proper planning. Arrange forest department permission and a local guide, travel in daylight, and keep someone informed of your route, as mobile coverage is patchy. Local bandhs or road issues can affect travel, so check current status before you travel and follow local advice." }
+  ],
+  "nearby": ["nongkhnum-island", "guwahati", "shillong", "mawsynram"],
+  "image_query": "Balpakram National Park Garo Hills"
+}

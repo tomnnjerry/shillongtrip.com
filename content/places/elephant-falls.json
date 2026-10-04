@@ -1,0 +1,64 @@
+{
+  "slug": "elephant-falls",
+  "name": "Elephant Falls",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["waterfall", "sightseeing"],
+  "tagline": "A three-step waterfall 12 km from Shillong, down a fern-lined stair",
+  "altitude_m": 1600,
+  "coords": [25.5379, 91.8221],
+  "best_months": [6, 7, 8, 9, 10, 11],
+  "best_time": "July to October for the fullest flow; the falls thin out from December to March.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Buy an entry ticket at the gate and carry photo ID for your hotel registration",
+    "foreigners": "No permit. Same entry ticket as Indian visitors at the gate"
+  },
+  "from_hub": { "hub": "Shillong", "km": 12, "hours": "0.5" },
+  "ideal_stay": "A 1 hour stop from Shillong, paired with Shillong Peak",
+  "meta_description": "Elephant Falls near Shillong, Meghalaya: three-tier waterfall 12 km from town. Entry fee, timings, steps, best season and 9 practical FAQs.",
+  "quick_answer": "Elephant Falls is a three-tier waterfall in Upper Shillong, about 12 km (30 minutes) from Police Bazar in Meghalaya's East Khasi Hills. A steep, railed staircase leads past each tier; allow an hour. Entry is a small ticket, typically under INR 100, plus a camera fee. It is fullest from July to October and thin in winter.",
+  "intro": [
+    "The Khasi name for this waterfall is Ka Kshaid Lai Pateng Khohsiew, the three-step falls, which describes it better than the English one. British visitors named it after a large rock beside the water that looked like an elephant; that rock was destroyed in the 1897 earthquake, but the name stayed.",
+    "The falls sit in a wooded fold of Upper Shillong, about 12 km from Police Bazar on the road towards Shillong Peak. From the ticket gate a paved staircase with railings and rest benches drops past the first tier, then the second, and ends at a viewing platform facing the tallest, lowest drop. The climb back up is the only real effort.",
+    "We send first-time visitors here because it is close, easy to combine with Shillong Peak and has a proper path. It gets busy between 11 am and 3 pm in October and at weekends; go at opening time if you want photos without crowds on the platforms."
+  ],
+  "highlights": [
+    { "name": "Three tiers", "text": "Each drop has its own platform; the lowest tier is the tallest and the one in most photographs." },
+    { "name": "Fern-covered walls", "text": "The rock around the falls is lined with ferns and moss, deepest green between July and September." },
+    { "name": "Railed staircase", "text": "The paved steps have handrails and benches, so most visitors manage the descent in 10 to 15 minutes." },
+    { "name": "Close to town", "text": "At 12 km from Police Bazar, it fits in a half-day with Shillong Peak." }
+  ],
+  "things_to_do": [
+    "Walk down to all three viewing platforms and photograph each tier",
+    "Visit early, around opening time, to avoid weekend crowds",
+    "Browse the small stalls near the gate for Khasi shawls, pickles and souvenirs",
+    "Try on traditional Khasi dress for a photo at the stalls, where offered",
+    "Pair the visit with Shillong Peak on the same Upper Shillong road",
+    "Stop at the Air Force Museum in Upper Shillong if it is open on your day"
+  ],
+  "how_to_reach": "Elephant Falls is about 12 km from Police Bazar along the Upper Shillong road, which continues towards Mawphlang and Sohra. By taxi the drive takes 25 to 35 minutes, depending on traffic at the city exit. Most people book a half-day local sightseeing cab that includes Shillong Peak and the falls; agree the stops and waiting time before you start. Shared taxis heading to Upper Shillong can drop you on the main road, but you will need a cab to get back. There is paid parking near the ticket gate.",
+  "where_to_stay": "Most visitors stay in central Shillong and visit on a morning drive. Police Bazar has the widest choice, from budget hotels to Vivanta Meghalaya, and Laitumkhrah has mid-range hotels near cafes. Upper Shillong, a few minutes from the falls, has homestays and small guest houses in quieter pine country; these suit travellers with a car. If your next stop is Sohra, staying in Upper Shillong also shortens the morning drive south. Book ahead in October and around Christmas.",
+  "tips": [
+    "Wear shoes with grip; the steps are wet and mossy after rain",
+    "Keep an extra 20 minutes for the climb back up, especially with seniors",
+    "Swimming is not allowed and the pools are rocky; stay on the platforms",
+    "Weekday mornings are the quietest time to visit",
+    "Carry small cash notes for the ticket, camera fee and parking",
+    "In winter the flow is thin; manage expectations if you visit between December and March"
+  ],
+  "faqs": [
+    { "q": "What is the entry fee for Elephant Falls?", "a": "Elephant Falls charges a small entry fee, typically well under INR 100 per person, with a separate camera fee and a parking charge for vehicles. Fees are collected in cash at the ticket gate and are revised from time to time, so carry small notes, check the rate locally and check current status before you travel." },
+    { "q": "What are Elephant Falls timings?", "a": "The falls are usually open from morning to early evening, with most visitors arriving between 9 am and 5 pm. Some sources list opening from 6 am and others from about 9 am, so treat early entry as uncertain. The site can close during very heavy rain; check current status before you travel." },
+    { "q": "How many steps are there at Elephant Falls?", "a": "There is no single official count, but expect a steep paved staircase with handrails that takes 10 to 15 minutes down to the lowest viewing platform and 15 to 25 minutes back up. Benches along the way help. The steps are slippery after rain, so wear shoes with good grip." },
+    { "q": "How far is Elephant Falls from Shillong?", "a": "Elephant Falls is about 12 km from Police Bazar in central Shillong, a 25 to 35 minute drive through Upper Shillong. Shillong Peak is on the same side of town, so most people combine the two in a half-day. From Guwahati, the falls are roughly 110 km away." },
+    { "q": "Why is it called Elephant Falls?", "a": "British visitors named the falls after a large rock nearby that resembled an elephant. The rock was destroyed in the great earthquake of 1897, but the English name stayed. The Khasi name, Ka Kshaid Lai Pateng Khohsiew, means the three-step falls, after its three separate tiers." },
+    { "q": "What is the best time to visit Elephant Falls?", "a": "July to October is best for strong flow and green surroundings, with October giving full water and drier steps. From December to March the falls thin to a trickle in places. In the peak monsoon the platforms are wet and crowded, so go early in the day." },
+    { "q": "Can senior citizens visit Elephant Falls?", "a": "Many do. The upper platform is only a short walk from the gate, so seniors who find stairs hard can still see the first tier. Reaching the lowest tier means a steep climb back up; take it slowly with the benches and handrails, and skip it on wet days if balance is a concern." },
+    { "q": "Can you swim at Elephant Falls?", "a": "No. Swimming and bathing are not permitted, and the pools below the tiers are rocky with sudden depth changes. Stay on the marked paths and viewing platforms, especially in the monsoon when the flow is fast. For a place where swimming with a life jacket is allowed, look at Krang Suri Falls near Jowai." },
+    { "q": "Is Elephant Falls worth visiting?", "a": "Yes for a first trip to Shillong, as long as you see it as a short stop rather than a destination. It is close, has proper paths and pairs easily with Shillong Peak. Travellers heading to Sohra will see taller falls such as Nohkalikai, so budget about an hour here." }
+  ],
+  "nearby": ["shillong-peak", "shillong", "laitlum-canyons", "mawphlang-sacred-forest"],
+  "image_query": "Elephant Falls Shillong"
+}

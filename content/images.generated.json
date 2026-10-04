@@ -1,0 +1,4088 @@
+{
+ "shillong": [
+  {
+   "id": "shillong-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Colourful houses of Shillong spread over green hills under a clear blue sky, seen from Mawlai",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Shillong_City_View.jpg",
+   "file": "File:Shillong City View.jpg",
+   "fallback": false
+  },
+  {
+   "id": "shillong-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 918,
+   "alt": "Shillong city climbing forested hillsides at dusk, with pine trees in the foreground",
+   "author": "Bikash Jyoti Bora",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Bikash_Jyoti_Bora",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Shillong,_the_Scotland_of_the_east.jpg",
+   "file": "File:Shillong, the Scotland of the east.jpg",
+   "fallback": false
+  },
+  {
+   "id": "shillong-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Ward's Lake in central Shillong with its arched footbridge, ducks and tall trees on a sunny day",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Ward%27s_Lake,_Shillong.jpg",
+   "file": "File:Ward's Lake, Shillong.jpg",
+   "fallback": false
+  }
+ ],
+ "shillong-peak": [
+  {
+   "id": "shillong-peak-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Big white clouds over the sprawl of Shillong city, seen from the viewpoint on Shillong Peak",
+   "author": "debanutosh",
+   "author_url": "",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_BIRDS_EYE_VIEW_OF_SHILLONG_FROM_SHILLONG_PEAK.jpg",
+   "file": "File:A BIRDS EYE VIEW OF SHILLONG FROM SHILLONG PEAK.jpg",
+   "fallback": false
+  },
+  {
+   "id": "shillong-peak-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Shillong city in blue haze below a forested slope, seen from Shillong Peak on a clear morning",
+   "author": "Rachit",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rchit",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_Shillong_Peak.jpg",
+   "file": "File:View from Shillong Peak.jpg",
+   "fallback": false
+  },
+  {
+   "id": "shillong-peak-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Pine trees on Shillong Peak framing a wide view over Shillong and the Khasi Hills",
+   "author": "Aadri",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Aadri",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Shillong_from_Shillong_Peak.jpg",
+   "file": "File:Shillong from Shillong Peak.jpg",
+   "fallback": false
+  }
+ ],
+ "elephant-falls": [
+  {
+   "id": "elephant-falls-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1024,
+   "alt": "Water cascading over stepped dark rock at Elephant Falls near Shillong, framed by ferns and moss",
+   "author": "Prasanta Kr Dutta",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Pkd2512",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Elephant_Falls_II,_Shillong.jpg",
+   "file": "File:Elephant Falls II, Shillong.jpg",
+   "fallback": false
+  },
+  {
+   "id": "elephant-falls-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Thin streams of Elephant Falls tumbling down black rock ledges into a turquoise pool",
+   "author": "Dhiman Ghosh",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Dghosh.cse",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Elephant_Falls_Shillong_Meghalaya.jpg",
+   "file": "File:Elephant Falls Shillong Meghalaya.jpg",
+   "fallback": false
+  },
+  {
+   "id": "elephant-falls-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1064,
+   "alt": "Long exposure of Elephant Falls spreading over rock steps into a calm green pool, Shillong",
+   "author": "Bito4",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Bito4",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Elephant_Falls_shillong.jpg",
+   "file": "File:Elephant Falls shillong.jpg",
+   "fallback": false
+  }
+ ],
+ "umiam-lake": [
+  {
+   "id": "umiam-lake-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Blue waters of Umiam Lake wrapping around forested islands and ridges under white clouds",
+   "author": "Prof. Vikramjit Kakati",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Donvikro",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Umiam_Lake,_Shillong,_Meghalaya.jpg",
+   "file": "File:Umiam Lake, Shillong, Meghalaya.jpg",
+   "fallback": false
+  },
+  {
+   "id": "umiam-lake-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Umiam Lake reservoir seen from above, a long wooded peninsula reaching into deep blue water",
+   "author": "PRATAP CHAKMA",
+   "author_url": "https://commons.wikimedia.org/wiki/User:PRATAP_CHAKMA",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:UMIAM_LAKE_SHILLONG.jpg",
+   "file": "File:UMIAM LAKE SHILLONG.jpg",
+   "fallback": false
+  },
+  {
+   "id": "umiam-lake-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Still water of Umiam Lake reflecting clouds, with low green hills on the far shore",
+   "author": "Hirakjyoti Bayan",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Hirakjyoti_Bayan",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Umiam.jpg",
+   "file": "File:The Umiam.jpg",
+   "fallback": false
+  }
+ ],
+ "laitlum-canyons": [
+  {
+   "id": "laitlum-canyons-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Deep green gorges of Laitlum Canyon falling away from a grassy ridge edge, East Khasi Hills",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Laitlum_Canyon_(4).jpg",
+   "file": "File:Laitlum Canyon (4).jpg",
+   "fallback": false
+  },
+  {
+   "id": "laitlum-canyons-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Monsoon clouds drifting through the green valleys below the Laitlum rim under a bright blue sky",
+   "author": "JyotiPN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:JyotiPN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Laitlum,_Shillong_in_2026.jpg",
+   "file": "File:Laitlum, Shillong in 2026.jpg",
+   "fallback": false
+  },
+  {
+   "id": "laitlum-canyons-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Layered blue ridges and forested valleys seen from the stone path at Laitlum Canyon",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Laitlum_Canyon_(3).jpg",
+   "file": "File:Laitlum Canyon (3).jpg",
+   "fallback": false
+  }
+ ],
+ "sohra": [
+  {
+   "id": "sohra-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A tall waterfall dropping off a green plateau edge into a sea of cloud near Sohra (Cherrapunji)",
+   "author": "JakilDedhia",
+   "author_url": "https://commons.wikimedia.org/wiki/User:JakilDedhia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Cherrapunji_Waterfalls_Over_the_clouds.jpg",
+   "file": "File:Cherrapunji Waterfalls Over the clouds.jpg",
+   "fallback": false
+  },
+  {
+   "id": "sohra-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1021,
+   "alt": "Layered green ridges and deep valleys under grey monsoon skies around Sohra, Meghalaya",
+   "author": "Ashwin Kumar",
+   "author_url": "https://www.flickr.com/people/34501870@N00",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Hills_of_Cherrapunjee_(7344211154).jpg",
+   "file": "File:Hills of Cherrapunjee (7344211154).jpg",
+   "fallback": false
+  },
+  {
+   "id": "sohra-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Turquoise stream flowing between large pale boulders in a forested gorge near Sohra",
+   "author": "Joli",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Joli",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_river_in_Cherrapunjee,_Meghalaya.jpg",
+   "file": "File:A river in Cherrapunjee, Meghalaya.jpg",
+   "fallback": false
+  }
+ ],
+ "nohkalikai-falls": [
+  {
+   "id": "nohkalikai-falls-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Nohkalikai Falls plunging 340 m down a sheer red-brown cliff into a green pool, Sohra",
+   "author": "Bikash9c",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Bikash9c",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Nohkalikai_falls_bikash.jpg",
+   "file": "File:Nohkalikai falls bikash.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nohkalikai-falls-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Mist rolling over the cliffs as Nohkalikai Falls drops into its turquoise plunge pool",
+   "author": "Kiran Kulkarni",
+   "author_url": "https://commons.wikimedia.org/wiki/User:PixelQuest",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Nohkalikai_Falls_-_Meghalya.jpg",
+   "file": "File:Nohkalikai Falls - Meghalya.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nohkalikai-falls-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1146,
+   "alt": "Close view of Nohkalikai Falls pouring down a streaked sandstone cliff with a faint rainbow",
+   "author": "Jyotishkardey",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Jyotishkardey",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Nohkalikai_Falls_of_Cherrapunji_in_summer.jpg",
+   "file": "File:Nohkalikai Falls of Cherrapunji in summer.jpg",
+   "fallback": false
+  }
+ ],
+ "mawsmai-cave": [
+  {
+   "id": "mawsmai-cave-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Pale limestone formations framing the dark entrance passage of Mawsmai Cave near Sohra",
+   "author": "Sujan Bandyopadhyay",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sujan_Bandyopadhyay",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mawsmai_Cave_in_Meghalaya,_India.jpg",
+   "file": "File:Mawsmai Cave in Meghalaya, India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "mawsmai-cave-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Lit chamber inside Mawsmai Cave with rough limestone walls and daylight filtering in",
+   "author": "Wann Majaw",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Wann_Majaw",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mawsmai_cave.jpg",
+   "file": "File:Mawsmai cave.jpg",
+   "fallback": false
+  },
+  {
+   "id": "mawsmai-cave-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Brown and cream stalactites and flowstone hanging from the ceiling of Mawsmai Cave",
+   "author": "Dhruva Punde",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Dhruva_Punde",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Stalactite-mawsmai-cave.jpg",
+   "file": "File:Stalactite-mawsmai-cave.jpg",
+   "fallback": false
+  }
+ ],
+ "nongriat-root-bridges": [
+  {
+   "id": "nongriat-root-bridges-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The two-tier Double Decker Living Root Bridge at Nongriat spanning a clear stream in dense forest",
+   "author": "Chiranjeeb Baul",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Chirnzb",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Double_decker_living_root_bridge_01.jpg",
+   "file": "File:Double decker living root bridge 01.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nongriat-root-bridges-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Double Decker root bridge at Nongriat above a small waterfall and a brown pool",
+   "author": "Jayesh minde",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Jayesh_minde",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_double_decker_living_root_bridge.jpg",
+   "file": "File:The double decker living root bridge.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nongriat-root-bridges-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1060,
+   "alt": "Rubber-tree roots woven into two stacked bridges over a rocky stream at Nongriat village",
+   "author": "Ashwin Kumar",
+   "author_url": "https://www.flickr.com/people/34501870@N00",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Root_Bridge1.jpg",
+   "file": "File:Double Decker Living Root Bridge1.jpg",
+   "fallback": false
+  }
+ ],
+ "wei-sawdong-falls": [
+  {
+   "id": "wei-sawdong-falls-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "Wei Sawdong's stepped falls spilling into a round turquoise pool in a sandstone gorge near Sohra",
+   "author": "Shreekanth Ramasamy",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Shreekanth_Ramasamy",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg",
+   "file": "File:Wei Sawdong Waterfall 3.jpg",
+   "fallback": false
+  },
+  {
+   "id": "wei-sawdong-falls-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Thin cascades of Wei Sawdong falling over layered rock ledges under a forest canopy",
+   "author": "Abhai Kollara",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Abhaikollara",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfalls_02.jpg",
+   "file": "File:Wei Sawdong Waterfalls 02.jpg",
+   "fallback": false
+  },
+  {
+   "id": "wei-sawdong-falls-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Clear turquoise water over a pitted rock shelf in the plunge pool at Wei Sawdong",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_(5).jpg",
+   "file": "File:Wei Sawdong Waterfall (5).jpg",
+   "fallback": false
+  }
+ ],
+ "mawlynnong": [
+  {
+   "id": "mawlynnong-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The Riwai living root bridge near Mawlynnong, a mat of roots spanning a rocky stream bed",
+   "author": "Sujan Bandyopadhyay",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sujan_Bandyopadhyay",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mawlynnong%27s_Living_Root_Bridge_in_Meghalaya,_India.jpg",
+   "file": "File:Mawlynnong's Living Root Bridge in Meghalaya, India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "mawlynnong-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1305,
+   "alt": "A tidy lane through Mawlynnong village at dusk, with betel nut palms and neat houses",
+   "author": "Madhumita Das",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Madhumitaworld",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mawlynnong_-_Cleanest_village_of_Asia.jpg",
+   "file": "File:Mawlynnong - Cleanest village of Asia.jpg",
+   "fallback": false
+  },
+  {
+   "id": "mawlynnong-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Traditional Khasi house on stilts with a thatched roof among trees in Mawlynnong",
+   "author": "Sujan Bandyopadhyay",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sujan_Bandyopadhyay",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Traditional_house_at_Mawlynnong,_Meghalaya,_India.jpg",
+   "file": "File:Traditional house at Mawlynnong, Meghalaya, India.jpg",
+   "fallback": false
+  }
+ ],
+ "dawki-umngot": [
+  {
+   "id": "dawki-umngot-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Green hills mirrored in the glassy Umngot River at Dawki, with a lone wooden boat mid-stream",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Umngot_River_View_(5).jpg",
+   "file": "File:Umngot River View (5).jpg",
+   "fallback": false
+  },
+  {
+   "id": "dawki-umngot-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "River stones visible through the clear, shallow water of the Umngot River at Dawki",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Clear_Water_of_Umngot_River.jpg",
+   "file": "File:Clear Water of Umngot River.jpg",
+   "fallback": false
+  },
+  {
+   "id": "dawki-umngot-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "The Dawki suspension bridge crossing the Umngot River between forested banks",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Dawki_Bridge_from_Umngot_River_(2).jpg",
+   "file": "File:Dawki Bridge from Umngot River (2).jpg",
+   "fallback": false
+  },
+  {
+   "id": "dawki-umngot-4",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1107,
+   "alt": "Rows of painted wooden boats pulled up on a sandbar beside the emerald Umngot River, Dawki",
+   "author": "Jyotishkardey",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Jyotishkardey",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Umngot_River_Boating_at_Dawki.jpg",
+   "file": "File:The Umngot River Boating at Dawki.jpg",
+   "fallback": false
+  }
+ ],
+ "shnongpdeng": [
+  {
+   "id": "shnongpdeng-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Umngot River flowing still and green between steep forested hills, the stretch that runs past Shnongpdeng",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Umngot_River_View_(2).jpg",
+   "file": "File:Umngot River View (2).jpg",
+   "fallback": true
+  },
+  {
+   "id": "shnongpdeng-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "White water tumbling between granite boulders beside the Umngot River in the Dawki area",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Umngot_River_Waterfall.jpg",
+   "file": "File:Umngot River Waterfall.jpg",
+   "fallback": true
+  },
+  {
+   "id": "shnongpdeng-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Kayaks and wooden boats moored on the rocky bank of the Umngot River below green hills",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Boathouse_in_Umngot_River.jpg",
+   "file": "File:Boathouse in Umngot River.jpg",
+   "fallback": true
+  }
+ ],
+ "krang-suri-falls": [
+  {
+   "id": "krang-suri-falls-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Krang Suri Falls pouring off a sandstone overhang into a deep blue-green pool, West Jaintia Hills",
+   "author": "Chirnzb",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Chirnzb",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Khrangsuri_waterfall,_Meghalaya_04.jpg",
+   "file": "File:Khrangsuri waterfall, Meghalaya 04.jpg",
+   "fallback": false
+  },
+  {
+   "id": "krang-suri-falls-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Bright turquoise pool at the foot of Krang Suri Falls framed by red rock and trees",
+   "author": "ANKAN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANKAN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Near_Krang_Suri_Waterfall.jpg",
+   "file": "File:Near Krang Suri Waterfall.jpg",
+   "fallback": false
+  },
+  {
+   "id": "krang-suri-falls-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Krang Suri Falls seen from the hilltop, twin streams dropping into a blue pool in thick forest",
+   "author": "Chirnzb",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Chirnzb",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Khrangsuri_waterfall,_Meghalaya_01.jpg",
+   "file": "File:Khrangsuri waterfall, Meghalaya 01.jpg",
+   "fallback": false
+  }
+ ],
+ "mawphlang-sacred-forest": [
+  {
+   "id": "mawphlang-sacred-forest-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A clear stream running over rocks through the dense, mossy Mawphlang sacred forest",
+   "author": "Ritika74",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Ritika74",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sacred_forest,_Mawphlang,_Meghalaya.jpg",
+   "file": "File:Sacred forest, Mawphlang, Meghalaya.jpg",
+   "fallback": false
+  },
+  {
+   "id": "mawphlang-sacred-forest-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1060,
+   "alt": "Tall standing stones of Khasi monoliths on a grassy clearing beside the Mawphlang sacred grove",
+   "author": "ChanduBandi",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ChanduBandi",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Monoliths_at_mawphlang_sacred_forest.jpg",
+   "file": "File:Monoliths at mawphlang sacred forest.jpg",
+   "fallback": false
+  },
+  {
+   "id": "mawphlang-sacred-forest-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "A leaf-strewn footpath winding between tall trees inside the Mawphlang sacred grove",
+   "author": "Daniel Romanson",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Daniel_Romanson",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mawphlang_Sacred_Forest_India.jpg",
+   "file": "File:Mawphlang Sacred Forest India.jpg",
+   "fallback": false
+  }
+ ],
+ "nartiang-monoliths": [
+  {
+   "id": "nartiang-monoliths-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Dozens of upright menhirs and flat table stones under large trees at Nartiang, West Jaintia Hills",
+   "author": "Sreesarkar",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sreesarkar",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Monolith_memorials_under_shady_trees.jpg",
+   "file": "File:Monolith memorials under shady trees.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nartiang-monoliths-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A paved path through the Nartiang monolith garden, lined with tall stone slabs and dolmens",
+   "author": "Sreesarkar",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sreesarkar",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Monolithic_stone_memorials_for_the_dead.jpg",
+   "file": "File:Monolithic stone memorials for the dead.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nartiang-monoliths-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 899,
+   "alt": "Stone tables and standing monoliths of the Nartiang memorial site shaded by old trees",
+   "author": "Sreesarkar",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sreesarkar",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Stone_Memorial_of_U-Maw_Thodur-Briew,_Nartiang,_West_Jaintia_Hills,_Meghalaya,_India.jpg",
+   "file": "File:Stone Memorial of U-Maw Thodur-Briew, Nartiang, West Jaintia Hills, Meghalaya, India.jpg",
+   "fallback": false
+  }
+ ],
+ "jowai": [
+  {
+   "id": "jowai-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 655,
+   "alt": "Orange sunset over golden paddy fields and low hills at Ladthlaboh on the edge of Jowai",
+   "author": "Ram Kinkor Mahanta",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Ram_Kinkor_Mahanta",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_in_Ladthlaboh,_Jowai_,_Meghalaya_India.jpg",
+   "file": "File:Sunset in Ladthlaboh, Jowai , Meghalaya India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "jowai-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 658,
+   "alt": "Thadlaskein Lake near Jowai reflecting a red-roofed boathouse and a line of tall trees",
+   "author": "Arindam Das",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Arindamd99",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Panoramic_Thadlaskein.jpg",
+   "file": "File:Panoramic Thadlaskein.jpg",
+   "fallback": false
+  },
+  {
+   "id": "jowai-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1141,
+   "alt": "Steps leading up to the white Presbyterian church in Jowai, flanked by tall conifers",
+   "author": "Tymphew",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Tymphew",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Jowai_Presbyterian_Church.JPG",
+   "file": "File:Jowai Presbyterian Church.JPG",
+   "fallback": false
+  }
+ ],
+ "mawsynram": [
+  {
+   "id": "mawsynram-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1158,
+   "alt": "Black-and-white view of a lone church on the grassy uplands of Mawsynram under heavy rain clouds",
+   "author": "Donvikro",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Donvikro",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mawsynram,_Meghalaya.jpg",
+   "file": "File:Mawsynram, Meghalaya.jpg",
+   "fallback": false
+  },
+  {
+   "id": "mawsynram-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1063,
+   "alt": "The dome-shaped stalagmite worshipped as a Shivalinga inside Mawjymbuin Cave, Mawsynram",
+   "author": "Sharada Prasad CS",
+   "author_url": "https://www.flickr.com/people/11124467@N02",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Nature_made_Shivalinga_in_Mawjymbuin_Cave_Mawsynram_Meghalaya_India.jpg",
+   "file": "File:Nature made Shivalinga in Mawjymbuin Cave Mawsynram Meghalaya India.jpg",
+   "fallback": false
+  }
+ ],
+ "nongkhnum-island": [
+  {
+   "id": "nongkhnum-island-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 901,
+   "alt": "Weinia Falls at Nongkhnum thundering into a misty gorge beside a wooden viewing platform, West Khasi Hills",
+   "author": "Gitartha.bordoloi",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Gitartha.bordoloi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Weinia_falls,_Meghalaya_with_the_bridge_and_viewing_platform.jpg",
+   "file": "File:Weinia falls, Meghalaya with the bridge and viewing platform.jpg",
+   "fallback": true
+  },
+  {
+   "id": "nongkhnum-island-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 940,
+   "alt": "Langshiang Falls crashing into a white cloud of spray between dark cliffs near Nongstoin",
+   "author": "JoistLNonglait",
+   "author_url": "https://commons.wikimedia.org/wiki/User:JoistLNonglait",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:LANGSHIANG_FALLS.jpg",
+   "file": "File:LANGSHIANG FALLS.jpg",
+   "fallback": true
+  }
+ ],
+ "balpakram": [
+  {
+   "id": "balpakram-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Sheer cliffs dropping into the forested Balpakram canyon under a hazy sky, South Garo Hills",
+   "author": "James Gabil Momin",
+   "author_url": "https://commons.wikimedia.org/wiki/User:James_Frank_Gabil_Momin",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Balpakram_NP_1.jpg",
+   "file": "File:Balpakram NP 1.jpg",
+   "fallback": false
+  },
+  {
+   "id": "balpakram-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A single tree on the rock table of Matcha Nokpante on the grassy Balpakram plateau",
+   "author": "Hgm2016",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Hgm2016",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Matcha_Nokpante_(tiger%27s_meeting_place)_in_Balpakram_National_Park.jpg",
+   "file": "File:Matcha Nokpante (tiger's meeting place) in Balpakram National Park.jpg",
+   "fallback": false
+  },
+  {
+   "id": "balpakram-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A bare tree beside a flat sandstone outcrop on the open grassland of Balpakram National Park",
+   "author": "James Gabil Momin",
+   "author_url": "https://commons.wikimedia.org/wiki/User:James_Frank_Gabil_Momin",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Balpakram_NP_2.jpg",
+   "file": "File:Balpakram NP 2.jpg",
+   "fallback": false
+  }
+ ],
+ "guwahati": [
+  {
+   "id": "guwahati-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The sun setting over the Brahmaputra at Guwahati, with low hills and a boat on the golden water",
+   "author": "Anushila Bharali",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Anu2017",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Guwahati-city-02.jpg",
+   "file": "File:Guwahati-city-02.jpg",
+   "fallback": false
+  },
+  {
+   "id": "guwahati-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Wooded Umananda (Peacock) Island rising from the Brahmaputra, seen from Umananda Ghat in Guwahati",
+   "author": "PP Yoonus",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Ppyoonus",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Umananda_Island,_Guwahati_(4).jpg",
+   "file": "File:Umananda Island, Guwahati (4).jpg",
+   "fallback": false
+  },
+  {
+   "id": "guwahati-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Umananda Island and its temple in the Brahmaputra seen from the Guwahati ropeway cabin",
+   "author": "Pinakpani",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Pinakpani",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Peacock_Island_or_Umananda_Island_in_the_Brahmaputra_River_in_Guwahati_04.jpg",
+   "file": "File:Peacock Island or Umananda Island in the Brahmaputra River in Guwahati 04.jpg",
+   "fallback": false
+  },
+  {
+   "id": "guwahati-4",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "Guwahati's buildings spreading to the Brahmaputra and blue hills, seen from Sarania Hill",
+   "author": "Vikingsofeldorado",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Vikingsofeldorado",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Gandhi_mandap,_Sarania_Hill,_Guwahati.jpg",
+   "file": "File:Gandhi mandap, Sarania Hill, Guwahati.jpg",
+   "fallback": false
+  }
+ ],
+ "kamakhya-temple": [
+  {
+   "id": "kamakhya-temple-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1068,
+   "alt": "Beehive-shaped spires and curved roof of Kamakhya Temple on Nilachal Hill, Guwahati",
+   "author": "Devkmaravi",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Devkmaravi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple_-_DEV_8829.jpg",
+   "file": "File:Kamakhya Temple - DEV 8829.jpg",
+   "fallback": false
+  },
+  {
+   "id": "kamakhya-temple-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Kamakhya Temple's domed shikharas and long white hall above a stone-paved courtyard",
+   "author": "Deeporaj",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Deeporaj",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple,_Nilachal_Hills,_Guwahati.JPG",
+   "file": "File:Kamakhya Temple, Nilachal Hills, Guwahati.JPG",
+   "fallback": false
+  },
+  {
+   "id": "kamakhya-temple-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Close view of the ribbed brown shikharas of Kamakhya Temple topped with red flags",
+   "author": "Deeporaj",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Deeporaj",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Sikharas_of_the_Kamakhya_Temple,_Guwahati.JPG",
+   "file": "File:The Sikharas of the Kamakhya Temple, Guwahati.JPG",
+   "fallback": false
+  }
+ ],
+ "kaziranga": [
+  {
+   "id": "kaziranga-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 901,
+   "alt": "A flowering silk-cotton tree standing alone in the tall grassland of Kaziranga under a blue sky",
+   "author": "Anupom sarmah",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Anupom_sarmah",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kaziranga_grassland.jpg",
+   "file": "File:Kaziranga grassland.jpg",
+   "fallback": false
+  },
+  {
+   "id": "kaziranga-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "A herd of wild Asian elephants grazing in bright green elephant grass at Kaziranga",
+   "author": "Thapalens",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Thapalens",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Herd_of_wild_Asian_elephants_in_the_grasslands_of_Kaziranga.jpg",
+   "file": "File:Herd of wild Asian elephants in the grasslands of Kaziranga.jpg",
+   "fallback": false
+  },
+  {
+   "id": "kaziranga-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 898,
+   "alt": "Wild elephants wading across a blue channel at the edge of the Kaziranga forest",
+   "author": "Horshadeep Saikia",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Horshadeep_Saikia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_herd_of_Elephants_inside_the_Kaziranga_National_Park.jpg",
+   "file": "File:A herd of Elephants inside the Kaziranga National Park.jpg",
+   "fallback": false
+  },
+  {
+   "id": "kaziranga-4",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A one-horned rhino grazing on a green meadow beside a wetland pool in Kaziranga",
+   "author": "Pavan Goswami",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Pvngoswami",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:An_One_Horned_Rhino_In_Kaziranga_National_Park.jpg",
+   "file": "File:An One Horned Rhino In Kaziranga National Park.jpg",
+   "fallback": false
+  }
+ ],
+ "majuli": [
+  {
+   "id": "majuli-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Pink and blue dawn sky reflected in flooded pasture on Majuli river island, Assam",
+   "author": "Shikhers",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Shikhers",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Pastures_of_Majuli_2.jpg",
+   "file": "File:Pastures of Majuli 2.jpg",
+   "fallback": false
+  },
+  {
+   "id": "majuli-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A boatman poling a wooden canoe along a quiet channel at sunrise on Majuli",
+   "author": "Shikhers",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Shikhers",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Boatman_at_Majuli.jpg",
+   "file": "File:Boatman at Majuli.jpg",
+   "fallback": false
+  },
+  {
+   "id": "majuli-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Mishing stilt houses of bamboo and timber beside a wetland on Majuli island at dusk",
+   "author": "Adrian Scottow",
+   "author_url": "",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Adrian_Scottow,_Stilt_houses_on_Majuli_Island_(Assam)_IMG_7994.jpg",
+   "file": "File:Adrian Scottow, Stilt houses on Majuli Island (Assam) IMG 7994.jpg",
+   "fallback": false
+  },
+  {
+   "id": "majuli-4",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Yellow-painted colonnade of the Auniati Satra monastery on Majuli, with a sandy lane alongside",
+   "author": "Adrian Scottow",
+   "author_url": "",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Adrian_Scottow,_Sri_Sri_Auniati_satra,_Majuli_IMG_7939.jpg",
+   "file": "File:Adrian Scottow, Sri Sri Auniati satra, Majuli IMG 7939.jpg",
+   "fallback": false
+  }
+ ],
+ "jorhat": [
+  {
+   "id": "jorhat-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 901,
+   "alt": "Wooden fishing boats on the calm green Kakodonga River lined with trees, Jorhat district",
+   "author": "Anupom sarmah",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Anupom_sarmah",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A6%A1%E0%A7%8B%E0%A6%99%E0%A6%BE_%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A7%B0_%E0%A6%8F%E0%A6%95_%E0%A6%A8%E0%A7%88%E0%A6%B8%E0%A7%B0%E0%A7%8D%E0%A6%97%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF._A_view_of_River_Kakodonga._Kakodonga_River_flows_as_the_the_border_line_of_District_Jorhat_and_District_Golaghat_of_state_Assam..JPG",
+   "file": "File:কাকডোঙা নদীৰ এক নৈসৰ্গিক দৃশ্য. A view of River Kakodonga. Kakodonga River flows as the the border line of District Jorhat and District Golaghat of state Assam..JPG",
+   "fallback": false
+  },
+  {
+   "id": "jorhat-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A colonial-style tea planter's bungalow with white columns and a lawn at Sengsua Tea Garden, Jorhat",
+   "author": "JyotiPN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:JyotiPN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Heritage_amid_Sengsua_Tea_Garden,_Jorhat,_Assam.jpg",
+   "file": "File:Heritage amid Sengsua Tea Garden, Jorhat, Assam.jpg",
+   "fallback": false
+  },
+  {
+   "id": "jorhat-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 882,
+   "alt": "A pair of western hoolock gibbons, one pale and one black, swinging through trees at Hoollongapar near Jorhat",
+   "author": "কুমুদ ঘোষ",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%A6_%E0%A6%98%E0%A7%8B%E0%A6%B7",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Western_Hoolock_Gibbon_Family_at_Hoollongapar_Gibbon_Sanctuary,_Jorhat_-_Assam.jpg",
+   "file": "File:A Western Hoolock Gibbon Family at Hoollongapar Gibbon Sanctuary, Jorhat - Assam.jpg",
+   "fallback": false
+  }
+ ],
+ "sivasagar": [
+  {
+   "id": "sivasagar-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1060,
+   "alt": "The tall brick spire of Shiva Dol beside smaller shrines and a long hall on green lawns, Sivasagar",
+   "author": "Rangan Datta Wiki",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rangan_Datta_Wiki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sivasagar_Shiv_Dol_3.jpg",
+   "file": "File:Sivasagar Shiv Dol 3.jpg",
+   "fallback": false
+  },
+  {
+   "id": "sivasagar-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 923,
+   "alt": "A long flower-lined path leading to the two-storey Rang Ghar pavilion of the Ahom kings, Sivasagar",
+   "author": "Sarangakrishnachetia",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sarangakrishnachetia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Rangghar_,_Sivasagar_,Assam.jpg",
+   "file": "File:Rangghar , Sivasagar ,Assam.jpg",
+   "fallback": false
+  },
+  {
+   "id": "sivasagar-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The tiered red-brick Kareng Ghar palace of the Ahom kings rising above trees near Sivasagar",
+   "author": "Indranil Gayan",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Indranil_Gayan",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kareng_ghar_sivsagar.jpg",
+   "file": "File:Kareng ghar sivsagar.jpg",
+   "fallback": false
+  },
+  {
+   "id": "sivasagar-4",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Water lilies on the wide Sivasagar tank (Borpukhuri) with a line of trees on the far bank",
+   "author": "Hiranmoy.boruah",
+   "author_url": "https://as.wikipedia.org/wiki/User:Hiranmoy.boruah",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:SIVASAGAR_TANK_(SIVASAGAR_BOR-PUKHURI).jpg",
+   "file": "File:SIVASAGAR TANK (SIVASAGAR BOR-PUKHURI).jpg",
+   "fallback": false
+  }
+ ],
+ "dibrugarh": [
+  {
+   "id": "dibrugarh-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1061,
+   "alt": "Wisps of white cloud over the wide, calm Brahmaputra seen from its bank at Dibrugarh",
+   "author": "Deepjyoti Borah",
+   "author_url": "https://commons.wikimedia.org/wiki/User:DeepjyotiBorah10",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_view_from_the_bank_of_the_river_Brahmaputra_in_Dibrugarh,_Assam.jpg",
+   "file": "File:A view from the bank of the river Brahmaputra in Dibrugarh, Assam.jpg",
+   "fallback": false
+  },
+  {
+   "id": "dibrugarh-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Neat rows of tea bushes under tall shade trees in a tea garden near Dibrugarh",
+   "author": "Nborkakoty",
+   "author_url": "https://en.wikipedia.org/wiki/User:Nborkakoty",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_tea_garden_in_Dibrugarh.jpg",
+   "file": "File:A tea garden in Dibrugarh.jpg",
+   "fallback": false
+  },
+  {
+   "id": "dibrugarh-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1056,
+   "alt": "Lights of Dibrugarh town glowing under a dark night sky, seen from a rooftop",
+   "author": "Mrdebasishroy",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Mrdebasishroy",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Dibrugarh_Night_View.jpg",
+   "file": "File:Dibrugarh Night View.jpg",
+   "fallback": false
+  }
+ ],
+ "manas": [
+  {
+   "id": "manas-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The braided Manas River and green grassland below the forested Bhutan foothills, Manas National Park",
+   "author": "Lonav Bharali",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Lonav_Bharali",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Spectacular_view_of_the_mountains_from_Manas_National_Park.jpg",
+   "file": "File:Spectacular view of the mountains from Manas National Park.jpg",
+   "fallback": false
+  },
+  {
+   "id": "manas-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "An orange sun rising through mist over the grasslands and tree lines of Manas National Park",
+   "author": "Drashokk",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Drashokk",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Manas_National_Park.jpg",
+   "file": "File:Sunrise at Manas National Park.jpg",
+   "fallback": false
+  },
+  {
+   "id": "manas-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A family of wild elephants with a calf feeding at the edge of a forest track in Manas",
+   "author": "debanutosh",
+   "author_url": "",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:HERD_OF_ELEPHANTS_AT_MANAS_NATIONAL_PARK.jpg",
+   "file": "File:HERD OF ELEPHANTS AT MANAS NATIONAL PARK.jpg",
+   "fallback": false
+  }
+ ],
+ "pobitora": [
+  {
+   "id": "pobitora-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1000,
+   "alt": "A one-horned rhino and her calf grazing side by side on a green meadow at Pobitora",
+   "author": "Ranjan Jyoti Dutta",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rjdutta007",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:THE_MOTHER-_A_female_Rhino_with_her_cub_at_Pobitora_Wildlife_Sanctuary,_Assam.jpg",
+   "file": "File:THE MOTHER- A female Rhino with her cub at Pobitora Wildlife Sanctuary, Assam.jpg",
+   "fallback": false
+  },
+  {
+   "id": "pobitora-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1000,
+   "alt": "Close view of an adult Indian rhinoceros with a calf in tall grass at Pobitora Wildlife Sanctuary",
+   "author": "Rohit Sharma",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rohit14400",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Adult_Indian_Rhinoceros_with_Calf_at_Pobitora_Wildlife_Sanctuary,_India.jpg",
+   "file": "File:Adult Indian Rhinoceros with Calf at Pobitora Wildlife Sanctuary, India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "pobitora-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "Small boats on a still, tree-lined lake inside Pobitora Wildlife Sanctuary near Guwahati",
+   "author": "ঈশান জ্যোতি বৰা",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%88%E0%A6%B6%E0%A6%BE%E0%A6%A8_%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF_%E0%A6%AC%E0%A7%B0%E0%A6%BE",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Boat_Riding_at_Pobitora.jpg",
+   "file": "File:Boat Riding at Pobitora.jpg",
+   "fallback": false
+  }
+ ],
+ "nameri": [
+  {
+   "id": "nameri-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 746,
+   "alt": "Two wooden boats on the pebble shore of the wide, blue Jia Bhoroli river at Nameri",
+   "author": "Drashokk",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Drashokk",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Jia_Bhoroli_river_at_Nameri.jpg",
+   "file": "File:Jia Bhoroli river at Nameri.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nameri-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 930,
+   "alt": "The Jia Bhoroli river running past forest, with the Arunachal foothills behind, Nameri National Park",
+   "author": "Nilutpal Mahanta",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Nilutpal.mahanta1",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Nameri_National_Park-_Jiya_Bhoroli_River.jpg",
+   "file": "File:Nameri National Park- Jiya Bhoroli River.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nameri-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Clear blue river water and rounded stones along a forested bank in Nameri National Park",
+   "author": "Lonav Bharali",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Lonav_Bharali",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Blue_Kameng,_Nameri_National_Park.jpg",
+   "file": "File:The Blue Kameng, Nameri National Park.jpg",
+   "fallback": false
+  }
+ ],
+ "tezpur": [
+  {
+   "id": "tezpur-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Pink evening clouds over the broad, calm Brahmaputra at Tezpur",
+   "author": "Himanshum14",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Himanshum14",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhramaputra_river_in_Tezpur.jpg",
+   "file": "File:Bhramaputra river in Tezpur.jpg",
+   "fallback": false
+  },
+  {
+   "id": "tezpur-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Leafy hilltop park at Agnigarh in Tezpur, with the Brahmaputra visible beyond the trees",
+   "author": "Ishanjyotibora",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Ishanjyotibora",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Agnigarh_Park,_Tezpur.jpg",
+   "file": "File:Agnigarh Park, Tezpur.jpg",
+   "fallback": false
+  },
+  {
+   "id": "tezpur-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 739,
+   "alt": "Large rounded boulders at Rudrapath standing in the Brahmaputra at Tezpur",
+   "author": "ঈশান জ্যোতি বৰা",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%88%E0%A6%B6%E0%A6%BE%E0%A6%A8_%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF_%E0%A6%AC%E0%A7%B0%E0%A6%BE",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Rudrapath_Tezpur.jpg",
+   "file": "File:Rudrapath Tezpur.jpg",
+   "fallback": false
+  }
+ ],
+ "haflong": [
+  {
+   "id": "haflong-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Haflong town spread over green hills in the soft light of dusk, seen from Synod viewpoint",
+   "author": "JyotiPN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:JyotiPN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Synod_view_point,_Haflong.jpg",
+   "file": "File:Synod view point, Haflong.jpg",
+   "fallback": false
+  },
+  {
+   "id": "haflong-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "The calm waters of Haflong Lake framed by large trees and a small footbridge",
+   "author": "Thoiba Paonam",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Thoiba_Paonam",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_Haflong_Lake_form_other_side.JPG",
+   "file": "File:View of Haflong Lake form other side.JPG",
+   "fallback": false
+  },
+  {
+   "id": "haflong-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "A train at New Haflong station on the hill railway, with forested Dima Hasao hills behind",
+   "author": "Vulpes-bengalensis",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Vulpes-bengalensis",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Haflong_Railway_Station,_Assam.jpg",
+   "file": "File:New Haflong Railway Station, Assam.jpg",
+   "fallback": false
+  }
+ ],
+ "dibru-saikhowa": [
+  {
+   "id": "dibru-saikhowa-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1038,
+   "alt": "Bare trees standing in floodwater under a bright blue sky and white clouds, Dibru-Saikhowa National Park",
+   "author": "Dhruba Jyoti Baruah",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Dhrubazaanphotography",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Dibru_Saikhuwa_National_Park.jpg",
+   "file": "File:Dibru Saikhuwa National Park.jpg",
+   "fallback": false
+  },
+  {
+   "id": "dibru-saikhowa-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 874,
+   "alt": "Sunbeams breaking through clouds over the Brahmaputra at sunset, seen from Dibru-Saikhowa",
+   "author": "Shibanigogoi",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Shibanigogoi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_great_Brahmaputra.jpg",
+   "file": "File:The great Brahmaputra.jpg",
+   "fallback": false
+  },
+  {
+   "id": "dibru-saikhowa-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A herd of water buffalo resting on a grassy river bank at Dibru-Saikhowa National Park",
+   "author": "BANDITA PATHAK",
+   "author_url": "https://commons.wikimedia.org/wiki/User:BANDITA_PATHAK",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Asiatic_water_buffalo.jpg",
+   "file": "File:Asiatic water buffalo.jpg",
+   "fallback": false
+  }
+ ],
+ "hajo": [
+  {
+   "id": "hajo-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "The carved stone shikhara of Hayagriva Madhava Temple on Monikut hill at Hajo, Assam",
+   "author": "PrabalJeetBhagawati",
+   "author_url": "https://commons.wikimedia.org/wiki/User:PrabalJeetBhagawati",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Hayagriva_Madhava_Temple,_Hajo.jpg",
+   "file": "File:Hayagriva Madhava Temple, Hajo.jpg",
+   "fallback": false
+  },
+  {
+   "id": "hajo-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A long stone stairway between red gateways climbing to Hayagriva Madhava Temple, Hajo",
+   "author": "Gaurav M Kumar",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Gaurav_M_Kumar",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_steps_leading_to_Hayagriva_Madhav_temple.jpg",
+   "file": "File:The steps leading to Hayagriva Madhav temple.jpg",
+   "fallback": false
+  },
+  {
+   "id": "hajo-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "White and green domes of the Powa Mecca shrine against a deep blue sky at Hajo",
+   "author": "Anindita Hazarika156",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Anindita_Hazarika156",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Powa_mecca_(outside_view).jpg",
+   "file": "File:Powa mecca (outside view).jpg",
+   "fallback": false
+  },
+  {
+   "id": "hajo-4",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 736,
+   "alt": "The weathered stone dome of Kedar Temple framed by trees on a hill at Hajo",
+   "author": "Deepankarbarpetiya",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Deepankarbarpetiya",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kedar_Temple,_Hajo,_Assam.jpg",
+   "file": "File:Kedar Temple, Hajo, Assam.jpg",
+   "fallback": false
+  }
+ ],
+ "tawang": [
+  {
+   "id": "tawang-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Tawang town and its hilltop monastery under towering white clouds, Arunachal Pradesh",
+   "author": "Trideep Dutta Photography",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Trideep1986",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Tawang_Monastery.jpg",
+   "file": "File:The Tawang Monastery.jpg",
+   "fallback": false
+  },
+  {
+   "id": "tawang-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "The giant seated Buddha statue on a painted plinth above Tawang, with snow peaks behind",
+   "author": "Yatrika",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Yatrika",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Giant_Buddha_Statue_of_Tawang.jpg",
+   "file": "File:The Giant Buddha Statue of Tawang.jpg",
+   "fallback": false
+  },
+  {
+   "id": "tawang-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1053,
+   "alt": "Steps rising to the white stupa of the Tawang War Memorial, flanked by painted dragon pillars",
+   "author": "Rohit Sharma",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rohit14400",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Tawang_War_Memorial.jpg",
+   "file": "File:Tawang War Memorial.jpg",
+   "fallback": false
+  }
+ ],
+ "tawang-monastery": [
+  {
+   "id": "tawang-monastery-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Tawang Monastery's white buildings and gold roofs spread along a ridge below a blue peak",
+   "author": "Chandrasen31",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Chandrasen31",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_majestic_Tawang_Monastery.jpg",
+   "file": "File:The majestic Tawang Monastery.jpg",
+   "fallback": false
+  },
+  {
+   "id": "tawang-monastery-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Front of the main Buddha temple at Tawang Monastery with painted windows and white walls",
+   "author": "Kingshuk Mondal",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Herpking",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Front_fa%C3%A7ade_of_the_Buddha_Temple_at_Tawang_Monastery,_Tawang,_Arunachal_Pradesh,_India._01.jpg",
+   "file": "File:Front façade of the Buddha Temple at Tawang Monastery, Tawang, Arunachal Pradesh, India. 01.jpg",
+   "fallback": false
+  },
+  {
+   "id": "tawang-monastery-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1068,
+   "alt": "Red pillars and rows of seating leading to the golden Buddha in Tawang Monastery's main hall",
+   "author": "Rohit Sharma",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rohit14400",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Main_temple_(Dukhang)_of_Tawang_monastery_with_Buddha_image_in_a_lotus_position.jpg",
+   "file": "File:Main temple (Dukhang) of Tawang monastery with Buddha image in a lotus position.jpg",
+   "fallback": false
+  }
+ ],
+ "sela-pass": [
+  {
+   "id": "sela-pass-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A boardwalk leading along blue Sela Lake below rocky peaks at Sela Pass, 4,170 m, Arunachal",
+   "author": "Itrajib",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Itrajib",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sela_Lake.jpg",
+   "file": "File:Sela Lake.jpg",
+   "fallback": false
+  },
+  {
+   "id": "sela-pass-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Yellow alpine flowers on the shore of Sela Lake with clouds low over the ridges",
+   "author": "Ashwani Kumar",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Hadez248",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Wild_flowers_at_Sela_Pass.jpg",
+   "file": "File:Wild flowers at Sela Pass.jpg",
+   "fallback": false
+  },
+  {
+   "id": "sela-pass-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1064,
+   "alt": "The painted Tawang gateway at Sela Pass with prayer flags and snowy peaks behind",
+   "author": "Saurabhgupta8",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Saurabhgupta8",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sela_Pass2.JPG",
+   "file": "File:Sela Pass2.JPG",
+   "fallback": false
+  },
+  {
+   "id": "sela-pass-4",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Walkers beside Sela Lake in October, with a rocky summit and white clouds above",
+   "author": "JyotiPN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:JyotiPN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sela_lake,_October,_2022.jpg",
+   "file": "File:Sela lake, October, 2022.jpg",
+   "fallback": false
+  }
+ ],
+ "bum-la-pass": [
+  {
+   "id": "bum-la-pass-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Snow patches and a small lake among jagged peaks near Bum La Pass on the India–China border",
+   "author": "Saptaparnipal.32",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Saptaparnipal.32",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bomla_pass_in_ARUNACHAL_PRADESH.jpg",
+   "file": "File:Bomla pass in ARUNACHAL PRADESH.jpg",
+   "fallback": false
+  },
+  {
+   "id": "bum-la-pass-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A road winding across a snow-dusted plateau below sharp peaks on the way to Bum La",
+   "author": "Rohit Sharma",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rohit14400",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mountain_range_near_Bum_La_Pass,_Tawang,_Arunachal_Pradesh,_India.jpg",
+   "file": "File:Mountain range near Bum La Pass, Tawang, Arunachal Pradesh, India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "bum-la-pass-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1000,
+   "alt": "Snow-streaked mountains reflected in still Shree Swayambhu Lake near Bum La Pass",
+   "author": "Rohit Sharma",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rohit14400",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Shree_Swayambhu_Lake_near_Bum_La_Pass,_Tawang,_Arunachal_Pradesh,_India.jpg",
+   "file": "File:Shree Swayambhu Lake near Bum La Pass, Tawang, Arunachal Pradesh, India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "bum-la-pass-4",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Wide high-altitude valley with brown grass and a road leading to Bum La Pass, Tawang",
+   "author": "Itrajib",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Itrajib",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bum_La_Pass.jpg",
+   "file": "File:Bum La Pass.jpg",
+   "fallback": false
+  }
+ ],
+ "madhuri-lake": [
+  {
+   "id": "madhuri-lake-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "Dead tree trunks standing in the blue water of Madhuri (Shonga-tser) Lake between steep cliffs near Tawang",
+   "author": "Rohit Sharma",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rohit14400",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sangestar_Tso,_Tawang,_Arunachal_Pradesh,_India.jpg",
+   "file": "File:Sangestar Tso, Tawang, Arunachal Pradesh, India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "madhuri-lake-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A rocky granite peak rising above Shonga-tser Lake and its drowned tree stumps, Tawang district",
+   "author": "Itrajib",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Itrajib",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sangestar_Tso_Lake.jpg",
+   "file": "File:Sangestar Tso Lake.jpg",
+   "fallback": false
+  },
+  {
+   "id": "madhuri-lake-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1063,
+   "alt": "Prayer flags strung along the shore of Sangetsar (Madhuri) Lake below sunlit cliffs",
+   "author": "Rajat2015",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rajat2015",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sangetsar_Lake.jpg",
+   "file": "File:Sangetsar Lake.jpg",
+   "fallback": false
+  }
+ ],
+ "nuranang-falls": [
+  {
+   "id": "nuranang-falls-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Nuranang (Jang) Falls plunging down a green mountainside into a turquoise river valley near Tawang",
+   "author": "Sdasamdabad",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sdasamdabad",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Nuranang_Waterfall.jpg",
+   "file": "File:Nuranang Waterfall.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nuranang-falls-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Close view of Nuranang Falls thundering over dark rock in clouds of spray",
+   "author": "Bablipraveen18",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Bablipraveen18",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Jung_in_its_thundering_mood.jpg",
+   "file": "File:Jung in its thundering mood.jpg",
+   "fallback": false
+  },
+  {
+   "id": "nuranang-falls-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Nuranang Falls pouring into the Tawang Chu valley under grey clouds, Jang, Arunachal",
+   "author": "Vishnu1991nair",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Vishnu1991nair",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Narunang_falls.jpg",
+   "file": "File:Narunang falls.jpg",
+   "fallback": false
+  }
+ ],
+ "bomdila": [
+  {
+   "id": "bomdila-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1017,
+   "alt": "The Gontse Gaden Rabgye Ling monastery at Bomdila with red pillars and gold roofs under a blue sky",
+   "author": "Rohit Sharma",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rohit14400",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bomdila_monastery_(Gentse_Gaden_Rabgye_Ling).jpg",
+   "file": "File:Bomdila monastery (Gentse Gaden Rabgye Ling).jpg",
+   "fallback": false
+  },
+  {
+   "id": "bomdila-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Wide stone courtyard and steps leading to the main hall of Bomdila monastery below pine forest",
+   "author": "Arkadipta Chandra",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Arkadipta_Chandra",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:BomdilaMonastery-ArunachalPradesh-1.jpg",
+   "file": "File:BomdilaMonastery-ArunachalPradesh-1.jpg",
+   "fallback": false
+  },
+  {
+   "id": "bomdila-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Monks crossing the terrace at Bomdila with forested ridges rolling away under a blue sky",
+   "author": "TassoRija",
+   "author_url": "https://commons.wikimedia.org/wiki/User:TassoRija",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bomdila.jpg",
+   "file": "File:Bomdila.jpg",
+   "fallback": false
+  }
+ ],
+ "dirang": [
+  {
+   "id": "dirang-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Golden terraced fields along the Dirang river valley between forested slopes, West Kameng",
+   "author": "Itrajib",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Itrajib",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Dirang_Valley.jpg",
+   "file": "File:Dirang Valley.jpg",
+   "fallback": false
+  },
+  {
+   "id": "dirang-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1068,
+   "alt": "Thupsung Dhargye Ling monastery behind a row of prayer wheels, with cloud on the hills of Dirang",
+   "author": "Rohit Sharma",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rohit14400",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Thupsung_Dhargye_Ling_buddhist_temple,_Dirang.jpg",
+   "file": "File:Thupsung Dhargye Ling buddhist temple, Dirang.jpg",
+   "fallback": false
+  },
+  {
+   "id": "dirang-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A wide boulder-strewn stretch of the Dirang river in morning light, Arunachal Pradesh",
+   "author": "Itrajib",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Itrajib",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Dirang_River.jpg",
+   "file": "File:Dirang River.jpg",
+   "fallback": false
+  }
+ ],
+ "ziro-valley": [
+  {
+   "id": "ziro-valley-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1056,
+   "alt": "Bright green paddy fields and an Apatani village spread across the flat floor of Ziro valley below forested hills",
+   "author": "Arunachal2007",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Arunachal2007",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_section_of_Ziro_valley.jpg",
+   "file": "File:A section of Ziro valley.jpg",
+   "fallback": false
+  },
+  {
+   "id": "ziro-valley-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Terraced rice fields, a winding lane and scattered houses on the slopes of Ziro, Arunachal Pradesh",
+   "author": "Ashwani Kumar",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Hadez248",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Paddy_fields_at_Ziro,_Arunachal_Pradesh.jpg",
+   "file": "File:Paddy fields at Ziro, Arunachal Pradesh.jpg",
+   "fallback": false
+  },
+  {
+   "id": "ziro-valley-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1071,
+   "alt": "The red and grey roofs of Ziro town filling the valley under a cloudy sky",
+   "author": "Krish9",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Krish9",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Ziro_town_landscape..jpg",
+   "file": "File:Ziro town landscape..jpg",
+   "fallback": false
+  }
+ ],
+ "mechuka": [
+  {
+   "id": "mechuka-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A suspension bridge over the blue Siyom river in the wide Mechuka valley under a clear sky",
+   "author": "কুমুদ ঘোষ",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%A6_%E0%A6%98%E0%A7%8B%E0%A6%B7",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Natural_beauty_of_Mechuka,_Arunachal_Pradesh_2.jpg",
+   "file": "File:Natural beauty of Mechuka, Arunachal Pradesh 2.jpg",
+   "fallback": false
+  },
+  {
+   "id": "mechuka-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The Siyom river curving through open grassland toward the mountains of Mechuka",
+   "author": "কুমুদ ঘোষ",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%A6_%E0%A6%98%E0%A7%8B%E0%A6%B7",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Natural_beauty_of_Mechuka,_Arunachal_Pradesh.jpg",
+   "file": "File:Natural beauty of Mechuka, Arunachal Pradesh.jpg",
+   "fallback": false
+  },
+  {
+   "id": "mechuka-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Big white clouds over the golden meadows and ridges surrounding Mechuka, 1,900 m",
+   "author": "কুমুদ ঘোষ",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%A6_%E0%A6%98%E0%A7%8B%E0%A6%B7",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Natural_beauty_of_Mechuka,_Arunachal_Pradesh_6.jpg",
+   "file": "File:Natural beauty of Mechuka, Arunachal Pradesh 6.jpg",
+   "fallback": false
+  }
+ ],
+ "itanagar": [
+  {
+   "id": "itanagar-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1071,
+   "alt": "Forested hills reflected in the still green water of Gyakar Sinyi (Ganga Lake) near Itanagar",
+   "author": "Mrkrish",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Mrkrish",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Gyakar_Sinyi_or_Ganga_Lake.jpg",
+   "file": "File:Gyakar Sinyi or Ganga Lake.jpg",
+   "fallback": false
+  },
+  {
+   "id": "itanagar-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 720,
+   "alt": "A street in Itanagar town with shops, parked cars and green hills under white clouds",
+   "author": "Ganesh Mohan T",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Ganesh_Mohan_T",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Itanagar_town_01.jpg",
+   "file": "File:Itanagar town 01.jpg",
+   "fallback": false
+  },
+  {
+   "id": "itanagar-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Two brick bastions of the 14th–15th century Ita Fort on a hilltop in Itanagar",
+   "author": "AshLin",
+   "author_url": "",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Ita_Fort_01.JPG",
+   "file": "File:Ita Fort 01.JPG",
+   "fallback": false
+  }
+ ],
+ "pasighat": [
+  {
+   "id": "pasighat-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The Siang (Brahmaputra) river leaving the forested hills for the plains near Pasighat, East Siang",
+   "author": "Anu007bora",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Anu007bora",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Siang_(Brahmaputra)_entering_into_the_plains_at_Ranaghat,_on_the_east_of_Roing.jpg",
+   "file": "File:River Siang (Brahmaputra) entering into the plains at Ranaghat, on the east of Roing.jpg",
+   "fallback": false
+  },
+  {
+   "id": "pasighat-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "A long yellow-railed road bridge leading toward the hills around Pasighat under a blue sky",
+   "author": "ঈশান জ্যোতি বৰা",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%88%E0%A6%B6%E0%A6%BE%E0%A6%A8_%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF_%E0%A6%AC%E0%A7%B0%E0%A6%BE",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Pasighat_Bridge.jpg",
+   "file": "File:Pasighat Bridge.jpg",
+   "fallback": false
+  },
+  {
+   "id": "pasighat-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 902,
+   "alt": "Rooftops and a busy market street in Pasighat town under grey clouds",
+   "author": "Bhavikji",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Bhavikji",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Pasighat_Town_-_May2019.jpg",
+   "file": "File:Pasighat Town - May2019.jpg",
+   "fallback": false
+  }
+ ],
+ "namdapha": [
+  {
+   "id": "namdapha-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "The Noa Dihing river winding out of forested hills into grassland in Namdapha National Park",
+   "author": "Sourabh.biswas003",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sourabh.biswas003",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:20200305_143438_Namdapha_National_Park_%26_Tiger_Reserve_Miao_Changlang,_Arunachal_Pradesh_792122_11.jpg",
+   "file": "File:20200305 143438 Namdapha National Park & Tiger Reserve Miao Changlang, Arunachal Pradesh 792122 11.jpg",
+   "fallback": false
+  },
+  {
+   "id": "namdapha-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Snow-covered Himalayan peaks above dark forested ridges, seen from the trail into Namdapha",
+   "author": "Rohit Naniwadekar",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rohitjahnavi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Forest_snow_Namdapha_IMG_3373_02.jpg",
+   "file": "File:Forest snow Namdapha IMG 3373 02.jpg",
+   "fallback": false
+  },
+  {
+   "id": "namdapha-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A rocky stream bed through dense ferns and broadleaf jungle in Namdapha Tiger Reserve",
+   "author": "Sourabh.biswas003",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Sourabh.biswas003",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:20200305_143438_Namdapha_National_Park_%26_Tiger_Reserve_Miao_Changlang,_Arunachal_Pradesh_792122_01.jpg",
+   "file": "File:20200305 143438 Namdapha National Park & Tiger Reserve Miao Changlang, Arunachal Pradesh 792122 01.jpg",
+   "fallback": false
+  }
+ ],
+ "roing-mayodia": [
+  {
+   "id": "roing-mayodia-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Snow-capped tops of the Mishmi Hills beyond forested ridges, seen from Mayodia Pass above Roing",
+   "author": "Anu007bora",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Anu007bora",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Snow_capped_Tops_of_Mishmi_Hills,_view_from_Mayodia_Pass.jpg",
+   "file": "File:Snow capped Tops of Mishmi Hills, view from Mayodia Pass.jpg",
+   "fallback": false
+  },
+  {
+   "id": "roing-mayodia-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "Fresh snow at Mayodia Pass, 2,655 m, with blue Mishmi Hills folding away below",
+   "author": "ঈশান জ্যোতি বৰা",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%88%E0%A6%B6%E0%A6%BE%E0%A6%A8_%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF_%E0%A6%AC%E0%A7%B0%E0%A6%BE",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mayodia_Pass_1.jpg",
+   "file": "File:Mayodia Pass 1.jpg",
+   "fallback": false
+  },
+  {
+   "id": "roing-mayodia-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A small settlement of tin-roofed houses on a hillside along the Roing–Mayodia road",
+   "author": "Anu007bora",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Anu007bora",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Small_Settlement_on_the_Roing-Mayodia_road.jpg",
+   "file": "File:A Small Settlement on the Roing-Mayodia road.jpg",
+   "fallback": false
+  },
+  {
+   "id": "roing-mayodia-4",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "Sunlight on steep forested valleys of the Mishmi Hills near Mayodia Pass",
+   "author": "Medhi jyoti",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Medhi_jyoti",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Near_Mayodia_pass.jpg",
+   "file": "File:Near Mayodia pass.jpg",
+   "fallback": false
+  }
+ ],
+ "kohima": [
+  {
+   "id": "kohima-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1063,
+   "alt": "Kohima's houses spilling down green ridges with clouds lying in the valleys beyond, Nagaland",
+   "author": "Sharada Prasad CS",
+   "author_url": "https://www.flickr.com/people/11124467@N02",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kohima_Nagaland_India.jpg",
+   "file": "File:Kohima Nagaland India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "kohima-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 986,
+   "alt": "Terraced lawns and headstones of the Kohima War Cemetery on Garrison Hill, with the town behind",
+   "author": "Kanad Sanyal",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Kanad_Sanyal",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kohima_War_Cemetery,_Kohima,_Nagaland.jpg",
+   "file": "File:Kohima War Cemetery, Kohima, Nagaland.jpg",
+   "fallback": false
+  },
+  {
+   "id": "kohima-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "Rooftops of Kohima spread across the hills, seen from Bara Basti",
+   "author": "Ly.n0m",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Ly.n0m",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kohima_skyline_from_Bara_Basti_(2024).jpg",
+   "file": "File:Kohima skyline from Bara Basti (2024).jpg",
+   "fallback": false
+  }
+ ],
+ "dzukou-valley": [
+  {
+   "id": "dzukou-valley-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "Rolling bright-green hills of Dzukou Valley on the Nagaland–Manipur border under grey cloud",
+   "author": "Samudra Bikash Hazarika",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Samudra_bikash_hazarika",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_(edit).jpg",
+   "file": "File:Breathtaking beauty of Dzukou Valley in Manipur-Nagaland border (edit).jpg",
+   "fallback": false
+  },
+  {
+   "id": "dzukou-valley-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A stone path through dwarf bamboo leading across Dzukou Valley toward blue ridges",
+   "author": "নিৰঞ্জন বড়া",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%A8%E0%A6%BF%E0%A7%B0%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%A8_%E0%A6%AC%E0%A6%A1%E0%A6%BC%E0%A6%BE",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Dzukou_Valley1.jpg",
+   "file": "File:Dzukou Valley1.jpg",
+   "fallback": false
+  },
+  {
+   "id": "dzukou-valley-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1083,
+   "alt": "Late light on the folded grassy hills and forest pockets of Dzukou Valley",
+   "author": "SeethaG",
+   "author_url": "https://commons.wikimedia.org/wiki/User:SeethaG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Dzukou_valley_in_the_Nagaland-Manipur_border.jpg",
+   "file": "File:Dzukou valley in the Nagaland-Manipur border.jpg",
+   "fallback": false
+  }
+ ],
+ "khonoma": [
+  {
+   "id": "khonoma-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Green terraced paddy fields stepping down a misty hillside at Khonoma green village, Nagaland",
+   "author": "Girish Mohan P K",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Pkgmohan",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Khonoma_02.jpg",
+   "file": "File:Khonoma 02.jpg",
+   "fallback": false
+  },
+  {
+   "id": "khonoma-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Khonoma's houses climbing a forested ridge under low cloud, near Kohima",
+   "author": "Girish Mohan P K",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Pkgmohan",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Khonoma_16.jpg",
+   "file": "File:Khonoma 16.jpg",
+   "fallback": false
+  },
+  {
+   "id": "khonoma-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A traditional Angami gateway decorated with mithun horns and carvings at Khonoma",
+   "author": "Girish Mohan P K",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Pkgmohan",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Khonoma_14.jpg",
+   "file": "File:Khonoma 14.jpg",
+   "fallback": false
+  }
+ ],
+ "imphal": [
+  {
+   "id": "imphal-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Lights of Imphal spreading across the valley at dusk, with the Manipur hills on the horizon",
+   "author": "DeepanjanGhosh",
+   "author_url": "https://commons.wikimedia.org/wiki/User:DeepanjanGhosh",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Imphal_At_Dusk.jpg",
+   "file": "File:Imphal At Dusk.jpg",
+   "fallback": false
+  },
+  {
+   "id": "imphal-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 870,
+   "alt": "Red-brick columns and arches of the old palace ruins inside Kangla Fort, Imphal",
+   "author": "Meghroddur",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Meghroddur",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kangla_Fort,_imphal.JPG",
+   "file": "File:Kangla Fort, imphal.JPG",
+   "fallback": false
+  },
+  {
+   "id": "imphal-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1197,
+   "alt": "The long red-brick wall of the Kangla Uttra Shanglen enclosure inside Kangla Fort, Imphal",
+   "author": "Haoreima",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Haoreima",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Southern_brick_wall_of_the_enclosure_of_the_Kangla_Uttra_Shanglen_inside_the_Kangla_Fort_(Kangla_Palace_Complex)_in_Imphal_03.jpg",
+   "file": "File:Southern brick wall of the enclosure of the Kangla Uttra Shanglen inside the Kangla Fort (Kangla Palace Complex) in Imphal 03.jpg",
+   "fallback": false
+  }
+ ],
+ "loktak-lake": [
+  {
+   "id": "loktak-lake-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1063,
+   "alt": "A thatched hut on a floating phumdi island amid rings of green phumdis on Loktak Lake, Manipur",
+   "author": "Sharada Prasad CS",
+   "author_url": "https://www.flickr.com/people/11124467@N02",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_home_on_Loktak_Lake_Moirang_Manipur_India.jpg",
+   "file": "File:A home on Loktak Lake Moirang Manipur India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "loktak-lake-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1197,
+   "alt": "Wooden dugout canoes pulled up among water plants on the shore of Loktak Lake",
+   "author": "Haoreima",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Haoreima",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Boats_%26_other_watercrafts_in_a_port_-_Inland_water_navigation_or_inland_waterway_transport_(IWT)_activities_in_the_Loktak_Lake_(alias_%22Meitei_Sea%22)_-_world%27s_only_floating_lake_-_in_Kangleipak_(Manipur)_09.jpg",
+   "file": "File:Boats & other watercrafts in a port - Inland water navigation or inland waterway transport (IWT) activities in the Loktak Lake (alias \"Meitei Sea\") - world's only floating lake - in Kangleipak (Manipur) 09.jpg",
+   "fallback": false
+  },
+  {
+   "id": "loktak-lake-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1197,
+   "alt": "A jetty and small boats on the calm water of Loktak Lake, with low hills beyond",
+   "author": "Haoreima",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Haoreima",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Boats_%26_other_watercrafts_in_a_port_-_Inland_water_navigation_or_inland_waterway_transport_(IWT)_activities_in_the_Loktak_Lake_(alias_%22Meitei_Sea%22)_-_world%27s_only_floating_lake_-_in_Kangleipak_(Manipur)_03.jpg",
+   "file": "File:Boats & other watercrafts in a port - Inland water navigation or inland waterway transport (IWT) activities in the Loktak Lake (alias \"Meitei Sea\") - world's only floating lake - in Kangleipak (Manipur) 03.jpg",
+   "fallback": false
+  }
+ ],
+ "aizawl": [
+  {
+   "id": "aizawl-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Aizawl's colourful buildings stacked along a steep ridge under a clear blue sky, Mizoram",
+   "author": "R london",
+   "author_url": "https://web.archive.org/web/20161030041647/http://www.panoramio.com/user/7898189?with_photo_id=103690474",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Aizawl,_mizoram_-_panoramio.jpg",
+   "file": "File:Aizawl, mizoram - panoramio.jpg",
+   "fallback": false
+  },
+  {
+   "id": "aizawl-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Houses of Melthum veng clinging to a green hilltop in Aizawl",
+   "author": "R london",
+   "author_url": "https://web.archive.org/web/20161027195749/http://www.panoramio.com/user/7898189?with_photo_id=102904030",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Melthum_veng,_Aizawl,_Mizoram,_india_-_panoramio.jpg",
+   "file": "File:Melthum veng, Aizawl, Mizoram, india - panoramio.jpg",
+   "fallback": false
+  },
+  {
+   "id": "aizawl-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 739,
+   "alt": "The white spires of Solomon's Temple in Aizawl against a blue sky",
+   "author": "Amishjnu",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Amishjnu",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Solomon_Temple_Aizawl_1.jpg",
+   "file": "File:Solomon Temple Aizawl 1.jpg",
+   "fallback": false
+  }
+ ],
+ "agartala": [
+  {
+   "id": "agartala-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The white domes and towers of Ujjayanta Palace in Agartala behind a long reflecting pool and gardens",
+   "author": "Kingshuk Mondal",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Herpking",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_Palace_also_known_as_Nuyungma,_Agartala,_Tripura_04.JPG",
+   "file": "File:Ujjayanta Palace also known as Nuyungma, Agartala, Tripura 04.JPG",
+   "fallback": false
+  },
+  {
+   "id": "agartala-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Ornate white facade and domed tower of Ujjayanta Palace against a deep blue sky, Agartala",
+   "author": "Kingshuk Mondal",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Herpking",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Left_Facade_of_Ujjayanta_Palace,_Agartala,_Tripura_01.JPG",
+   "file": "File:Left Facade of Ujjayanta Palace, Agartala, Tripura 01.JPG",
+   "fallback": false
+  },
+  {
+   "id": "agartala-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1069,
+   "alt": "Neermahal water palace on Rudrasagar Lake at Melaghar, a day trip from Agartala, Tripura",
+   "author": "Mr Nimai Debbarma",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Mr_Nimai_Debbarma",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Neermahal,_Tripura_Agartala,_India.jpg",
+   "file": "File:Neermahal, Tripura Agartala, India.jpg",
+   "fallback": false
+  }
+ ],
+ "unakoti": [
+  {
+   "id": "unakoti-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The giant rock-cut face of Unakotiswara Kal Bhairava among mossy boulders at Unakoti, Tripura",
+   "author": "Dr. Srimanta Ray",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Dr._Srimanta_Ray",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_View_of_Unakoti,_Tripura.jpg",
+   "file": "File:A View of Unakoti, Tripura.jpg",
+   "fallback": false
+  },
+  {
+   "id": "unakoti-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Carved rock faces and a small stream in the forested ravine at Unakoti",
+   "author": "Barunghosh",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Barunghosh",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Unakoti_3.jpg",
+   "file": "File:Unakoti 3.jpg",
+   "fallback": false
+  },
+  {
+   "id": "unakoti-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A crowned stone head with large disc earrings carved into the rock wall at Unakoti",
+   "author": "Barunghosh",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Barunghosh",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Unakoti_1.jpg",
+   "file": "File:Unakoti 1.jpg",
+   "fallback": false
+  }
+ ],
+ "_assam-tea": [
+  {
+   "id": "x-assam-tea-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1081,
+   "alt": "Tea pluckers working between flat-topped tea bushes under tall shade trees on an Assam estate",
+   "author": "Drashokk",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Drashokk",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Tea_Plantation_and_workers_in_Assam_01.jpg",
+   "file": "File:Tea Plantation and workers in Assam 01.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-assam-tea-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1081,
+   "alt": "Workers with cloth bags plucking leaves in a bright green Assam tea garden",
+   "author": "Drashokk",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Drashokk",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Tea_Plantation_and_workers_in_Assam_03.jpg",
+   "file": "File:Tea Plantation and workers in Assam 03.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-assam-tea-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A quiet road running between tea bushes and shade trees at Sensuwa Tea Estate, Jorhat",
+   "author": "JyotiPN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:JyotiPN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sensuwa_Tea_Estate,_Jorhat,_Assam.jpg",
+   "file": "File:Sensuwa Tea Estate, Jorhat, Assam.jpg",
+   "fallback": false
+  }
+ ],
+ "_bihu-dance": [
+  {
+   "id": "x-bihu-dance-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1138,
+   "alt": "Women in red and cream mekhela sador dancing Bihu in a village field fringed with palms, Assam",
+   "author": "Donvikro",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Donvikro",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bihu_Dance_,_Festival_of_India.jpg",
+   "file": "File:Bihu Dance , Festival of India.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-bihu-dance-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1073,
+   "alt": "Young Bihu dancers in muga silk resting on the grass beside a dhol drum, Lakhimpur",
+   "author": "Nayan j Nath",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Nayan_j_Nath",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Bihu_Dancers_01.jpg",
+   "file": "File:Bihu Dancers 01.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-bihu-dance-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1068,
+   "alt": "A group of Assamese women in red-bordered Bihu dress posing in a tea garden",
+   "author": "দিব্য দত্ত",
+   "author_url": "https://commons.wikimedia.org/wiki/User:%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A7%8D%E0%A6%AF_%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%A4",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:A_group_of_Assamese_Bihu_dancers.jpg",
+   "file": "File:A group of Assamese Bihu dancers.jpg",
+   "fallback": false
+  }
+ ],
+ "_brahmaputra": [
+  {
+   "id": "x-brahmaputra-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Golden dusk light on the Brahmaputra at Majuli, with wooden ferry boats moored at the shore",
+   "author": "Shikhers",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Shikhers",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Boats_at_shore_of_Brahmaputra_1.jpg",
+   "file": "File:Boats at shore of Brahmaputra 1.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-brahmaputra-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A forested hill mirrored in the still Brahmaputra near Baghbar, Barpeta, Assam",
+   "author": "Anindita Hazarika156",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Anindita_Hazarika156",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Brahmaputra_river_with_hill.jpg",
+   "file": "File:Brahmaputra river with hill.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-brahmaputra-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A lone fishing boat on the misty Brahmaputra near IIT Guwahati at dawn",
+   "author": "Rajkumar10",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rajkumar10",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Brahmaputra_my_Comapnian.jpg",
+   "file": "File:Brahmaputra my Comapnian.jpg",
+   "fallback": false
+  }
+ ],
+ "_hero-kaziranga-rhino": [
+  {
+   "id": "x-hero-kaziranga-rhino-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A greater one-horned rhinoceros walking through green grassland in Kaziranga National Park, Assam",
+   "author": "Donvikro",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Donvikro",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Indian_one-horned_rhinoceros_in_Kaziranga_National_Park.jpg",
+   "file": "File:Indian one-horned rhinoceros in Kaziranga National Park.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-hero-kaziranga-rhino-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A one-horned rhino and her calf crossing a marsh in front of tall elephant grass, Kaziranga",
+   "author": "RAJEEV BASUMATARY",
+   "author_url": "https://commons.wikimedia.org/wiki/User:RAJEEV1980",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:BABY_RHINO_WITH_MOM_KAZIRANGA_NATIONAL_PARK.jpg",
+   "file": "File:BABY RHINO WITH MOM KAZIRANGA NATIONAL PARK.jpg",
+   "fallback": false
+  }
+ ],
+ "_hero-meghalaya": [
+  {
+   "id": "x-hero-meghalaya-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Clouds pouring over a knife-edge green ridge and deep valleys at Laitmawsiang near Sohra, Meghalaya",
+   "author": "Rajesh Dutta",
+   "author_url": "https://www.flickr.com/people/65090432@N02",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Nature_Scenic_Landscape_Meghalaya_Laitmawsiang_India_July_2011.jpg",
+   "file": "File:Nature Scenic Landscape Meghalaya Laitmawsiang India July 2011.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-hero-meghalaya-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A wooden boat on the glassy Umngot River at Dawki, between forested cliffs and a suspension bridge",
+   "author": "Madhumita Das",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Madhumitaworld",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Dawki_River,_Meghalaya.jpg",
+   "file": "File:Dawki River, Meghalaya.jpg",
+   "fallback": false
+  }
+ ],
+ "_hero-tawang": [
+  {
+   "id": "x-hero-tawang-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Tawang Monastery glowing on its ridge at dusk below a pointed blue mountain, Arunachal Pradesh",
+   "author": "Vikramjit Kakati",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Donvikro",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Tawang_Monastery_(Tibetan_Buddhist).jpg",
+   "file": "File:Tawang Monastery (Tibetan Buddhist).jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-hero-tawang-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Tawang Monastery seen from a distance, its gold roofs strung along a forested ridge",
+   "author": "Chandrasen31",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Chandrasen31",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Tawang_Monastery_from_a_distance.jpg",
+   "file": "File:Tawang Monastery from a distance.jpg",
+   "fallback": false
+  }
+ ],
+ "_hornbill-festival": [
+  {
+   "id": "x-hornbill-festival-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1077,
+   "alt": "Zeliang Naga dancers leaping in feathered headdresses at the Hornbill Festival, Kisama, Nagaland",
+   "author": "Vikramjit Kakati",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Donvikro",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Hornbill_Festival,_Pix_by_Vikramjit_Kakati.jpg",
+   "file": "File:Hornbill Festival, Pix by Vikramjit Kakati.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-hornbill-festival-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 944,
+   "alt": "Naga dancers in a wide circle on the arena lawn at the Hornbill Festival, with packed stands behind",
+   "author": "JyotiPN",
+   "author_url": "https://commons.wikimedia.org/wiki/User:JyotiPN",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Folk_dance,_Hornbill_Festival.jpg",
+   "file": "File:Folk dance, Hornbill Festival.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-hornbill-festival-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "The Kisama heritage village and main arena of the Hornbill Festival among forested hills at dusk",
+   "author": "Aravind Manickam",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Aravind_Manickam",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kisama_main_arena_Hornbill_Festival_2019.jpg",
+   "file": "File:Kisama main arena Hornbill Festival 2019.jpg",
+   "fallback": false
+  }
+ ],
+ "_jadoh-or-northeast-food": [
+  {
+   "id": "x-jadoh-or-northeast-food-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1164,
+   "alt": "A bowl of jadoh, the Khasi red rice cooked with pork or mutton, Meghalaya",
+   "author": "Real Sovan",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Real_Sovan",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Jadoh_(Meghalaya.JPG",
+   "file": "File:Jadoh (Meghalaya.JPG",
+   "fallback": false
+  },
+  {
+   "id": "x-jadoh-or-northeast-food-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "An Assamese thali with rice in the centre ringed by small bowls of dal, curries and greens",
+   "author": "Subhashish Panigrahi",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Psubhashish",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Assamese_cuisine.JPG",
+   "file": "File:Assamese cuisine.JPG",
+   "fallback": false
+  },
+  {
+   "id": "x-jadoh-or-northeast-food-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1064,
+   "alt": "Assamese Bihu pitha rice cakes and laru sweets on a brass plate over a gamosa cloth",
+   "author": "ANSHUMANGOLAGHAT",
+   "author_url": "https://commons.wikimedia.org/wiki/User:ANSHUMANGOLAGHAT",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Assamese_Bihu_Pitha,_Cuisine_from_Assam.jpg",
+   "file": "File:Assamese Bihu Pitha, Cuisine from Assam.jpg",
+   "fallback": false
+  }
+ ],
+ "_khasi-culture": [
+  {
+   "id": "x-khasi-culture-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 896,
+   "alt": "Rows of Khasi dancers in traditional dress circling the ground at Shad Suk Mynsiem festival, Shillong",
+   "author": "Kotinwpb",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Kotinwpb",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Shad_Suk_Mynsiem_(the_dance_of_peaceful_hearts)_02.jpg",
+   "file": "File:Shad Suk Mynsiem (the dance of peaceful hearts) 02.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-khasi-culture-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Khasi women in silk, gold and silver crowns dancing at Shad Suk Mynsiem",
+   "author": "Wann Majaw",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Wann_Majaw",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Female_Khasi_dancing_in_Shad_Suk_Mynsiem.jpg",
+   "file": "File:Female Khasi dancing in Shad Suk Mynsiem.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-khasi-culture-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Khasi men in plumed turbans with yak-tail whisks dancing at the Nongkrem festival, Smit",
+   "author": "Debanutosh",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Debanutosh",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Nongkrem_Dance_of_Meghalaya_India.jpg",
+   "file": "File:Nongkrem Dance of Meghalaya India.jpg",
+   "fallback": false
+  }
+ ],
+ "_monsoon-clouds": [
+  {
+   "id": "x-monsoon-clouds-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Monsoon clouds spilling over a steep green ridge at Laitmawsiang near Sohra, Meghalaya",
+   "author": "Rajesh Dutta",
+   "author_url": "https://www.flickr.com/people/65090432@N02",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Meghalaya_Abode_of_the_Clouds_India_Nature_in_Laitmawsiang_Landscape.jpg",
+   "file": "File:Meghalaya Abode of the Clouds India Nature in Laitmawsiang Landscape.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-monsoon-clouds-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "Rain cloud filling the deep forested Mawkdok Dympep valley on the Sohra road",
+   "author": "BroKholi94",
+   "author_url": "https://commons.wikimedia.org/wiki/User:BroKholi94",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_Mawkdok_Dympep_Valley_View_Point,_Cherrapunji,_Meghalaya,_India_in_April_2017.jpg",
+   "file": "File:View from Mawkdok Dympep Valley View Point, Cherrapunji, Meghalaya, India in April 2017.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-monsoon-clouds-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Three children in red walking along a grassy ridge as clouds roll through the valleys near Sohra",
+   "author": "Rajesh Dutta",
+   "author_url": "https://www.flickr.com/people/65090432@N02",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Geography_Nature_of_Meghalaya_Laitmawsiang_Landscape_India.jpg",
+   "file": "File:Geography Nature of Meghalaya Laitmawsiang Landscape India.jpg",
+   "fallback": false
+  }
+ ],
+ "_one-horned-rhino": [
+  {
+   "id": "x-one-horned-rhino-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1143,
+   "alt": "A greater one-horned rhinoceros standing in a muddy wallow in Kaziranga National Park, Assam",
+   "author": "Tisha Mukherjee",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Tisha_Mukherjee",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Indian_rhinoceros_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_13.jpg",
+   "file": "File:Indian rhinoceros in Kaziranga National Park March 2025 by Tisha Mukherjee 13.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-one-horned-rhino-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1081,
+   "alt": "Close view of an Indian rhinoceros grazing, showing its single horn and armour-like skin folds",
+   "author": "Joydeep Chakraborty",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Joydeep",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:An_Indian_rhinoceros_(Rhinoceros_unicornis),_also_known_as_the_greater_one-horned_rhinoceros,_at_Kaziranga_National_Park,_Assam,_India_1.jpg",
+   "file": "File:An Indian rhinoceros (Rhinoceros unicornis), also known as the greater one-horned rhinoceros, at Kaziranga National Park, Assam, India 1.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-one-horned-rhino-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1060,
+   "alt": "Two one-horned rhinos grazing on open grassland in the Western (Bagori) range of Kaziranga",
+   "author": "Rangan Datta Wiki",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Rangan_Datta_Wiki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Rhinoceros_at_Western_zone_(Bogori),_Kaziranga_20.jpg",
+   "file": "File:Rhinoceros at Western zone (Bogori), Kaziranga 20.jpg",
+   "fallback": false
+  }
+ ],
+ "_red-panda-or-hoolock": [
+  {
+   "id": "x-red-panda-or-hoolock-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A wild male western hoolock gibbon with white brows sitting on a branch in West Garo Hills, Meghalaya",
+   "author": "Timothy A. Gonsalves",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Tagooty",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Male_Hoolock_Gibbon_West_Garo_Oct24_A7CR_03491.jpg",
+   "file": "File:Male Hoolock Gibbon West Garo Oct24 A7CR 03491.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-red-panda-or-hoolock-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1200,
+   "alt": "A black male western hoolock gibbon resting on a mossy branch in Hollongapar Gibbon Sanctuary, Assam",
+   "author": "Miraj Hussain",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Mirajh32",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Hoolock_Gibbon_male.jpg",
+   "file": "File:Hoolock Gibbon male.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-red-panda-or-hoolock-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A pale female western hoolock gibbon in the canopy of Hollongapar Gibbon Sanctuary near Jorhat",
+   "author": "Krunal Desai - Wildlife Photography",
+   "author_url": "https://commons.wikimedia.org/wiki/User:KrunalPDesai",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Western_hoolock_gibbon_-_Hollongapar_Gibbon_Sanctuary_2023-01-12_03.jpg",
+   "file": "File:Western hoolock gibbon - Hollongapar Gibbon Sanctuary 2023-01-12 03.jpg",
+   "fallback": false
+  }
+ ],
+ "_root-bridge": [
+  {
+   "id": "x-root-bridge-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 935,
+   "alt": "A living root bridge of woven rubber-tree roots arching over a clear forest stream in Meghalaya",
+   "author": "Joydeep Chakraborty",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Joydeep",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Living_root_bridge,_Maghalaya,_India1.jpg",
+   "file": "File:Living root bridge, Maghalaya, India1.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-root-bridge-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "The Double Decker living root bridge at Nongriat, two tiers of roots above a turquoise pool",
+   "author": "Arshiya Urveeja Bose",
+   "author_url": "https://www.flickr.com/people/45649858@N08",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Living_root_bridges,_Nongriat_village,_Meghalaya2.jpg",
+   "file": "File:Living root bridges, Nongriat village, Meghalaya2.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-root-bridge-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A long living root bridge spanning a rocky stream under a dense canopy near Mawlynnong",
+   "author": "Chaduvari",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Chaduvari",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Living_Root_Bridge,_Meghalaya,_India.jpg",
+   "file": "File:Living Root Bridge, Meghalaya, India.jpg",
+   "fallback": false
+  }
+ ],
+ "_sela-snow": [
+  {
+   "id": "x-sela-snow-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "Snow-covered slopes wrapping around dark Sela Lake in winter, Sela Pass, Arunachal Pradesh",
+   "author": "Navya6238",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Navya6238",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_lake_at_Sela_pass.jpg",
+   "file": "File:The lake at Sela pass.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-sela-snow-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 900,
+   "alt": "Snowy peaks and a half-frozen Sela Lake at 4,170 m under a clearing sky",
+   "author": "Abhishek Gaurav, from Tezpur university, Assam",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Tezpur_university",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:13,700_feet_Sela_Lake,in_west_Kameng,_Arunachal_Pradesh.jpg",
+   "file": "File:13,700 feet Sela Lake,in west Kameng, Arunachal Pradesh.jpg",
+   "fallback": false
+  }
+ ],
+ "_shillong-streets": [
+  {
+   "id": "x-shillong-streets-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1060,
+   "alt": "Evening crowds and lit shopfronts along a busy street in Police Bazaar, central Shillong",
+   "author": "Ashwin Kumar",
+   "author_url": "https://www.flickr.com/people/34501870@N00",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Police_Bazaar_(7158993307).jpg",
+   "file": "File:Police Bazaar (7158993307).jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-shillong-streets-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1067,
+   "alt": "A Khasi family in shawls walking past market stalls on a Shillong street",
+   "author": "Vijayakumarblathur",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Vijayakumarblathur",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Shillong_street.jpg",
+   "file": "File:Shillong street.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-shillong-streets-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 739,
+   "alt": "Sunset clouds over the rooftops and hills of Shillong city",
+   "author": "Narayanrai011",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Narayanrai011",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:City_Shillong.jpg",
+   "file": "File:City Shillong.jpg",
+   "fallback": false
+  }
+ ],
+ "_ziro-rice-fields": [
+  {
+   "id": "x-ziro-rice-fields-1",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1049,
+   "alt": "Young rice shoots in a flooded Apatani paddy field reflecting the sky, Ziro valley",
+   "author": "Ashwani Kumar",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Hadez248",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Paddy_and_Pisciculture_at_Ziro.jpg",
+   "file": "File:Paddy and Pisciculture at Ziro.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-ziro-rice-fields-2",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1055,
+   "alt": "A patchwork of green paddy fields stretching across Ziro valley under misty hills",
+   "author": "Arunachal2007",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Arunachal2007",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Ziro_Valley_View.jpg",
+   "file": "File:Ziro Valley View.jpg",
+   "fallback": false
+  },
+  {
+   "id": "x-ziro-rice-fields-3",
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "w": 1600,
+   "h": 1055,
+   "alt": "Pink flowers on the bunds of a flooded rice field under a blue sky in Ziro valley",
+   "author": "Arunachal2007",
+   "author_url": "https://commons.wikimedia.org/wiki/User:Arunachal2007",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Ziro_valley_of_Aruncahl_in_summer_season.jpg",
+   "file": "File:Ziro valley of Aruncahl in summer season.jpg",
+   "fallback": false
+  }
+ ]
+}

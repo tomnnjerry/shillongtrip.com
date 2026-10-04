@@ -1,0 +1,66 @@
+{
+  "slug": "dibru-saikhowa",
+  "name": "Dibru-Saikhowa National Park",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Tinsukia and Dibrugarh",
+  "types": ["wildlife", "national-park", "birding", "boat-safari"],
+  "tagline": "River islands, feral horses and dolphins by boat",
+  "altitude_m": 118,
+  "coords": [27.6667, 95.3833],
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "best_time": "November to April, when river channels are calm, water levels are low and migratory birds are present.",
+  "permit": {
+    "required": false,
+    "indians": "No state permit needed. Pay park entry and boat fees at Guijan Ghat or through your guide; carry photo ID",
+    "foreigners": "No RAP or PAP needed for Assam. Foreigners pay higher park fees; carry your passport"
+  },
+  "from_hub": { "hub": "Dibrugarh", "km": 60, "hours": "1.5" },
+  "ideal_stay": "A long day trip from Dibrugarh, or 1 to 2 nights near Guijan",
+  "meta_description": "Dibru-Saikhowa National Park: boat safaris from Guijan Ghat, feral horses, river dolphins, birds, season, how to reach from Dibrugarh and 9 FAQs.",
+  "quick_answer": "Dibru-Saikhowa National Park is a 350 sq km park of river islands, grassland and swamp forest between the Brahmaputra, Lohit and Dibru rivers, near Tinsukia. You explore it by motorboat from Guijan Ghat, about 60 km (1.5 hours) from Dibrugarh, looking for feral horses, Gangetic dolphins and winter birds. Go from November to April.",
+  "intro": [
+    "Dibru-Saikhowa is a park you see from the water. It lies on a large island hemmed in by the Brahmaputra and Lohit to the north and the Dibru river to the south, and the channels shift every year with the floods. Registered motorboats from Guijan Ghat, near Tinsukia, take you along the channels and land you on grassy river islands called chaporis.",
+    "The park was declared a reserved forest in 1890, became a biosphere reserve in 1997 and a national park in 1999. It has one of the largest salix swamp forests in the Northeast and is known among birders for species such as the black-breasted parrotbill, the Jerdon's babbler and the marsh babbler, plus big flocks of winter ducks. Gangetic river dolphins surface in the deeper channels.",
+    "The best-known residents are feral horses, descendants of army horses released after the Second World War, which graze on the northern chaporis. We treat a day here as a slow river trip rather than a safari. Some areas can be closed or affected by high water, so check current status before you travel."
+  ],
+  "highlights": [
+    { "name": "Boat safari from Guijan Ghat", "text": "Motorboat trips of 3 to 5 hours along the river channels, with stops on grassy islands. Hire a registered boat and a local guide at the ghat." },
+    { "name": "Feral horses", "text": "Wild-living horses descended from Second World War army horses, usually seen on chaporis in the northern part of the park." },
+    { "name": "Gangetic river dolphins", "text": "Endangered freshwater dolphins surface briefly in deeper channels. Watch the water quietly with the engine off." },
+    { "name": "Grassland birds", "text": "Specialists such as the black-breasted parrotbill and marsh babbler, and winter ducks, storks and raptors on the channels." },
+    { "name": "Maguri Motapung Beel", "text": "A wetland near Guijan, popular with birders for winter ducks and grassland species, often visited by country boat before or after the park." }
+  ],
+  "things_to_do": [
+    "Take a half-day or full-day motorboat safari from Guijan Ghat",
+    "Land on the chaporis to look for feral horses with your guide",
+    "Watch for Gangetic dolphins in the deeper channels",
+    "Go birding with a local guide for grassland specialists and winter ducks",
+    "Paddle a country boat on Maguri Motapung Beel at dawn",
+    "Stay a night in an eco-camp or homestay near Guijan for an early start",
+    "Combine the park with Dibrugarh's tea bungalows or a trip to Digboi"
+  ],
+  "how_to_reach": "Fly into Dibrugarh airport at Mohanbari, which has direct flights from Delhi, Kolkata and Guwahati. From Dibrugarh it is about 60 km to Guijan Ghat via Tinsukia, a drive of 1.5 to 2 hours. Tinsukia, about 10 to 13 km from Guijan, is the nearest large railway station, with trains from Guwahati and beyond; New Tinsukia Junction is also nearby. From the ghat, all travel into the park is by boat. Saikhowa Ghat, about 50 km from Tinsukia, is a less-used second entry point.",
+  "where_to_stay": "Most visitors stay in Dibrugarh, ideally in a heritage tea bungalow, and come for a long day. If you want to be on the river at dawn, a number of eco-camps, tented camps and homestays around Guijan and the Maguri beel offer simple rooms, local meals and help with boats and bird guides. Tinsukia town has basic business hotels. Facilities near the park are simple, with limited hot water and power, but the early starts are worth it for birders.",
+  "tips": [
+    "Start early; mornings are calmer on the water and better for birds and dolphins",
+    "Hire a registered boat and a local guide at Guijan Ghat, and agree the route and duration first",
+    "Carry life jackets or check that the boat has them for every passenger",
+    "Pack sun protection, water and snacks for a long day on the river",
+    "Channels change after each monsoon and some areas may be off-limits; check current status before you travel",
+    "Wear shoes you can get wet when landing on sandbanks"
+  ],
+  "faqs": [
+    { "q": "How do I visit Dibru-Saikhowa National Park?", "a": "Drive to Guijan Ghat, about 60 km from Dibrugarh via Tinsukia, and hire a registered motorboat with a local guide. Boat safaris run along the river channels and stop on grassy islands to look for feral horses and birds. Trips usually last 3 to 5 hours. Start early for the calmest water." },
+    { "q": "Are there really wild horses in Dibru-Saikhowa?", "a": "Yes. The park has a population of feral horses, descendants of army horses released after the Second World War. They graze on the grassy river islands, called chaporis, in the northern part of the park. Your boat guide will know where they have been seen recently, but sightings are not guaranteed." },
+    { "q": "What is the best time to visit Dibru-Saikhowa?", "a": "November to April is best, when water levels are low, the channels are calm and migratory birds are present. December to February is peak birding season. The monsoon from May to September brings high water and flooding, and boat trips may be limited or stopped. Check current status before you travel." },
+    { "q": "Can I see Gangetic dolphins in Dibru-Saikhowa?", "a": "Often, yes. Endangered Gangetic river dolphins live in the deeper channels of the Brahmaputra and Lohit around the park. They surface briefly to breathe, so you need patience. Ask your boatman to cut the engine in likely spots and watch the water quietly. Mornings in the dry season give the best chances." },
+    { "q": "How far is Dibru-Saikhowa from Dibrugarh?", "a": "Guijan Ghat, the main entry point, is about 60 km from Dibrugarh, a drive of 1.5 to 2 hours via Tinsukia. Tinsukia town is 10 to 13 km from the ghat. Many travellers visit on a long day trip from a Dibrugarh tea bungalow, leaving around 6 am." },
+    { "q": "Is there a jeep safari in Dibru-Saikhowa?", "a": "No. Dibru-Saikhowa is explored mainly by boat, because the park is made up of river islands, grassland and swamp forest. Guides may lead short walks on the islands. There are no regular jeep safaris like those at Kaziranga or Manas." },
+    { "q": "What birds can I see in Dibru-Saikhowa?", "a": "The park is known for grassland specialists such as the black-breasted parrotbill, marsh babbler and Jerdon's babbler, and for white-winged wood duck in forest pools. Winter brings ducks, geese, storks, ospreys and other raptors. A local bird guide makes a big difference to what you find." },
+    { "q": "Where can I stay near Dibru-Saikhowa?", "a": "Many visitors stay in Dibrugarh and drive in. Near the park, eco-camps, tented camps and homestays around Guijan and Maguri Motapung Beel offer simple rooms, local meals and help with boats and guides. Tinsukia town has basic hotels. Staying nearby makes a dawn boat trip much easier." },
+    { "q": "Can I combine Dibru-Saikhowa with other places?", "a": "Yes. It pairs well with Dibrugarh's tea bungalows, the Digboi oil museum, the Tai Phake village at Namphake and Sivasagar's Ahom monuments. With an Arunachal permit, you can continue east towards Namdapha or across the Bogibeel bridge to Pasighat and the Siang valley." }
+  ],
+  "nearby": ["dibrugarh", "namdapha", "roing-mayodia", "sivasagar"],
+  "image_query": "Dibru-Saikhowa National Park feral horses"
+}

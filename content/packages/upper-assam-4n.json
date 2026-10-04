@@ -1,0 +1,120 @@
+{
+  "slug": "upper-assam-4n",
+  "title": "Dibrugarh and Dibru-Saikhowa",
+  "nights": 4,
+  "themes": ["wildlife", "tea", "offbeat"],
+  "states": ["assam"],
+  "places": ["dibrugarh", "dibru-saikhowa"],
+  "hero": "dibru-saikhowa",
+  "price_from_inr": 22000,
+  "best_months": [11, 12, 1, 2, 3],
+  "difficulty": "easy",
+  "max_altitude_m": 150,
+  "start": "Dibrugarh Airport (DIB)",
+  "end": "Dibrugarh Airport (DIB)",
+  "meta_description": "Dibrugarh and Dibru-Saikhowa tour, 4 nights / 5 days: river boat safaris, feral horses, Maguri Beel birding, Digboi and a tea bungalow night.",
+  "quick_answer": "This 4 nights / 5 days trip explores Assam's far east from Dibrugarh: two nights at Guijan for boat safaris into Dibru-Saikhowa National Park, feral horses and Maguri-Motapung Beel's winter birds, then Digboi's oil heritage and a final night in a tea bungalow. From ₹22,000 per person, twin sharing, November to March.",
+  "overview": [
+    "Dibru-Saikhowa is unlike Assam's other parks. It is a maze of river channels, sandbars and flooded forest where the Brahmaputra, Lohit and Dibru meet, and there are no jeep or elephant safaris. You explore by country boat from Guijan Ghat near Tinsukia, looking for the herd of feral horses descended from army horses, Gangetic river dolphins, and birds such as the white-winged wood duck and the black-breasted parrotbill. Maguri-Motapung Beel next door is one of the best winter wetlands in the Northeast.",
+    "We base you for two nights at Guijan, a 1.5 hour drive from Dibrugarh, in a simple eco camp that birders have used for years. The fourth day visits Digboi, where oil was struck in the 1880s and a refinery still runs, and ends in Dibrugarh at a heritage chang bungalow among tea bushes. It is a short, quiet trip that suits birders, photographers and travellers who have already seen Kaziranga."
+  ],
+  "highlights": [
+    "Boat safaris through the river channels of Dibru-Saikhowa",
+    "The feral horses of Dibru-Saikhowa on the grassland chaporis",
+    "Winter birding on Maguri-Motapung Beel by country boat",
+    "Gangetic river dolphins surfacing in the Brahmaputra channels",
+    "Digboi's oil museum and the Second World War cemetery",
+    "A tea bungalow night in Dibrugarh with a garden walk"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Dibrugarh and the Brahmaputra waterfront",
+      "stay": "Dibrugarh",
+      "altitude_m": 108,
+      "drive": "Airport to town 15 km · 30 min",
+      "text": "We meet you at Dibrugarh Airport at Mohanbari and drive into town. After lunch, a short drive to see the Bogibeel Bridge, which at 4.94 km is the longest rail and road bridge in India, spanning the Brahmaputra to the north bank. Late afternoon walk along the town's river embankment for sunset, when fishing boats come in and the far bank is barely visible. Dinner in town; try Assamese pork with bamboo shoot or fish curry with elephant apple, both local specialities. Early night before the Guijan transfer.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Dibrugarh to Guijan and Maguri-Motapung Beel",
+      "stay": "Guijan",
+      "altitude_m": 116,
+      "drive": "60 km · 1.5 hrs",
+      "text": "After breakfast we drive east through Tinsukia to Guijan, on the southern edge of Dibru-Saikhowa, and check into the eco camp. In the afternoon take a country boat on Maguri-Motapung Beel, about 3.5 km away. From November to March the beel holds thousands of ducks, including ferruginous pochard and bar-headed geese, as well as grassland birds such as the swamp francolin and, with a good guide, the rare black-breasted parrotbill. The boat ride takes about two hours. Return to camp for a simple Assamese dinner around a fire.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Full day by boat in Dibru-Saikhowa National Park",
+      "stay": "Guijan",
+      "altitude_m": 116,
+      "drive": "Boat · 5–6 hrs on the river",
+      "text": "A full day on the water. From Guijan Ghat a motorboat takes you through the Dibru and Brahmaputra channels, stopping on sandbars and chaporis for short walks with a forest guard. The main aim is the feral horses, a few dozen animals descended from horses abandoned after the Second World War, usually seen on grassland in the north of the park. Gangetic dolphins surface in deeper channels, and birds include pied harrier, river lapwing and, rarely, white-winged wood duck. Packed lunch on the boat. Timings depend on water level and permits.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Digboi oil heritage and back to a Dibrugarh tea bungalow",
+      "stay": "Dibrugarh",
+      "altitude_m": 108,
+      "drive": "140 km · 4 hrs with stops",
+      "text": "Drive about 40 km to Digboi, where Assam's oil industry began and a refinery from 1901 still operates. The Digboi Centenary Museum displays drilling rigs and equipment, and nearby is the Digboi War Cemetery, holding graves from the Burma campaign of the Second World War. After lunch we return west towards Dibrugarh, passing through tea gardens, and check into a heritage chang bungalow. In the late afternoon a garden walk with the estate staff shows plucking and, from March to November, the factory's evening intake of leaf. Dinner at the bungalow.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Garden morning and departure",
+      "stay": "Departure",
+      "altitude_m": 108,
+      "drive": "Bungalow to Dibrugarh Airport 15 km · 30 min",
+      "text": "Wake to tea on the veranda. If your flight allows, take an early walk while the pluckers start work at around 7 am, when the light across the bushes and shade trees is at its best. Breakfast, then transfer to Dibrugarh Airport, about 30 minutes away. For travellers continuing east, Namdapha and Roing in Arunachal Pradesh are within reach from here, and for those heading west, Sivasagar and Jorhat are two to three hours away. We can extend the trip in either direction.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "4 nights' accommodation: 2 in Dibrugarh, 2 at Guijan, twin sharing",
+    "All meals at Guijan; breakfast and dinner in Dibrugarh",
+    "Private air-conditioned vehicle for all road transfers",
+    "Country boat on Maguri-Motapung Beel",
+    "Full-day motorboat in Dibru-Saikhowa with park entry and forest guard",
+    "Local birding guide at Guijan",
+    "Digboi Centenary Museum entry",
+    "Tea garden walk at the Dibrugarh bungalow",
+    "Driver allowance, fuel, tolls and parking",
+    "Airport pickup and drop at Dibrugarh"
+  ],
+  "exclusions": [
+    "Flights to and from Dibrugarh",
+    "Camera fees in the national park",
+    "Lunch on Days 1 and 4, and drinks",
+    "Specialist bird guide for dedicated birding groups, on request",
+    "Tips for boatmen, guards and drivers",
+    "Travel insurance",
+    "Personal expenses"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Dibrugarh: Chowkidinghee Heritage Chang Bungalow; Guijan: Banashree Eco Camp, or similar" },
+    { "tier": "Premium", "options": "Dibrugarh: Radisson Blu Hotel Dibrugarh and Mancotta Heritage Chang Bungalow; Guijan: Banashree Eco Camp best cottage, or similar" },
+    { "tier": "Luxury", "options": "Dibrugarh: Mancotta Heritage Chang Bungalow for both nights; Guijan: Banashree Eco Camp, which is the best-placed stay at the park, or similar" }
+  ],
+  "good_to_know": [
+    "Dibru-Saikhowa has no jeep or elephant safaris. All visits are by boat, and routes change each season with the river. Boat trips may be restricted in high water, so check current status before you travel.",
+    "The best birding is November to March, when migratory ducks are on Maguri-Motapung Beel. From May to September much of the park floods.",
+    "Stays at Guijan are simple, with basic bathrooms and limited hot water. The location is the reason to stay there.",
+    "Carry sun protection and a warm layer for the boat; winter mornings on the river are cold and damp, often foggy until 9 am.",
+    "Foreign nationals need no special permit for this part of Assam, but carry a passport for hotel and park registration."
+  ],
+  "faqs": [
+    { "q": "What is special about Dibru-Saikhowa National Park?", "a": "It is a river-island park at the meeting of the Brahmaputra, Lohit and Dibru, explored only by boat. It is famous for its feral horses, Gangetic river dolphins and wetland birds, including the endangered white-winged wood duck. It feels wild and uncrowded compared with Kaziranga." },
+    { "q": "Where did the feral horses of Dibru-Saikhowa come from?", "a": "The horses are believed to descend from animals abandoned by the army during and after the Second World War, when this area was a supply route for the Burma front. A few dozen now live wild on the grassland chaporis in the northern part of the park and are seen by boat." },
+    { "q": "How do you reach Dibru-Saikhowa from Dibrugarh?", "a": "Drive about 60 km east through Tinsukia to Guijan, around one and a half hours. Guijan Ghat is the main entry point for boats into the park. Tinsukia railway station is 10 km from Guijan and Dibrugarh Airport is the nearest airport." },
+    { "q": "When is the best time to visit Dibru-Saikhowa?", "a": "November to March. Water levels are lower, boat routes to the horses are open, and migratory birds crowd Maguri-Motapung Beel. April is still fine. From May to September floods cover much of the park and trips are often suspended. Check current status before you travel." },
+    { "q": "How much does the Dibrugarh and Dibru-Saikhowa trip cost?", "a": "The indicative price starts at ₹22,000 per person, twin sharing, with an eco camp at Guijan, a tea bungalow in Dibrugarh, most meals, all boat trips and a private car. Staying at Mancotta for both Dibrugarh nights raises the price. Flights and camera fees are extra." },
+    { "q": "Is this trip good for birdwatchers?", "a": "Very. Maguri-Motapung Beel and Dibru-Saikhowa together hold several hundred recorded species, including the black-breasted parrotbill, marsh babbler, swamp francolin and white-winged wood duck. Local guides at Guijan know the regular spots. Serious birders may want an extra night for a second boat day." },
+    { "q": "Can we combine this trip with a tea garden stay?", "a": "It already includes one tea bungalow night in Dibrugarh with a garden walk. To make tea the main theme, add two nights near Jorhat at Thengal Manor or Banyan Grove, which our Assam Tea Bungalow Stay covers. Factories work from about late March to November." },
+    { "q": "Is Digboi worth a visit?", "a": "Yes, for a half day. Digboi is where oil was struck in the 19th century, and its refinery from 1901 is among the oldest still operating anywhere. The Centenary Museum shows the history with old rigs, and the Second World War cemetery nearby is quiet and well kept." },
+    { "q": "Can we continue to Arunachal Pradesh from here?", "a": "Yes. Dibrugarh is the gateway to eastern Arunachal. Namdapha, Roing and Mayodia, and Pasighat on the road to Mechuka are all reachable by road. Indian citizens need an eILP and foreign nationals a Protected Area Permit, which we can arrange. Check current status before you travel." }
+  ]
+}

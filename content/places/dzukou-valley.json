@@ -1,0 +1,66 @@
+{
+  "slug": "dzukou-valley",
+  "name": "Dzukou Valley",
+  "state": "northeast",
+  "state_name": "Nagaland",
+  "district": "Kohima",
+  "types": ["trek", "valley", "camping", "offbeat"],
+  "tagline": "A high grassland valley on the Nagaland-Manipur border",
+  "altitude_m": 2452,
+  "coords": [25.5533, 94.0669],
+  "best_months": [10, 11, 12, 1, 2, 3, 6, 7],
+  "best_time": "October to March for clear skies; June and July for green slopes and the Dzukou lily, with rain and leeches.",
+  "permit": {
+    "required": true,
+    "indians": "Nagaland Inner Line Permit required (INR 200 for 30 days, online only at ilp.nagaland.gov.in). A small valley entry fee is collected at the trailhead or rest house. Check current status before you travel",
+    "foreigners": "Protected Area Permit required for Nagaland again since 17 December 2024, plus a Nagaland ILP (INR 500 for 30 days) and registration within 24 hours of arrival. Check current status before you travel"
+  },
+  "from_hub": { "hub": "Dimapur", "km": 100, "hours": "3.5" },
+  "ideal_stay": "1 night at the Dzukou rest house, plus 1 in Kohima",
+  "meta_description": "Dzukou Valley trek, Nagaland: Viswema and Jakhama routes, distances, rest house, entry fee, Dzukou lily season, best time and 9 answered FAQs.",
+  "quick_answer": "Dzukou Valley is a high grassland valley at about 2,450 m on the Nagaland-Manipur border, around 25 km south of Kohima. Trek in from Viswema (gentler, about 8 km from the road head) or Jakhama (steeper), 3 to 5 hours one way. Stay at the basic rest house. You need a Nagaland ILP.",
+  "intro": [
+    "The first view of Dzukou comes suddenly. After a steep climb through forest and a long walk along a ridge, the trail turns a corner and you look down on a wide valley of rounded green hills, dwarf bamboo and winding streams, with no roads or buildings except the rest house on a slope. It sits at about 2,450 m on the border between Nagaland and Manipur.",
+    "Most trekkers start from the Angami villages of Viswema or Jakhama, about 25 km south of Kohima on the Imphal road. The Viswema route begins with a drive up a rough road to a trailhead, then a steep climb of about 1.5 hours and a gentler ridge walk; the Jakhama route is shorter but climbs hard through forest. Many people go up one way and down the other.",
+    "The valley is known for the Dzukou lily, a pink lily that blooms in early summer, and for its winter sunrises. Forest fires have hit the area several times, including in early 2026, and the valley can be closed at short notice. Check current status with the Southern Angami Youth Organisation or your guide before you travel."
+  ],
+  "highlights": [
+    { "name": "Viswema route", "text": "A drive to the road head, a steep 1.5 hour climb, then a ridge walk to the valley rim. About 8 km on foot one way and 3 to 4 hours for average walkers." },
+    { "name": "Jakhama route", "text": "A shorter but steeper forest trail straight up from Jakhama, 3 to 4 hours of hard climbing. Better as a descent for strong knees." },
+    { "name": "The valley floor", "text": "Rounded hills of dwarf bamboo cut by clear streams, best walked in the morning after a night at the rest house. Allow 2 to 3 hours to explore." },
+    { "name": "Dzukou lily", "text": "A pink lily that blooms in early summer, roughly June, on the valley slopes. Do not pick it; it is protected." },
+    { "name": "Sunrise from the rest house", "text": "On clear winter mornings, mist fills the valley and the first light catches the ridge tops." }
+  ],
+  "things_to_do": [
+    "Trek in from Viswema and out via Jakhama for a loop",
+    "Spend a night at the Dzukou rest house or in a tent nearby",
+    "Walk down to the valley floor and follow the streams",
+    "Watch sunrise from the slope above the rest house",
+    "Look for the Dzukou lily in early summer without picking it",
+    "Hire a local Angami guide from Viswema or Jakhama",
+    "Combine the trek with Khonoma and Kohima"
+  ],
+  "how_to_reach": "Fly or take a train to Dimapur, then drive 74 km to Kohima, about 2.5 to 3 hours. From Kohima, Viswema and Jakhama are about 20 to 25 km south on the road towards Imphal, around 45 minutes to an hour. From Viswema, a rough road climbs to the trailhead; a local taxi can take you up, cutting the walk. From Jakhama the trail starts close to the village. Start by 7 am to reach the rest house in daylight.",
+  "where_to_stay": "The main place to stay in the valley is the rest house run by the local Southern Angami community, with dormitory beds, a few private rooms and tent space. It is basic: bring a sleeping bag, torch and warm layers, and pay a small fee in cash. Simple meals such as rice, dal and Maggi may be available but carry food. Before and after the trek, stay in Kohima or in homestays in Viswema and Jakhama, which save a morning's drive.",
+  "tips": [
+    "Carry your Nagaland ILP; checks happen on the road and at the trailhead",
+    "Start early, by 7 am, to finish the climb before afternoon cloud and rain",
+    "Take a sleeping bag, torch, rain jacket and warm layers for the rest house nights, which can drop below freezing in winter",
+    "Carry cash for the entry fee, rest house and any food",
+    "Do not light fires in the valley and carry all your rubbish out",
+    "Fires or rules can close the valley at short notice; check current status before you travel"
+  ],
+  "faqs": [
+    { "q": "How long is the Dzukou Valley trek?", "a": "From the Viswema road head, the walk to the valley rim is about 8 km one way and takes 3 to 4 hours for most people, starting with a steep 1.5 hour climb. The Jakhama route is shorter but steeper, also 3 to 4 hours of hard walking. Round trips are possible in a day, but staying a night is better." },
+    { "q": "Which is the better route to Dzukou: Viswema or Jakhama?", "a": "The Viswema route is longer but gentler after the first steep climb, with a long ridge walk and views. The Jakhama route is shorter and much steeper through forest. Many trekkers go up from Viswema and come down to Jakhama, arranging a taxi to meet them at the bottom." },
+    { "q": "Do I need a permit for the Dzukou Valley trek?", "a": "Yes. Indian visitors need a Nagaland Inner Line Permit, available online, and a small valley entry fee is collected locally. Foreign nationals need a Protected Area Permit for Nagaland and must register within 24 hours of arrival. Carry copies of your permits. Check current status before you travel." },
+    { "q": "What is the best time for the Dzukou Valley trek?", "a": "October to March brings clear skies, crisp mornings and dry trails, though winter nights at the rest house are freezing. June and July bring green slopes and the Dzukou lily, but also rain, slippery trails and leeches. April and May can be hazy. Check current status for closures after fires." },
+    { "q": "Where do you stay in Dzukou Valley?", "a": "The main option is the rest house run by the local Southern Angami community, with dormitories, a few private rooms and tent space, all basic and paid in cash. Bring a sleeping bag, torch and warm clothes. In peak season, especially weekends, arrive early to get a bed." },
+    { "q": "Is the Dzukou Valley trek difficult?", "a": "It is moderate. The first 1 to 1.5 hours on either route is a steep climb, and the Jakhama route stays steep. After that, the Viswema ridge trail is fairly level. Anyone with reasonable fitness can do it with rest stops. Good shoes with grip help on wet or muddy stretches." },
+    { "q": "When does the Dzukou lily bloom?", "a": "The Dzukou lily, a pink lily, blooms in early summer, roughly around June, on the slopes of the valley. The exact timing varies with the weather each year. It is protected, so photograph it but do not pick it. Monsoon trekking also means rain and leeches." },
+    { "q": "Has Dzukou Valley been affected by forest fires?", "a": "Yes. Major fires have burned parts of the valley several times, including in 2006, in late 2020 and early 2021, and in January 2026, when trekkers were evacuated and the Indian Air Force helped fight the fire. The valley can be closed after fires, so check current status before you travel." },
+    { "q": "How far is Dzukou Valley from Kohima?", "a": "Viswema and Jakhama, the starting villages, are about 20 to 25 km south of Kohima on the road to Imphal, around 45 minutes to an hour by car. From Viswema a rough road leads further up to the trailhead. From Dimapur, allow about 3.5 hours to reach the start of the trek." }
+  ],
+  "nearby": ["kohima", "khonoma", "imphal"],
+  "image_query": "Dzukou Valley Nagaland"
+}

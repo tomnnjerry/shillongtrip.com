@@ -1,0 +1,12 @@
+{
+  "note": "Long-term monthly averages. Shillong, Sohra, Guwahati, Tezpur, Kohima: IMD 1991–2020 normals; Ziro: IMD; Tawang: modelled, indicative only.",
+  "stations": {
+    "sohra": { "name": "Sohra (Cherrapunji)", "rain_mm": [16, 54, 364, 792, 1297, 2608, 2665, 1769, 1090, 461, 49, 10], "temp": ["7–17°", "9–19°", "12–21°", "14–23°", "16–23°", "18–23°", "18–23°", "18–24°", "18–24°", "15–24°", "11–22°", "8–19°"], "source": "https://en.wikipedia.org/wiki/Sohra", "source_name": "IMD 1991–2020 normals" },
+    "shillong": { "name": "Shillong", "rain_mm": [13, 15, 43, 131, 245, 424, 402, 328, 270, 197, 25, 7], "temp": ["6–15°", "8–18°", "11–21°", "14–23°", "16–24°", "17–24°", "18–24°", "18–24°", "17–24°", "14–22°", "10–19°", "7–16°"], "source": "https://en.wikipedia.org/wiki/Shillong", "source_name": "IMD 1991–2020 normals" },
+    "guwahati": { "name": "Guwahati", "rain_mm": [12, 18, 53, 182, 253, 314, 283, 264, 185, 118, 10, 5], "temp": ["11–24°", "13–27°", "17–31°", "20–31°", "23–32°", "25–33°", "26–33°", "26–33°", "25–33°", "22–31°", "17–29°", "13–25°"], "source": "https://en.wikipedia.org/wiki/Guwahati", "source_name": "IMD 1991–2020 normals" },
+    "kaziranga": { "name": "Kaziranga area (Tezpur)", "rain_mm": [12, 22, 50, 167, 268, 316, 289, 282, 210, 104, 22, 7], "temp": ["11–24°", "14–25°", "17–29°", "20–30°", "22–31°", "25–32°", "25–32°", "26–32°", "25–32°", "22–31°", "17–28°", "13–25°"], "source": "https://en.wikipedia.org/wiki/Tezpur", "source_name": "IMD 1991–2020 normals (Tezpur)" },
+    "tawang": { "name": "Tawang (indicative)", "rain_mm": [56, 102, 195, 249, 231, 526, 643, 466, 305, 121, 45, 41], "temp": ["−9–4°", "−7–4°", "−3–6°", "0–10°", "3–13°", "7–15°", "9–16°", "9–16°", "7–15°", "2–12°", "−2–8°", "−5–5°"], "source": "https://en.wikipedia.org/wiki/Tawang", "source_name": "modelled climate data" },
+    "ziro": { "name": "Ziro", "rain_mm": [89, 106, 79, 169, 200, 293, 249, 232, 200, 64, 51, 14], "temp": ["0–13°", "2–13°", "5–17°", "8–19°", "12–21°", "15–23°", "16–25°", "15–25°", "14–24°", "10–23°", "4–18°", "0–16°"], "source": "https://en.wikipedia.org/wiki/Ziro", "source_name": "IMD normals" },
+    "kohima": { "name": "Kohima", "rain_mm": [12, 29, 49, 100, 189, 248, 335, 344, 268, 125, 23, 6], "temp": ["5–16°", "7–19°", "11–24°", "13–25°", "15–25°", "17–26°", "17–26°", "17–26°", "16–26°", "14–24°", "9–22°", "5–17°"], "source": "https://en.wikipedia.org/wiki/Kohima", "source_name": "IMD 1991–2020 normals" }
+  }
+}

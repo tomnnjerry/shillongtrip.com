@@ -1,0 +1,101 @@
+{
+  "note": "Rules change; we re-check every booking with the issuing office. A planning guide, not a legal statement.",
+  "areas": [
+    {
+      "id": "meghalaya",
+      "name": "Meghalaya (Shillong, Sohra, Dawki)",
+      "indian": {
+        "status": "none",
+        "text": "No permit. Your hotel or homestay registers you on the state tourism app at check-in (since June 2025). Self-drive rental cars for tourists are not allowed, and registered guides are required for treks in East Khasi Hills, including Nongriat."
+      },
+      "foreign": {
+        "status": "none",
+        "text": "No special permit. Hotels register foreign guests (Form C). Registered guides are required for treks in East Khasi Hills."
+      }
+    },
+    {
+      "id": "assam",
+      "name": "Assam (Guwahati, Kaziranga, Majuli)",
+      "indian": {
+        "status": "none",
+        "text": "No permit. National parks charge entry, camera and safari fees."
+      },
+      "foreign": {
+        "status": "none",
+        "text": "No special permit. Hotels register foreign guests; parks charge a higher foreigner entry fee."
+      }
+    },
+    {
+      "id": "arunachal",
+      "name": "Arunachal Pradesh (Tawang, Ziro, Mechuka)",
+      "indian": {
+        "status": "permit",
+        "text": "Inner Line Permit required. Apply online at eilp.arunachal.gov.in; the 2026 Temporary ILP costs about ₹300–500 (pay what the portal shows), covers the whole state for 15 days and is checked at gates such as Bhalukpong and Banderdewa."
+      },
+      "foreign": {
+        "status": "permit",
+        "text": "Protected Area Permit through an approved tour operator, usually for groups of two or more (solo travellers reportedly limited to Tawang, Bomdila and Ziro). Royalty reported at USD 30–50; valid 30 days."
+      }
+    },
+    {
+      "id": "bumla",
+      "name": "Bum La Pass and Madhuri Lake (Tawang)",
+      "indian": {
+        "status": "permit",
+        "text": "Separate pass from the Deputy Commissioner's office in Tawang, stamped by the Army. Local SUVs only; runs only in clear weather and closes after snow."
+      },
+      "foreign": {
+        "status": "no",
+        "text": "Not open to foreign nationals."
+      }
+    },
+    {
+      "id": "nagaland",
+      "name": "Nagaland (Kohima, Dzukou, Hornbill)",
+      "indian": {
+        "status": "permit",
+        "text": "Inner Line Permit, online only: about ₹200 for 30 days. Carry a printout or the e-ILP on your phone."
+      },
+      "foreign": {
+        "status": "permit",
+        "text": "Protected Area Permit required again since 17 December 2024, arranged through an approved operator."
+      }
+    },
+    {
+      "id": "mizoram",
+      "name": "Mizoram (Aizawl)",
+      "indian": {
+        "status": "permit",
+        "text": "Inner Line Permit: about ₹120 for 15 days, extendable by 15. Apply online or at the Lengpui airport counter."
+      },
+      "foreign": {
+        "status": "permit",
+        "text": "Protected Area Permit required again since December 2024, and police registration within 24 hours of arrival."
+      }
+    },
+    {
+      "id": "manipur",
+      "name": "Manipur (Imphal, Loktak)",
+      "indian": {
+        "status": "partial",
+        "text": "Inner Line Permit required (30 days). Travel advisories apply in parts of the state; we check current conditions before planning any Manipur trip."
+      },
+      "foreign": {
+        "status": "partial",
+        "text": "Protected Area Permit required again since December 2024. Several governments advise against non-essential travel; check the current advisory."
+      }
+    },
+    {
+      "id": "tripura",
+      "name": "Tripura (Agartala, Unakoti)",
+      "indian": {
+        "status": "none",
+        "text": "No permit."
+      },
+      "foreign": {
+        "status": "none",
+        "text": "No special permit. Hotels register foreign guests."
+      }
+    }
+  ]
+}

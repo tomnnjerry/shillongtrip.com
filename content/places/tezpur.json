@@ -1,0 +1,66 @@
+{
+  "slug": "tezpur",
+  "name": "Tezpur",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Sonitpur",
+  "types": ["city", "heritage", "base", "river"],
+  "tagline": "A riverside town of legends and ruins on the road to Tawang",
+  "altitude_m": 80,
+  "coords": [26.6528, 92.7926],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for mild weather and clear views of the Brahmaputra; summers are hot and very wet.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed for Assam. You need an Arunachal ILP before crossing into Arunachal at Bhalukpong",
+    "foreigners": "No RAP or PAP needed for Assam. Onward travel to Tawang or Bomdila needs an Arunachal PAP"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 175, "hours": "4" },
+  "ideal_stay": "1 night on the way to Tawang or Nameri",
+  "meta_description": "Tezpur, Assam: Agnigarh, Da Parbatia, Cole Park, Kolia Bhomora bridge, the road to Tawang and Nameri, where to stay and 9 answered FAQs.",
+  "quick_answer": "Tezpur is a riverside town on the north bank of the Brahmaputra, about 175 km (4 hours) from Guwahati. It is the usual overnight stop before driving to Bhalukpong, Dirang and Tawang, and the base for Nameri, 35 km north. See Agnigarh hill, the 6th-century Da Parbatia doorframe and Cole Park in half a day.",
+  "intro": [
+    "Tezpur is where the road to Tawang really begins. Most people arrive from Guwahati in the afternoon, sleep here and leave early the next morning for Bhalukpong and the climb into Arunachal. It is worth arriving in time for a walk, because Tezpur is one of Assam's oldest towns and has more history than its quiet streets suggest.",
+    "Its name is often translated as city of blood, after the legend of a battle between Krishna and the demon king Banasura over the love of Banasura's daughter Usha for Krishna's grandson Aniruddha. Agnigarh, the hillock on the riverbank where Usha was said to be kept behind a ring of fire, now has a viewpoint and sculptures telling the story. Nearby, the Da Parbatia doorframe, dated to about the 6th century, is among the oldest surviving pieces of sculpture in Assam.",
+    "The 3 km Kolia Bhomora Setu crosses the Brahmaputra just south of town, linking Tezpur to Kaziranga, about 75 km away. North of town the land rises into the foothills towards Nameri and Bhalukpong. We like Tezpur as a calm break between the heavy driving days of an Arunachal trip."
+  ],
+  "highlights": [
+    { "name": "Agnigarh", "text": "A small hill on the Brahmaputra with a viewpoint, sculptures of the Usha-Aniruddha legend and wide river views. Best at sunset." },
+    { "name": "Da Parbatia", "text": "A carved stone doorframe from about the 6th century, found among later Ahom brick ruins, about 5 km west of town. Among the oldest sculpture in Assam." },
+    { "name": "Cole Park (Chitralekha Udyan)", "text": "A park established in 1906 around a lake, with ancient stone pillars and carvings displayed in the gardens, and boating." },
+    { "name": "Mahabhairab Temple", "text": "An old Shiva temple on a hillock in the town, rebuilt over the centuries, busy during Maha Shivaratri." },
+    { "name": "Kolia Bhomora Setu", "text": "A road bridge of just over 3 km across the Brahmaputra, with views of the river on the way to Kaziranga." }
+  ],
+  "things_to_do": [
+    "Walk up Agnigarh hill for the sunset over the Brahmaputra",
+    "See the Da Parbatia doorframe and the ruins around it",
+    "Stroll around Cole Park and its lake and stone sculptures",
+    "Visit Mahabhairab and Bhairavi temples in town",
+    "Drive 35 km north to Nameri for a forest walk or Jia Bhoroli rafting",
+    "Stock up on cash, medicines and snacks before driving into Arunachal",
+    "Try Assamese fish curries and pithas at a local restaurant"
+  ],
+  "how_to_reach": "Tezpur is about 175 km north-east of Guwahati via the Saraighat bridge and NH15, roughly 4 hours by car, and about 75 km from Kaziranga's Kohora across the Kolia Bhomora bridge. Tezpur's small airport at Salonibari has limited flights; most travellers fly into Guwahati and drive. Tezpur railway station has a few trains from Guwahati and Rangapara North. Buses run from Guwahati's ISBT. Bhalukpong, the Arunachal border post on the road to Tawang, is about 60 km north.",
+  "where_to_stay": "Tezpur has mid-range business hotels in and around the town centre, and a state tourism lodge, which suit one night before an early start to Tawang. Hotels near the Bhalukpong road on the northern side of town save a little time in the morning. If you prefer the countryside, spend the night at Nameri's Potasali camps, 35 km north, or at Bhalukpong across the border in Arunachal, though you then need your ILP. Book ahead in October and around Durga Puja.",
+  "tips": [
+    "Leave Tezpur by 6 or 7 am for Tawang or Dirang; the mountain roads are slow",
+    "Carry printed and digital copies of your Arunachal ILP or PAP before reaching Bhalukpong",
+    "Withdraw cash in Tezpur; ATMs become fewer and less reliable beyond the border",
+    "Visit Agnigarh late in the afternoon when the light is softer",
+    "Buy car-sickness tablets and snacks here for the hill drive",
+    "Road conditions to Tawang change with weather and repairs; check current status before you travel"
+  ],
+  "faqs": [
+    { "q": "What is Tezpur famous for?", "a": "Tezpur is known for the legend of Usha and Aniruddha and the battle between Krishna and Banasura, remembered at Agnigarh hill. It also has the 6th-century Da Parbatia doorframe, Cole Park and the Kolia Bhomora bridge. For travellers it is best known as the overnight stop before driving into Arunachal towards Tawang." },
+    { "q": "How far is Tezpur from Guwahati?", "a": "Tezpur is about 175 km from Guwahati by road via the Saraighat bridge, a drive of about 4 hours depending on traffic. Buses leave from Guwahati's ISBT through the day. A few trains also connect the two, but road is usually faster and more flexible." },
+    { "q": "How far is Tawang from Tezpur?", "a": "Tawang is about 320 km from Tezpur by road via Bhalukpong, Bomdila, Dirang and the Sela tunnel or pass. It usually takes two days with a night in Dirang or Bomdila. Driving it in one day is possible in good conditions but tiring. Road status changes with weather, so check current status before you travel." },
+    { "q": "Is Tezpur worth a stop?", "a": "Yes, as a one-night stop. Arrive by mid-afternoon, walk up Agnigarh for sunset, see Cole Park and Da Parbatia, and leave early the next morning for Arunachal or Nameri. It breaks the long journey from Guwahati to Tawang and gives you a chance to rest before the hill roads." },
+    { "q": "How far is Nameri from Tezpur?", "a": "Potasali, the gateway to Nameri National Park, is about 35 km north of Tezpur on the road towards Bhalukpong, roughly an hour's drive. You can visit Nameri as a day trip for a forest walk or rafting, but staying a night at Potasali gives you a better early-morning walk." },
+    { "q": "Does Tezpur have an airport?", "a": "Yes, Tezpur airport at Salonibari is a few kilometres from town, but it has limited scheduled flights that change often. Most travellers fly into Guwahati, about 4 hours away, which has many more connections. Check current status before you travel if you want to fly into Tezpur." },
+    { "q": "Do I need a permit for Tezpur?", "a": "No. Tezpur is in Assam, and no permit is needed for Indian or foreign visitors. You need an Arunachal Inner Line Permit, or a Protected Area Permit for foreigners, only when you cross into Arunachal at Bhalukpong, about 60 km north. Apply online before your trip." },
+    { "q": "How far is Kaziranga from Tezpur?", "a": "Kohora in Kaziranga is about 75 km from Tezpur via the Kolia Bhomora bridge over the Brahmaputra, around 1.5 to 2 hours by car. Many itineraries pair Kaziranga with Tezpur and Nameri, or move from Kaziranga to Tezpur before heading up to Tawang." },
+    { "q": "What is the best time to visit Tezpur?", "a": "October to April is the best time, with pleasant temperatures and good views across the Brahmaputra from Agnigarh. This is also the best season for onward trips to Nameri and Tawang. Summers are hot and humid, and the monsoon from June to September brings heavy rain and road disruptions in the hills." }
+  ],
+  "nearby": ["nameri", "kaziranga", "bomdila", "dirang", "tawang"],
+  "image_query": "Tezpur Agnigarh Brahmaputra"
+}

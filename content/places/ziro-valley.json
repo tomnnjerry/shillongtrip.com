@@ -1,0 +1,132 @@
+{
+  "slug": "ziro-valley",
+  "name": "Ziro Valley",
+  "state": "arunachal",
+  "state_name": "Arunachal Pradesh",
+  "district": "Lower Subansiri",
+  "types": [
+    "valley",
+    "culture",
+    "festival",
+    "village"
+  ],
+  "tagline": "Apatani rice fields and pine hills at 1,688 m, 115 km from Itanagar",
+  "altitude_m": 1688,
+  "coords": [
+    27.6333,
+    93.8333
+  ],
+  "best_months": [
+    3,
+    4,
+    5,
+    9,
+    10,
+    11
+  ],
+  "best_time": "March–April for Myoko and green fields, late September for the music festival and golden paddy, October–November for clear weather.",
+  "permit": {
+    "required": true,
+    "indians": "Tourist eILP for Arunachal Pradesh (about Rs 300 to 500; pay what eilp.arunachal.gov.in shows; valid 15 days for the whole state), checked at Kimin or Banderdewa.",
+    "foreigners": "Protected Area Permit (PAP) covering Lower Subansiri, arranged through a registered Indian tour operator, usually for groups of two or more. Royalty is reported at USD 30–50 per person and the permit at 30 days; confirm with your operator. Solo travellers are reportedly allowed only for Tawang, Bomdila and Ziro."
+  },
+  "from_hub": {
+    "hub": "Itanagar",
+    "km": 115,
+    "hours": "3.5"
+  },
+  "ideal_stay": "2 to 3 nights in an Apatani village homestay",
+  "meta_description": "Ziro Valley guide: Apatani villages at about 1,700 m, 115 km from Itanagar, Myoko and the Ziro music festival, permits, homestays and best months.",
+  "quick_answer": "Ziro is a plateau valley at about 1,688 m in Lower Subansiri district, home to the Apatani people and their wet-rice and fish farming. It is about 115 km and 3.5 to 4 hours from Itanagar. Indians need an eILP, foreigners a PAP. It is best in spring, late September and autumn.",
+  "intro": [
+    "Ziro is a wide, flat valley ringed by pine and bamboo hills, and almost all of the floor is rice. The Apatani have farmed it as permanent wet paddy for generations, raising fish in the flooded fields and managing bamboo and pine groves on the slopes. The whole cultural landscape is on UNESCO's tentative list for World Heritage.",
+    "The main villages, Hong, Hari, Hija, Bulla and Dutta among them, are tight clusters of stilted bamboo houses with lapang platforms and babo poles marking clan areas. In the older generation you still see women with facial tattoos and nose plugs, a practice that stopped decades ago. Hapoli is the modern town, with the market, banks and most of the hotels.",
+    "We prefer to base guests in a village homestay rather than in Hapoli. Walking between villages at dawn, when mist lies on the paddy and smoke rises from the kitchens, is the best of Ziro."
+  ],
+  "highlights": [
+    {
+      "name": "Apatani villages",
+      "text": "Hong, Hari, Hija, Bulla and Dutta, with bamboo stilt houses, lapang platforms and clan totems."
+    },
+    {
+      "name": "Rice and fish farming",
+      "text": "Terraced, flooded paddy where fish are raised with the rice, a system that uses no draught animals or machines."
+    },
+    {
+      "name": "Myoko festival",
+      "text": "The Apatani spring festival, held in rotation between village groups, with main days around 20 to 23 March."
+    },
+    {
+      "name": "Ziro Festival of Music",
+      "text": "A four-day outdoor festival in late September; the 2026 edition ran from 24 to 27 September."
+    },
+    {
+      "name": "Kile Pakho and Talley Valley",
+      "text": "A pine ridge with views over the valley, and a wildlife sanctuary of 337 sq km for longer treks with permission."
+    }
+  ],
+  "things_to_do": [
+    "Walk between Hong, Hari and Bulla villages at dawn with a local guide",
+    "Stay in an Apatani homestay and eat smoked pork, bamboo shoot and rice beer",
+    "Hike to Kile Pakho ridge for views over the paddy",
+    "Visit the Siddheshwar Nath temple and its large natural Shiva lingam",
+    "Time a visit for Myoko in March or Dree on 5 July",
+    "Attend the Ziro Festival of Music in late September",
+    "Arrange a Talley Valley trek with the forest department and a local guide",
+    "Cycle the flat roads between Hapoli and Old Ziro"
+  ],
+  "how_to_reach": "From Itanagar, Ziro is about 115 km and 3.5 to 4 hours by car or shared Sumo via Yazali. From Assam, the route via North Lakhimpur and the Kimin check gate is about 112 km from Lakhimpur. The nearest large railhead is Naharlagun, about 96 km away, with trains from Guwahati; North Lakhimpur also has a station. The nearest regular airports are Donyi Polo Airport near Itanagar and Lilabari at North Lakhimpur. Ziro has an Advanced Landing Ground used for limited regional flights; check current status before you travel.",
+  "where_to_stay": "Ziro's village homestays are the best way to stay. Abasa Homestay in Siiro village is a long-running family home with meals included, and the local NGO Ngunu Ziro helps place travellers in village homestays. Siiro Resort offers resort-style rooms on the edge of the valley. Hapoli has hotels and guesthouses near the market for those who prefer town. During the music festival, rooms and campsites sell out months ahead, and prices rise sharply.",
+  "tips": [
+    "Hire a local Apatani guide for village walks; they explain customs and open doors",
+    "Ask before photographing people, especially older women with facial tattoos",
+    "Carry cash from Itanagar or Lakhimpur; Hapoli ATMs run dry during festivals",
+    "Nights are cold from November to February; bring warm layers",
+    "Myoko rotates between village groups each year, so ask which village is hosting",
+    "Festival dates are announced a few months ahead; check current status before you travel"
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a permit to visit Ziro?",
+      "a": "Yes. Indian citizens need the Arunachal Pradesh tourist eILP, applied for online and costing about Rs 300 to 500 per person. It is checked at entry gates such as Kimin and Banderdewa. Foreign nationals need a Protected Area Permit. Check current status before you travel."
+    },
+    {
+      "q": "Can foreigners visit Ziro Valley?",
+      "a": "Yes. Lower Subansiri district, including Ziro, is open to foreign nationals with a Protected Area Permit, normally arranged by a registered Indian tour operator for groups of two or more. Many international travellers visit for the villages and the September music festival. Check current rules and fees with your operator."
+    },
+    {
+      "q": "How do I get to Ziro from Itanagar or Guwahati?",
+      "a": "Ziro is about 115 km and 3.5 to 4 hours from Itanagar by taxi or shared Sumo. From Guwahati, most travellers take a train to Naharlagun or drive via North Lakhimpur and the Kimin gate, a long day of 10 to 12 hours in total. Break the journey in Itanagar if you arrive late."
+    },
+    {
+      "q": "When is the Ziro Festival of Music?",
+      "a": "The Ziro Festival of Music is held over four days in late September in the valley. The 2026 edition ran from 24 to 27 September with more than 40 artists. Dates for each year are announced a few months ahead, and tickets and stays sell out quickly, so check current status before you travel."
+    },
+    {
+      "q": "When is Myoko festival in Ziro?",
+      "a": "Myoko is the Apatani spring festival, held in March, with the main public days usually around 20 to 23 March. It rotates between groups of villages each year, and the hosting villages hold rituals, feasts and visits between families. Dree, the agricultural festival, is celebrated on 5 July."
+    },
+    {
+      "q": "What is the best time to visit Ziro?",
+      "a": "March to May brings Myoko and green fields, late September has the music festival and ripening paddy, and October to November gives clear skies and golden fields after harvest. June to August is wet and green, with occasional landslides on the approach roads."
+    },
+    {
+      "q": "What is the altitude of Ziro and is it cold?",
+      "a": "The valley floor is at about 1,688 m, with surrounding hills rising to around 2,400 m. Altitude sickness is not usually an issue. Winters are cold, with night temperatures near freezing from December to February, so homestays with warm bedding matter."
+    },
+    {
+      "q": "Are there ATMs and mobile network in Ziro?",
+      "a": "Hapoli, the main town, has ATMs and bank branches, but they can run out of cash at weekends and during festivals. Jio, Airtel and BSNL work in Hapoli and most villages, with weaker signal on the edges of the valley and on the Talley Valley route."
+    },
+    {
+      "q": "Is Ziro good for children and senior citizens?",
+      "a": "Yes. Ziro is one of the gentlest destinations in Arunachal, with moderate altitude, flat village walks and short drives. The main effort is the road from Itanagar or Lakhimpur. The music festival involves long days on uneven, sometimes muddy ground, so it suits active visitors better."
+    }
+  ],
+  "nearby": [
+    "itanagar",
+    "pasighat",
+    "mechuka"
+  ],
+  "image_query": "Ziro Valley Apatani rice fields"
+}

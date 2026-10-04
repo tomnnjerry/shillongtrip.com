@@ -1,0 +1,64 @@
+{
+  "slug": "shillong-peak",
+  "name": "Shillong Peak",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["viewpoint", "sightseeing"],
+  "tagline": "The highest point near the city, with Shillong spread out below",
+  "altitude_m": 1965,
+  "coords": [25.5454, 91.8757],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April on a clear morning; cloud often covers the view by midday in the monsoon.",
+  "permit": {
+    "required": false,
+    "indians": "No permit, but the viewpoint is inside an Indian Air Force area: carry original photo ID and expect a security check",
+    "foreigners": "Foreign nationals have generally not been allowed inside the Air Force area; check current status before you travel"
+  },
+  "from_hub": { "hub": "Shillong", "km": 10, "hours": "0.5" },
+  "ideal_stay": "A 1 to 1.5 hour stop from Shillong, best combined with Elephant Falls",
+  "meta_description": "Shillong Peak, Meghalaya: 1,965 m viewpoint inside an Air Force area. Entry fee, timings, ID rules for Indians and foreigners, and 9 FAQs.",
+  "quick_answer": "Shillong Peak is a viewpoint at about 1,965 m, the highest point around Shillong, 10 km (30 minutes) from Police Bazar inside an Indian Air Force area. Go early for a clear view over the city. Indians need original photo ID and pay a small entry fee; foreigners have generally not been allowed in. Check current status before you travel.",
+  "intro": [
+    "At about 1,965 m, Shillong Peak is the highest point in the hills around the city, roughly 440 m above Police Bazar. From the viewing deck you look north across the whole spread of Shillong to Umiam Lake on a clear day, and south towards the plateau that runs down to Sohra.",
+    "The peak sits inside an Indian Air Force area, which shapes the visit. You pass a checkpoint, show original photo ID, pay a small entry and vehicle fee, and follow a short road to the viewing deck and a few food stalls. Timings are short and the site closes early in the afternoon, and on some weekdays, so it is worth confirming with your driver the evening before.",
+    "We like it best between 9 and 10 am from October to March, before cloud builds up. In the monsoon the view can disappear completely for hours, and you may drive up to stand in fog. It pairs well with Elephant Falls, which is on the same Upper Shillong road."
+  ],
+  "highlights": [
+    { "name": "City panorama", "text": "The deck looks across the full length of Shillong; on clear days you can pick out Umiam Lake to the north." },
+    { "name": "Coin telescopes", "text": "Small telescopes on the deck let you spot landmarks such as the Cathedral and Ward's Lake area." },
+    { "name": "Winter clarity", "text": "November to February gives the sharpest air and the best chance of a long view in the morning." },
+    { "name": "Short, easy visit", "text": "Parking is close to the deck and the walk is short, which suits seniors and children." }
+  ],
+  "things_to_do": [
+    "Reach at opening time for the clearest view of Shillong",
+    "Use the coin telescopes to find Umiam Lake and city landmarks",
+    "Try hot tea and roasted corn at the stalls near the deck",
+    "Rent a traditional Khasi dress for photos at the stalls, where offered",
+    "Combine with Elephant Falls, about 3 km away on the same route",
+    "Continue to Laitlum Canyons on a half-day loop if the weather is clear"
+  ],
+  "how_to_reach": "Shillong Peak is about 10 km from Police Bazar via Upper Shillong, a 25 to 35 minute drive depending on traffic. There is no public bus to the viewpoint, so hire a local taxi for a half-day that also covers Elephant Falls; agree the waiting time and total fare first. From Guwahati the peak is about 110 km, so most people visit it as part of a Shillong sightseeing day rather than straight off the airport road. Carry original photo ID for every adult, as the Air Force checkpoint will ask for it.",
+  "where_to_stay": "There are no hotels at the peak itself. Stay in Shillong and visit on a morning drive. Upper Shillong has homestays and small guest houses a few minutes from the checkpoint, useful if you want to be first in line on a clear morning. Otherwise Police Bazar and Laitumkhrah give you the widest choice of hotels, food and taxis, and the drive is still under 40 minutes. In peak season, October to December, book central hotels at least two weeks ahead.",
+  "tips": [
+    "Carry original photo ID; photocopies and phone photos may not be accepted at the Air Force gate",
+    "Go before 10 am; after that, cloud often rolls in from the south",
+    "Confirm opening days with your driver or hotel, as the site has been closed on some weekdays",
+    "Foreign guests in a mixed group should plan an alternative such as Laitlum Canyons",
+    "Photography rules at the checkpoint change; follow what the guards tell you",
+    "It is often 3 to 5 degrees colder than Police Bazar, so carry a warm layer"
+  ],
+  "faqs": [
+    { "q": "What is the entry fee for Shillong Peak?", "a": "Shillong Peak has a small entry fee, typically under INR 100 per person, plus a separate charge per vehicle, collected at the Air Force checkpoint. Fees change from time to time, so carry cash in small notes and check current status before you travel." },
+    { "q": "What are the timings of Shillong Peak?", "a": "The viewpoint has typically opened around 9 am and closed around 3.30 to 4 pm, and it has been reported closed on some weekdays, often Wednesday. Because the site is inside an Air Force area, hours can change at short notice. Ask your hotel or driver the evening before and check current status before you travel." },
+    { "q": "Can foreigners visit Shillong Peak?", "a": "Foreign nationals have generally not been permitted to enter Shillong Peak because it lies within an Indian Air Force area. If you are travelling with international guests, plan Laitlum Canyons or Elephant Falls for them instead, and check current status before you travel in case the rule changes." },
+    { "q": "How high is Shillong Peak?", "a": "Shillong Peak stands at about 1,965 m above sea level, making it the highest point in the hills around the city. Police Bazar in central Shillong is about 1,525 m, so the viewpoint is roughly 440 m higher and usually a few degrees colder, especially on winter mornings." },
+    { "q": "How far is Shillong Peak from Shillong city?", "a": "It is about 10 km from Police Bazar, a 25 to 35 minute drive through Upper Shillong. Elephant Falls is about 3 km from the approach road, so most people cover both in a two to three hour half-day trip by taxi. From Guwahati the peak is roughly 110 km away." },
+    { "q": "What is the best time to visit Shillong Peak?", "a": "October to April gives the clearest views, and the first hour after opening is the best part of the day. From June to September cloud and rain often hide the city completely. If the peak is in fog when you reach, wait twenty minutes; the cloud sometimes lifts briefly." },
+    { "q": "Is Shillong Peak suitable for seniors and children?", "a": "Yes. Cars park close to the viewing deck and the walk is short and mostly level, so it is one of the easier sights around Shillong. Carry warm layers because the wind at 1,965 m is sharp, and keep children away from the railings at the edge of the deck." },
+    { "q": "Do I need ID to enter Shillong Peak?", "a": "Yes. Every adult should carry original government photo ID such as an Aadhaar card, passport, driving licence or voter ID, because the approach passes an Air Force security checkpoint. Guards may also restrict photography of the installations, so keep cameras pointed at the view and follow their instructions." },
+    { "q": "Is Shillong Peak worth visiting in the monsoon?", "a": "Only if you are flexible. Between June and September the peak is often in cloud, and you can drive up to see nothing but grey. If you are in Shillong for several days, check the sky in the morning and go only when the southern ridge is visible from the city." }
+  ],
+  "nearby": ["shillong", "elephant-falls", "laitlum-canyons", "umiam-lake"],
+  "image_query": "Shillong Peak view Meghalaya"
+}

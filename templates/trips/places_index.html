@@ -1,0 +1,15 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="ih"><div class="shell">{% crumbs crumb_list %}<h1>Places to visit in Northeast India</h1><p class="ih__lede">Waterfalls, root bridges, national parks, monasteries and hill towns across Meghalaya, Assam, Arunachal and beyond, with altitude, permits and the best months for each.</p></div></section>
+<section class="band band--tight"><div class="shell">
+  <div class="fbar" data-place-filter>
+    <div class="seg" role="group" aria-label="State"><button type="button" class="is-on" data-state="">All</button>{% for k, s in STATES.items %}<button type="button" data-state="{{ k }}" style="--c:{{ s.color }}">{{ s.short }}</button>{% endfor %}</div>
+    <label class="fl__sel fl__sel--inline"><span>Good in</span><select name="month"><option value="">Any month</option>{% for m in MONTHS_LONG %}<option value="{{ forloop.counter }}">{{ m }}</option>{% endfor %}</select></label>
+    <p class="fbar__n" aria-live="polite"><b data-count>{{ count }}</b> places</p>
+  </div>
+  {% for g in groups %}<section class="grp" data-grp="{{ g.st.key }}" aria-labelledby="g-{{ g.st.key }}"><div class="grp__head"><h2 id="g-{{ g.st.key }}"><i style="background:{{ g.st.color }}"></i>{{ g.st.name }}</h2><a class="more more--sm" href="/states/{{ g.st.key }}/">State guide {% icon 'arrow' %}</a></div><div class="pl-grid">{% for d in g.places %}{% place_card d %}{% endfor %}</div></section>{% endfor %}
+  <p class="empty" data-empty hidden>Nothing matches that month. Try another.</p>
+</div></section>
+<section class="band band--mist"><div class="shell"><header class="band__head"><span class="eyebrow">{% icon 'cal' %} Timing</span><h2>Best months at a glance</h2></header>{% heatmap id='heat-places' %}</div></section>
+{% cta_panel %}
+{% endblock %}

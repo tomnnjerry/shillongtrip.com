@@ -1,0 +1,166 @@
+{
+  "slug": "northeast-luxury-9n",
+  "title": "Luxury Northeast",
+  "nights": 9,
+  "themes": ["luxury"],
+  "states": ["meghalaya", "assam"],
+  "places": ["umiam-lake", "shillong", "shillong-peak", "sohra", "nohkalikai-falls", "wei-sawdong-falls", "mawsmai-cave", "kaziranga", "jorhat", "majuli"],
+  "hero": "jorhat",
+  "price_from_inr": 109500,
+  "best_months": [11, 12, 1, 2, 3],
+  "difficulty": "easy",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Jorhat Airport (JRH)",
+  "meta_description": "Luxury Northeast, 9 nights / 10 days from Guwahati to Jorhat: Ri Kynjai, Polo Orchid Sohra, Vivanta Shillong, Diphlu River Lodge and heritage tea bungalows.",
+  "quick_answer": "This 9 nights / 10 days luxury trip runs one way from Guwahati to Jorhat. You stay at Ri Kynjai above Umiam Lake, Polo Orchid in Sohra and Vivanta in Shillong, then Diphlu River Lodge in Kaziranga and heritage tea bungalows in Jorhat, with a night on Majuli. A private Innova Crysta and a senior driver stay with you throughout.",
+  "overview": [
+    "Luxury in the Northeast means the right few places rather than big resorts, and this route links the best of them. In Meghalaya, Ri Kynjai's cottages look over Umiam Lake, Polo Orchid Resort sits on the Sohra cliffs beside the Seven Sisters falls, and Vivanta Meghalaya is the most comfortable address in Shillong. In Assam, Diphlu River Lodge has cottages on stilts beside Kaziranga's Diphlu river, and Jorhat's planters' bungalows, Thengal Manor and Banyan Grove, keep the old tea-estate life of verandahs, gardens and long breakfasts.",
+    "The pace is slow: two nights at each main stop, private safaris, guides who know their subject, and no drive longer than 6.5 hours. We are honest about the one exception. Majuli has no luxury hotel, and we book the best bamboo cottages at La Maison de Ananda for a single night so you can hear the evening prayers at a satra; if you prefer, we swap it for a day trip from Jorhat. The trip ends at Jorhat Airport, so there is no long drive back."
+  ],
+  "highlights": [
+    "Ri Kynjai above Umiam Lake and Vivanta Meghalaya in Shillong",
+    "Two nights at Polo Orchid Resort on the Sohra cliffs",
+    "Two nights at Diphlu River Lodge with private safaris in Kaziranga",
+    "Heritage tea bungalows in Jorhat, with a tea-estate walk and tasting",
+    "A night on Majuli for evening prayers at a Vaishnavite satra",
+    "Private Innova Crysta with a senior driver, Guwahati to Jorhat"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Umiam Lake",
+      "stay": "Umiam (Shillong)",
+      "altitude_m": 1000,
+      "drive": "105 km · 3 hrs",
+      "text": "Your driver meets you at Guwahati Airport in a private Innova Crysta and takes NH-6 into the Khasi Hills. About 15 km before Shillong, turn off to Ri Kynjai, a resort of Khasi-style cottages with sloping roofs on a hillside above Umiam Lake. The afternoon is for settling in: a walk down through the gardens, a massage at the spa, or tea on your balcony as the light fades over the water. Dinner at the resort's restaurant, which serves Khasi dishes alongside Indian and continental food. Meghalaya requires every guest to be registered on the state tourism app at check-in.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Umiam to Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "70 km · 2.5 hrs",
+      "text": "A late breakfast, then drive through Shillong and south to Sohra (Cherrapunji), about 2.5 hours with a stop at the Mawkdok Dympep valley viewpoint. Check in at Polo Orchid Resort, which sits on the edge of the plateau beside the Seven Sisters falls, with the plains of Bangladesh below on a clear day. After lunch, visit Nohkalikai Falls, a 340 m plunge into a green pool, then return for sunset from the resort's terraces, when the cliffs turn orange. Sohra is one of the wettest places on earth, so the resort provides umbrellas even in winter.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Wei Sawdong, caves and a slow Sohra day",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "40 km · local",
+      "text": "A slow day with a private Khasi guide. In the morning, drive to the trailhead for Wei Sawdong, a three-tiered waterfall with turquoise pools; the path down is steep and uneven, about 20 minutes, and your guide will judge conditions on the day. Afterwards, walk through Mawsmai Cave, short and lit, and Arwah Cave, reached by a paved path, where fossils are set in the limestone. Lunch back at the resort. The afternoon is free for the spa or a walk along the cliff edge. Your guide can also arrange a Khasi home lunch in a nearby village on request.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Sohra to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "60 km · 2 hrs",
+      "text": "Drive back up to Shillong and check in at Vivanta Meghalaya. After lunch, go up to Shillong Peak, at 1,965 m the highest point near the city, inside an Air Force area; carry ID and check current status, as access has been restricted at times. Then the Don Bosco Museum of Indigenous Cultures, seven floors on the peoples of the Northeast, with a rooftop skywalk; a private curator-led tour can be arranged. In the evening, the cafes and small restaurants of Laitumkhrah are good for Khasi food and, at weekends, live music.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Shillong to Diphlu River Lodge, Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "250 km · 6.5 hrs",
+      "text": "The one long drive. Leave Shillong at 8.30 am, drop down to Jorabat and drive east on NH-27 through Nagaon to Kaziranga, with lunch on the way. Diphlu River Lodge sits on the southern edge of the park beside the Diphlu river, with 12 cottages on stilts looking over paddy fields towards the forest. Arrive in the afternoon, settle in and take tea on the deck. The lodge's naturalists brief you on tomorrow's safaris over dinner, and in winter you may hear elephants moving along the river after dark.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Private safaris in Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "50 km · local",
+      "text": "Elephant rides run only in the Central (Kohora) and Western (Bagori) ranges, in one-hour batches between about 5.30 and 7.30 am; we reserve yours well ahead. After breakfast at the lodge, a private jeep safari with a lodge naturalist in the Central range. In the afternoon, a second private jeep in the Western range, with its beels full of water birds and one of the park's highest rhino densities. You are likely to see one-horned rhinos, wild buffalo, swamp deer and elephants. Park entry is ₹100 per Indian adult and ₹650 per foreign adult.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Kaziranga to a Jorhat tea bungalow",
+      "stay": "Jorhat",
+      "altitude_m": 116,
+      "drive": "100 km · 2 hrs",
+      "text": "A late morning after two early starts. Drive east through tea country to Jorhat, about 2 hours, and check in at Thengal Manor, a family mansion of the 1920s in Jalukonibari, or Banyan Grove, a planter's bungalow on the Gatoonga tea estate. After lunch, walk the tea rows with an estate manager and, in the plucking season from March to November, see the factory at work, followed by a tasting of Assam orthodox and CTC teas. Dinner in the bungalow's old dining room. Jorhat is also home to Tocklai, the oldest tea research station in the world.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Ferry to Majuli and satra prayers",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "15 km · 30 min, plus 1 hr ferry",
+      "text": "Drive to Nimati Ghat and take the ferry across the Brahmaputra to Kamalabari on Majuli, about an hour; your car comes on the vehicle ferry. Ferry timings change with the river level, so check current status before you travel. With a private guide, visit Samaguri satra, where masks for the bhaona dance-dramas are made, and a Mising village of stilt houses and looms. Check in to La Maison de Ananda's bamboo cottages, the island's best, though simple by luxury standards. At dusk, attend the nam-prasanga prayers at Auniati or Kamalabari satra, with cymbals and drums.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Majuli morning and back to Jorhat",
+      "stay": "Jorhat",
+      "altitude_m": 116,
+      "drive": "15 km · 30 min, plus 1 hr ferry",
+      "text": "An early walk or cycle along the island roads, past ponds, rice fields and herons, then breakfast. Take the late-morning ferry back to Nimati Ghat and return to your Jorhat bungalow for lunch; if you stayed at Thengal Manor, we move you to Banyan Grove tonight, or the reverse, so you see both. In the afternoon, visit the Hoollongapar Gibbon Sanctuary with a forest guide to look for hoolock gibbons, India's only ape, or simply rest on the verandah. Farewell dinner at the bungalow.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Depart Jorhat",
+      "stay": "Departure",
+      "altitude_m": 116,
+      "drive": "15 km · 30 min",
+      "text": "A slow breakfast on the verandah, then a short drive to Jorhat Airport at Rowriah. Jorhat has direct flights to Kolkata and Delhi, with onward connections, so there is no need to go back to Guwahati. If your flight is in the afternoon, the bungalow can arrange a last walk in the estate or a visit to the Jorhat Gymkhana Club, one of the oldest golf clubs in Asia. Your driver sees you to the terminal, and our desk stays on WhatsApp until you board.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "9 nights in the named or similar properties: 1 Ri Kynjai, 2 Polo Orchid, 1 Vivanta Meghalaya, 2 Diphlu River Lodge, 2 Jorhat bungalows, 1 Majuli",
+    "Daily breakfast and dinner; all meals at Diphlu River Lodge",
+    "Private Innova Crysta with a senior driver, Guwahati Airport to Jorhat Airport",
+    "One elephant ride and two private jeep safaris with a naturalist in Kaziranga",
+    "Private Khasi guide in Sohra and private guide on Majuli",
+    "Tea-estate walk and tasting in Jorhat",
+    "Brahmaputra vehicle ferry to and from Majuli",
+    "Driver allowance, fuel, tolls, parking and Meghalaya entry tax",
+    "A dedicated trip manager on WhatsApp throughout"
+  ],
+  "exclusions": [
+    "Flights into Guwahati and out of Jorhat",
+    "Kaziranga entry and camera fees",
+    "Village entry fees at Meghalaya sites, typically under ₹100 per person",
+    "Spa treatments and drinks",
+    "Lunches outside Diphlu River Lodge",
+    "Gibbon sanctuary entry and guide fees",
+    "Travel insurance",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Umiam and Shillong: Hotel Polo Towers or similar. Sohra: Polo Orchid Resort or similar. Kaziranga: IORA The Retreat or similar. Jorhat: Hotel Gulmohar Grand or similar. Majuli: La Maison de Ananda or similar" },
+    { "tier": "Premium", "options": "Umiam: Ri Kynjai or similar. Sohra: Polo Orchid Resort or similar. Shillong: Courtyard by Marriott Shillong or similar. Kaziranga: Infinity Resorts Kaziranga (suite) or similar. Jorhat: Thengal Manor or similar. Majuli: La Maison de Ananda or similar" },
+    { "tier": "Luxury", "options": "Umiam: Ri Kynjai. Sohra: Polo Orchid Resort (best rooms). Shillong: Vivanta Meghalaya Shillong. Kaziranga: Diphlu River Lodge. Jorhat: Thengal Manor and Banyan Grove. Majuli: La Maison de Ananda (best cottage), the island's best but simple. All or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga opens in phases from about October and closes for the monsoon around May; elephant rides usually start in November. Check current status before you travel.",
+    "Majuli has no luxury hotel. If you prefer, we replace the island night with a day trip from Jorhat and a third bungalow night.",
+    "Majuli ferries run a few times a day and stop when the Brahmaputra rises; a road bridge is under construction. Check current status before you travel.",
+    "Meghalaya needs no permit, but every hotel registers guests on the state tourism app. Self-drive rentals are banned in Meghalaya, so the trip runs with our driver throughout.",
+    "Diphlu River Lodge has only 12 cottages and fills early for December to February. Booking three months ahead is wise.",
+    "Pack smart-casual clothes for dinners, warm layers for Meghalaya evenings (5–10°C in winter) and neutral colours for safaris."
+  ],
+  "faqs": [
+    { "q": "What are the best luxury hotels in the Northeast?", "a": "In Meghalaya, Ri Kynjai above Umiam Lake, Vivanta Meghalaya and Courtyard by Marriott in Shillong, and Polo Orchid Resort in Sohra. In Assam, Diphlu River Lodge at Kaziranga, Vivanta and Radisson Blu in Guwahati, and the heritage tea bungalows of Jorhat, Thengal Manor and Banyan Grove. This trip uses most of them." },
+    { "q": "Is there luxury accommodation on Majuli?", "a": "No. Majuli has simple bamboo cottages and guesthouses, and La Maison de Ananda is among the best. We include one night there because the evening satra prayers are the island's highlight. If you prefer luxury every night, we swap it for a full-day trip from Jorhat by ferry and a third night in a tea bungalow." },
+    { "q": "What makes Diphlu River Lodge special?", "a": "Diphlu River Lodge has 12 cottages on stilts beside the Diphlu river on Kaziranga's southern edge, looking over paddy fields to the park. Meals are included, and in-house naturalists guide the safaris. It is small and quiet, and it fills early for December to February, so we book it as soon as you confirm." },
+    { "q": "Why does the luxury trip end in Jorhat?", "a": "Jorhat is the closest airport to Majuli and its tea bungalows, with direct flights to Kolkata and Delhi. Ending there saves a 6.5-hour drive back to Guwahati and lets you spend the last night in a heritage bungalow instead of a transit hotel. If you prefer to fly out of Guwahati, we can drive you there." },
+    { "q": "Are the safaris private on this trip?", "a": "Yes, the two jeep safaris are private, with a naturalist from your lodge, one in the Central range and one in the Western range. The dawn elephant ride is in a shared batch run by the forest department, because elephant rides run only in the Kohora and Bagori ranges. Park entry is ₹100 per Indian adult and ₹650 per foreign adult." },
+    { "q": "When is the best time for a luxury Northeast trip?", "a": "November to March is best. Kaziranga is open, Meghalaya is dry with clear views, and tea bungalows are pleasant by day and cool at night. December and January are busiest at the top properties. The monsoon, June to September, closes Kaziranga and makes Sohra very wet, and the tea factories are busiest but the rain is heavy." },
+    { "q": "Do we need permits for this luxury tour?", "a": "No. Meghalaya and Assam need no permit for Indian or foreign travellers. Meghalaya hotels register every guest on the state tourism app, so carry passports or photo ID. Majuli and Kaziranga have no special permits beyond park entry fees at Kaziranga. If you extend into Arunachal Pradesh, you will need an ILP or PAP." },
+    { "q": "Can we add Tawang to the luxury trip?", "a": "Yes, but it adds at least five nights, because Guwahati to Tawang takes two driving days each way. Vivanta Tawang is a true luxury stay, and Wild Mahseer's heritage bungalows at Balipara make a comfortable first night. We usually suggest Tawang as a separate trip in March, April or November." },
+    { "q": "How much does the luxury Northeast package cost?", "a": "This 9 nights / 10 days trip starts from ₹1,09,500 per person on twin sharing with the luxury properties named, breakfast and dinner, all meals at Diphlu River Lodge, a private Innova Crysta, private safaris and guides. Prices rise in December and January at the top lodges. Flights, park fees, spa and drinks are extra." }
+  ]
+}

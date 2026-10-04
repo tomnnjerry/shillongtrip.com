@@ -1,0 +1,68 @@
+{
+  "slug": "sivasagar",
+  "name": "Sivasagar",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Sivasagar",
+  "types": ["heritage", "history", "temple", "unesco"],
+  "tagline": "The old Ahom capital of palaces, tanks and royal burial mounds",
+  "altitude_m": 95,
+  "coords": [26.9826, 94.6425],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for comfortable sightseeing; mid-April brings Rongali Bihu celebrations.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed. Monuments have small entry tickets; carry photo ID",
+    "foreigners": "No RAP or PAP needed for Assam. Carry your passport; ASI monuments charge higher foreigner tickets"
+  },
+  "from_hub": { "hub": "Jorhat", "km": 60, "hours": "1.5" },
+  "ideal_stay": "A long day trip from Jorhat, or 1 night to add Charaideo",
+  "meta_description": "Sivasagar, Assam: Rang Ghar, Talatal Ghar, Shiva Dol, Kareng Ghar and the Charaideo Moidams, how to reach from Jorhat and 9 answered FAQs.",
+  "quick_answer": "Sivasagar was the capital of the Ahom kingdom, which ruled Assam for about six centuries. It is about 60 km (1.5 hours) east of Jorhat. See the Rang Ghar pavilion, the Talatal Ghar palace, the Shiva Dol beside a 257-acre tank and Kareng Ghar at Garhgaon, then the UNESCO-listed Charaideo Moidams, about 28 km away.",
+  "intro": [
+    "For about 600 years, from the 13th century to the early 19th, the Ahoms ruled the Brahmaputra valley, and Sivasagar, then called Rangpur, was their capital for much of the 18th century. What is left is a cluster of brick monuments spread over about 15 km, surrounded by tanks dug by the kings and queens. It is Assam's richest historical site, and it gets a fraction of Kaziranga's visitors.",
+    "The town grew around the Sivasagar tank, excavated in 1733 under Queen Ambika, and the Shiva Dol on its bank, one of the tallest Shiva temples in India. A few kilometres out are the Rang Ghar, an oval two-storey pavilion from which royals watched buffalo fights and Bihu games, and the Talatal Ghar, a sprawling brick palace with storeys above and below ground.",
+    "Charaideo, the first Ahom capital, lies about 28 km east. Its moidams, earthen burial mounds of Ahom royalty, were inscribed as a UNESCO World Heritage Site in 2024. We usually do Sivasagar as a long day from Jorhat, or stay a night so we can see Charaideo in the soft morning light without hurrying."
+  ],
+  "highlights": [
+    { "name": "Rang Ghar", "text": "An 18th-century royal pavilion shaped like an upturned boat, built of brick with a lime-and-duck-egg mortar tradition. Allow 30 minutes." },
+    { "name": "Talatal Ghar", "text": "A large Ahom palace complex with multiple storeys and underground levels, about 4 km from town. Much of the lower level is closed, but the upper floors are open." },
+    { "name": "Shiva Dol and Sivasagar tank", "text": "A tall Shiva temple of about 32 m on the bank of a 257-acre tank, flanked by Vishnu Dol and Devi Dol. Busy on Maha Shivaratri." },
+    { "name": "Kareng Ghar, Garhgaon", "text": "A four-storey Ahom palace about 13 km from Sivasagar, rebuilt in brick in the 18th century on an earlier timber palace site." },
+    { "name": "Charaideo Moidams", "text": "Grass-covered burial mounds of Ahom kings and queens, inscribed as a UNESCO World Heritage Site in 2024. About 28 km from Sivasagar." },
+    { "name": "Joysagar tank", "text": "One of the largest man-made tanks in India, with the Joy Dol temple on its bank, about 5 km from town." }
+  ],
+  "things_to_do": [
+    "Start at Rang Ghar and Talatal Ghar in the morning before the heat",
+    "Walk around the Sivasagar tank and visit Shiva Dol, Vishnu Dol and Devi Dol",
+    "Drive to Kareng Ghar at Garhgaon and climb to its upper floor",
+    "See the Joy Dol and the vast Joysagar tank",
+    "Spend a slow hour among the Charaideo Moidams and their small museum",
+    "Stop at Dhekiakhowa Bornamghar on the road from Jorhat",
+    "Visit during Rongali Bihu in mid-April for Bihu dances at Rang Ghar",
+    "Watch winter birds on the Panidihing wetland if you have an extra morning"
+  ],
+  "how_to_reach": "Sivasagar is about 60 km east of Jorhat on the NH715 corridor, 1.5 hours by car, and about 365 km from Guwahati. Jorhat airport is about 75 km away and Dibrugarh airport about 95 km. The nearest railway station is Simaluguri Junction, about 16 km away, on the line between Guwahati and Dibrugarh; some trains also stop at Sivasagar Town. Buses run between Jorhat, Sivasagar and Dibrugarh through the day. For sightseeing, hire a car for the day, since the monuments are spread over about 15 km.",
+  "where_to_stay": "Most travellers visit as a day trip from Jorhat or Dibrugarh. If you want to stay, Sivasagar town has simple business hotels and a state tourism lodge near the tank, fine for one night. A night here makes it easy to see Charaideo early in the morning and continue to Dibrugarh. For more comfort, stay in a Jorhat or Dibrugarh heritage tea bungalow and drive in; both are within 1.5 to 2 hours. Book ahead around Rongali Bihu in mid-April and Maha Shivaratri.",
+  "tips": [
+    "Hire a car and driver for the day; autos are fine within town but not for Garhgaon or Charaideo",
+    "Monuments usually open from about sunrise to sunset; check current status before you travel",
+    "Carry water and a hat; the monuments have little shade in April and May",
+    "Hire a local guide at Rang Ghar or Talatal Ghar for the Ahom history, which is thinly signposted",
+    "Dress modestly for Shiva Dol and remove shoes before entering",
+    "Combine Sivasagar with Dibrugarh if you are heading east; the drive is about 1.5 to 2 hours"
+  ],
+  "faqs": [
+    { "q": "What is Sivasagar famous for?", "a": "Sivasagar is famous as the capital of the Ahom kingdom, which ruled Assam for about six centuries. Its best-known monuments are the Rang Ghar royal pavilion, the Talatal Ghar palace, the Shiva Dol beside the 257-acre Sivasagar tank, Kareng Ghar at Garhgaon and the nearby Charaideo Moidams, a UNESCO World Heritage Site since 2024." },
+    { "q": "How far is Sivasagar from Jorhat?", "a": "Sivasagar is about 60 km east of Jorhat, roughly 1.5 hours by car or bus. Many travellers see it as a day trip from Jorhat, stopping at Dhekiakhowa Bornamghar on the way. From Dibrugarh it is about 80 km, and from Guwahati about 365 km, a long day's drive." },
+    { "q": "What are the Charaideo Moidams?", "a": "The Charaideo Moidams are grass-covered burial mounds where Ahom kings, queens and nobles were buried, at Charaideo, the first Ahom capital, about 28 km from Sivasagar. They were inscribed as a UNESCO World Heritage Site in 2024. The site has walking paths among the mounds and a small interpretation area." },
+    { "q": "How many days do I need for Sivasagar?", "a": "A full day covers the main monuments: Rang Ghar, Talatal Ghar, Shiva Dol, Joysagar and Kareng Ghar. Adding Charaideo makes a long day, so we often suggest one night in Sivasagar or an early start from Jorhat. A combined Jorhat, Majuli and Sivasagar trip fits comfortably into four or five nights." },
+    { "q": "What is the Rang Ghar?", "a": "Rang Ghar is an 18th-century two-storey brick pavilion built by the Ahom kings so royalty could watch buffalo fights, elephant fights and Bihu games on the field below. Its roof is shaped like an upturned boat. It is often described as one of the oldest surviving amphitheatre pavilions in Asia and is the symbol of Assam Tourism." },
+    { "q": "What is the best time to visit Sivasagar?", "a": "October to April is the best time, with dry weather for walking around the monuments. Mid-April is special because Rongali Bihu is celebrated with dance and music, sometimes at Rang Ghar. February or March brings Maha Shivaratri crowds at Shiva Dol. May to September is hot and very wet." },
+    { "q": "How do I reach Sivasagar by train?", "a": "The nearest major station is Simaluguri Junction, about 16 km from Sivasagar, on the line between Guwahati and Dibrugarh. Some trains also stop at Sivasagar Town station. From Simaluguri take a taxi or bus into town. Many travellers find it easier to reach Jorhat or Dibrugarh by train or air and drive." },
+    { "q": "Is Talatal Ghar open to visitors?", "a": "Yes, the above-ground floors of Talatal Ghar are open to visitors with a small entry ticket, and you can walk through the brick corridors and rooms. The underground levels, which local stories say had secret tunnels, are closed for safety. Allow about an hour. Opening hours are usually sunrise to sunset." },
+    { "q": "Can I combine Sivasagar with Majuli?", "a": "Yes, and many travellers do. A typical route is Jorhat, two nights on Majuli, then back to Jorhat and on to Sivasagar for a day or a night before continuing to Dibrugarh. Plan the Majuli ferry for the morning, since the last boats leave in mid-afternoon." }
+  ],
+  "nearby": ["jorhat", "majuli", "dibrugarh", "dibru-saikhowa"],
+  "image_query": "Rang Ghar Sivasagar Assam"
+}

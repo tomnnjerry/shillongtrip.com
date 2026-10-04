@@ -1,0 +1,122 @@
+{
+  "slug": "dzukou-trek-4n",
+  "title": "Dzukou Valley Trek",
+  "nights": 4,
+  "themes": ["trekking", "offbeat"],
+  "states": ["northeast"],
+  "places": ["kohima", "dzukou-valley"],
+  "hero": "dzukou-valley",
+  "price_from_inr": 17500,
+  "best_months": [3, 4, 5, 6, 7, 10, 11],
+  "difficulty": "moderate",
+  "max_altitude_m": 2450,
+  "start": "Dimapur Airport (DMU)",
+  "end": "Dimapur Airport (DMU)",
+  "meta_description": "Dzukou Valley trek, 4 nights / 5 days from Dimapur: up via Viswema, two nights at the rest house, down via Zakhama. Seasons, gear, ILP.",
+  "quick_answer": "This 4-night trek goes Dimapur to Kohima, up to Dzukou Valley via the Viswema route, two nights at the valley rest house at about 2,400 m, and down the steeper Zakhama trail. Expect 4–5 hours on the way up. Best in October–November for clear views and June–July for Dzukou lilies.",
+  "overview": [
+    "Dzukou is a high, grassy valley on the Nagaland–Manipur border, about 25 km south of Kohima, carpeted in dwarf bamboo and cut by clear streams. Most people walk in for a single night; we give you two, so you have a full day on the valley floor and a second sunrise from the rest house. The route goes up from Viswema, the gentler approach, and down through Zakhama, which is steeper but shorter and passes through thick forest.",
+    "Walking time is 4–5 hours up and about 3 hours down, with a height gain of roughly 800 m from the Viswema trailhead. The rest house, run by the Southern Angami Youth Organisation, has dorms, a few private rooms, tent pitches and a simple canteen. There is no electricity grid or phone signal worth relying on. Kohima nights either side of the trek give you a hot shower, a bag drop and time for the War Cemetery."
+  ],
+  "highlights": [
+    "Two nights inside Dzukou Valley at about 2,400 m, not the usual one",
+    "Up via the gentler Viswema trail, down via the forested Zakhama trail",
+    "A full day on the valley floor among streams, caves and dwarf bamboo slopes",
+    "Dzukou lilies in June and July, rhododendron on the rim in March and April",
+    "Sunrise from the rest house ridge, with Japfu peak (3,048 m) to the north",
+    "Kohima War Cemetery and the town market on the first and last evenings"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Dimapur to Kohima and gear check",
+      "stay": "Kohima",
+      "altitude_m": 1440,
+      "drive": "75 km · 2.5–3 hrs",
+      "text": "Our driver meets you at Dimapur Airport; carry your Nagaland ILP, since it can be checked on arrival and on the highway. The drive to Kohima takes 2.5 to 3 hours as the road climbs from about 150 m to over 1,400 m. After lunch your trek guide meets you at the hotel to check boots, rain gear and sleeping arrangements, and to split kit into what goes up and what stays behind in Kohima. If there is time, walk up to the Kohima War Cemetery on Garrison Hill, a 15-minute walk from the main market, and then pick up snacks, torch batteries and water purification tablets in town. Early dinner and early sleep.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Viswema trail to the Dzukou rest house",
+      "stay": "Dzukou Valley rest house",
+      "altitude_m": 2400,
+      "drive": "30 km · 1.5 hrs to the trailhead, then 4–5 hrs walking",
+      "text": "We leave Kohima at 6.30 am for Viswema, 22 km south on the Imphal road, and then take the rough link road to the trailhead. The first 1.5 to 2 hours climb steeply on stone steps and a dirt path through forest; this is the hardest part of the whole trek. At the top the trail opens onto a long ridge of dwarf bamboo, and the walking becomes level for about 2 hours with the valley appearing below. You reach the rest house by early afternoon. Pay the entry and bed fees at the counter, claim your bunk or tent pitch, and watch the light go gold over the valley at sunset. Dinner is simple rice, dal and vegetables from the canteen.",
+      "meals": "Breakfast, Packed lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "A full day on the valley floor",
+      "stay": "Dzukou Valley rest house",
+      "altitude_m": 2400,
+      "drive": "No driving · 4–5 hrs easy walking",
+      "text": "Get up for sunrise from the ridge behind the rest house, when mist usually fills the valley and burns off by 8 am. After breakfast we walk down 20–30 minutes to the valley floor, where the stream winds through flat meadows between rounded bamboo hills. Your guide takes you to the small caves where shepherds and trekkers once sheltered, and along the stream to the wooden crossings. In June and July look for the pink Dzukou lily, which grows almost nowhere else. We return to the rest house by mid-afternoon for tea. The second night here is the quiet one, after the weekend walkers have left, and the sky is clear enough for stars most nights from October.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Down the Zakhama trail to Kohima",
+      "stay": "Kohima",
+      "altitude_m": 1440,
+      "drive": "3 hrs walking, then 15 km · 45 mins",
+      "text": "We leave the rest house after breakfast and walk back along the ridge before turning onto the Zakhama trail. This route drops steeply through dense forest, and while it is shorter than the Viswema side, it is hard on the knees; trekking poles help. Expect about 3 hours of descent to the road head near Zakhama, where the vehicle waits. From there it is 15 km back to Kohima. After a hot shower and lunch, spend the afternoon in town: the Nagaland State Museum shows tribal dress and artefacts from all the major Naga groups, and the evening market near the main road sells local fruit, dried fish and bamboo shoot.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Kohima to Dimapur for departure",
+      "stay": "Departure",
+      "altitude_m": 150,
+      "drive": "75 km · 2.5–3 hrs",
+      "text": "After breakfast we drive back down to Dimapur, leaving by 8 am if your flight is before 2 pm. The road passes Kisama Heritage Village, 12 km south of Kohima, which is open outside festival season and worth a 30-minute stop if you have time, then continues through Piphema and Chumoukedima. For evening flights we can add a short stop at the Kachari ruins in Dimapur, where carved sandstone pillars from the old Dimasa Kachari kingdom stand in a small park. The driver drops you at Dimapur Airport at least two hours before departure. You can also continue to Kaziranga, about four hours from Dimapur by road, if you want to add wildlife days.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "2 nights in Kohima on twin sharing with breakfast and dinner",
+    "2 nights at the Dzukou Valley rest house in a dorm bunk or our two-person tent",
+    "Breakfast, lunch and dinner on the trek days, from the rest house canteen or cooked by our team",
+    "Private vehicle for Dimapur–Kohima–Viswema and Zakhama–Kohima–Dimapur transfers",
+    "Experienced local trek guide from the Southern Angami area",
+    "Sleeping bag rated to about -5°C and sleeping mat",
+    "Porter for group gear such as tents and food (one porter per two trekkers)",
+    "Basic first-aid kit carried by the guide",
+    "Help with the Nagaland ILP application",
+    "Driver allowance, fuel and parking"
+  ],
+  "exclusions": [
+    "Flights or trains to and from Dimapur",
+    "Nagaland ILP fee",
+    "Dzukou entry, camera and rest house fees paid at the counter",
+    "Personal porter for your own rucksack",
+    "Snacks, bottled drinks and extra canteen orders",
+    "Trekking poles, boots and rain gear",
+    "Travel and trekking insurance",
+    "Costs from weather, landslides or road closures"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Japfu, Kohima, or similar; Dzukou rest house dorm or our tent" },
+    { "tier": "Premium", "options": "Hotel Vivor or De Oriental Grand, Kohima, or similar; private room at the Dzukou rest house when available, or our tent" },
+    { "tier": "Luxury", "options": "Niraamaya Retreats Aradura, Kohima, or similar; there are no upgraded rooms inside Dzukou, so the valley nights stay basic" }
+  ],
+  "good_to_know": [
+    "Indian citizens need a Nagaland Inner Line Permit, applied for online only at ilp.nagaland.gov.in (₹200 for 30 days at the last revision); foreign nationals need a Protected Area Permit. Check current status before you travel.",
+    "Dzukou is managed by the Southern Angami Youth Organisation. Entry, camera and bed fees are paid at the rest house counter, and the rates change, so check current status before you travel.",
+    "The valley has seen large forest fires, including a major one in the winter of 2020–21. Open fires are banned outside designated spots, and smoking on the grass slopes is not allowed.",
+    "June to September brings heavy rain, leeches on the forest trails and slippery steps. October–November is the clearest season; December–February is frosty and dry, with nights below freezing.",
+    "Weekends and public holidays crowd the rest house with students from Kohima. We try to schedule the two valley nights midweek.",
+    "Carry cash. There are no ATMs past Viswema and card payments do not work at the rest house."
+  ],
+  "faqs": [
+    { "q": "How hard is the Dzukou Valley trek?", "a": "It is a moderate trek. The first 1.5–2 hours from the Viswema trailhead are steep steps and dirt path, then the ridge walk is mostly level. Total walking is about 4–5 hours up and 3 hours down. Anyone who can climb stairs for an hour without stopping will manage at a steady pace." },
+    { "q": "Which route is better, Viswema or Zakhama?", "a": "Viswema is gentler and has the best views on the way in, so we use it to go up. Zakhama is steeper and shorter, mostly through thick forest, and is harder on the knees coming down. Some groups prefer going up Zakhama to get the climb over quickly, and we can reverse the route on request." },
+    { "q": "When is the best time to trek Dzukou?", "a": "October and November give the clearest skies and golden slopes. June and July are for the Dzukou lily, though you trade that for rain and leeches. March and April bring rhododendron on the rim. December to February is dry but frosty, with nights below freezing and occasional fire bans." },
+    { "q": "Where do you sleep in Dzukou Valley?", "a": "At the rest house run by the Southern Angami Youth Organisation, which has dormitories, a few private rooms and tent pitches. We book dorm bunks or bring our own two-person tents, plus sleeping bags and mats. Toilets are basic and water is from the stream, so carry purification tablets or a filter." },
+    { "q": "How much does this Dzukou trek package cost?", "a": "It starts at ₹17,500 per person on twin sharing, including two Kohima hotel nights, two valley nights, meals on the trek, guide, porter for group gear, sleeping bags and all road transfers from Dimapur. Entry and bed fees at Dzukou are paid at the counter and are extra." },
+    { "q": "Do I need a permit for Dzukou?", "a": "You need the Nagaland Inner Line Permit if you are an Indian citizen, and a Protected Area Permit if you are a foreign national. There is no separate trekking permit, but you pay entry and camera fees at the rest house. Check current status before you travel, since fees and permit rules change." },
+    { "q": "Is Dzukou Valley in Nagaland or Manipur?", "a": "The valley sits on the border, and both states have claimed parts of it. Our trek uses the Nagaland approaches from Viswema and Zakhama, and the rest house is on the Nagaland side. We do not route through the Manipur side, and your guide knows which parts of the valley floor to keep to." },
+    { "q": "What should I pack for Dzukou?", "a": "Pack trekking shoes with grip, a rain jacket, a fleece and a down jacket, since nights are cold even in summer. Add a head torch, water bottle, purification tablets, snacks, sunscreen and a small daypack. We supply the sleeping bag and mat. In the rainy months, leech socks are worth carrying." },
+    { "q": "Can I combine Dzukou with the Hornbill Festival?", "a": "Yes, but plan carefully. December nights at Dzukou drop below freezing and Kohima rooms are expensive during 1–10 December. Our Hornbill package includes a day hike to the Dzukou rim instead of an overnight stay. If you want the full trek, add it before 1 December, when Kohima is quieter." }
+  ]
+}

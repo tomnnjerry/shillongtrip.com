@@ -1,0 +1,112 @@
+{
+  "slug": "guwahati-kaziranga-3n",
+  "title": "Guwahati and Kaziranga",
+  "nights": 3,
+  "themes": ["wildlife", "family"],
+  "states": ["assam"],
+  "places": ["guwahati", "kamakhya-temple", "kaziranga"],
+  "hero": "kaziranga",
+  "price_from_inr": 14000,
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 200,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Guwahati and Kaziranga tour, 3 nights / 4 days: Kamakhya Temple, a Brahmaputra sunset, then 2 nights at Kaziranga with jeep and elephant safaris.",
+  "quick_answer": "This 3 nights / 4 days trip gives you one night in Guwahati for Kamakhya Temple and the Brahmaputra, then two nights at Kaziranga with three jeep safaris across two ranges and an optional dawn elephant ride. It suits families and first-timers. Indicative price from ₹14,000 per person, twin sharing, October to April.",
+  "overview": [
+    "Most Kaziranga trips land at Guwahati, drive straight to Kohora and miss the city. We add one night in Guwahati because the timing works: flights land by early afternoon, Kamakhya Temple is 25 minutes from most hotels, and the Brahmaputra is at its best at sunset. The next morning you leave early and reach Kaziranga, about 195 km east, in time for lunch and an afternoon jeep safari in the Central Range.",
+    "Day 3 is the full park day. An elephant ride at dawn (from about 1 November), a morning jeep in the Western Range at Bagori, where rhino density is highest, and an afternoon in the Eastern Range at Agaratoli for water birds. You drive back to Guwahati on Day 4 with enough margin for an afternoon flight. The pace is gentle enough for grandparents and children of six and above."
+  ],
+  "highlights": [
+    "Darshan at Kamakhya Temple on Nilachal Hill, with a general or paid express queue",
+    "Sunset on the Brahmaputra from the Guwahati riverfront or a short cruise",
+    "Three jeep safaris across the Central, Western and Eastern ranges of Kaziranga",
+    "Optional dawn elephant ride at Kohora or Bagori from November",
+    "Rhino, wild water buffalo, swamp deer and, with luck, a tiger crossing a track",
+    "A walk through a working tea garden on the Kohora side of the park"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Guwahati, Kamakhya and the Brahmaputra",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "Airport to city 28 km · 1 hr",
+      "text": "Our driver meets you at Lokpriya Gopinath Bordoloi Airport and takes you to your hotel. After lunch we drive up Nilachal Hill to Kamakhya Temple. The free general queue can take two to four hours on weekends and festival days; a special darshan ticket at ₹501 per person, bookable online, usually cuts that to under an hour. The temple closes for lunch from about 1 to 2.30 pm. Dress modestly and leave leather items in the car. Late afternoon we head to the riverfront for sunset on the Brahmaputra, or take a one-hour cruise if you prefer. Dinner in Guwahati, where we suggest trying an Assamese thali with fish tenga and khar.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Guwahati to Kaziranga and an afternoon jeep safari",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "195 km · 4.5–5 hrs",
+      "text": "We leave at 7 am to beat city traffic on NH27. The road runs past Jagiroad and Nagaon, then turns onto NH715 where tea gardens start to line the road. Expect a tea stop at a dhaba near Nagaon and arrival at your Kohora lodge by about 12.30 pm. After lunch the afternoon jeep safari leaves from the Central Range gate at Kohora, usually from about 1.30 pm, for roughly two hours on track. The Central Range is the easiest to see rhino, wild buffalo and hog deer in the open grassland. Back at the lodge by dusk.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Kaziranga: elephant at dawn, jeeps in two ranges",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "Local · 60–80 km of park roads",
+      "text": "If you have chosen the elephant ride, pickup is before 5 am for the first slot at Kohora or Bagori; the ride lasts about an hour and gets you closer to rhino than any jeep. Breakfast, then the morning jeep safari in the Western Range at Bagori, which has the highest rhino density and good viewpoints over the beels. After lunch and a rest, the afternoon jeep goes to the Eastern Range at Agaratoli, the best range for pelicans, storks and migratory ducks in winter. Eastern Range opening depends on track repair after the monsoon, so check current status before you travel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tea garden walk and drive back to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "195 km · 4.5–5 hrs",
+      "text": "An early walk through a tea garden near Kohora, where plucking runs from March to November, is the easy way to end the trip. We then drive back towards Guwahati, stopping only for lunch on the way. Plan your flight after 3 pm; we leave Kaziranga by 8.30 am and aim to reach the airport by 2 pm, allowing for the usual slow stretch through Guwahati's eastern edge. If your onward flight is from Jorhat instead, it is only 95 km and about two hours east of Kaziranga, and we can switch the drop at no extra charge.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights in the hotels named for your tier, twin sharing",
+    "Daily breakfast and dinner at Kaziranga, dinner on Day 1 in Guwahati",
+    "Private air-conditioned Innova or Ertiga for all transfers and sightseeing",
+    "Airport pickup and drop at Guwahati",
+    "3 jeep safaris in Kaziranga with park entry and vehicle fees",
+    "Kaziranga camera fee for one still camera per person",
+    "Safari slot booking and forest department paperwork",
+    "Tea garden walk near Kohora",
+    "Driver allowance, fuel, tolls and parking",
+    "WhatsApp support from our Guwahati desk throughout"
+  ],
+  "exclusions": [
+    "Flights or trains to Guwahati",
+    "Elephant safari (optional, paid on booking, seats limited)",
+    "Kamakhya special darshan ticket (₹501 per person) and offerings",
+    "Brahmaputra cruise ticket",
+    "Lunches, drinks and personal expenses",
+    "Video camera fees and professional equipment charges",
+    "Tips for drivers, mahouts and safari guides",
+    "Travel insurance"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Guwahati: Hotel Dynasty or Hotel Kiranshree Portico; Kaziranga: Wild Grass Lodge, or similar" },
+    { "tier": "Premium", "options": "Guwahati: Novotel Guwahati GS Road or Radisson Blu Hotel Guwahati; Kaziranga: Infinity Resorts Kaziranga or IORA The Retreat, or similar" },
+    { "tier": "Luxury", "options": "Guwahati: Vivanta Guwahati; Kaziranga: Diphlu River Lodge, or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga opens in phases in October, usually the Western and Central ranges first, with elephant rides and the remaining ranges from around 1 November. The park closes for the monsoon from about May. Dates are set each year. Check current status before you travel.",
+    "Jeep safaris run in a morning slot from about 7.30 am and an afternoon slot from about 1.30 pm, each roughly two hours on track. Elephant rides run only at Kohora and Bagori, in one-hour batches between about 5.30 and 7.30 am.",
+    "Kamakhya closes for three days during the Ambubachi Mela in June, and queues are heaviest on weekends and during Durga Puja. Opening hours are about 8 am to 1 pm and 2.30 to 5.15 pm.",
+    "Wear earth-coloured clothes on safari and carry a warm layer for dawn rides from December to February, when open jeeps are cold.",
+    "Kaziranga entry is ₹100 per Indian adult and ₹650 per foreign adult, and a still camera costs ₹100 or ₹200; jeeps cost from about ₹3,500 per vehicle for up to six. All are included here, but fees change, so check current status before you travel."
+  ],
+  "faqs": [
+    { "q": "Is 3 nights enough for Guwahati and Kaziranga?", "a": "Yes, for a first visit. One night in Guwahati covers Kamakhya Temple and a Brahmaputra sunset, and two nights at Kaziranga give you three jeep safaris across different ranges plus an optional elephant ride. If you want the Burapahar range or more photography time, add a third Kaziranga night." },
+    { "q": "How far is Kaziranga from Guwahati?", "a": "Kohora, the main gateway to Kaziranga, is about 195 km from Guwahati city and roughly 215 km from the airport. The drive takes four and a half to five hours on NH27 and NH715, with one tea stop. Leaving Guwahati by 7 am gets you to Kaziranga in time for an afternoon safari." },
+    { "q": "When is Kaziranga National Park open?", "a": "Kaziranga opens for jeep safaris in phases during October, usually starting with the Western and Central ranges, and closes from about May when the monsoon floods begin. Elephant rides and the other ranges open around 1 November. Dates shift with flood damage and forest department orders, so check current status before you travel." },
+    { "q": "Which Kaziranga range is best for seeing rhino?", "a": "The Western Range at Bagori has the highest rhino density and the Central Range at Kohora is close behind, so most visitors see several rhinos in either. The Eastern Range at Agaratoli is better for birds in winter. We book different ranges on each safari so you see varied habitat." },
+    { "q": "Should we do the elephant safari or only jeeps?", "a": "The elephant ride takes you into tall grass at dawn and often gets you within 20 metres of a rhino, which a jeep cannot do. It lasts about an hour and runs only at Kohora and Bagori. Some travellers skip it on animal welfare grounds, and the jeeps alone still give excellent sightings." },
+    { "q": "How long is the queue at Kamakhya Temple?", "a": "On a weekday outside festival time the general queue takes one to three hours. On weekends and during Durga Puja it can exceed four hours. The general queue is free, and a special darshan ticket at ₹501 per person, bookable online, usually gets you inside within an hour. We plan the visit for the afternoon of your arrival." },
+    { "q": "What does the Guwahati and Kaziranga package cost?", "a": "Our indicative price starts at ₹14,000 per person, twin sharing, with standard hotels, three jeep safaris, breakfast and dinner at Kaziranga and a private car. Premium and luxury lodges raise the cost considerably. Elephant rides, flights and lunches are extra. We send a firm quote once dates and hotels are fixed." },
+    { "q": "Is this trip suitable for elderly parents and young children?", "a": "Yes. There is no walking beyond short temple steps and a flat tea garden path, and the longest drive is about five hours with stops. Jeep tracks are bumpy, so seniors with back problems should sit in the front row. Children aged six and above usually enjoy the safaris most." },
+    { "q": "Can we fly out of Jorhat instead of Guwahati?", "a": "Yes. Jorhat Airport is about 95 km or two hours east of Kaziranga, much closer than Guwahati, and has direct flights to Kolkata and Delhi. Ending at Jorhat saves about three hours of driving on the last day and lets you add a morning activity before leaving." }
+  ]
+}

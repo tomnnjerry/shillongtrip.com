@@ -1,0 +1,67 @@
+{
+  "slug": "jorhat",
+  "name": "Jorhat",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Jorhat",
+  "types": ["city", "tea", "base", "heritage"],
+  "tagline": "Upper Assam's tea town and the jumping-off point for Majuli",
+  "altitude_m": 116,
+  "coords": [26.7509, 94.2037],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for dry weather and tea-garden walks; the first flush of tea is plucked from March.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed. Carry photo ID for hotel check-in",
+    "foreigners": "No RAP or PAP needed for Assam. Carry your passport and visa; your hotel files Form C"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 305, "hours": "6.5" },
+  "ideal_stay": "1 night on the way to Majuli, or 2 nights in a tea bungalow",
+  "meta_description": "Jorhat, Assam: tea bungalows, Gibbon Wildlife Sanctuary, Tocklai, the Majuli ferry, how to reach from Guwahati and 9 answered FAQs.",
+  "quick_answer": "Jorhat is a tea town in Upper Assam, about 305 km (6.5 hours) east of Guwahati, with its own airport. Most travellers use it as the base for the Majuli ferry from Nimati Ghat, 14 km away. Stay longer for heritage tea bungalows, the Gibbon Wildlife Sanctuary and Sivasagar's Ahom monuments, 60 km east.",
+  "intro": [
+    "Jorhat does not try hard to impress visitors, and that is part of its appeal. It is a quiet, green district town surrounded by tea estates, with an airport, a railway station and the nearest ferry ghat for Majuli. Many people pass through in an hour. We prefer to give it a night, ideally in one of the old planters' bungalows on a working estate.",
+    "Tea is everywhere. The Tocklai Tea Research Institute, founded in 1911, is on the edge of town, and estates such as Gatoonga run heritage bungalows where you can walk the bushes at dawn and see a factory in season. Jorhat was also the last capital of the Ahom kings in the late 18th and early 19th centuries, and the Jorhat Gymkhana Club, founded in 1876, has one of the oldest golf courses in Asia.",
+    "Twenty kilometres away, the Hoollongapar Gibbon Wildlife Sanctuary protects a strip of forest cut off by tea gardens and a railway line, and is one of the best places in India to hear and see hoolock gibbons. With Majuli to the north, Sivasagar to the east and Kaziranga about 97 km west, Jorhat sits in the middle of Upper Assam's best short trips."
+  ],
+  "highlights": [
+    { "name": "Hoollongapar Gibbon Wildlife Sanctuary", "text": "A small forest near Mariani, about 20 km from town, with hoolock gibbons, capped langurs and slow lorises. Go at 7 to 8 am with a forest guide to hear the gibbons call." },
+    { "name": "Heritage tea bungalows", "text": "Colonial-era planters' homes on working estates, such as Banyan Grove on Gatoonga Tea Estate, with verandas, fireplaces and morning estate walks." },
+    { "name": "Tocklai Tea Research Institute", "text": "One of the oldest tea research stations in the world, founded in 1911. Visits are by prior permission; ask your hotel or tour operator to arrange." },
+    { "name": "Thengal Manor", "text": "A 1929 family mansion at Jalukonibari, about 15 km from town, run as a heritage hotel with period furniture and gardens." },
+    { "name": "Dhekiakhowa Bornamghar", "text": "A prayer hall founded in the 15th century by Madhavdeva, about 15 km from town, known for an earthen lamp said to have burned continuously since then." }
+  ],
+  "things_to_do": [
+    "Take the morning ferry from Nimati Ghat to Majuli",
+    "Walk through a tea estate at plucking time and visit a factory if one is open",
+    "Look for hoolock gibbons at Hoollongapar with a forest guide in the early morning",
+    "Stay a night in a heritage tea bungalow such as Banyan Grove or Thengal Manor",
+    "Visit Dhekiakhowa Bornamghar on the way to or from Sivasagar",
+    "Buy Assam orthodox and CTC tea direct from estate outlets or town tea shops",
+    "Make a day trip to Sivasagar's Rang Ghar, Talatal Ghar and Shiva Dol",
+    "Drive about 97 km west to Kaziranga for an afternoon safari"
+  ],
+  "how_to_reach": "Jorhat airport at Rowriah is about 7 km from town, with flights from Kolkata, Delhi and a few other cities. By rail, Jorhat Town station and Mariani Junction are on the line from Guwahati; the Jan Shatabdi takes about 7 hours. By road, Jorhat is about 305 km from Guwahati via Nagaon and Kaziranga, a 6.5 to 7 hour drive, and buses leave Guwahati through the day. Nimati Ghat for the Majuli ferry is 14 km north, Sivasagar about 60 km east, and Kaziranga's Kohora about 97 km west.",
+  "where_to_stay": "Jorhat town has simple business hotels around the main roads, handy for an early ferry or flight. For something more memorable, heritage tea bungalows sit on estates around town: Banyan Grove on Gatoonga Tea Estate has large rooms with fireplaces, and Thengal Manor at Jalukonibari is a 1929 family mansion. Both need advance booking and are priced well above town hotels, usually with meals. If you are heading straight to Majuli, a town hotel near the Nimati road saves time in the morning.",
+  "tips": [
+    "Catch an early ferry to Majuli; the last boats leave in mid-afternoon",
+    "Tea factories process leaf mainly from March to November; in winter many are quiet",
+    "Book heritage bungalows in advance and ask whether meals and estate walks are included",
+    "Hire a car with a driver for Gibbon Sanctuary, Dhekiakhowa and Sivasagar in one day",
+    "Carry insect repellent for the Gibbon Sanctuary and tea gardens, especially after rain",
+    "Evenings in Jorhat are quiet; eat at your hotel or bungalow"
+  ],
+  "faqs": [
+    { "q": "What is Jorhat famous for?", "a": "Jorhat is known for tea: the Tocklai Tea Research Institute, founded in 1911, and dozens of estates around town, some with heritage bungalows. It was the last capital of the Ahom kingdom and has the Jorhat Gymkhana Club, founded in 1876. For travellers it is best known as the gateway to Majuli through Nimati Ghat." },
+    { "q": "How far is Majuli from Jorhat?", "a": "Nimati Ghat, where ferries leave for Majuli, is about 14 km from Jorhat town, a 30 minute drive. The ferry to Kamalabari on Majuli takes about an hour, and Garamur is a short drive further. Allow 2.5 to 3 hours door to door including waiting at the ghat. Ferries run only in daylight." },
+    { "q": "How far is Jorhat from Guwahati and Kaziranga?", "a": "Jorhat is about 305 km from Guwahati, 6.5 to 7 hours by road via Nagaon and Kaziranga, or about 7 hours on the Jan Shatabdi train. Kohora in Kaziranga is about 97 km west, roughly 2 hours by car, so Jorhat airport is often the quickest way to fly in for Kaziranga." },
+    { "q": "Can you stay in a tea bungalow in Jorhat?", "a": "Yes. Several estates around Jorhat run heritage bungalows for guests, including Banyan Grove on Gatoonga Tea Estate and the 1929 Thengal Manor at Jalukonibari. Stays usually include meals and a morning estate walk, and a factory visit in the plucking season. They have few rooms, so book well in advance." },
+    { "q": "What can you see at the Gibbon Wildlife Sanctuary?", "a": "Hoollongapar Gibbon Wildlife Sanctuary near Mariani, about 20 km from Jorhat, protects India's only ape, the hoolock gibbon, along with capped langurs, stump-tailed macaques, slow lorises and many birds. Go at about 7 am with a forest guide, when the gibbons call loudly. Walks take 2 to 3 hours on forest trails." },
+    { "q": "What is the best time to visit Jorhat?", "a": "October to April is best for dry, mild weather and easy ferries to Majuli. If you want to see tea being plucked and processed, March to May and the autumn flush from September to November are good. The monsoon from June to September is hot and wet, and the Majuli ferry can be disrupted." },
+    { "q": "How many days should I spend in Jorhat?", "a": "One night is enough if you are only passing through to Majuli. Two nights let you stay in a tea bungalow, visit the Gibbon Sanctuary in the morning and make a half-day trip to Sivasagar. Many travellers combine two nights in Majuli with one or two in Jorhat on the way back." },
+    { "q": "Does Jorhat have an airport?", "a": "Yes. Jorhat airport at Rowriah is about 7 km from the town centre, with flights from Kolkata, Delhi and a few other cities; schedules change, so check current status before you travel. It is the nearest airport for Majuli and a practical option for Kaziranga, about 2 hours away by road." },
+    { "q": "Is Jorhat a good base for Sivasagar?", "a": "Yes. Sivasagar is about 60 km east of Jorhat, roughly 1.5 hours by road, so you can see Rang Ghar, Talatal Ghar, Shiva Dol and Kareng Ghar in a day trip. Add Dhekiakhowa Bornamghar on the way. If you also want Charaideo's royal burial mounds, start early or stay a night in Sivasagar." }
+  ],
+  "nearby": ["majuli", "sivasagar", "kaziranga", "dibrugarh"],
+  "image_query": "Jorhat tea garden Assam"
+}

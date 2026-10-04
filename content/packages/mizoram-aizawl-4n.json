@@ -1,0 +1,121 @@
+{
+  "slug": "mizoram-aizawl-4n",
+  "title": "Aizawl and the Mizo Hills",
+  "nights": 4,
+  "themes": ["offbeat", "culture"],
+  "states": ["northeast"],
+  "places": ["aizawl"],
+  "hero": "aizawl",
+  "price_from_inr": 21000,
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "difficulty": "easy",
+  "max_altitude_m": 1620,
+  "start": "Lengpui Airport, Aizawl (AJL)",
+  "end": "Lengpui Airport, Aizawl (AJL)",
+  "meta_description": "Mizoram tour, 4 nights / 5 days from Aizawl: Reiek ridge, Hmuifang forest, Vantawng Falls and a night in Thenzawl. ILP on arrival explained.",
+  "quick_answer": "This 4-night Mizoram trip starts and ends at Lengpui Airport, 32 km from Aizawl. You spend three nights in Aizawl and one in Thenzawl, with a ridge walk at Reiek, the forest at Hmuifang, Vantawng Falls and Thenzawl's handloom lanes. Indians get the ILP online or on arrival. Best October to March.",
+  "overview": [
+    "Aizawl is a city built along ridges, with houses stacked down both sides of the slope and a traffic culture so orderly that horns are rare and queues are kept without police. It makes a quiet, easy base. From here we go west to Reiek, a 1,465 m ridge with a reconstructed Mizo village, and south through the forested hill of Hmuifang to Thenzawl, a weaving town close to Vantawng Falls, one of the tallest waterfalls in Mizoram.",
+    "Drives are 30 to 140 km a day on narrow hill roads, so we keep the pace easy and put the long day in the middle. Mizoram is a Christian-majority state with a strong Sunday observance: shops shut and traffic thins, so we plan Sundays as slow days in Aizawl. It is also a dry state, which suits the calm pace. The best months are October to March, when days are clear and the evening views over the ridges reach far into the hills."
+  ],
+  "highlights": [
+    "Reiek ridge at 1,465 m, with a short hike and a model Mizo heritage village",
+    "Hmuifang Tlang, a protected forest hill at about 1,619 m",
+    "Vantawng Falls near Thenzawl, dropping in two tiers down a forested cliff",
+    "Thenzawl's handloom lanes, where puan cloth is woven on home looms",
+    "Aizawl's Bara Bazar, Mizoram State Museum and the view from Durtlang",
+    "Solomon's Temple, a large white church on Aizawl's eastern edge"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Lengpui Airport to Aizawl",
+      "stay": "Aizawl",
+      "altitude_m": 1130,
+      "drive": "32 km · 1–1.5 hrs",
+      "text": "Indian citizens show their Mizoram ILP at the airport counter, or get a temporary pass there on arrival by paying the fee with a photo ID. Foreign nationals need a Protected Area Permit in advance and must register with the police within 24 hours. Our driver then takes you along the ridge road to Aizawl, crossing the Tlawng river valley before the climb into the city. After check-in and lunch we walk Bara Bazar, the main market that runs down the slope below the city centre, with stalls selling local vegetables, smoked meat, bamboo baskets and puan, the wrap-around Mizo cloth. In the evening watch the city lights appear down the ridges from a viewpoint near Chaltlang. Dinner at the hotel or a Mizo restaurant serving bai, the mild vegetable stew.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Reiek ridge and the State Museum",
+      "stay": "Aizawl",
+      "altitude_m": 1130,
+      "drive": "60 km return · 2.5 hrs",
+      "text": "Reiek is about 30 km west of Aizawl, a ridge rising to 1,465 m above the surrounding forest. From the road end, a 30 to 45-minute walk climbs through trees and rock outcrops to the top, where on clear winter days you can see across the hills toward Bangladesh. Near the base is a model Mizo village with traditional houses for a chief, a widow and a bachelors' dormitory called zawlbuk, which explains how Mizo villages were organised. Back in Aizawl after lunch, visit the Mizoram State Museum for its textiles, jewellery and the history of the Mizo hills. In the evening we can arrange a short Cheraw bamboo dance demonstration if a local group is available.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Hmuifang forest to Thenzawl and Vantawng Falls",
+      "stay": "Thenzawl",
+      "altitude_m": 1000,
+      "drive": "About 140 km · 5–6 hrs with stops",
+      "text": "This is the long day, so we leave by 8 am. The first stop is Hmuifang Tlang, about 50 km south of Aizawl at around 1,619 m, a hill forest protected by village tradition since the time of the Mizo chiefs. Walk the easy trail under old trees for an hour. We then continue south to Thenzawl, a small town known for its weavers, where many homes have looms on the veranda. Late afternoon we drive about 5 km to the Vantawng Falls viewpoint, where the Vanva river drops in two tiers down a wooded cliff; the falls are fullest from August to November. Tonight we stay in Thenzawl, which is quiet and dark by 8 pm.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Thenzawl looms and back to Aizawl",
+      "stay": "Aizawl",
+      "altitude_m": 1130,
+      "drive": "About 90 km · 3.5 hrs",
+      "text": "Spend the morning in Thenzawl's weaving lanes. Families here weave puan on loin looms and frame looms, and you can watch a length being made and buy directly from the weaver; prices are fixed and fair. After lunch we drive back to Aizawl through small hill towns, stopping at roadside stalls for oranges in winter or fresh pineapple in summer. In the late afternoon visit Solomon's Temple, a large white church on the city's eastern edge built by a local congregation, and then head up to Durtlang in north Aizawl for the evening view back across the city ridges. On a Sunday we switch this order, as most of the city goes to church.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Aizawl to Lengpui Airport",
+      "stay": "Departure",
+      "altitude_m": 400,
+      "drive": "32 km · 1–1.5 hrs",
+      "text": "After breakfast there is usually time for a last walk around the city centre, or for a look at the handloom shops near Zarkawt for shawls and puan. We leave for Lengpui Airport at least three hours before your flight, since the road winds and can slow down near the Tlawng bridge. Lengpui has direct flights to Guwahati, Kolkata and Delhi, and connections toward Imphal, Agartala and Shillong on some days, so you can continue your Northeast trip from here. If you have a late flight, we can add a stop at a viewpoint on the airport road. The driver drops you at the terminal and helps with bags.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights in Aizawl and 1 night in Thenzawl on twin sharing",
+    "Daily breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Lengpui Airport pickup and drop",
+    "Local guide in Aizawl and at Reiek",
+    "Visit to a Thenzawl weaving household",
+    "Help with the Mizoram ILP application",
+    "Driver allowance, fuel and parking",
+    "WhatsApp support through the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Lengpui",
+    "Mizoram ILP fee",
+    "Museum, park and camera fees",
+    "Cheraw dance demonstration fee, if booked",
+    "Lunches, drinks and snacks",
+    "Tips, shopping and personal expenses",
+    "Travel insurance",
+    "Costs from landslides or flight changes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Floria, Aizawl, or similar; Mizoram Tourism's tourist lodge or resort at Thenzawl, or similar" },
+    { "tier": "Premium", "options": "Hotel Regency or Hotel Ritz, Aizawl, or similar; Thenzawl Golf Resort, or similar" },
+    { "tier": "Luxury", "options": "Aizawl has no five-star hotel; we book the best rooms or suites at Hotel Regency, or similar, and the top rooms at Thenzawl Golf Resort" }
+  ],
+  "good_to_know": [
+    "Indian citizens need a Mizoram Inner Line Permit. Apply online at ilp.mizoram.gov.in, or get one at the Lengpui Airport counter. The temporary pass runs 15 days, renewable once for 15 more, for about ₹120. Check current status before you travel.",
+    "Foreign nationals need a Protected Area Permit for Mizoram, reimposed on 17 December 2024, applied for in advance through e-FRRO, and must register with the Superintendent of Police (CID/SB) within 24 hours of arrival. Check current status before you travel.",
+    "Mizoram is a dry state under its liquor prohibition law. Do not carry alcohol in.",
+    "Sunday is kept for church across Mizoram. Shops, restaurants and many petrol pumps close, so we plan Sundays as slow days in Aizawl.",
+    "Chapchar Kut, the spring festival, is held in early March with dances in Aizawl. If your dates match, we build a day around it.",
+    "The roads south of Aizawl are narrow and slow. Plan on 25–30 km per hour on average, and more in the rains."
+  ],
+  "faqs": [
+    { "q": "Do I need a permit for Mizoram?", "a": "Indian citizens need an Inner Line Permit, a 15-day temporary pass renewable once, which you can apply for online at ilp.mizoram.gov.in or get at the Lengpui Airport counter. Foreign nationals need a Protected Area Permit in advance and must register with the police within 24 hours of arrival. Rules have changed recently, so check current status before you travel and before you book flights." },
+    { "q": "How far is Lengpui Airport from Aizawl?", "a": "Lengpui Airport is about 32 km from Aizawl, a drive of 1 to 1.5 hours along a winding hill road that crosses the Tlawng river. Airport taxis and shared cabs are available, but we include a private pickup and drop. Leave at least three hours before your flight on the way back." },
+    { "q": "How much does this Mizoram tour cost?", "a": "It starts at ₹21,000 per person on twin sharing, with standard hotels, a private vehicle, guides in Aizawl and Reiek, a weaving visit in Thenzawl and breakfast and dinner daily. Flights, permit and entry fees are extra. Solo travellers pay more because the vehicle is not shared." },
+    { "q": "What is Reiek known for?", "a": "Reiek is a ridge about 30 km west of Aizawl that rises to 1,465 m. A short walk from the road leads to the top, with wide views over forested hills. Near the base is a model Mizo village with traditional houses, including the zawlbuk bachelors' dormitory, that shows how villages were organised in the past." },
+    { "q": "Is Mizoram a dry state?", "a": "Yes. Mizoram has a liquor prohibition law, and alcohol is not sold legally in hotels or shops. Do not carry any across the state border or on your flight into Lengpui. Most visitors find the quiet evenings suit the place, and Mizo tea and local juices are easy to find." },
+    { "q": "What is special about Aizawl?", "a": "Aizawl is built along a series of ridges at about 1,100 m, with houses stacked down steep slopes. It is known for its orderly traffic, where drivers queue patiently and rarely use horns. The city is small and walkable in parts, with a lively Bara Bazar, a good state museum and wide views from Durtlang." },
+    { "q": "When is the best time to visit Mizoram?", "a": "October to March is dry and clear, with daytime temperatures of 18–25°C in Aizawl and cool nights. Vantawng Falls is fullest from August to November. April and May bring pre-monsoon storms, and June to September is wet, with landslides on the roads south of Aizawl. Chapchar Kut in early March is a good time to visit." },
+    { "q": "Why is Sunday different in Mizoram?", "a": "Most Mizos are Christian and Sunday is kept strictly for church and family. Shops, markets and many restaurants close, and there is little traffic. Visitors are welcome to attend a service quietly. We keep Sundays as slow days in Aizawl and avoid long drives, since fuel and food stops may be shut." },
+    { "q": "Can I combine Mizoram with other Northeast states?", "a": "Yes. Lengpui has flights to Guwahati and Kolkata, and on some days connections toward Imphal, Agartala and Shillong. Mizoram combines well with Tripura or Meghalaya by air. Road links to other states are long and slow, so we use flights between states. Ask us to build a multi-state route." }
+  ]
+}

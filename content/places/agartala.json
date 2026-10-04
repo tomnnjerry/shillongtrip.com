@@ -1,0 +1,67 @@
+{
+  "slug": "agartala",
+  "name": "Agartala",
+  "state": "northeast",
+  "state_name": "Tripura",
+  "district": "West Tripura",
+  "types": ["city", "heritage", "palace", "culture"],
+  "tagline": "Tripura's palace city beside the Bangladesh border",
+  "altitude_m": 13,
+  "coords": [23.8315, 91.2868],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for dry, mild weather; July brings Kharchi Puja and the monsoon.",
+  "permit": {
+    "required": false,
+    "indians": "No Inner Line Permit needed for Tripura. Carry photo ID for hotel check-in",
+    "foreigners": "Tripura is not a Protected Area Permit state. Carry your passport and visa; your hotel files Form C"
+  },
+  "from_hub": { "hub": "Agartala Airport", "km": 12, "hours": "0.5" },
+  "ideal_stay": "2 nights in Agartala, plus a day for Neermahal and Udaipur",
+  "meta_description": "Agartala, Tripura: Ujjayanta Palace, Neermahal, Tripura Sundari temple, Sepahijala, how to reach by air and rail, stays and 9 answered FAQs.",
+  "quick_answer": "Agartala is Tripura's capital, a low-lying city about 2 km from the Bangladesh border, reached by air or by train. See Ujjayanta Palace, now the State Museum, then day-trip to Neermahal lake palace, about 53 km south, and the Tripura Sundari temple at Udaipur. No ILP is needed for Indians and no PAP for foreigners.",
+  "intro": [
+    "Agartala is flat, green and close to Bangladesh, with the border only a couple of kilometres from the city centre. It was the capital of the Manikya kings, who ruled Tripura for centuries until it joined India in 1949, and their white Ujjayanta Palace, completed around 1901 and named by Rabindranath Tagore, dominates the middle of town behind its lakes and gardens.",
+    "The palace now holds the Tripura State Museum, with galleries on the state's tribal communities, royal history and the Northeast. It is a good place to start. From Agartala, the best day trip runs south to Neermahal, a lake palace in Rudrasagar built in the 1930s, and to the Tripura Sundari temple at Udaipur, one of the 51 Shakti peethas.",
+    "Tripura is easier to visit than its neighbours: there is no ILP for Indians and no Protected Area Permit for foreigners, and the city is connected by broad-gauge rail and a busy airport. The UK government notes occasional communal and political clashes and border incidents in the state, so we follow local news and check current status before you travel."
+  ],
+  "highlights": [
+    { "name": "Ujjayanta Palace", "text": "A white royal palace completed around 1901, now the Tripura State Museum, set behind lakes and Mughal-style gardens. It is usually closed on Mondays; check before you go." },
+    { "name": "Neermahal", "text": "A lake palace in Rudrasagar at Melaghar, about 53 km south, built as a summer palace in the 1930s. Reached by boat; lit up in the evening on some days." },
+    { "name": "Tripura Sundari temple", "text": "A Shakti peetha at Udaipur, about 55 km south, with a turtle-filled tank beside it. Busy during Diwali." },
+    { "name": "Sepahijala Wildlife Sanctuary", "text": "About 25 km from Agartala, known for Phayre's langur (spectacled monkey), a small zoo, a lake and a clouded leopard enclosure." },
+    { "name": "Chaturdasha Devata temple", "text": "The temple of the fourteen deities in Old Agartala, centre of the Kharchi Puja festival each July." }
+  ],
+  "things_to_do": [
+    "Spend two hours in Ujjayanta Palace and the Tripura State Museum",
+    "Take a boat to Neermahal on Rudrasagar lake",
+    "Visit the Tripura Sundari temple at Udaipur on the same day as Neermahal",
+    "Look for Phayre's langurs at Sepahijala Wildlife Sanctuary",
+    "Watch Kharchi Puja at the Chaturdasha Devata temple in July",
+    "Walk through Heritage Park and the lakes around the palace",
+    "Try Tripuri dishes such as mui borok, made with fermented fish, and local bamboo-shoot preparations",
+    "Continue north to Unakoti's rock carvings for a night"
+  ],
+  "how_to_reach": "Maharaja Bir Bikram Airport is about 12 to 15 km north of the city, with direct flights from Kolkata, Guwahati, Delhi and other cities; the Kolkata flight takes under an hour. Agartala railway station is on the broad-gauge network, with trains from Guwahati and a Rajdhani Express from Delhi, though the rail journey from Guwahati takes the best part of a day through the Dima Hasao and Barak valley hills. By road, Agartala is about 550 km from Guwahati via Shillong and Silchar. Unakoti is about 180 km north.",
+  "where_to_stay": "Central Agartala, around the palace, Hotel Gate and Durga Chowmuhani, has most of the mid-range and business hotels, within a short drive of Ujjayanta Palace and the markets. Budget lodges cluster near the old bus stand areas. Quieter hotels sit on the airport road. For Neermahal, Tripura Tourism has run a tourist lodge at Melaghar by Rudrasagar lake, useful if you want the palace at sunset; confirm it is open before you book. Book ahead for Durga Puja and Diwali.",
+  "tips": [
+    "Check the palace museum's opening days before you go; it is usually closed on Mondays",
+    "Do Neermahal and Tripura Sundari together in one day, starting by 8 am",
+    "Carry photo ID; hotels register every guest",
+    "Stay well back from the Bangladesh border fence and follow Border Security Force instructions",
+    "Bandhs and local protests can disrupt transport at short notice; check current status before you travel",
+    "Summers are hot and humid; plan outdoor sights for mornings"
+  ],
+  "faqs": [
+    { "q": "Do I need a permit to visit Agartala?", "a": "No. Tripura does not require an Inner Line Permit for Indian citizens, and it is not a Protected Area Permit state for foreigners. Indians need only photo ID for hotel check-in, and foreigners need a valid passport and visa; hotels file the usual Form C registration. Check current status before you travel." },
+    { "q": "What is Ujjayanta Palace?", "a": "Ujjayanta Palace is the former royal palace of the Manikya kings of Tripura, completed around 1901 and named by Rabindranath Tagore. It housed the state assembly until 2011 and is now the Tripura State Museum, with galleries on tribal life, royal history and the Northeast. It is usually closed on Mondays." },
+    { "q": "How far is Neermahal from Agartala?", "a": "Neermahal, the lake palace in Rudrasagar at Melaghar, is about 53 km south of Agartala, roughly 1.5 to 2 hours by road. You reach the palace by boat from the lakeshore. Most visitors combine it with the Tripura Sundari temple at Udaipur, about 55 km from Agartala, in a single day." },
+    { "q": "How do I reach Agartala?", "a": "Fly into Maharaja Bir Bikram Airport, about 12 to 15 km from the city, with direct flights from Kolkata, Guwahati, Delhi and other cities. Agartala also has a broad-gauge railway station with trains from Guwahati and a Rajdhani Express from Delhi. By road it is a long drive of about 550 km from Guwahati." },
+    { "q": "What is the best time to visit Agartala?", "a": "October to March is the best time, with dry, mild weather for sightseeing. Durga Puja in October and Diwali at Tripura Sundari temple are festive times. Kharchi Puja, in July, is Tripura's biggest temple festival, but it falls in the hot, wet monsoon season." },
+    { "q": "How many days do I need in Agartala?", "a": "Two nights is enough: one day for Ujjayanta Palace, Heritage Park and Sepahijala, and another for Neermahal and the Tripura Sundari temple. Add one or two nights if you want to continue to Unakoti's rock carvings in the north of the state." },
+    { "q": "Is Agartala safe for tourists?", "a": "Agartala is generally calm and welcoming for tourists. The UK government notes occasional communal and political clashes in Tripura and incidents along the Bangladesh border, and bandhs can disrupt transport. Follow local news, stay away from protests and the border fence, and check current status before you travel." },
+    { "q": "What is Kharchi Puja?", "a": "Kharchi Puja is a week-long festival in July at the Chaturdasha Devata temple in Old Agartala, dedicated to fourteen deities worshipped by the Tripuri royal family and people. It draws large crowds, with rituals, a fair and cultural events. It falls in the monsoon, so expect heat and rain." },
+    { "q": "What is there to see near Agartala?", "a": "Near Agartala you can visit the Neermahal lake palace, the Tripura Sundari temple at Udaipur, Sepahijala Wildlife Sanctuary for Phayre's langurs and the Kamalasagar Kali temple beside the border. Unakoti's 7th to 9th century rock carvings are about 180 km north, a good overnight trip." }
+  ],
+  "nearby": ["unakoti", "aizawl", "haflong", "shillong"],
+  "image_query": "Ujjayanta Palace Agartala"
+}

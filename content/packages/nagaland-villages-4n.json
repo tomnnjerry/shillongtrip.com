@@ -1,0 +1,121 @@
+{
+  "slug": "nagaland-villages-4n",
+  "title": "Kohima and Khonoma",
+  "nights": 4,
+  "themes": ["culture", "offbeat"],
+  "states": ["northeast"],
+  "places": ["kohima", "khonoma"],
+  "hero": "khonoma",
+  "price_from_inr": 21500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 1500,
+  "start": "Dimapur Airport (DMU)",
+  "end": "Dimapur Airport (DMU)",
+  "meta_description": "Kohima and Khonoma tour, 4 nights / 5 days from Dimapur: War Cemetery, Kisama, two homestay nights in Khonoma and a day in Dzuleke. ILP help.",
+  "quick_answer": "This 4-night Nagaland trip covers Kohima's War Cemetery, museum and Kisama Heritage Village, then two nights in a Khonoma homestay with a day trip to the small Angami village of Dzuleke. It suits travellers who want village life without festival crowds. Best October to April; avoid 1–10 December unless you want Hornbill prices.",
+  "overview": [
+    "Most people see Nagaland only during the Hornbill Festival. This trip is for the other 355 days: Kohima without the traffic, and two quiet nights in Khonoma, the Angami village that stopped hunting across its forests in 1998 and now protects the Blyth's tragopan and other birds. You walk the village with a local guide, eat with your hosts and spend a day in Dzuleke, a smaller settlement further down the valley with a clear stream and community-run cottages.",
+    "Kohima gets two nights so you are not rushed: the War Cemetery on Garrison Hill, the Nagaland State Museum, the large wooden cathedral on Aradura hill, and a quiet afternoon at Kisama Heritage Village, where the tribal morungs built for Hornbill stand open all year. Drives are short, from 20 km to 75 km a day, and there is no hard walking, so this suits families with older children and first-time visitors to the Northeast."
+  ],
+  "highlights": [
+    "Two homestay nights in Khonoma with meals cooked on the family hearth",
+    "Guided walk through Khonoma's stone gateways, clan quarters and terraced paddies",
+    "A day in Dzuleke, a small Angami village by a clear mountain stream",
+    "Kohima War Cemetery and the 1944 tennis court battlefield",
+    "Kisama Heritage Village and its tribal morungs, open outside festival season",
+    "Nagaland State Museum and the wooden cathedral on Aradura hill"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Dimapur to Kohima",
+      "stay": "Kohima",
+      "altitude_m": 1440,
+      "drive": "75 km · 2.5–3 hrs",
+      "text": "We meet you at Dimapur Airport; keep your Nagaland ILP ready, since Dimapur is inside the permit area and checks happen at the airport and on the road. The highway climbs from the plains through the Chumoukedima foothills, with the air cooling noticeably above 1,000 m. Check in to your Kohima hotel by early afternoon. At about 4 pm we walk the Kohima War Cemetery on Garrison Hill, where terraces of headstones mark the Allied soldiers who fought the Japanese advance here in April 1944. The tennis court where the lines stood a few metres apart is marked in white. In the evening try a local thali with smoked pork or a simpler rice and vegetable meal at the hotel.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Kohima museum, cathedral and Kisama",
+      "stay": "Kohima",
+      "altitude_m": 1440,
+      "drive": "40 km in total · 2 hrs",
+      "text": "Start at the Nagaland State Museum, which lays out dress, jewellery, weapons and log drums from each of the major Naga tribes and is the best one-hour introduction you can get. Then drive up to Aradura hill to see the Mary Help of Christians Cathedral, built in the 1990s with a large carved wooden crucifix. After lunch we head 12 km south to Kisama Heritage Village. Outside festival season it is almost empty, which means you can walk into each morung, see the carved posts and hearths closely and talk to the caretakers. Stop at Kigwema village next door, where the Japanese headquarters sat briefly in 1944. Back in Kohima, the market near the main road is busy until about 6 pm.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Kohima to Khonoma village",
+      "stay": "Khonoma",
+      "altitude_m": 1500,
+      "drive": "20 km · 45 mins",
+      "text": "The road to Khonoma winds west past Jotsoma and drops into a valley of stepped rice terraces fed by stone channels. Your homestay family greets you with tea, and after lunch a village guide leads a two-hour walk: the old stone gateways, the khels or clan quarters, the memorial to the 1879 battle with British forces and the sitting circles where elders still meet. The walk ends at a viewpoint over the terraces, which are green from June to September and golden-brown after the October harvest. In the evening you sit by the kitchen hearth while dinner cooks, usually rice, local greens, chutney with king chilli and pork or chicken. Rooms are simple, with hot water in buckets.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Day trip to Dzuleke",
+      "stay": "Khonoma",
+      "altitude_m": 1500,
+      "drive": "About 30 km return · 2.5 hrs on a rough road",
+      "text": "After breakfast we take the narrow road beyond Khonoma to Dzuleke, a small Angami village of a few dozen households set beside a clear, fast stream. The village has kept its forest intact and runs its own simple ecotourism cottages, so you will see more birds and fewer vehicles than anywhere else on this trip. Walk the stream path with a local guide, stop at the stone pools where children swim in summer, and have a lunch of rice, stream fish or pork and fresh greens at a village home. We head back to Khonoma by 4 pm. If you prefer to stay put, spend the day on longer forest walks from Khonoma instead.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Khonoma to Dimapur for departure",
+      "stay": "Departure",
+      "altitude_m": 150,
+      "drive": "95 km · 3.5 hrs",
+      "text": "After breakfast say goodbye to your hosts; many families will pack a bottle of local tea or dried chilli if you ask. We drive back through Jotsoma to Kohima and then down the highway to Dimapur, which takes about 3.5 hours in total. Leave by 8 am for a flight before 2 pm. On the way, a stop at a roadside stall in Piphema or Medziphema gives you a last chance to buy pineapple, oranges in winter, or bamboo crafts. For late flights we can visit the Kachari ruins in Dimapur, carved sandstone pillars from the Dimasa Kachari kingdom. The driver drops you at the airport at least two hours before departure.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "2 nights in Kohima on twin sharing with breakfast and dinner",
+    "2 nights in a Khonoma homestay with all meals",
+    "Lunch with a village family in Dzuleke",
+    "Private vehicle for all transfers and sightseeing",
+    "Dimapur Airport pickup and drop",
+    "Village guide for the Khonoma walk",
+    "Local guide in Dzuleke",
+    "Help with the Nagaland ILP application",
+    "Driver allowance, fuel and parking",
+    "WhatsApp support from our desk"
+  ],
+  "exclusions": [
+    "Flights or trains to and from Dimapur",
+    "Nagaland ILP fee",
+    "Museum, heritage village, cemetery camera and village entry fees",
+    "Lunches in Kohima and drinks",
+    "Tips for guides, hosts and driver",
+    "Travel insurance",
+    "Costs from landslides, road closures or flight changes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Japfu, Kohima, or similar; Dovipie Inn homestay, Khonoma, or similar" },
+    { "tier": "Premium", "options": "Hotel Vivor or The Heritage (the old District Commissioner's bungalow), Kohima, or similar; a Khonoma homestay with attached bathroom" },
+    { "tier": "Luxury", "options": "Niraamaya Retreats Aradura, Kohima, or similar; Khonoma has only homestays, so the village nights stay simple in every tier" }
+  ],
+  "good_to_know": [
+    "Indian citizens need a Nagaland Inner Line Permit, applied for online only at ilp.nagaland.gov.in before arrival (₹200 for 30 days at the last revision); Dimapur is inside the ILP area. Check current status before you travel.",
+    "Foreign nationals need a Protected Area Permit for Nagaland; the Protected Area Regime was reimposed on 17 December 2024. Check current status before you travel.",
+    "Khonoma and Dzuleke are Christian villages and Sunday is kept for church. Walks and shops slow down, so we avoid scheduling village days on Sundays where we can.",
+    "Nagaland is a dry state. Do not bring liquor across the border, and ask before drinking in homestays.",
+    "During the Hornbill Festival (1–10 December) Kohima prices rise sharply. We price this trip for the rest of the year.",
+    "Ask before photographing people, especially older villagers, and do not enter granaries or private rooms without an invitation."
+  ],
+  "faqs": [
+    { "q": "What is special about Khonoma?", "a": "Khonoma is an Angami village known for its 1879 stand against British forces and for its own conservation rules. In 1998 the village council banned hunting and logging across much of its land and set up the Khonoma Nature Conservation and Tragopan Sanctuary. Its terraced paddy fields and stone gateways are among the best preserved in Nagaland." },
+    { "q": "How far is Khonoma from Kohima?", "a": "Khonoma is about 20 km west of Kohima, roughly 45 minutes by road through Jotsoma. The last stretch is narrow and winding but paved in most places. From Dimapur Airport it is about 95 km, or 3.5 hours, which is why we stay in Kohima first and end the trip with the drive down from Khonoma." },
+    { "q": "How much does this Nagaland tour cost?", "a": "This 4-night trip starts at ₹21,500 per person on twin sharing, with standard Kohima hotels and Khonoma homestays, a private vehicle, village guides and most meals. Prices rise in the first ten days of December because of the Hornbill Festival. Solo travellers pay more, since the vehicle cost is not shared." },
+    { "q": "What are homestays in Khonoma like?", "a": "They are family houses with two to four guest rooms, clean bedding and usually a shared or attached bathroom with hot water in buckets. You eat with the family or in a dining room by the hearth. Power cuts happen, so carry a torch. The value is the company and the food, not the fittings." },
+    { "q": "Do I need a permit to visit Kohima and Khonoma?", "a": "Yes. Indian citizens need a Nagaland Inner Line Permit, applied for online and carried as a printout or PDF. Foreign nationals need a Protected Area Permit. Both are checked at Dimapur and on the road. Rules have changed several times since 2019, so check current status before you travel." },
+    { "q": "What is Dzuleke?", "a": "Dzuleke is a small Angami village beyond Khonoma, set by a clear stream and surrounded by forest the villagers have protected. It runs a few community cottages and welcomes day visitors with a local guide. The road is rough and the village is quiet, which is the point: it shows Nagaland village life at a very small scale." },
+    { "q": "What food will I eat in Khonoma?", "a": "Expect rice with every meal, boiled or stir-fried local greens, bamboo shoot, chutney made with king chilli, and pork or chicken, sometimes smoked. Hosts are used to guests and will make milder, vegetarian or egg-based dishes if told in advance. Tell us your diet when you book and we pass it on." },
+    { "q": "When is the best time to visit Kohima and Khonoma?", "a": "October to April is dry, with clear views and cool days. October and November show the rice harvest on Khonoma's terraces. December and January nights drop to about 3°C. June to September is green but wet, with some landslides on the Dimapur road. Avoid 1–10 December unless you are coming for Hornbill." },
+    { "q": "Can I add the Hornbill Festival or Dzukou to this trip?", "a": "Yes. If your dates fall between 1 and 10 December, we can add a full day at Kisama, though hotel rates rise. For Dzukou Valley, add one or two nights: a day hike to the rim from Viswema fits in one extra day, and the overnight trek in two. See our Dzukou and Hornbill packages for details." }
+  ]
+}

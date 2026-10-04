@@ -1,0 +1,66 @@
+{
+  "slug": "kamakhya-temple",
+  "name": "Kamakhya Temple",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Kamrup Metropolitan",
+  "types": ["temple", "pilgrimage", "heritage"],
+  "tagline": "Guwahati's hilltop Shakti peetha and home of the Ambubachi Mela",
+  "altitude_m": 180,
+  "coords": [26.1664, 91.7055],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for cooler queues; avoid Ambubachi week in late June unless you want the festival crowds.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed. Photo ID may be checked for special darshan tickets",
+    "foreigners": "No special permit for Assam. Carry your passport; non-Hindu visitors can usually enter the complex, but follow priests' instructions at the sanctum"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 8, "hours": "0.5" },
+  "ideal_stay": "A half-day from a Guwahati hotel; stay on or near Nilachal Hill only if you want a pre-dawn start",
+  "meta_description": "Kamakhya Temple, Guwahati: darshan timings, queues, special entry, Ambubachi Mela closure in June, how to reach Nilachal Hill and 9 answered FAQs.",
+  "quick_answer": "Kamakhya Temple stands on Nilachal Hill, about 8 km west of central Guwahati, and is one of the most revered Shakti peethas. Darshan usually runs from about 8 am to 1 pm and 2.30 pm to 5.15 pm. The sanctum closes for three days during the Ambubachi Mela in late June. Go early to beat long queues.",
+  "intro": [
+    "Kamakhya is the reason many pilgrims come to Guwahati at all. The temple sits on Nilachal Hill above the Brahmaputra, and its main shrine has no idol: devotees worship a stone yoni in a dark, damp chamber below ground level, fed by a natural spring. It is counted among the oldest of the 51 Shakti peethas.",
+    "The present structure dates from 1565, when the Koch general Chilarai rebuilt it under King Nara Narayan; the beehive-shaped dome is brick on a stone base. Around the main shrine stand separate temples of the Dasa Mahavidya, the ten forms of the goddess, spread across the hilltop. A large corridor redevelopment project began in 2024, so expect construction and changed entry routes; check current status before you travel.",
+    "Be ready for crowds. On weekends, Tuesdays, Saturdays and festival days the general queue can take three to four hours. Animal sacrifice is still practised here, mostly in the mornings, which some visitors find hard to see. We usually suggest an opening-time visit, followed by the walk up to Bhubaneswari temple for the view over Guwahati."
+  ],
+  "highlights": [
+    { "name": "The garbhagriha", "text": "The underground sanctum with the spring-fed yoni stone. Steps are steep and wet, the chamber is lit by oil lamps, and you get only a few seconds inside." },
+    { "name": "Dasa Mahavidya shrines", "text": "Separate temples to Kali, Tara, Bhuvaneshvari, Bagalamukhi and the other Mahavidyas are scattered over the hill. A walk around them takes about an hour." },
+    { "name": "Ambubachi Mela", "text": "Held every June, marking the goddess's annual menstruation. The sanctum closes for three days and hundreds of thousands of pilgrims and sadhus gather on the hill." },
+    { "name": "Bhubaneswari temple viewpoint", "text": "At the top of Nilachal Hill, a short drive or 15-minute walk above Kamakhya, with a wide view over the Brahmaputra and the city." },
+    { "name": "Temple architecture", "text": "The Nilachal style of beehive dome over a cruciform plan, with carved stone panels reused from older temples. Look at the outer walls while you queue." }
+  ],
+  "things_to_do": [
+    "Join the free general queue early, well before the 8 am opening, or book a general-queue slot online through the temple website",
+    "Consider special darshan at INR 501 per person if you are short of time; book through the official temple website or counter",
+    "Walk the circuit of the Dasa Mahavidya shrines after darshan",
+    "Continue to Bhubaneswari temple at the hilltop for the city and river view",
+    "Buy prasad, red chunri and brass items at the stalls along the approach",
+    "Time a visit for Durga Puja, Manasa Puja or Ambubachi if you want to see festival rituals",
+    "Combine Kamakhya with the Umananda ferry and a sunset river cruise the same day"
+  ],
+  "how_to_reach": "Kamakhya is on Nilachal Hill, about 8 km from Paltan Bazaar and the main Guwahati railway station, and roughly 20 km from Guwahati airport. Kamakhya Junction railway station is about 6 km away at Maligaon. App cabs and autos run up the hill road to the parking area near the main gate; city buses stop at the foot of the hill, where shared vehicles take you up. There is also an old stepped path, the Mekhelaujua path, for those who want to climb on foot. During Ambubachi, private vehicles are restricted and shuttle buses run from the base.",
+  "where_to_stay": "Most visitors stay in Guwahati and do Kamakhya as a morning trip. Paltan Bazaar and the Maligaon side are closest, with budget and mid-range hotels 15 to 25 minutes from the gate. GS Road hotels are 30 to 45 minutes away depending on traffic. There are guest houses and dharamshalas on and around Nilachal Hill, useful for a pre-dawn queue, but they fill fast in June and at Navaratri. For Ambubachi, book months ahead or stay in North Guwahati and accept a longer commute.",
+  "tips": [
+    "Regular darshan is usually about 8 am to 1 pm and 2.30 pm to 5.15 pm, with changes on festival days; check current status before you travel",
+    "Leave shoes, leather belts and wallets at the stands; phones and cameras are not allowed inside the sanctum",
+    "Wear clothes you can kneel and climb in; the sanctum steps are wet and slippery",
+    "Only pay for special entry at the official counter and ignore touts offering quick darshan",
+    "If animal sacrifice will upset you or your children, visit later in the morning and avoid the sacrifice area near the main shrine",
+    "Ambubachi dates are fixed by the Hindu calendar, usually around 22 to 26 June; the sanctum is shut for three days"
+  ],
+  "faqs": [
+    { "q": "What are the Kamakhya Temple darshan timings?", "a": "Regular darshan usually runs from about 8 am to 1 pm and again from 2.30 pm to 5.15 pm, with a midday closure for the goddess's bhog. Timings shift on festival days, during Ambubachi and on special occasions. Queues form well before opening, so arrive early. Check current status before you travel." },
+    { "q": "When is Kamakhya Temple closed for Ambubachi Mela?", "a": "The sanctum closes for three days during the Ambubachi Mela, held every June to mark the goddess's annual menstruation. In 2026 the mela ran from the night of 22 June, with no darshan on 23 to 25 June and the temple reopening on 26 June. Future dates follow the Hindu calendar, so confirm each year." },
+    { "q": "How long is the queue at Kamakhya Temple?", "a": "On a quiet weekday morning the general queue can take 1 to 2 hours. On weekends, Tuesdays, Saturdays and festival days it can take 3 to 4 hours or more. Special darshan, at INR 501 per person, is much faster. Arriving before opening or booking a general-queue slot online cuts waiting time." },
+    { "q": "Is there a VIP or special darshan at Kamakhya?", "a": "Yes. Special darshan costs INR 501 per person and has a much shorter wait; the general queue is free and can also be booked online. Daily limits and counters may change with the corridor redevelopment. Book only through the official temple website or counter and ignore touts. Check current status before you travel." },
+    { "q": "How far is Kamakhya Temple from Guwahati railway station and airport?", "a": "Kamakhya is about 8 km from Guwahati railway station in Paltan Bazaar, a 25 to 30 minute drive, and roughly 20 km from Guwahati airport, which takes about 45 minutes. Kamakhya Junction station at Maligaon is closer, about 6 km. Cabs drive up the hill road to the parking area near the main gate." },
+    { "q": "Can non-Hindus and foreigners visit Kamakhya Temple?", "a": "Foreign and non-Hindu visitors generally visit the complex and many join the queue for the sanctum. Dress modestly, remove shoes and leather, and follow priests' and security staff's instructions. Photography is not allowed inside the sanctum, and some inner areas may be restricted during special rituals, so ask before you enter." },
+    { "q": "Is animal sacrifice still practised at Kamakhya?", "a": "Yes. Animal sacrifice, mostly of goats and sometimes buffaloes and pigeons, is a long-standing tradition at Kamakhya and is usually carried out in the mornings in a designated area near the main shrine. Visitors who would rather not see it can visit later in the morning and keep away from that area." },
+    { "q": "What should I wear to Kamakhya Temple?", "a": "Wear modest clothes that cover shoulders and knees and that you can climb and kneel in, since the sanctum steps are steep and wet. You must remove shoes and leather items such as belts and wallets. Carry a small cloth bag for prasad and a little cash for offerings and the shoe stand." },
+    { "q": "What is the best time to visit Kamakhya Temple?", "a": "October to March is the most comfortable season, with cooler mornings for long queues. Durga Puja and Navaratri bring large crowds and special rituals. June's Ambubachi Mela is the biggest event of the year, but the sanctum is closed for three days. Early weekday mornings are the quietest time in any season." }
+  ],
+  "nearby": ["guwahati", "hajo", "pobitora", "umiam-lake"],
+  "image_query": "Kamakhya Temple Nilachal Hill Guwahati"
+}

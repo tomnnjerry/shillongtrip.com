@@ -1,0 +1,121 @@
+{
+  "slug": "ziro-valley-4n",
+  "title": "Ziro Valley",
+  "nights": 4,
+  "themes": ["culture", "offbeat"],
+  "states": ["arunachal"],
+  "places": ["itanagar", "ziro-valley"],
+  "hero": "ziro-valley",
+  "price_from_inr": 21500,
+  "best_months": [3, 4, 9, 10, 11],
+  "difficulty": "easy",
+  "max_altitude_m": 1700,
+  "start": "Donyi Polo Airport, Itanagar (HGI)",
+  "end": "Donyi Polo Airport, Itanagar (HGI)",
+  "meta_description": "Ziro Valley tour, 4 nights / 5 days: Itanagar, then 3 nights among Apatani villages, pine hills and paddy-cum-fish fields, with homestay dinners.",
+  "quick_answer": "This 4 nights / 5 days trip flies into Itanagar's Donyi Polo Airport and spends three nights in Ziro Valley, home of the Apatani people, known for their paddy-cum-fish farming, bamboo and pine groves and village festivals. It includes Itanagar's Ita Fort and museum. From ₹21,500 per person, twin sharing, best March to April and September to November.",
+  "overview": [
+    "Ziro is a wide, flat valley at about 1,570 m, ringed by pine and bamboo hills, and farmed for centuries by the Apatani. Their wet-rice fields are also fish ponds, irrigated by a network of channels, and the whole cultural landscape has been on UNESCO's tentative World Heritage list since 2014. The villages, Hong, Hari, Bamin and Dutta among them, are dense clusters of raised bamboo houses with granaries, prayer poles called babo and village platforms called lapang. Older women may still have the traditional facial tattoos and nose plugs, a custom now abandoned.",
+    "Ziro is about 120 km from Itanagar, a drive of four and a half to five hours. We spend the first night in Itanagar so you are not arriving in Ziro after dark, then give the valley three nights: time to walk the villages slowly, climb to viewpoints, and eat at least once in an Apatani home. The trip avoids the Ziro Festival of Music dates in late September, when rooms are scarce and prices high; ask us about our festival package if that is what you want."
+  ],
+  "highlights": [
+    "Walking Hong, Hari and Bamin, the largest Apatani villages",
+    "Paddy-cum-fish fields, green in spring and gold at the September–October harvest",
+    "Babo poles, lapang platforms and granaries in each village",
+    "An Apatani home-cooked dinner with bamboo-shoot dishes and rice beer",
+    "Pine-covered ridges and the Kile Pakho viewpoint over the valley",
+    "Ita Fort and the Jawaharlal Nehru State Museum in Itanagar"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Itanagar, Ita Fort and the state museum",
+      "stay": "Itanagar",
+      "altitude_m": 350,
+      "drive": "Airport to Itanagar 14 km · 30–40 min",
+      "text": "We meet you at Donyi Polo Airport at Hollongi, which has an eILP facilitation counter if you have not applied online. After check-in, visit the Jawaharlal Nehru State Museum, the best introduction to Arunachal's many tribes, with costumes, weapons, jewellery and musical instruments. Then Ita Fort, a large, irregular brick fortification from around the 14th or 15th century that gave the capital its name, and the hilltop Buddha Vihar with a view over the twin towns of Itanagar and Naharlagun. If time allows, Ganga Lake, a quiet forest lake a short drive from town.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Itanagar to Ziro",
+      "stay": "Ziro",
+      "altitude_m": 1570,
+      "drive": "120 km · 4.5–5 hrs",
+      "text": "Leave after breakfast by 8.30 am. The road climbs through Yazali and forested hills along the Ranganadi valley, with stops for tea and the views over the river. The final stretch comes over a ridge and suddenly opens onto the flat, fenced fields of the Apatani plateau. Arrive by early afternoon and check in. In the late afternoon walk into Hong, one of the largest Apatani villages, where lanes run between raised bamboo houses and each clan has its own lapang, a platform used for meetings and rituals. Dinner at your hotel or homestay.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Apatani villages and paddy-cum-fish fields",
+      "stay": "Ziro",
+      "altitude_m": 1570,
+      "drive": "Local · about 30 km",
+      "text": "A full day with a local Apatani guide. Morning in Hari and Bamin villages, looking at the tall babo poles raised for the Myoko festival, the granaries set apart from houses to protect against fire, and the bamboo and pine groves every family maintains. Then walk the field bunds to see how rice and fish are raised together, and how the channels move water from the hills through every plot. After lunch, drive to Dutta and to the Kile Pakho ridge for a view over the whole valley. Evening dinner in an Apatani home.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Pine hills, a forest shrine and a slow day",
+      "stay": "Ziro",
+      "altitude_m": 1570,
+      "drive": "Local · about 40 km",
+      "text": "A slower day. In the morning walk through the pine forest on the valley's edge to the Kardo shrine, where a large natural stone lingam draws Hindu pilgrims, particularly around Shivaratri. Then visit the Tarin fish farm, a government centre breeding the fish used in the paddy fields. The afternoon is free for cycling or wandering around Old Ziro and Hapoli market, where Apatani women sell bamboo shoots, local chillies and handwoven cloth. Nature lovers can ask about Talley Valley Wildlife Sanctuary, which needs forest permission and a good-weather day.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Ziro to Donyi Polo Airport",
+      "stay": "Departure",
+      "altitude_m": 350,
+      "drive": "125 km · 4.5–5 hrs",
+      "text": "Breakfast and an early departure at about 8 am for the drive back down to Itanagar and on to Donyi Polo Airport at Hollongi, 14 km south of the capital. Book a flight after 2.30 pm to allow for the winding road and occasional roadworks. If you would rather fly from Lilabari Airport at North Lakhimpur in Assam, about 100 km from Ziro, or take a train from Naharlagun, we can drop you there instead. Travellers continuing to Guwahati by road should allow nine to ten hours from Ziro; we suggest breaking the journey.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "4 nights: 1 in Itanagar and 3 in Ziro, twin sharing",
+    "Daily breakfast and dinner, including one Apatani home dinner",
+    "Private SUV for all transfers and sightseeing",
+    "Arunachal Temporary ILP processing for Indian citizens",
+    "Protected Area Permit processing for foreign nationals",
+    "Local Apatani guide for a full day in the villages",
+    "Itanagar museum and Ita Fort visits",
+    "Driver allowance, fuel, tolls and parking",
+    "Airport pickup and drop at Donyi Polo Airport",
+    "24-hour WhatsApp support"
+  ],
+  "exclusions": [
+    "Flights to and from Itanagar",
+    "Government eILP fee (about ₹300–500) or PAP royalty (USD 30–50)",
+    "Museum and camera fees",
+    "Talley Valley permit, vehicle and guide",
+    "Lunches, snacks and drinks",
+    "Tips and personal expenses",
+    "Travel insurance"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Itanagar: Hotel Donyi Polo Ashok; Ziro: Ziro Palace Inn or a family-run Apatani homestay, or similar" },
+    { "tier": "Premium", "options": "Itanagar: Hotel Donyi Polo Ashok deluxe room; Ziro: Siiro Resort, or similar" },
+    { "tier": "Luxury", "options": "Ziro has no luxury hotels. Our top tier books the best available room in Itanagar and Siiro Resort's valley-facing cottages, with a private guide for all days, or similar" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal Temporary ILP from eilp.arunachal.gov.in, about ₹300–500; pay whatever the portal shows. By road, it is checked at Banderdewa or Kimin; there is a counter at Donyi Polo Airport. Check current status before you travel.",
+    "Foreign nationals need a Protected Area Permit through an approved operator. Solo foreigners are reported to be allowed for Ziro. The royalty is about USD 30–50, confirmed by your operator.",
+    "The Ziro Festival of Music is held in late September; the 2026 edition was on 24 to 27 September. Rooms sell out months ahead, so book the festival separately.",
+    "Myoko, the Apatani spring festival, is held in March, and Dree in early July. Ask before photographing rituals or people, especially older women with facial tattoos.",
+    "Ziro winter nights drop to around zero from December to February. Carry a warm jacket in any month except summer.",
+    "Card payments and ATMs are limited in Ziro. Carry cash for homestays and markets."
+  ],
+  "faqs": [
+    { "q": "How far is Ziro from Itanagar?", "a": "About 120 km by road, a drive of four and a half to five hours through Yazali and the hills. Donyi Polo Airport at Hollongi is 14 km south of Itanagar. Lilabari Airport at North Lakhimpur in Assam is about 100 km from Ziro and is sometimes more convenient." },
+    { "q": "Do we need a permit to visit Ziro?", "a": "Yes. Indian citizens need an Arunachal Temporary ILP, applied online at eilp.arunachal.gov.in, costing about ₹300–500. Foreign nationals need a Protected Area Permit through an approved operator; solo foreigners are reported to be allowed for Ziro. Check current status before you travel." },
+    { "q": "What is special about Ziro Valley?", "a": "Ziro is home to the Apatani, whose wet-rice fields double as fish ponds, fed by an old network of irrigation channels. Their villages, sacred groves and pine and bamboo plantations form a cultural landscape on UNESCO's tentative list since 2014. The valley's calm, cool climate adds to the appeal." },
+    { "q": "When is the best time to visit Ziro?", "a": "March to April for Myoko and planting season, and September to November for golden fields at harvest and clear weather. December to February is cold but clear. June to August is wet, though green. The music festival in late September is lively but crowded." },
+    { "q": "How much does the Ziro Valley package cost?", "a": "The indicative price starts at ₹21,500 per person, twin sharing, with one night in Itanagar, three in Ziro, breakfast and dinner, a private SUV, a guide and permit processing. Premium stays cost more, and festival dates cost considerably more. Flights and permit fees are extra." },
+    { "q": "When is the Ziro Festival of Music?", "a": "The Ziro Festival of Music is held in late September each year. The 2026 edition took place from 24 to 27 September. The next edition is expected in late September 2027, with dates announced by the organisers. Our separate festival package covers camping and tickets." },
+    { "q": "Can we stay in an Apatani homestay?", "a": "Yes. Several Apatani families in and around Hong, Siiro and Hari run homestays with simple rooms, shared meals and hosts who explain village life. Facilities are basic but clean. We include one home dinner in all tiers and can book homestays for all three nights on request." },
+    { "q": "Is Ziro suitable for families and seniors?", "a": "Yes. The valley is flat, village walks are easy and the altitude of about 1,570 m causes no problems for most people. The only demanding part is the five-hour winding drive from Itanagar. Seniors should carry warm clothes, as evenings are cool even in spring and autumn." },
+    { "q": "Can we combine Ziro with Tawang?", "a": "Yes, but they are far apart, with no short road between them. Most travellers go Ziro, then back through Assam to Tezpur and up to Tawang via Dirang, adding at least five nights. Our Grand Arunachal plan combines Tawang, Ziro and Mechuka in twelve nights." }
+  ]
+}

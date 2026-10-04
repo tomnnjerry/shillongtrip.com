@@ -1,0 +1,5 @@
+{% load trips_tags %}<section class="cta" aria-labelledby="cta-h"><div class="shell"><div class="cta__box">
+  <div class="cta__text"><span class="eyebrow eyebrow--light">{% icon 'route' %} Free trip plan</span><h2 id="cta-h">{{ title }}</h2><p>{{ text }}</p>
+    <div class="row"><a class="btn btn--sun" href="/contact/">Get my plan {% icon 'arrow' %}</a><a class="btn btn--glass" href="{% wa_link msg %}"{% wa_attrs %}>{% icon 'wa' %} WhatsApp</a></div></div>
+  <div class="cta__pic">{% img im sizes='(min-width: 900px) 40vw, 100vw' %}</div>
+</div></div></section>

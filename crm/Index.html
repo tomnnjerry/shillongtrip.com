@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="en">
+<head>
+<base target="_top">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trip Desk CRM</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap">
+<style>
+:root{--bg:#F3F5F2;--card:#fff;--ink:#12201A;--ink2:#3C4B44;--muted:#6B7A72;--line:rgba(18,32,26,.1);--line2:rgba(18,32,26,.18);--side:#0F2A1F;--green:#0E6B4C;--sun:#F2672A;--sunbg:#FFF1EA;--warn:#B45309;--no:#B91C1C;--ok:#15803D;
+--s-New:#2563EB;--s-Contacted:#0E7490;--s-Quoted:#7C3AED;--s-Negotiating:#C2410C;--s-Booked:#15803D;--s-Lost:#6B7280;--r:16px}
+*{box-sizing:border-box}html,body{margin:0;height:100%}body{font:14px/1.5 'Hanken Grotesk',system-ui,sans-serif;background:var(--bg);color:var(--ink)}
+button,input,select,textarea{font:inherit;color:inherit}button{cursor:pointer}[hidden]{display:none!important}
+a{color:var(--green)}
+.app{display:grid;grid-template-columns:232px 1fr;height:100vh}
+.side{background:var(--side);color:#D5E6DD;padding:18px 14px;display:flex;flex-direction:column;gap:18px;overflow-y:auto}
+.brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:1.1rem;color:#fff;padding:0 6px}
+.brand i{width:30px;height:30px;border-radius:10px;background:linear-gradient(135deg,#35A07A,#0E6B4C);display:grid;place-items:center;font-style:normal;font-size:.9rem}
+.nav{display:grid;gap:2px}.nav button{display:flex;justify-content:space-between;align-items:center;border:0;background:transparent;color:#C9DCD2;padding:10px 12px;border-radius:10px;font-weight:600;text-align:left}
+.nav button:hover{background:rgba(255,255,255,.06)}.nav button.on{background:#fff;color:var(--side)}
+.nav b{font-size:.72rem;background:rgba(255,255,255,.14);padding:2px 8px;border-radius:99px}.nav button.on b{background:var(--sunbg);color:var(--sun)}
+.flt{display:grid;gap:10px}.flt label{display:grid;gap:4px;font-size:.7rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#8FB2A2}
+.flt select{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14);color:#fff;border-radius:10px;padding:8px 10px;font-size:.88rem;text-transform:none;letter-spacing:0;font-weight:600}
+.flt select option{color:#111}
+.side__foot{margin-top:auto;font-size:.78rem;color:#8FB2A2;padding:0 6px}
+main{display:flex;flex-direction:column;min-width:0;overflow:hidden}
+.bar{display:flex;align-items:center;gap:10px;padding:14px 22px;background:var(--card);border-bottom:1px solid var(--line)}
+.bar h1{font-size:1.2rem;margin:0 12px 0 0;white-space:nowrap}
+.search{flex:1;max-width:420px;display:flex;align-items:center;gap:8px;padding:0 12px;border:1px solid var(--line2);border-radius:12px;background:var(--bg)}
+.search input{border:0;background:transparent;outline:none;padding:9px 0;width:100%}
+.btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line2);background:var(--card);padding:8px 14px;border-radius:10px;font-weight:700;white-space:nowrap}
+.btn:hover{border-color:var(--ink)}.btn--pri{background:var(--sun);border-color:var(--sun);color:#fff}.btn--pri:hover{background:#D9531A;border-color:#D9531A}
+.btn--wa{background:#25D366;border-color:#25D366;color:#06371b}.btn--sm{padding:5px 10px;font-size:.82rem}
+.me{margin-left:auto;font-size:.82rem;color:var(--muted)}
+.demo{background:#FFF7E6;color:#7A4B00;border-bottom:1px solid #F5D9A8;padding:8px 22px;font-size:.85rem;font-weight:600}
+.view{flex:1;overflow:auto;padding:20px 22px}
+/* board */
+.board{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(250px,1fr);gap:12px;align-items:start}
+.col{background:#E9EEEA;border-radius:var(--r);padding:10px;min-height:200px;display:flex;flex-direction:column;gap:8px}
+.col.drop{outline:2px dashed var(--green);outline-offset:-4px}
+.col__h{display:flex;justify-content:space-between;align-items:center;padding:4px 6px 6px;font-weight:800}
+.col__h span{display:flex;align-items:center;gap:8px}.col__h i{width:10px;height:10px;border-radius:50%}
+.col__h small{color:var(--muted);font-weight:700}
+.cardx{background:var(--card);border-radius:12px;padding:12px;border:1px solid var(--line);box-shadow:0 1px 2px rgba(0,0,0,.04);cursor:pointer;display:grid;gap:6px}
+.cardx:hover{border-color:var(--line2);box-shadow:0 6px 18px -10px rgba(0,0,0,.3)}
+.cardx.drag{opacity:.4}
+.cardx b{font-size:.98rem}.cardx .meta{display:flex;flex-wrap:wrap;gap:4px 8px;color:var(--muted);font-size:.8rem}
+.tag{display:inline-flex;align-items:center;gap:5px;font-size:.72rem;font-weight:800;padding:2px 8px;border-radius:99px;background:var(--bg);color:var(--ink2)}
+.tag--site{background:#E6F4EE;color:var(--green)}.tag--due{background:#FDECEC;color:var(--no)}.tag--today{background:#FFF4E5;color:var(--warn)}.tag--dup{background:#EEF2FF;color:#4338CA}
+.stage{display:inline-flex;align-items:center;gap:6px;font-weight:800;font-size:.78rem;padding:3px 10px;border-radius:99px;color:#fff;background:var(--c)}
+/* table */
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:12px}
+.tools select,.tools input{border:1px solid var(--line2);border-radius:10px;padding:7px 10px;background:var(--card)}
+.tbl{background:var(--card);border:1px solid var(--line);border-radius:var(--r);overflow:auto}
+table{width:100%;border-collapse:collapse;font-size:.88rem}
+th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+th{font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:800;cursor:pointer;position:sticky;top:0;background:var(--card)}
+tbody tr{cursor:pointer}tbody tr:hover{background:#F7FAF8}
+/* follow-ups */
+.grp{margin-bottom:22px}.grp h2{font-size:1rem;margin:0 0 10px;display:flex;gap:8px;align-items:center}
+.list{display:grid;gap:8px}
+.row{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;cursor:pointer}
+.row:hover{border-color:var(--line2)}
+.empty{color:var(--muted);padding:12px 0}
+/* dashboard */
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin-bottom:16px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px}
+.kpi small{display:block;font-size:.72rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.kpi b{display:block;font-size:1.8rem;letter-spacing:-.02em;margin-top:4px}.kpi span{font-size:.8rem;color:var(--muted)}
+.panels{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px}
+.panel h3{margin:0 0 12px;font-size:.95rem}
+.hbars{display:grid;gap:8px}.hb{display:grid;grid-template-columns:130px 1fr 40px;gap:10px;align-items:center;font-size:.85rem}
+.hb span:first-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.hb i{display:block;height:10px;border-radius:6px;background:linear-gradient(90deg,#35A07A,#0E6B4C)}
+.hb b{text-align:right}
+.spark{width:100%;height:140px}.spark rect{fill:#35A07A}.spark rect:hover{fill:var(--sun)}
+.funnel{display:grid;gap:6px}.funnel div{display:flex;justify-content:space-between;padding:8px 12px;border-radius:10px;color:#fff;font-weight:700;background:var(--c)}
+/* drawer */
+.drawer{position:fixed;top:0;right:0;bottom:0;width:min(560px,100vw);background:var(--card);box-shadow:-20px 0 60px -30px rgba(0,0,0,.5);display:flex;flex-direction:column;z-index:20}
+.drawer__h{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.drawer__h h2{margin:0 0 4px;font-size:1.3rem}.drawer__b{padding:18px 20px;overflow-y:auto;display:grid;gap:18px}
+.x{border:0;background:var(--bg);width:36px;height:36px;border-radius:10px;font-size:1.2rem}
+.acts{display:flex;flex-wrap:wrap;gap:8px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.fld{display:grid;gap:4px}.fld span{font-size:.7rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.fld input,.fld select,.fld textarea{border:1px solid var(--line2);border-radius:10px;padding:8px 10px;background:var(--bg);width:100%}
+.facts{display:grid;grid-template-columns:120px 1fr;gap:6px 12px;font-size:.88rem}.facts dt{color:var(--muted)}.facts dd{margin:0;word-break:break-word}
+.sec h3{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+.tl{display:grid;gap:8px}.tl div{padding:10px 12px;border-radius:10px;background:var(--bg);font-size:.88rem}.tl small{display:block;color:var(--muted);font-size:.75rem;margin-bottom:2px}
+.types{display:flex;gap:6px;margin-bottom:8px}.types button{border:1px solid var(--line2);background:var(--card);border-radius:99px;padding:4px 12px;font-weight:700;font-size:.8rem}.types button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.tpl{display:flex;flex-wrap:wrap;gap:6px}
+.toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:var(--ink);color:#fff;padding:10px 16px;border-radius:12px;font-weight:700;z-index:40}
+dialog{border:0;border-radius:18px;padding:0;width:min(520px,94vw)}dialog::backdrop{background:rgba(0,0,0,.45)}
+dialog form{padding:20px;display:grid;gap:12px}dialog h2{margin:0}
+.scrim{position:fixed;inset:0;background:rgba(0,0,0,.25);z-index:15}
+@media(max-width:860px){.app{grid-template-columns:1fr}.side{flex-direction:row;flex-wrap:wrap;padding:10px;gap:8px}.side__foot,.flt label>span{display:none}.nav{grid-auto-flow:column}.flt{grid-auto-flow:column}.bar h1{display:none}.me{display:none}}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="side">
+    <div class="brand"><i>TD</i>Trip Desk</div>
+    <nav class="nav" aria-label="Views">
+      <button data-v="pipeline" class="on">Pipeline <b data-n="open">0</b></button>
+      <button data-v="table">All leads <b data-n="all">0</b></button>
+      <button data-v="followups">Follow-ups <b data-n="due">0</b></button>
+      <button data-v="dashboard">Dashboard</button>
+    </nav>
+    <div class="flt">
+      <label><span>Website</span><select id="f-site"><option value="">All websites</option></select></label>
+      <label><span>Owner</span><select id="f-owner"><option value="">Everyone</option><option value="__me">Mine</option><option value="__none">Unassigned</option></select></label>
+      <label><span>Created</span><select id="f-range"><option value="">Any time</option><option value="1">Last 24 hours</option><option value="7">Last 7 days</option><option value="30">Last 30 days</option><option value="90">Last 90 days</option></select></label>
+    </div>
+    <div class="side__foot">Leads from your websites land here automatically. Changes save to the Google Sheet.</div>
+  </aside>
+  <main>
+    <div class="bar">
+      <h1 id="title">Pipeline</h1>
+      <div class="search"><span aria-hidden="true">⌕</span><input id="q" type="search" placeholder="Search name, phone, package, campaign…" aria-label="Search leads"></div>
+      <button class="btn" id="refresh" title="Reload from sheet">↻ Refresh</button>
+      <button class="btn btn--pri" id="add-open">+ Add lead</button>
+      <span class="me" id="me"></span>
+    </div>
+    <div class="demo" id="demo" hidden>Demo mode: sample data only. Nothing is saved. Deploy to Google Apps Script to use your real leads.</div>
+    <section class="view board" data-view="pipeline"></section>
+    <section class="view" data-view="table" hidden></section>
+    <section class="view" data-view="followups" hidden></section>
+    <section class="view" data-view="dashboard" hidden></section>
+  </main>
+</div>
+<div class="scrim" id="scrim" hidden></div>
+<aside class="drawer" id="drawer" hidden aria-label="Lead details"></aside>
+<dialog id="add">
+  <form method="dialog" id="add-form">
+    <h2>Add a lead</h2>
+    <div class="grid2"><label class="fld"><span>Name</span><input name="name" required></label><label class="fld"><span>Phone / WhatsApp</span><input name="phone" required></label></div>
+    <div class="grid2"><label class="fld"><span>Email</span><input name="email" type="email"></label><label class="fld"><span>Website</span><select name="site" id="add-site"></select></label></div>
+    <div class="grid2"><label class="fld"><span>Travel month</span><input name="month" placeholder="November"></label><label class="fld"><span>Travellers</span><input name="pax" placeholder="2 adults"></label></div>
+    <label class="fld"><span>Package / interest</span><input name="tour"></label>
+    <label class="fld"><span>How they reached us</span><select name="source"><option value="phone">Phone call</option><option value="whatsapp">WhatsApp</option><option value="walk-in">Walk-in</option><option value="referral">Referral</option><option value="instagram">Instagram</option><option value="manual">Other</option></select></label>
+    <label class="fld"><span>Notes</span><textarea name="message" rows="3"></textarea></label>
+    <div class="acts"><button class="btn btn--pri" value="save">Save lead</button><button class="btn" value="cancel" formnovalidate>Cancel</button></div>
+  </form>
+</dialog>
+<div class="toast" id="toast" hidden></div>
+
+<script>
+(() => {
+  const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)];
+  const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const inr = n => n ? '₹' + Number(n).toLocaleString('en-IN') : '—';
+  const DAY = 864e5;
+  const LIVE = !!(window.google && google.script && google.script.run);
+
+  /* ---------- API: google.script.run in production, in-memory mock in demo mode ---------- */
+  const call = (fn, ...args) => new Promise((res, rej) => google.script.run.withSuccessHandler(res).withFailureHandler(rej)[fn](...args));
+  const mock = (() => {
+    const sites = ['shillongtrip.com'];
+    const names = ['Ananya Sharma', 'Rohit Das', 'Priya Nair', 'Arjun Mehta', 'Sneha Iyer', 'Vikram Singh', 'Meera Kapoor', 'Kabir Rao', 'Isha Banerjee', 'Aditya Joshi', 'Neha Gupta', 'Rahul Verma', 'Pooja Menon', 'Siddharth Bose', 'Kavya Reddy', 'Manish Kumar', 'Tanvi Shah', 'Arnav Ghosh', 'Riya Pillai', 'Dev Malhotra', 'Aisha Khan', 'Nikhil Jain', 'Sara Thomas', 'Om Prakash'];
+    const toursBy = { 'shillongtrip.com': ['Shillong, Cherrapunji, Dawki and Mawlynnong', 'Kaziranga Safari Break', 'Tawang via Dirang and Sela', 'Northeast in a Week', 'Meghalaya Honeymoon', ''] };
+    const utm = ['google', 'instagram', 'facebook', '', '', 'newsletter'];
+    const stages = ['New', 'New', 'Contacted', 'Contacted', 'Quoted', 'Negotiating', 'Booked', 'Lost'];
+    const team = [{ email: 'you@example.com', name: 'You', role: 'admin' }, { email: 'riya@example.com', name: 'Riya', role: 'agent' }];
+    const leads = names.map((n, i) => {
+      const created = Date.now() - (i * 1.2 + Math.random()) * DAY;
+      const stage = stages[i % stages.length];
+      const q = stage === 'Quoted' || stage === 'Negotiating' || stage === 'Booked' ? (18 + i) * 1000 : '';
+      return {
+        id: 'DEMO-' + (100 + i), created_at: new Date(created).toISOString(), site: sites[0], source: ['contact', 'footer', 'popup'][i % 3],
+        name: n, phone: '98' + String(10000000 + i * 734521).slice(0, 8), email: n.split(' ')[0].toLowerCase() + '@example.com',
+        month: ['October', 'November', 'December', 'March', 'April'][i % 5], pax: (2 + (i % 3)) + ' adults', tour: toursBy[sites[0]][i % toursBy[sites[0]].length],
+        message: i % 4 ? '' : 'Travelling with parents, want an easy pace.', page: i % 2 ? '/packages/tawang-6n/' : '/packages/meghalaya-classic-4n/',
+        utm_source: utm[i % utm.length], utm_medium: utm[i % utm.length] ? 'cpc' : '', utm_campaign: utm[i % utm.length] ? 'autumn-26' : '',
+        first_landing: i % 2 ? '/guides/arunachal-ilp-guide/' : '/guides/best-time-to-visit-meghalaya/', stage, owner: team[i % 2].email, quote_inr: q, booked_inr: stage === 'Booked' ? q : '',
+        followup: stage !== 'Booked' && stage !== 'Lost' && i % 3 === 0 ? new Date(Date.now() + ((i % 5) - 2) * DAY).toISOString() : '',
+        lost_reason: stage === 'Lost' ? 'Chose cheaper option' : '', duplicate_of: i === 9 ? 'DEMO-101' : '', notes_count: i % 3,
+      };
+    });
+    const notes = {};
+    return {
+      api_bootstrap: async () => ({ me: 'you@example.com', stages: ['New', 'Contacted', 'Quoted', 'Negotiating', 'Booked', 'Lost'], team, leads,
+        templates: [{ key: 'first', label: 'First reply', text: 'Hi {first}, this is {me} from {site}. Thanks for your enquiry{tourbit}. Could you share your travel dates and how many of you are travelling?' }, { key: 'quote', label: 'Quote sent', text: 'Hi {first}, I’ve sent the day-by-day plan and quote{tourbit}. What would you like to adjust?' }, { key: 'follow', label: 'Follow-up', text: 'Hi {first}, checking in on your {month} trip. Shall I hold the hotels for you?' }],
+        siteNames: { 'shillongtrip.com': 'Shillong Trip' }, now: new Date().toISOString() }),
+      api_updateLead: async (id, patch) => { Object.assign(leads.find(l => l.id === id), patch); return { ok: true }; },
+      api_notes: async id => notes[id] || [],
+      api_addNote: async (id, type, text) => { (notes[id] = notes[id] || []).unshift({ at: new Date().toISOString(), by: 'you@example.com', type, text }); return notes[id]; },
+      api_addLead: async obj => { const id = 'DEMO-' + Date.now(); leads.unshift({ ...obj, id, created_at: new Date().toISOString(), stage: 'New', owner: 'you@example.com' }); return id; },
+    };
+  })();
+  const api = (fn, ...a) => LIVE ? call(fn, ...a) : mock[fn](...a);
+
+  /* ---------- state ---------- */
+  let D = null, view = 'pipeline', sort = { k: 'created_at', dir: -1 }, tblStage = '', openId = null, noteType = 'note';
+  const F = { q: '', site: '', owner: '', range: '' };
+  const toast = m => { const t = $('#toast'); t.textContent = m; t.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(() => { t.hidden = true; }, 2200); };
+  const siteName = s => D.siteNames[s] || s || 'Website';
+  const ownerName = e => (D.team.find(m => m.email === String(e).toLowerCase()) || {}).name || e || 'Unassigned';
+  const ago = iso => { const d = (Date.now() - new Date(iso)) / 1000; if (d < 3600) return Math.max(1, Math.round(d / 60)) + 'm ago'; if (d < 86400) return Math.round(d / 3600) + 'h ago'; return Math.round(d / 86400) + 'd ago'; };
+  const fdate = iso => iso ? new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' }) : '';
+  const waNum = p => { const d = String(p || '').replace(/\D/g, ''); return d.length === 10 ? '91' + d : d; };
+  const dueState = l => { if (!l.followup || ['Booked', 'Lost'].includes(l.stage)) return ''; const t = new Date(l.followup).setHours(0, 0, 0, 0), today = new Date().setHours(0, 0, 0, 0); return t < today ? 'due' : t === today ? 'today' : 'later'; };
+
+  function filtered() {
+    const q = F.q.toLowerCase().trim();
+    return D.leads.filter(l => {
+      if (F.site && l.site !== F.site) return false;
+      if (F.owner === '__me' && String(l.owner).toLowerCase() !== D.me.toLowerCase()) return false;
+      if (F.owner === '__none' && l.owner) return false;
+      if (F.owner && !F.owner.startsWith('__') && l.owner !== F.owner) return false;
+      if (F.range && Date.now() - new Date(l.created_at) > F.range * DAY) return false;
+      if (q && ![l.name, l.phone, l.email, l.tour, l.utm_source, l.utm_campaign, l.page, l.message, l.id].join(' ').toLowerCase().includes(q)) return false;
+      return true;
+    });
+  }
+
+  /* ---------- views ---------- */
+  function card(l) {
+    const due = dueState(l);
+    return `<article class="cardx" draggable="true" data-id="${esc(l.id)}">
+      <b>${esc(l.name)}</b>
+      <div class="meta"><span class="tag tag--site">${esc(siteName(l.site))}</span>${due === 'due' ? '<span class="tag tag--due">Overdue</span>' : due === 'today' ? '<span class="tag tag--today">Due today</span>' : ''}${l.duplicate_of ? '<span class="tag tag--dup">Returning</span>' : ''}</div>
+      <div class="meta">${l.month ? `<span>📅 ${esc(l.month)}</span>` : ''}${l.pax ? `<span>👥 ${esc(l.pax)}</span>` : ''}${l.quote_inr ? `<span>💬 ${inr(l.quote_inr)}</span>` : ''}</div>
+      ${l.tour ? `<div class="meta">${esc(l.tour)}</div>` : ''}
+      <div class="meta"><span>${ago(l.created_at)}</span><span>· ${esc(ownerName(l.owner))}</span>${l.notes_count ? `<span>· ${l.notes_count} notes</span>` : ''}</div>
+    </article>`;
+  }
+  function renderBoard() {
+    const list = filtered();
+    $('[data-view="pipeline"]').innerHTML = D.stages.map(s => {
+      const items = list.filter(l => (l.stage || 'New') === s).sort((a, b) => String(b.created_at).localeCompare(String(a.created_at)));
+      const val = items.reduce((a, l) => a + (Number(s === 'Booked' ? l.booked_inr || l.quote_inr : l.quote_inr) || 0), 0);
+      return `<div class="col" data-stage="${s}"><div class="col__h"><span><i style="background:var(--s-${s})"></i>${s}</span><small>${items.length}${val ? ' · ' + inr(val) : ''}</small></div>${items.map(card).join('') || '<p class="empty">No leads</p>'}</div>`;
+    }).join('');
+  }
+  function renderTable() {
+    const cols = [['created_at', 'Received'], ['name', 'Name'], ['phone', 'Phone'], ['site', 'Website'], ['source', 'Form'], ['month', 'Month'], ['tour', 'Package'], ['stage', 'Stage'], ['owner', 'Owner'], ['quote_inr', 'Quote'], ['followup', 'Follow-up'], ['utm_source', 'Campaign']];
+    const list = filtered().filter(l => !tblStage || (l.stage || 'New') === tblStage).sort((a, b) => { const x = a[sort.k] ?? '', y = b[sort.k] ?? ''; return (typeof x === 'number' && typeof y === 'number' ? x - y : String(x).localeCompare(String(y))) * sort.dir; });
+    $('[data-view="table"]').innerHTML = `<div class="tools"><select id="t-stage"><option value="">All stages</option>${D.stages.map(s => `<option ${s === tblStage ? 'selected' : ''}>${s}</option>`).join('')}</select><button class="btn btn--sm" id="csv">Export CSV (${list.length})</button></div>
+      <div class="tbl"><table><thead><tr>${cols.map(([k, h]) => `<th data-sort="${k}">${h}${sort.k === k ? (sort.dir > 0 ? ' ↑' : ' ↓') : ''}</th>`).join('')}</tr></thead>
+      <tbody>${list.map(l => `<tr data-id="${esc(l.id)}"><td>${fdate(l.created_at)}</td><td><b>${esc(l.name)}</b></td><td>${esc(l.phone)}</td><td>${esc(siteName(l.site))}</td><td>${esc(l.source)}</td><td>${esc(l.month)}</td><td>${esc(l.tour)}</td><td><span class="stage" style="--c:var(--s-${l.stage || 'New'})">${esc(l.stage || 'New')}</span></td><td>${esc(ownerName(l.owner))}</td><td>${inr(l.quote_inr)}</td><td>${fdate(l.followup)}</td><td>${esc(l.utm_source)}</td></tr>`).join('') || `<tr><td colspan="${cols.length}" class="empty">No leads match.</td></tr>`}</tbody></table></div>`;
+    $('#t-stage').onchange = e => { tblStage = e.target.value; renderTable(); };
+    $('#csv').onclick = () => exportCsv(list);
+    $$('th[data-sort]').forEach(th => th.onclick = () => { const k = th.dataset.sort; sort = { k, dir: sort.k === k ? -sort.dir : -1 }; renderTable(); });
+  }
+  function renderFollowups() {
+    const list = filtered().filter(l => l.followup && !['Booked', 'Lost'].includes(l.stage));
+    const waiting = filtered().filter(l => (l.stage || 'New') === 'New' && Date.now() - new Date(l.created_at) > DAY / 24);
+    const grp = (title, items, cls) => `<div class="grp"><h2>${title} <span class="tag ${cls || ''}">${items.length}</span></h2><div class="list">${items.map(l => `<div class="row" data-id="${esc(l.id)}"><div><b>${esc(l.name)}</b> <span class="tag tag--site">${esc(siteName(l.site))}</span><div class="meta" style="color:var(--muted);font-size:.82rem">${esc(l.tour || l.month || '')} · ${esc(ownerName(l.owner))}${l.followup ? ' · follow up ' + fdate(l.followup) : ' · received ' + ago(l.created_at)}</div></div><a class="btn btn--wa btn--sm" href="https://wa.me/${waNum(l.phone)}" target="_blank" rel="noopener">WhatsApp</a></div>`).join('') || '<p class="empty">Nothing here.</p>'}</div></div>`;
+    $('[data-view="followups"]').innerHTML = grp('Overdue', list.filter(l => dueState(l) === 'due'), 'tag--due') + grp('Due today', list.filter(l => dueState(l) === 'today'), 'tag--today') + grp('New and not contacted yet', waiting) + grp('Coming up', list.filter(l => dueState(l) === 'later').sort((a, b) => String(a.followup).localeCompare(String(b.followup))));
+  }
+  function bars(title, map, top = 8) {
+    const rows = Object.entries(map).filter(([k]) => k).sort((a, b) => b[1] - a[1]).slice(0, top); const max = Math.max(1, ...rows.map(r => r[1]));
+    return `<div class="panel"><h3>${title}</h3><div class="hbars">${rows.map(([k, v]) => `<div class="hb"><span title="${esc(k)}">${esc(k)}</span><span><i style="width:${(v / max) * 100}%"></i></span><b>${v}</b></div>`).join('') || '<p class="empty">No data yet.</p>'}</div></div>`;
+  }
+  function renderDashboard() {
+    const list = filtered(), count = (arr, f) => arr.reduce((m, l) => { const k = f(l) || ''; m[k] = (m[k] || 0) + 1; return m; }, {});
+    const last30 = list.filter(l => Date.now() - new Date(l.created_at) < 30 * DAY);
+    const booked = list.filter(l => l.stage === 'Booked'), closed = list.filter(l => ['Booked', 'Lost'].includes(l.stage));
+    const pipe = list.filter(l => ['Quoted', 'Negotiating'].includes(l.stage)).reduce((a, l) => a + (Number(l.quote_inr) || 0), 0);
+    const bookedVal = booked.reduce((a, l) => a + (Number(l.booked_inr || l.quote_inr) || 0), 0);
+    const waiting = list.filter(l => (l.stage || 'New') === 'New').length;
+    const days = [...Array(30)].map((_, i) => { const d = new Date(Date.now() - (29 - i) * DAY); d.setHours(0, 0, 0, 0); return { d, n: list.filter(l => { const c = new Date(l.created_at); c.setHours(0, 0, 0, 0); return +c === +d; }).length }; });
+    const mx = Math.max(1, ...days.map(x => x.n));
+    $('[data-view="dashboard"]').innerHTML = `<div class="kpis">
+      <div class="kpi"><small>Leads, last 30 days</small><b>${last30.length}</b><span>${list.length} in current filter</span></div>
+      <div class="kpi"><small>Waiting for first reply</small><b style="color:${waiting ? 'var(--sun)' : 'inherit'}">${waiting}</b><span>stage "New"</span></div>
+      <div class="kpi"><small>Conversion</small><b>${closed.length ? Math.round((booked.length / closed.length) * 100) : 0}%</b><span>${booked.length} booked of ${closed.length} closed</span></div>
+      <div class="kpi"><small>Open pipeline</small><b>${inr(pipe)}</b><span>quoted + negotiating</span></div>
+      <div class="kpi"><small>Booked value</small><b>${inr(bookedVal)}</b><span>${booked.length} trips</span></div>
+    </div>
+    <div class="panels">
+      <div class="panel" style="grid-column:1/-1"><h3>Leads per day, last 30 days</h3><svg class="spark" viewBox="0 0 300 120" preserveAspectRatio="none" role="img" aria-label="Leads per day">${days.map((x, i) => `<rect x="${i * 10 + 1}" y="${110 - (x.n / mx) * 100}" width="8" height="${Math.max(1, (x.n / mx) * 100)}" rx="2"><title>${x.d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}: ${x.n}</title></rect>`).join('')}</svg></div>
+      <div class="panel"><h3>Pipeline by stage</h3><div class="funnel">${D.stages.map(s => `<div style="--c:var(--s-${s})"><span>${s}</span><span>${list.filter(l => (l.stage || 'New') === s).length}</span></div>`).join('')}</div></div>
+      ${bars('By website', count(list, l => siteName(l.site)))}
+      ${bars('By form', count(list, l => l.source))}
+      ${bars('By campaign source', count(list, l => l.utm_source || '(direct / organic)'))}
+      ${bars('Top landing pages', count(list, l => l.first_landing || l.page))}
+      ${bars('By owner', count(list, l => ownerName(l.owner)))}
+      ${bars('Why we lost', count(list.filter(l => l.stage === 'Lost'), l => l.lost_reason || '(no reason)'))}
+    </div>`;
+  }
+  function render() {
+    $$('.nav button').forEach(b => b.classList.toggle('on', b.dataset.v === view));
+    $$('.view').forEach(v => { v.hidden = v.dataset.view !== view; });
+    $('#title').textContent = { pipeline: 'Pipeline', table: 'All leads', followups: 'Follow-ups', dashboard: 'Dashboard' }[view];
+    const all = filtered();
+    $('[data-n="open"]').textContent = all.filter(l => !['Booked', 'Lost'].includes(l.stage)).length;
+    $('[data-n="all"]').textContent = all.length;
+    $('[data-n="due"]').textContent = all.filter(l => ['due', 'today'].includes(dueState(l))).length;
+    ({ pipeline: renderBoard, table: renderTable, followups: renderFollowups, dashboard: renderDashboard })[view]();
+  }
+
+  /* ---------- drawer ---------- */
+  function fillTpl(t, l) {
+    const first = String(l.name || '').split(' ')[0];
+    return t.replace(/\{first\}/g, first).replace(/\{name\}/g, l.name || '').replace(/\{me\}/g, ownerName(D.me)).replace(/\{site\}/g, siteName(l.site))
+      .replace(/\{month\}/g, l.month || 'upcoming').replace(/\{tour\}/g, l.tour || '').replace(/\{tourbit\}/g, l.tour ? ` about "${l.tour}"` : '');
+  }
+  async function openLead(id) {
+    const l = D.leads.find(x => x.id === id); if (!l) return;
+    openId = id;
+    const dup = l.duplicate_of ? D.leads.find(x => x.id === l.duplicate_of) : null;
+    const others = D.leads.filter(x => x.id !== l.id && String(x.phone).replace(/\D/g, '').slice(-10) === String(l.phone).replace(/\D/g, '').slice(-10) && String(l.phone).replace(/\D/g, '').length >= 10);
+    const dr = $('#drawer');
+    dr.innerHTML = `<div class="drawer__h"><div><h2>${esc(l.name)}</h2><div class="meta" style="display:flex;gap:6px;flex-wrap:wrap"><span class="stage" style="--c:var(--s-${l.stage || 'New'})">${esc(l.stage || 'New')}</span><span class="tag tag--site">${esc(siteName(l.site))}</span><span class="tag">${esc(l.source || '')}</span><span class="tag">${fdate(l.created_at)} · ${ago(l.created_at)}</span></div></div><button class="x" id="close" aria-label="Close">×</button></div>
+    <div class="drawer__b">
+      ${others.length ? `<div class="tag tag--dup" style="padding:8px 12px;border-radius:10px">Also enquired: ${others.map(o => `<a href="#" data-open="${esc(o.id)}">${fdate(o.created_at)} (${esc(o.stage || 'New')})</a>`).join(', ')}</div>` : ''}
+      <div class="acts">
+        <a class="btn btn--wa" id="wa" href="https://wa.me/${waNum(l.phone)}" target="_blank" rel="noopener">WhatsApp</a>
+        <a class="btn" href="tel:${esc(String(l.phone).replace(/\s/g, ''))}">Call</a>
+        ${l.email ? `<a class="btn" href="mailto:${esc(l.email)}?subject=${encodeURIComponent('Your trip plan')}">Email</a>` : ''}
+        <button class="btn" id="copy">Copy phone</button>
+      </div>
+      <div class="sec"><h3>Reply templates</h3><div class="tpl">${D.templates.map((t, i) => `<button class="btn btn--sm" data-tpl="${i}">${esc(t.label)}</button>`).join('')}</div></div>
+      <div class="grid2">
+        <label class="fld"><span>Stage</span><select data-f="stage">${D.stages.map(s => `<option ${s === (l.stage || 'New') ? 'selected' : ''}>${s}</option>`).join('')}</select></label>
+        <label class="fld"><span>Owner</span><select data-f="owner"><option value="">Unassigned</option>${D.team.map(m => `<option value="${esc(m.email)}" ${m.email === String(l.owner).toLowerCase() ? 'selected' : ''}>${esc(m.name)}</option>`).join('')}</select></label>
+        <label class="fld"><span>Quote (₹)</span><input data-f="quote_inr" type="number" min="0" step="500" value="${esc(l.quote_inr)}"></label>
+        <label class="fld"><span>Booked value (₹)</span><input data-f="booked_inr" type="number" min="0" step="500" value="${esc(l.booked_inr)}"></label>
+        <label class="fld"><span>Follow up on</span><input data-f="followup" type="date" value="${l.followup ? new Date(l.followup).toISOString().slice(0, 10) : ''}"></label>
+        <label class="fld" ${l.stage === 'Lost' ? '' : 'hidden'} id="lostwrap"><span>Lost reason</span><select data-f="lost_reason">${['', 'Price', 'Chose another operator', 'Dates changed', 'Trip cancelled', 'No response', 'Permit or road closure', 'Other'].map(r => `<option ${r === l.lost_reason ? 'selected' : ''}>${r}</option>`).join('')}</select></label>
+      </div>
+      <div class="sec"><h3>Trip details</h3><dl class="facts">
+        ${[['Phone', l.phone], ['Email', l.email], ['Month', l.month], ['Nights', l.nights], ['Travellers', l.pax], ['Hotels', l.tier], ['Package', l.tour], ['States', l.states], ['Message', l.message], ['Saved trips', l.shortlist]].filter(r => r[1]).map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('')}
+      </dl></div>
+      <div class="sec"><h3>Where they came from</h3><dl class="facts">
+        ${[['Enquiry page', l.page], ['First landing', l.first_landing], ['Referrer', l.first_referrer], ['Campaign', [l.utm_source, l.utm_medium, l.utm_campaign].filter(Boolean).join(' / ')], ['Keyword', l.utm_term], ['Ad click', l.gclid ? 'Google Ads' : l.fbclid ? 'Meta Ads' : ''], ['Pages viewed', l.pages_viewed], ['Lead ID', l.id]].filter(r => r[1]).map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('')}
+      </dl></div>
+      <div class="sec"><h3>Activity</h3>
+        <div class="types">${['note', 'call', 'whatsapp', 'email'].map(t => `<button data-type="${t}" class="${t === noteType ? 'on' : ''}">${t[0].toUpperCase() + t.slice(1)}</button>`).join('')}</div>
+        <div style="display:flex;gap:8px"><textarea id="note" rows="2" placeholder="What happened? e.g. Sent 5N quote, wants Premium hotels" style="flex:1;border:1px solid var(--line2);border-radius:10px;padding:8px 10px"></textarea><button class="btn btn--pri" id="addnote">Log</button></div>
+        <div class="tl" id="tl" style="margin-top:10px"><p class="empty">Loading…</p></div>
+      </div>
+    </div>`;
+    dr.hidden = false; $('#scrim').hidden = false;
+    $('#close').onclick = closeDrawer;
+    $('#copy').onclick = async () => { try { await navigator.clipboard.writeText(l.phone); toast('Phone copied'); } catch { toast(l.phone); } };
+    $$('[data-open]', dr).forEach(a => a.onclick = e => { e.preventDefault(); openLead(a.dataset.open); });
+    $$('[data-tpl]', dr).forEach(b => b.onclick = () => { const t = fillTpl(D.templates[+b.dataset.tpl].text, l); window.open(`https://wa.me/${waNum(l.phone)}?text=${encodeURIComponent(t)}`, '_blank', 'noopener'); api('api_addNote', l.id, 'whatsapp', `Sent template: ${D.templates[+b.dataset.tpl].label}`).then(renderNotes); if ((l.stage || 'New') === 'New') { l.stage = 'Contacted'; render(); } });
+    $('#wa').onclick = () => { api('api_addNote', l.id, 'whatsapp', 'Opened WhatsApp chat').then(renderNotes); if ((l.stage || 'New') === 'New') { l.stage = 'Contacted'; render(); } };
+    $$('[data-type]', dr).forEach(b => b.onclick = () => { noteType = b.dataset.type; $$('[data-type]', dr).forEach(x => x.classList.toggle('on', x === b)); });
+    $('#addnote').onclick = async () => { const t = $('#note').value.trim(); if (!t) return; $('#note').value = ''; renderNotes(await api('api_addNote', l.id, noteType, t)); l.notes_count = (l.notes_count || 0) + 1; if (noteType !== 'note' && (l.stage || 'New') === 'New') l.stage = 'Contacted'; render(); toast('Logged'); };
+    $$('[data-f]', dr).forEach(el => el.onchange = async () => {
+      const k = el.dataset.f; let v = el.value; if (k === 'quote_inr' || k === 'booked_inr') v = v ? Number(v) : '';
+      l[k] = v; if (k === 'stage') $('#lostwrap').hidden = v !== 'Lost';
+      try { await api('api_updateLead', l.id, { [k]: k === 'followup' && v ? new Date(v).toISOString() : v }); toast('Saved'); render(); if (k === 'stage' || k === 'owner') renderNotes(); } catch (e) { toast('Could not save: ' + (e.message || e)); }
+    });
+    renderNotes();
+  }
+  async function renderNotes(list) {
+    if (!openId) return;
+    const notes = list || await api('api_notes', openId);
+    const el = $('#tl'); if (!el) return;
+    el.innerHTML = notes.length ? notes.map(n => `<div><small>${new Date(n.at).toLocaleString('en-GB', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })} · ${esc(ownerName(n.by))} · ${esc(n.type)}</small>${esc(n.text)}</div>`).join('') : '<p class="empty">No activity yet.</p>';
+  }
+  function closeDrawer() { $('#drawer').hidden = true; $('#scrim').hidden = true; openId = null; }
+
+  function exportCsv(list) {
+    const keys = ['id', 'created_at', 'site', 'source', 'name', 'phone', 'email', 'month', 'nights', 'pax', 'tour', 'stage', 'owner', 'quote_inr', 'booked_inr', 'followup', 'lost_reason', 'utm_source', 'utm_medium', 'utm_campaign', 'page', 'first_landing'];
+    const csv = [keys.join(','), ...list.map(l => keys.map(k => `"${String(l[k] ?? '').replace(/"/g, '""')}"`).join(','))].join('\n');
+    const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([csv], { type: 'text/csv' })); a.download = `leads-${new Date().toISOString().slice(0, 10)}.csv`; a.click();
+  }
+
+  /* ---------- events ---------- */
+  document.addEventListener('click', e => { const c = e.target.closest('[data-id]'); if (c && !e.target.closest('a,button') ) openLead(c.dataset.id); });
+  $('#scrim').onclick = closeDrawer;
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDrawer(); if (e.key === '/' && document.activeElement.tagName !== 'INPUT' && document.activeElement.tagName !== 'TEXTAREA') { e.preventDefault(); $('#q').focus(); } });
+  $$('.nav button').forEach(b => b.onclick = () => { view = b.dataset.v; render(); });
+  $('#q').oninput = e => { F.q = e.target.value; render(); };
+  $('#f-site').onchange = e => { F.site = e.target.value; render(); };
+  $('#f-owner').onchange = e => { F.owner = e.target.value; render(); };
+  $('#f-range').onchange = e => { F.range = e.target.value; render(); };
+  $('#refresh').onclick = () => load(true);
+  // drag and drop between stages
+  let dragId = null;
+  document.addEventListener('dragstart', e => { const c = e.target.closest('.cardx'); if (!c) return; dragId = c.dataset.id; c.classList.add('drag'); });
+  document.addEventListener('dragend', e => { e.target.closest?.('.cardx')?.classList.remove('drag'); $$('.col').forEach(c => c.classList.remove('drop')); });
+  document.addEventListener('dragover', e => { const col = e.target.closest('.col'); if (!col) return; e.preventDefault(); $$('.col').forEach(c => c.classList.toggle('drop', c === col)); });
+  document.addEventListener('drop', async e => {
+    const col = e.target.closest('.col'); if (!col || !dragId) return; e.preventDefault();
+    const l = D.leads.find(x => x.id === dragId), s = col.dataset.stage; dragId = null;
+    if (!l || l.stage === s) return render();
+    const prev = l.stage; l.stage = s; render();
+    try { await api('api_updateLead', l.id, { stage: s }); toast(`${l.name} → ${s}`); if (s === 'Lost') openLead(l.id); } catch (err) { l.stage = prev; render(); toast('Could not save'); }
+  });
+  // add lead
+  $('#add-open').onclick = () => { $('#add-site').innerHTML = Object.entries(D.siteNames).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join(''); $('#add').showModal(); };
+  $('#add-form').addEventListener('submit', async e => {
+    if (e.submitter?.value !== 'save') return;
+    const f = Object.fromEntries(new FormData(e.target)); if (!f.name || !f.phone) return;
+    const id = await api('api_addLead', f); e.target.reset(); await load(); openLead(id); toast('Lead added');
+  });
+
+  async function load(refresh) {
+    try {
+      D = await api('api_bootstrap');
+      $('#me').textContent = D.me; $('#demo').hidden = LIVE;
+      const sites = [...new Set([...Object.keys(D.siteNames), ...D.leads.map(l => l.site).filter(Boolean)])];
+      $('#f-site').innerHTML = '<option value="">All websites</option>' + sites.map(s => `<option value="${esc(s)}" ${s === F.site ? 'selected' : ''}>${esc(siteName(s))}</option>`).join('');
+      $('#f-owner').innerHTML = '<option value="">Everyone</option><option value="__me">Mine</option><option value="__none">Unassigned</option>' + D.team.map(m => `<option value="${esc(m.email)}">${esc(m.name)}</option>`).join('');
+      $('#f-owner').value = F.owner;
+      render(); if (refresh) toast('Refreshed');
+    } catch (e) { document.querySelector('main').insertAdjacentHTML('afterbegin', `<div class="demo">Could not load leads: ${esc(e.message || e)}</div>`); }
+  }
+  load();
+})();
+</script>
+</body>
+</html>

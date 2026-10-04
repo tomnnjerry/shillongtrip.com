@@ -1,0 +1,130 @@
+{
+  "slug": "itanagar",
+  "name": "Itanagar",
+  "state": "arunachal",
+  "state_name": "Arunachal Pradesh",
+  "district": "Itanagar Capital Complex (Papum Pare)",
+  "types": [
+    "city",
+    "culture",
+    "history"
+  ],
+  "tagline": "Arunachal's capital at 320 m, a brick fort and the gateway to Ziro",
+  "altitude_m": 320,
+  "coords": [
+    27.1,
+    93.6167
+  ],
+  "best_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+  ],
+  "best_time": "October to March, when the air is dry and mild; April to September is hot, humid and wet.",
+  "permit": {
+    "required": true,
+    "indians": "Tourist eILP for Arunachal Pradesh (about Rs 300 to 500; pay what eilp.arunachal.gov.in shows; valid 15 days for the whole state), checked at Banderdewa and other entry gates and at the airport.",
+    "foreigners": "Protected Area Permit (PAP) through a registered Indian tour operator, usually for groups of two or more. Royalty is reported at USD 30–50 per person and the permit at 30 days; confirm with your operator."
+  },
+  "from_hub": {
+    "hub": "Guwahati",
+    "km": 320,
+    "hours": "8"
+  },
+  "ideal_stay": "1 night on the way to Ziro, or 2 nights for the city sights",
+  "meta_description": "Itanagar guide: Arunachal's capital at 320 m, Ita Fort, Ganga Lake and the state museum, eILP and PAP rules, Donyi Polo Airport and trains to Guwahati.",
+  "quick_answer": "Itanagar is the capital of Arunachal Pradesh, at about 320 m in the foothills north of the Brahmaputra. It is about 320 km and 8 hours from Guwahati by road, with trains to nearby Naharlagun and flights to Donyi Polo Airport at Hollongi. Indians need an eILP, foreigners a PAP. Most travellers use it as the gateway to Ziro.",
+  "intro": [
+    "Itanagar is a working capital, stretched along a series of ridges and valleys with the twin town of Naharlagun a few kilometres away. It is not a place people usually travel to see, but it deserves a day: the city has the best state museum in Arunachal, a medieval brick fort and a forest lake, and it is where you get a first sense of how many communities make up the state.",
+    "The name comes from Ita Fort, a fort of bricks generally dated to the fourteenth or fifteenth century and linked to the Chutia kingdom. The Jawaharlal Nehru State Museum holds textiles, weapons, ornaments and craftwork from across Arunachal's tribes, and the Buddha Vihar on the hill above looks out over the city.",
+    "Since November 2022, Donyi Polo Airport at Hollongi has made Itanagar far easier to reach, and it is now the usual starting point for Ziro, about 115 km away."
+  ],
+  "highlights": [
+    {
+      "name": "Ita Fort",
+      "text": "Remains of a brick fort of the fourteenth to fifteenth century that gave the city its name."
+    },
+    {
+      "name": "Ganga Lake (Gekar Sinyi)",
+      "text": "A forest-fringed natural lake about 6 km from the centre, with boating and walking paths."
+    },
+    {
+      "name": "Jawaharlal Nehru State Museum",
+      "text": "Arunachal's main museum, with galleries of tribal textiles, ornaments, weapons and crafts."
+    },
+    {
+      "name": "Buddha Vihar",
+      "text": "A hilltop Buddhist temple above the museum, with views over the capital."
+    },
+    {
+      "name": "Gateway to Ziro",
+      "text": "The easiest base for Ziro Valley, about 115 km and 3.5 to 4 hours away."
+    }
+  ],
+  "things_to_do": [
+    "Spend two hours in the Jawaharlal Nehru State Museum before heading into the hills",
+    "Walk around the remains of Ita Fort",
+    "Take a boat or a walk around Ganga Lake in the afternoon",
+    "Watch sunset from the Buddha Vihar",
+    "Browse local textiles and cane crafts in the city's markets and crafts emporium",
+    "Try Nyishi and Adi dishes in local restaurants: smoked meat, bamboo shoot and rice",
+    "Leave early the next morning for Ziro"
+  ],
+  "how_to_reach": "Donyi Polo Airport at Hollongi, about 14 km south of Itanagar, has had IndiGo flights to Delhi, Kolkata and Mumbai and Alliance Air flights to Guwahati and Tezu. By train, Naharlagun station, about 15 km from Itanagar, has services to Guwahati, including the daily Donyi Polo Express and a Shatabdi, plus a direct train to New Delhi. By road, Guwahati is about 320 km and 8 hours via Banderdewa, where the eILP is checked. Shared Sumos and state buses run from Guwahati, Tezpur and North Lakhimpur. Check current status before you travel.",
+  "where_to_stay": "Itanagar has the widest choice of hotels in eastern Arunachal, from business hotels to simple lodges, spread between Itanagar proper and Naharlagun. For a night before Ziro, stay on the Naharlagun side or near the Ziro road to save time in the morning. For museum and city sightseeing, the central areas around Ganga Market and the Secretariat are more convenient. Mid-range hotels usually have generators, which matter during summer storms. Book ahead during state events and assembly sessions.",
+  "tips": [
+    "Carry printed eILP copies; they are checked at gates and sometimes at the airport",
+    "Check the museum's opening days before planning your day around it",
+    "Traffic between Naharlagun and Itanagar can be slow at rush hours",
+    "Itanagar is the last big place to withdraw cash before Ziro; use the ATMs here",
+    "Summers are hot and humid; carry light clothes and rain gear from April to September",
+    "Road conditions on the Itanagar–Ziro highway vary; leave in the morning"
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a permit to visit Itanagar?",
+      "a": "Yes. Indian citizens need the Arunachal Pradesh tourist eILP, applied for online and costing about Rs 300 to 500 per person. It is checked at the Banderdewa gate, other entry points and sometimes at the airport. Foreigners need a Protected Area Permit. Check current status before you travel."
+    },
+    {
+      "q": "Can foreigners visit Itanagar?",
+      "a": "Yes, with a Protected Area Permit arranged through a registered Indian tour operator, usually for groups of two or more. Itanagar is often the first stop on eastern Arunachal itineraries for international travellers heading to Ziro and beyond. Confirm the current PAP rules and fees with your operator."
+    },
+    {
+      "q": "How do I reach Itanagar from Guwahati?",
+      "a": "You can fly to Donyi Polo Airport at Hollongi when flights are available, take a train from Guwahati to Naharlagun (about 15 km from Itanagar), or drive about 320 km in around 8 hours via Banderdewa. Shared Sumos and state buses also run on this route."
+    },
+    {
+      "q": "Which airport serves Itanagar?",
+      "a": "Donyi Polo Airport at Hollongi, opened in November 2022, is Itanagar's airport. It is about 14 km south of the city, with IndiGo flights to Delhi, Kolkata and Mumbai and Alliance Air flights to Guwahati and Tezu in recent schedules. Schedules change often, so check current status before you travel. Guwahati is the backup with far more flights."
+    },
+    {
+      "q": "What is the best time to visit Itanagar?",
+      "a": "October to March is the most comfortable, with dry, mild weather. April to September is hot, humid and wet, with heavy rain and occasional landslides on roads out of the city. If you are heading to Ziro, match your Itanagar dates to Ziro's festivals in March or September."
+    },
+    {
+      "q": "Are there ATMs and mobile network in Itanagar?",
+      "a": "Yes. Itanagar and Naharlagun have plenty of ATMs and bank branches, and Jio, Airtel and BSNL all offer good 4G coverage. It is the best place in the region to withdraw cash before heading to Ziro or further into the hills, where ATMs are fewer."
+    },
+    {
+      "q": "How far is Ziro from Itanagar?",
+      "a": "Ziro is about 115 km from Itanagar and takes 3.5 to 4 hours by car or shared Sumo via Yazali. Leave in the morning to arrive in daylight. Road conditions vary with the season, and monsoon landslides can add delays, so check current status before you travel."
+    },
+    {
+      "q": "Is altitude sickness a concern in Itanagar?",
+      "a": "No. Itanagar is only about 320 m above sea level, and even Ziro at about 1,688 m rarely causes problems. The only high-altitude destinations in Arunachal that need real care are around Tawang, Sela Pass and Bum La in the west, and high passes such as Mayodia in the east."
+    },
+    {
+      "q": "Is Itanagar good for families and senior citizens?",
+      "a": "Yes. It is a city with hospitals, pharmacies, hotels and flat, easy sights such as the museum and Ganga Lake. The heat and humidity from April to September are the main discomfort. It is a convenient first night for families before the drive to Ziro."
+    }
+  ],
+  "nearby": [
+    "ziro-valley",
+    "pasighat",
+    "tezpur"
+  ],
+  "image_query": "Itanagar Arunachal Pradesh"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "guwahati-shillong-offsite-3n",
+  "title": "Guwahati and Shillong Team Offsite",
+  "nights": 3,
+  "themes": ["short-break"],
+  "states": ["assam", "meghalaya"],
+  "places": ["guwahati", "umiam-lake", "shillong", "laitlum-canyons", "kamakhya-temple"],
+  "hero": "umiam-lake",
+  "price_from_inr": 17500,
+  "best_months": [2, 3, 4, 10, 11, 12],
+  "difficulty": "easy",
+  "max_altitude_m": 1800,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Team offsite in Meghalaya, 3 nights / 4 days from Guwahati: two nights by Umiam Lake with meeting space, a Laitlum outing and a night in Shillong.",
+  "quick_answer": "This 3-night team offsite runs from Guwahati Airport to Umiam Lake for two nights of workshops and water activities, then a night in Shillong with a Laitlum Canyons outing and a live music evening. It suits groups of 15 to 60, with coach transfers, meeting space and one point of contact. Best October to April.",
+  "overview": [
+    "Umiam Lake sits 15 km short of Shillong and about 85 km from Guwahati Airport, which makes it one of the easiest places in the Northeast to bring a team together: flights land at Guwahati from most metros, the road is a four-lane highway most of the way, and the lake resorts have meeting space, lawns and water. We plan two working mornings at the lake, with afternoons for kayaking, a team challenge or a Khasi cooking session, and a final day in Shillong for Laitlum Canyons and the city's music scene.",
+    "One coordinator handles the rooming list, staggered airport pickups, the Meghalaya guest registration every member needs, audio-visual setup and dietary lists. We price per person on twin sharing for groups of 20 or more; smaller groups and single rooms cost more. The format flexes easily: add a Kamakhya visit or a Brahmaputra cruise in Guwahati on the last day, or swap Laitlum for Sohra if the team wants waterfalls. The monsoon works too, with indoor plans ready, but October to April is drier."
+  ],
+  "highlights": [
+    "Two nights at an Umiam Lake resort with a meeting room, lawn and lake access",
+    "Kayaking, pedal boats or a team challenge on the lake, subject to operation",
+    "A Khasi dinner evening with local music at the resort",
+    "Laitlum Canyons outing with a guided walk down the first stretch of steps",
+    "An evening at one of Shillong's live music venues",
+    "Optional Brahmaputra lunch cruise or Kamakhya visit before flights home"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati Airport to Umiam Lake",
+      "stay": "Umiam Lake",
+      "altitude_m": 1000,
+      "drive": "85 km · 2.5–3 hrs by coach",
+      "text": "Our coordinator meets the group at Guwahati Airport and runs staggered pickups if flights arrive across the morning, with a waiting lounge arrangement near the airport. The coach takes the four-lane NH-6 through Jorabat and up into the Khasi Hills, reaching Umiam in about 2.5 to 3 hours. At check-in, the resort registers everyone on the Meghalaya tourism app, so we collect ID copies in advance. After lunch, the first session runs from 3 to 6 pm in the meeting room, with projector, sound and flip charts set up. In the evening, a welcome dinner on the lawn by the lake, with a bonfire in winter months.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Workshop morning and water afternoon",
+      "stay": "Umiam Lake",
+      "altitude_m": 1000,
+      "drive": "No long drives · local transfers only",
+      "text": "The morning is yours for work: a 9 am to 1 pm session with a tea break, in the resort's meeting room or on the lawn in dry weather. After lunch, the group splits into teams for the lake. Depending on the season and what the water sports complex is running, options include kayaking, pedal boats, a speedboat round and a shore-based team challenge that our facilitators run with points and small prizes. Non-swimmers stay on shore activities, and life jackets are compulsory on the water. In the evening, a Khasi dinner with jadoh, dohneiiong (pork with black sesame) and tungrymbai, and a local band or folk musicians if the group wants music.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Laitlum Canyons and a Shillong evening",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 60 km in total · 2.5 hrs by coach",
+      "text": "After breakfast and check-out, the coach takes the group through Shillong to Laitlum Canyons, about 25 km beyond the city, where the plateau ends in steep, layered gorges. A local guide leads a short walk down the first flight of steps, and the viewpoint is a good place for a group photograph. Lunch is at a Shillong restaurant booked for the group. The afternoon is free around Police Bazar and Laitumkhrah for shopping and cafes, or we can book the Don Bosco Museum for those who want it. In the evening, we reserve space at one of Shillong's live music venues, known for rock and blues, for the closing dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Shillong to Guwahati and flights home",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "100 km · 3–3.5 hrs by coach",
+      "text": "After breakfast the coach leaves Shillong by 9 am for Guwahati. For groups on evening flights we add one of two options: a lunch cruise on the Brahmaputra, about two hours on a covered boat, subject to operation, or a visit to Kamakhya Temple on Nilachal hill, where the general queue is free and special darshan costs ₹501 per person at the last check. Groups flying out before 2 pm go straight to the airport, arriving around noon. Our coordinator handles the drop in batches if flights are staggered, and confirms everyone is checked in. Invoices and a trip summary follow by email.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights on twin sharing: 2 at an Umiam Lake resort and 1 in Shillong",
+    "All meals from lunch on day 1 to breakfast on day 4, including a welcome dinner and a closing dinner",
+    "Meeting room with projector, screen, sound system and flip charts for two sessions",
+    "Air-conditioned coach or tempo travellers for all transfers, with staggered airport pickups",
+    "One team activity afternoon at Umiam Lake with facilitators",
+    "Khasi dinner evening with local musicians, subject to availability",
+    "Guided Laitlum Canyons outing",
+    "Reserved group booking at a Shillong live music venue",
+    "Meghalaya guest registration handled for every participant",
+    "A dedicated coordinator on the ground for the whole trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "GST, charged at the applicable rate on the final invoice",
+    "Water sports fees if the complex charges per ride",
+    "Alcohol and bar bills",
+    "Single-room supplements",
+    "Brahmaputra cruise or Kamakhya special darshan on day 4, unless added",
+    "Travel insurance",
+    "Costs from flight delays, strikes or weather"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Orchid Lake Resort (Meghalaya Tourism), Umiam, or similar; Hotel Centre Point, Shillong, or similar" },
+    { "tier": "Premium", "options": "Orchid Lake Resort, Umiam, in upgraded rooms, or similar; Hotel Polo Towers, Shillong, or similar, which suits larger groups" },
+    { "tier": "Luxury", "options": "Ri Kynjai, Umiam, or similar; Tripura Castle or Hotel Polo Towers, Shillong, or similar; we match the venue to your headcount and meeting needs" }
+  ],
+  "good_to_know": [
+    "Meghalaya requires every guest to be registered on the state tourism app at check-in. Send us ID copies for all participants two weeks before travel. Check current status before you travel.",
+    "No permit is needed for Assam or Meghalaya. Renting self-drive vehicles to tourists is banned in Meghalaya, so all movement is by our coaches.",
+    "Umiam water sports depend on the operator and water levels, and can stop in bad weather. We keep a shore-based team challenge ready as a backup.",
+    "From June to September, rain is frequent and heavy. The trip still works with indoor sessions, but outdoor plans move to dry windows.",
+    "Shillong nights are 5–10°C from December to February. Remind participants to pack a jacket, especially for evening events by the lake.",
+    "We need a final headcount and rooming list 10 days before arrival. Changes after that may carry hotel charges."
+  ],
+  "faqs": [
+    { "q": "How many people can this offsite handle?", "a": "We plan it for groups of 15 to 60. Umiam Lake resorts suit groups up to about 40 in one property; larger groups split across two resorts or move the meeting days to Shillong, where Hotel Polo Towers has more space. Tell us your headcount and meeting format and we will match the venue." },
+    { "q": "How much does a Shillong team offsite cost?", "a": "It starts at ₹17,500 per person on twin sharing for groups of 20 or more, including three nights, all meals, a meeting room with AV, coach transfers, a team activity afternoon, a Khasi dinner evening and a coordinator. GST, flights, alcohol and single rooms are extra. Smaller groups cost more per head." },
+    { "q": "How far is Umiam Lake from Guwahati Airport?", "a": "About 85 km, which takes 2.5 to 3 hours by coach on NH-6, a four-lane highway for most of the way. Shillong is 15 km further. Guwahati Airport has direct flights from Delhi, Mumbai, Bengaluru, Kolkata, Chennai and Hyderabad, so most teams can arrive by midday and start work the same afternoon." },
+    { "q": "Is there a helicopter option from Guwahati to Shillong?", "a": "We do not sell one. We could not find a current scheduled Guwahati–Shillong helicopter service, and past services ran irregularly. The road takes about three hours by coach and is the reliable option for groups. If a service is running when you travel, we can tell you, but please check current status before you plan around it." },
+    { "q": "What team activities are available at Umiam Lake?", "a": "Depending on the season and operator: kayaking, pedal boats, a speedboat round and shore-based team challenges run by our facilitators. We also arrange Khasi cooking demonstrations, a short guided nature walk or a lakeside quiz. Water activities need life jackets and are cancelled in storms, so we always hold a dry-land option." },
+    { "q": "Do participants need a permit to visit Shillong?", "a": "No. Meghalaya has no Inner Line Permit for Indian or foreign visitors. Since 2025, however, every hotel must register each guest on the state tourism app, so we collect ID copies in advance to keep check-in fast. Foreign colleagues also need their passport and visa for Form C." },
+    { "q": "When is the best time for a Shillong offsite?", "a": "October to April is best, with dry weather and cool days of 15–23°C. October, November, March and April are the most comfortable for outdoor sessions. December to February is cold in the evenings but clear. From June to September rain is heavy, though indoor plans and the green hills still make it workable." },
+    { "q": "Can we hold the offsite in Guwahati instead?", "a": "Yes. Guwahati has large business hotels with bigger meeting rooms, and suits teams that want minimal travel. The trade-off is heat and humidity for much of the year. A common mix is two work days in Guwahati and one leisure night in Shillong, or the reverse of this plan." },
+    { "q": "Can you handle dietary needs for a large group?", "a": "Yes. We collect dietary information with the rooming list and brief each kitchen: vegetarian, Jain, vegan, halal and common allergies are all manageable with notice. Khasi evenings include vegetarian dishes. Tell us about any serious allergies directly, and we will confirm them in writing with the resort before arrival." }
+  ]
+}

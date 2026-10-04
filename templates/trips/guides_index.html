@@ -1,0 +1,10 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="ih"><div class="shell">{% crumbs crumb_list %}<h1>Northeast India travel guides</h1><p class="ih__lede">Permits, seasons, safaris, treks, food, costs and day-by-day itineraries for Meghalaya, Assam, Arunachal and the rest of the Northeast, updated for 2026.</p>
+  <div class="seg seg--wrap" data-cat-filter role="group" aria-label="Category"><button type="button" class="is-on" data-cat="">All</button>{% for c in cats %}<button type="button" data-cat="{{ c }}">{{ c }}</button>{% endfor %}</div></div></section>
+<section class="band band--tight"><div class="shell">
+  <div class="mag">{% guide_card lead big=True %}<div class="mag__side">{% for g in side %}{% guide_card g %}{% endfor %}</div></div>
+  <div class="gd-grid gd-grid--mt">{% for g in rest %}{% guide_card g %}{% endfor %}</div>
+</div></section>
+{% cta_panel %}
+{% endblock %}

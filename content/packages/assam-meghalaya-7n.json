@@ -1,0 +1,149 @@
+{
+  "slug": "assam-meghalaya-7n",
+  "title": "Assam and Meghalaya Highlights",
+  "nights": 7,
+  "themes": ["family", "photography"],
+  "states": ["assam", "meghalaya"],
+  "places": ["guwahati", "kamakhya-temple", "umiam-lake", "shillong", "sohra", "nohkalikai-falls", "dawki-umngot", "mawlynnong", "kaziranga"],
+  "hero": "dawki-umngot",
+  "price_from_inr": 30000,
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 1525,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Assam and Meghalaya tour, 7 nights / 8 days: Guwahati, Shillong, a Sohra night, Dawki's clear river, Mawlynnong and 2 nights of Kaziranga safaris.",
+  "quick_answer": "This 7 nights / 8 days trip covers the five places most people mean by Assam and Meghalaya: Guwahati, Shillong, Sohra (Cherrapunji), Dawki with Mawlynnong, and Kaziranga. Each hill stop gets a sunrise or golden hour, and Kaziranga gets two nights and three safaris. From ₹30,000 per person, twin sharing, November to April.",
+  "overview": [
+    "This is our most balanced week in the region, built for families who also want good photographs. We start with a night in Guwahati so arrival-day delays do not eat into the hills, then spend four nights in Meghalaya: one in Shillong, one in Sohra for the gorges at first light, and two more in Shillong with a full day south to Dawki and Mawlynnong. November to March is when the Umngot runs clear enough to see the riverbed from a boat.",
+    "The second half moves to Assam. Shillong to Kaziranga is about 270 km, a full driving day that we make easier with an early start and a lunch break in Nagaon. Two nights at Kaziranga allow three jeep safaris across the Central, Western and Eastern ranges and an optional elephant ride. The final day returns you to Guwahati for an afternoon flight."
+  ],
+  "highlights": [
+    "Kamakhya Temple and Brahmaputra sunset on the arrival evening",
+    "Nohkalikai and Seven Sisters Falls from Sohra, shot before the cloud rises",
+    "Boat ride on the clear Umngot River at Dawki in the dry season",
+    "Mawlynnong village and the Riwai living root bridge",
+    "Three jeep safaris across three ranges of Kaziranga",
+    "Umiam Lake in early-morning mist on the Shillong to Kaziranga drive"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Guwahati, Kamakhya Temple and the riverfront",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "Airport to city 28 km · 1 hr",
+      "text": "Arrive at Guwahati airport, where our driver will be waiting at the exit. Check in, rest, and in the afternoon drive up Nilachal Hill to Kamakhya Temple, one of the most visited Shakti temples in India. The general queue is free; a ₹501 special darshan ticket, bookable online, saves hours on busy days. From the temple car park the view over the city and river is wide at around 4 pm. We end at the Brahmaputra riverfront at Uzan Bazar or on a one-hour sunset cruise. Guwahati's light is soft and hazy in winter, good for silhouettes of boats against the water.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Guwahati to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "100 km · 3 hrs",
+      "text": "A late breakfast and a relaxed drive up the four-lane NH6 to Shillong. We stop at the Umiam Lake viewpoint, where the reservoir spreads through pine hills, and optionally at the lakeside park for a boat ride. Arriving by lunchtime leaves the afternoon for Don Bosco Museum, a seven-storey museum of Northeast cultures with a rooftop terrace over the city, and Ward's Lake. Evening in Police Bazar or a Laitumkhrah cafe. Shillong has a strong live-music scene, and Friday and Saturday nights usually have something on.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Shillong to Sohra, gorges and caves",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "55 km · 1.5–2 hrs",
+      "text": "We leave after breakfast on the Sohra road, stopping at Elephant Falls and the Mawkdok Dympep valley viewpoint. By noon you are in Sohra. The afternoon covers Mawsmai Cave, Seven Sisters Falls viewpoint and the Thangkharang Park edge, where on clear days you can see the plains of Bangladesh below the escarpment. Sunset from the edge of the plateau near your resort is often the best light of the whole trip in December and January. Dinner at the resort, as Sohra's restaurants close early.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Nohkalikai in the morning, back to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "60 km · 2 hrs plus stops",
+      "text": "Start at Nohkalikai Falls by 8 am, when the gorge is usually clear and the pool below shows its green colour. Then Arwah Cave, a longer walk through fossil-bearing limestone, and a stop at Wakaba or Dainthlen Falls depending on water flow. We drive back to Shillong in the afternoon via Laitlyngkot. The evening is free. Photographers may want to use it for a sunset from the Laitlum road, 25 km from town, which we can add at a small extra cost for the vehicle.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Day trip to Dawki, Shnongpdeng road and Mawlynnong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "190 km round trip · 8–9 hrs",
+      "text": "A long but worthwhile day. We leave at 7 am for Dawki, about 82 km and two and a half to three hours south, descending through Pynursla to the Umngot River on the Bangladesh border. In the dry months the water is clear enough to see stones on the bed from a country boat, and a 30 to 45 minute ride is usual. Then 30 km to Mawlynnong, a Khasi village known for its tidy lanes, and the nearby Riwai root bridge. The drive back to Shillong takes about three hours. Boating is usually stopped in peak monsoon.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Shillong to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "270 km · 6.5–7 hrs",
+      "text": "We leave at 6.30 am and stop at Umiam Lake in the early light, when mist often sits on the water. Then down to Jorabat and east on NH27 through Jagiroad to Nagaon for lunch. After Nagaon the road runs past tea gardens and along the southern boundary of Kaziranga. Arrive at your lodge near Kohora by mid-afternoon. We spend the late light on a short walk through the tea garden next to the lodge, where rows of bushes under shade trees make clean compositions against a low sun.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Kaziranga: three ranges in one day",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "Local · park roads",
+      "text": "Optional elephant ride at dawn from November, at Kohora or Bagori. Then the morning jeep safari in the Central Range, followed by a quick second morning entry into the Western Range at Bagori if slots allow, or save Bagori for the afternoon. Our usual plan is Central in the morning and Eastern Range at Agaratoli in the afternoon, where pelicans, storks and winter ducks gather on the beels. Photographers should bring a 100 to 400 mm lens; rhino are often 30 to 150 metres from the track.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Morning safari and drive to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "215 km to airport · 5 hrs",
+      "text": "A final early jeep safari in the Western Range at Bagori from about 7.30 am, where the highest density of rhino in the park and big wild buffalo herds give the best closing images. Back to the lodge for breakfast by 10 am and depart for Guwahati by 10.30 am. With a lunch stop you reach the airport around 4 pm, so book a flight after 6 pm. If your flight is earlier, we drop the last safari or route you to Jorhat Airport, 95 km east, instead.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "7 nights in the chosen hotel tier, twin sharing",
+    "Breakfast and dinner every day except Day 1 breakfast",
+    "Private air-conditioned vehicle for the whole trip",
+    "Guwahati airport pickup and drop",
+    "All sightseeing listed in Guwahati, Shillong, Sohra, Dawki and Mawlynnong",
+    "3 jeep safaris in Kaziranga with entry and vehicle fees",
+    "One still camera fee per person at Kaziranga",
+    "Safari slot booking and permits for the park",
+    "Driver allowance, fuel, tolls, parking and inter-state taxes",
+    "Round-the-clock WhatsApp support"
+  ],
+  "exclusions": [
+    "Airfare or train fare",
+    "Dawki boat ride (paid per boat on the spot)",
+    "Entry fees at Meghalaya villages, caves and viewpoints",
+    "Elephant safari",
+    "Kamakhya special darshan ticket and Brahmaputra cruise",
+    "Lunch and drinks",
+    "Video camera, telephoto surcharge or drone fees",
+    "Tips, laundry and personal expenses",
+    "Travel insurance"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Guwahati: Hotel Dynasty; Shillong: Hotel Centre Point; Sohra: Sai-Mika Resort; Kaziranga: Wild Grass Lodge, or similar" },
+    { "tier": "Premium", "options": "Guwahati: Novotel Guwahati GS Road; Shillong: Hotel Polo Towers; Sohra: Polo Orchid Resort; Kaziranga: IORA The Retreat or Infinity Resorts Kaziranga, or similar" },
+    { "tier": "Luxury", "options": "Guwahati: Vivanta Guwahati; Shillong: Vivanta Meghalaya or Courtyard by Marriott Shillong; Sohra: Polo Orchid Resort valley-view room; Kaziranga: Diphlu River Lodge, or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga opens in phases through October, with elephant rides and the Eastern Range from around 1 November, and closes for the monsoon from about May. Check current status before you travel.",
+    "The Umngot at Dawki is clearest from November to March. From June to September it turns brown and boating is often suspended.",
+    "Photographers: Meghalaya's clearest skies are in December and January; Kaziranga's golden grass and haze-free mornings are best from February to April.",
+    "Drone flying needs permission in both states and is banned inside Kaziranga and near the Bangladesh border at Dawki.",
+    "Meghalaya hotels and homestays must register every guest on the state tourism app, so carry photo ID. Self-drive rental cars are banned for tourists; our chauffeured vehicle is the norm."
+  ],
+  "faqs": [
+    { "q": "Is 7 nights enough for Assam and Meghalaya?", "a": "Seven nights is the minimum we suggest to see Guwahati, Shillong, Sohra, Dawki, Mawlynnong and Kaziranga without skipping sunrises. Two long drives, the Dawki day and Shillong to Kaziranga, are unavoidable. With nine or ten nights you could add Majuli or the double decker root bridge trek." },
+    { "q": "How far is Dawki from Shillong?", "a": "Dawki is about 82 km south of Shillong, a drive of two and a half to three hours through Pynursla and down a winding road to the Bangladesh border. Mawlynnong is 30 km from Dawki. We do both as a single day trip from Shillong, returning in the evening." },
+    { "q": "When is the Umngot River at Dawki clear?", "a": "From about November to March the Umngot runs low and clear, and you can see the riverbed from the boat. April is still reasonable. From June to September rain turns it brown and boating is usually suspended. Clarity varies with recent rain, so check current status before you travel." },
+    { "q": "What does the Assam and Meghalaya package cost?", "a": "Our indicative price starts at ₹30,000 per person, twin sharing, with standard hotels, breakfast and dinner, a private vehicle and three Kaziranga jeep safaris. Luxury lodges in Kaziranga and Shillong raise the cost significantly. Flights, boat rides and entry fees are extra. We quote exact prices once dates are fixed." },
+    { "q": "Is this package suitable for photographers?", "a": "Yes. It builds in a Sohra overnight for dawn light at Nohkalikai, an early-morning stop at Umiam Lake, a late-afternoon tea garden walk and three safaris in different habitats at Kaziranga. Bring a 100 to 400 mm lens for wildlife and a wide lens for the gorges. Drones are not allowed at Kaziranga." },
+    { "q": "Can we swap Guwahati for an extra Kaziranga night?", "a": "Yes. If your flight lands early, we can drive straight to Shillong on Day 1 and add a night at Kaziranga for a fourth safari or the Burapahar range. You lose Kamakhya Temple and the Brahmaputra sunset. We adjust the price accordingly." },
+    { "q": "Is the Shillong to Kaziranga drive difficult?", "a": "It is long rather than difficult: about 270 km and seven hours on good highways, with the only winding section in the first 80 km down from Shillong. We leave early and stop for breakfast at Umiam and lunch at Nagaon. Travellers prone to motion sickness should take a tablet before leaving." },
+    { "q": "Do Indians or foreigners need permits for this trip?", "a": "Neither Indian citizens nor foreign nationals need an Inner Line Permit or Protected Area Permit for Meghalaya or Assam. At Dawki you stay on the Indian side and should not cross onto the Bangladesh sandbanks. Foreigners carry their passport for hotel registration. Check current status before you travel." },
+    { "q": "What wildlife will we see at Kaziranga?", "a": "Almost certainly Indian one-horned rhino, wild water buffalo, swamp deer, hog deer, wild elephants and many water birds. Tigers, wild boar and otters are possible but less predictable. The Eastern Range is best for pelicans and storks in winter, and the Western Range for large rhino numbers." }
+  ]
+}

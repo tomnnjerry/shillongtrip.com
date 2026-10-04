@@ -1,0 +1,68 @@
+{
+  "slug": "kohima",
+  "name": "Kohima",
+  "state": "northeast",
+  "state_name": "Nagaland",
+  "district": "Kohima",
+  "types": ["city", "hill-station", "history", "festival"],
+  "tagline": "Nagaland's hill capital, the WWII battlefield and Hornbill host",
+  "altitude_m": 1440,
+  "coords": [25.6751, 94.1086],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for clear views and dry roads; 1 to 10 December for the Hornbill Festival.",
+  "permit": {
+    "required": true,
+    "indians": "Nagaland Inner Line Permit required, including for Dimapur. Apply online only at ilp.nagaland.gov.in; the tourist ILP is INR 200 for 30 days, usually approved within a few working hours. Check current status before you travel",
+    "foreigners": "Protected Area Permit required again since 17 December 2024, plus a Nagaland ILP (INR 500 for 30 days) and registration with the authorities within 24 hours of arrival. Check current status before you travel"
+  },
+  "from_hub": { "hub": "Dimapur", "km": 74, "hours": "2.5" },
+  "ideal_stay": "2 nights in Kohima, 4 to 5 during Hornbill",
+  "meta_description": "Kohima, Nagaland: War Cemetery, Kohima Village, Hornbill Festival at Kisama, ILP rules, how to reach from Dimapur, stays and 9 answered FAQs.",
+  "quick_answer": "Kohima is the capital of Nagaland, at about 1,440 m, and 74 km (about 2.5 to 3 hours) by road from Dimapur's airport and railway station. Visit the Kohima War Cemetery, Kohima Village and the State Museum, and time a trip for the Hornbill Festival at Kisama, 1 to 10 December. Indians need a Nagaland ILP.",
+  "intro": [
+    "Kohima is built along a series of ridges in the Naga Hills, and from almost anywhere in town you can see green slopes falling away into valleys. It is Nagaland's capital and the heartland of the Angami Naga, whose villages, including Khonoma and Jakhama, surround it. The town is compact but steep, with traffic that can be slow on the main road through the centre.",
+    "In April to June 1944 Kohima was the scene of one of the hardest battles of the Second World War, when British and Indian troops held the ridge against the Japanese advance towards India. The Kohima War Cemetery, on Garrison Hill where the fighting was fiercest, has 1,420 Commonwealth burials and the famous epitaph that begins When you go home. The old tennis court where the lines were only metres apart is marked within the cemetery.",
+    "For most visitors, Kohima means the Hornbill Festival, held every year from 1 to 10 December at the Naga Heritage Village in Kisama, about 12 km south. Outside festival season, Kohima is quieter and a good base for Khonoma, the Dzukou Valley trek and Angami villages. Nagaland is a dry state under its liquor prohibition law, and many businesses close on Sundays."
+  ],
+  "highlights": [
+    { "name": "Kohima War Cemetery", "text": "A terraced Commonwealth cemetery on Garrison Hill with 1,420 graves and the Kohima Epitaph. Usually open from about 9 am to 4 pm; allow an hour." },
+    { "name": "Hornbill Festival, Kisama", "text": "Ten days of dances, games, crafts and food from Nagaland's tribes at the Naga Heritage Village, 1 to 10 December, with evening concerts in town." },
+    { "name": "Kohima Village (Bara Basti)", "text": "The original Angami settlement, described as more than 700 years old, with a traditional gate, carved house fronts and views over the town." },
+    { "name": "Nagaland State Museum", "text": "Galleries on the Naga tribes, with textiles, jewellery, weapons and a model morung. Check opening days, as it usually closes on some public holidays." },
+    { "name": "Mary Help of Christians Cathedral", "text": "A large Catholic cathedral on Aradura Hill with a carved wooden crucifix about 16 feet tall and views of the ridges." }
+  ],
+  "things_to_do": [
+    "Walk through the Kohima War Cemetery and read the epitaphs",
+    "Attend the Hornbill Festival at Kisama between 1 and 10 December",
+    "Walk through the gates and lanes of Kohima Village",
+    "Spend an hour at the Nagaland State Museum",
+    "Browse the local market for Naga shawls, chillies, bamboo shoot and river snails",
+    "Eat smoked pork with bamboo shoot and axone (fermented soybean) at a local restaurant",
+    "Take a day trip to Khonoma, India's first green village, 20 km west",
+    "Trek to Dzukou Valley from Viswema or Jakhama, 25 km south",
+    "Visit the cathedral on Aradura Hill for the view"
+  ],
+  "how_to_reach": "Dimapur, 74 km away, is the gateway. Dimapur airport has flights from Kolkata, Guwahati, Delhi and a few other cities, and Dimapur railway station is on the main line from Guwahati. From Dimapur, taxis, shared Sumos and state buses take about 2.5 to 3 hours to Kohima on NH29, longer when the road is under repair. A new railway line towards Kohima is being built, with Shokhuvi, near Dimapur, the nearest operational station for now. Imphal is about 140 km south by road.",
+  "where_to_stay": "Kohima has mid-range hotels and guest houses along the main road and around the town centre, and homestays in residential colonies and in Kohima Village. During Hornbill, prices rise and rooms sell out months ahead; many visitors stay in homestays in nearby villages such as Kigwema and Jakhama, closer to Kisama, or in organised festival camps. Outside December, you can usually find rooms at short notice. Pick a place with parking and check whether hot water is available all day.",
+  "tips": [
+    "Apply for your Nagaland ILP online before you travel and keep a printed and digital copy",
+    "Book Hornbill stays and transport by August or September; December rooms go early",
+    "Nagaland is a dry state under its liquor prohibition law; do not bring alcohol in",
+    "Many shops and restaurants close on Sundays, and church services fill the morning",
+    "The Dimapur to Kohima road can be slow and bumpy; allow at least 3 hours",
+    "Ask before photographing people, especially elders and at village gates"
+  ],
+  "faqs": [
+    { "q": "Do I need an Inner Line Permit for Kohima?", "a": "Yes. Indian citizens who are not residents of Nagaland need an Inner Line Permit, including for Dimapur. Apply online at ilp.nagaland.gov.in; the tourist ILP is INR 200 for 30 days. Foreign nationals need a Protected Area Permit plus the ILP, and must register within 24 hours. Check current status before you travel." },
+    { "q": "When is the Hornbill Festival held?", "a": "The Hornbill Festival is held every year from 1 to 10 December at the Naga Heritage Village in Kisama, about 12 km south of Kohima. The festival opens on Nagaland's Statehood Day, 1 December; the 2026 edition runs 1 to 10 December. Each day has tribal dances, games, crafts and food stalls, with evening concerts and night markets in Kohima." },
+    { "q": "How far is Kohima from Dimapur?", "a": "Kohima is about 74 km from Dimapur by road on NH29. Taxis and shared Sumos take about 2.5 to 3 hours, and longer when stretches are under repair. Dimapur has Nagaland's airport and main railway station, so almost every trip to Kohima passes through it." },
+    { "q": "What is the Kohima War Cemetery?", "a": "It is a Commonwealth War Graves Commission cemetery on Garrison Hill, where the Battle of Kohima was fought in April to June 1944. It holds 1,420 Commonwealth burials and the Kohima Epitaph, which begins When you go home. The old tennis court, where the lines were closest, is marked. It usually opens from about 9 am to 4 pm." },
+    { "q": "What is the best time to visit Kohima?", "a": "October to April is best, with dry weather and clear views of the hills. December is the busiest month because of the Hornbill Festival. Winter nights can drop close to freezing. The monsoon from June to September brings heavy rain and landslides on the Dimapur road." },
+    { "q": "How many days do I need in Kohima?", "a": "Two nights cover the War Cemetery, Kohima Village, the State Museum and a day trip to Khonoma. Add two more for the Dzukou Valley trek. For Hornbill, plan four or five nights to see several days of the festival and nearby villages." },
+    { "q": "Is alcohol available in Kohima?", "a": "Nagaland has been a dry state since 1989 under the Nagaland Liquor Total Prohibition Act, so alcohol is not legally sold in Kohima. Do not carry alcohol into the state. Local rice beer is part of Naga culture, but rules on it can differ; follow your host's guidance." },
+    { "q": "Is Kohima safe for tourists?", "a": "Kohima is generally safe and welcoming for tourists, including families and solo women. Use normal precautions, avoid remote roads after dark and follow local advice. Occasional bandhs can shut shops and transport for a day, so keep a spare day in your plans and check current status before you travel." },
+    { "q": "Where should I stay in Kohima during Hornbill?", "a": "Book early, ideally by August or September. Hotels in central Kohima fill fastest. Homestays in villages near Kisama, such as Kigwema and Jakhama, are closer to the festival grounds. Organised camps with tents also appear for the festival. Expect prices to rise in December." }
+  ],
+  "nearby": ["khonoma", "dzukou-valley", "imphal", "loktak-lake"],
+  "image_query": "Kohima Nagaland town"
+}

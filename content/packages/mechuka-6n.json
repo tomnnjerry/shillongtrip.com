@@ -1,0 +1,139 @@
+{
+  "slug": "mechuka-6n",
+  "title": "Mechuka",
+  "nights": 6,
+  "themes": ["offbeat", "adventure"],
+  "states": ["arunachal", "assam"],
+  "places": ["dibrugarh", "pasighat", "mechuka"],
+  "hero": "mechuka",
+  "price_from_inr": 31500,
+  "best_months": [10, 11, 12, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 1900,
+  "start": "Dibrugarh Airport (DIB)",
+  "end": "Dibrugarh Airport (DIB)",
+  "meta_description": "Mechuka road trip, 6 nights / 7 days from Dibrugarh via Bogibeel, Pasighat and Aalo: Siyom river, Samten Yongcha gompa, Memba villages, ILP help.",
+  "quick_answer": "This 6 nights / 7 days road trip starts and ends at Dibrugarh. You cross the Brahmaputra on the Bogibeel bridge to Pasighat, follow the Siang to Aalo and drive 187 km up to Mechuka at about 1,900 m for two nights. It suits travellers who accept long mountain drives in return for a quiet valley near the border.",
+  "overview": [
+    "Mechuka (also written Menchukha) is a wide, flat valley at about 1,900 m in Shi Yomi district, around 30 km from the Line of Actual Control. The Siyom river runs through it, the slopes are fir and pine, and the villages belong mostly to the Memba, a Buddhist community, along with Ramo, Bokar and Libo families. The 400-year-old Samten Yongcha gompa sits on a ridge above town. Few people make the trip because the road is long: about 187 km from Aalo, which takes 7 to 8 hours on a road that is still being widened.",
+    "We break the drive into sensible stages. Day 1 is only 4 hours from Dibrugarh to Pasighat over the 4.94 km Bogibeel bridge, day 2 is a short hop to Aalo and day 3 is the long climb. You get one full day in Mechuka, then come back the same way with a night each in Aalo and Pasighat, so the last morning is a 4-hour drive to the airport. We use an SUV with a driver who knows the Tato and Kaying stretches."
+  ],
+  "highlights": [
+    "Two nights in Mechuka at about 1,900 m, one of the most remote valleys you can drive to in Arunachal",
+    "The 4.94 km Bogibeel rail-road bridge over the Brahmaputra, India's longest",
+    "Samten Yongcha gompa, a Memba monastery about 400 years old",
+    "The Siyom river flats, hanging bridges and Memba villages around town",
+    "The Siang river at Pasighat and the Adi villages around Aalo",
+    "A gentle pace: only one day over 5 hours in each direction"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Dibrugarh to Pasighat over Bogibeel",
+      "stay": "Pasighat",
+      "altitude_m": 155,
+      "drive": "150 km · 4 hrs",
+      "text": "We meet you at Dibrugarh Airport at Mohanbari and drive north to the Bogibeel bridge, a 4.94 km double-deck rail and road bridge across the Brahmaputra that opened in 2018. On the far bank the road runs through Dhemaji district to the Ruksin check gate, where your ILP (Indian citizens) or PAP (foreign nationals) is checked. Pasighat is the oldest town in Arunachal, founded in 1911, and sits where the Siang leaves the hills. In the late afternoon, walk down to the Siang riverbank or drive up to the viewpoint over the braided channels. Overnight in Pasighat.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Pasighat to Aalo along the Siang",
+      "stay": "Aalo",
+      "altitude_m": 300,
+      "drive": "105 km · 4 hrs",
+      "text": "A short driving day. The road follows the Siang upstream to Pangin, where the Siyom joins it, and then turns west to Aalo, the headquarters of West Siang district. Stop at Pangin for the river confluence and tea. In Aalo, walk across one of the cane-and-steel hanging bridges over the Siyom and wander the town market, where Galo women sell river fish, greens and smoked meat. Aalo is mostly Galo country, and if your visit falls in early April, you may catch Mopin, the Galo spring festival. Have an early dinner: tomorrow is the long drive to Mechuka.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Aalo to Mechuka",
+      "stay": "Mechuka",
+      "altitude_m": 1900,
+      "drive": "187 km · 7–8 hrs",
+      "text": "Leave at 6.30 am. The road passes Kabu and Tato, the Shi Yomi district headquarters, and then climbs through forest to the Mechuka valley. The Aalo–Mechuka road is being upgraded to a two-lane highway, so expect stretches of fresh cutting and short waits for machines; after rain, add an hour or two. Lunch at Tato. The last 30 km open up suddenly into the flat valley with the Siyom running through meadows and the town at its centre. Check in to your homestay, eat early and dress warmly: nights in winter drop below freezing.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Mechuka valley day",
+      "stay": "Mechuka",
+      "altitude_m": 1900,
+      "drive": "40 km · local",
+      "text": "A full day with no long drive. Start at Samten Yongcha gompa on the ridge above town, a Memba monastery around 400 years old with a view over the whole valley. Then visit the Gurdwara Tapo Asthan, which marks a site associated with Guru Nanak, and walk out on the hanging bridges over the Siyom. In the afternoon, drive a short way to Dorjeeling village and the fir slopes above it, or to Hanuman Point for the view down the valley. Your homestay family can cook thukpa, local greens and butter tea. Carry your ID, as army checkposts are common near the border.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Mechuka to Aalo",
+      "stay": "Aalo",
+      "altitude_m": 300,
+      "drive": "187 km · 7–8 hrs",
+      "text": "An early start again, around 7 am after breakfast, for the drive back down to Aalo. The morning light on the valley is the best of the trip, so ask your driver for a short photo stop above town before you drop into the forest. Lunch at Tato. The road is the same one you came up, and road crews usually keep the same working hours, so expect similar waits. Reach Aalo by late afternoon, with time for a walk to the Siyom riverbank before dinner. If you lost time on the way up, this is the day we use as a buffer.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Aalo to Pasighat and the Siang",
+      "stay": "Pasighat",
+      "altitude_m": 155,
+      "drive": "105 km · 4 hrs",
+      "text": "A relaxed half day of driving back to Pasighat via Pangin. In the afternoon, visit the Daying Ering Memorial Wildlife Sanctuary on the river islands south of town, reached by boat when water levels allow; winter brings migratory ducks and waders. If the boat is not running, walk the Siang riverbank at sunset or visit a nearby Adi village with your driver. Pasighat has good local restaurants for Adi food, including smoked meat, bamboo shoot and rice cooked in leaves. Pack tonight, as tomorrow is the drive back to Dibrugarh for your flight.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Pasighat to Dibrugarh and depart",
+      "stay": "Departure",
+      "altitude_m": 108,
+      "drive": "150 km · 4 hrs",
+      "text": "Leave Pasighat by 8 am and cross back over the Bogibeel bridge to Dibrugarh Airport, about 4 hours away. We suggest booking a flight after 1.30 pm to leave some room for traffic at the bridge approach. If you have a later flight or an extra night, spend it at a heritage tea bungalow in Dibrugarh such as Mancotta Chang Bungalow, where you can walk the tea rows and see a factory in the plucking season from March to November. We can also add the Dibru-Saikhowa river trip or Namdapha on request.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "6 nights in hotels and homestays on twin sharing: 2 in Pasighat, 2 in Aalo, 2 in Mechuka",
+    "Daily breakfast and dinner from day 2, dinner on day 1",
+    "Private SUV (Scorpio, Bolero or similar) with an experienced hill driver for the whole trip",
+    "Dibrugarh Airport pick-up and drop",
+    "Help with the Arunachal tourist ILP for Indian citizens",
+    "PAP paperwork through our approved partner for foreign guests (group of two or more)",
+    "Local guide for the Mechuka valley day",
+    "Driver allowance, fuel, tolls and parking",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Dibrugarh",
+    "ILP or PAP fees and royalty",
+    "Lunches, snacks and drinks",
+    "Boat charges at Daying Ering and monastery donations",
+    "Camera fees and tips",
+    "Extra nights or costs caused by landslides, road works or bandhs",
+    "Travel insurance",
+    "Anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Pasighat: Hotel Migung Resort or similar. Aalo: clean town hotel (limited choice). Mechuka: family homestay or Accomoon Valleyside Homes, or similar" },
+    { "tier": "Premium", "options": "Pasighat: Tsering's Homestay Oyan or similar. Aalo: best available town hotel. Mechuka: Accomoon Valleyside Homes (best rooms) or similar" },
+    { "tier": "Luxury", "options": "There are no luxury hotels on this route. We book the best rooms available in each town, and a heritage tea bungalow in Dibrugarh such as Mancotta Chang Bungalow or similar if you add a night" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500, so pay whatever the portal shows. Foreign nationals need a Protected Area Permit through an approved operator, usually for groups of two or more. Mechuka is close to the border, so confirm with us that your permit covers Shi Yomi district. Check current status before you travel.",
+    "The Aalo–Mechuka road is being widened. Travel times of 7–8 hours can stretch to 10 after rain. Avoid June to September, when landslides are routine.",
+    "Mechuka nights drop below 0°C from December to February. Homestays have blankets but little heating, so bring thermals and a down jacket.",
+    "ATMs in Aalo and Pasighat can run dry; Mechuka has very few. Carry enough cash for the whole trip.",
+    "BSNL and Jio work in the towns; there are long stretches with no signal between Aalo and Mechuka.",
+    "Carry your original photo ID at all times. Army and police checkposts are frequent near Mechuka."
+  ],
+  "faqs": [
+    { "q": "How far is Mechuka from Dibrugarh?", "a": "Mechuka is about 440 km from Dibrugarh by road: roughly 150 km to Pasighat over the Bogibeel bridge, 105 km to Aalo and 187 km from Aalo to Mechuka. It cannot be done in a day. We split it into three stages, with nights in Pasighat and Aalo, and the longest single drive is the 7–8 hour climb from Aalo." },
+    { "q": "What is the altitude of Mechuka?", "a": "Mechuka sits at about 1,900 m (roughly 6,200 ft), with the surrounding ridges going much higher. Most people have no altitude problems at this height, but drink water, go easy on the first evening and avoid alcohol that night. Winter nights from December to February fall below freezing, and light snow on the slopes is common." },
+    { "q": "Do I need a permit for Mechuka?", "a": "Yes. Indian citizens need an Arunachal tourist ILP, applied for online at eilp.arunachal.gov.in; it costs about ₹300–500, so pay what the portal shows. Foreign nationals need a Protected Area Permit arranged through an approved operator. Because Mechuka is near the border, confirm that your permit covers Shi Yomi district, and check current status before you travel." },
+    { "q": "What is the best time to visit Mechuka?", "a": "October to December and February to April are the best months. October and November have clear skies and golden grass; March and April bring blossom and mild days. December to February is cold with frost and possible snow. June to September is the monsoon, when landslides on the Aalo–Mechuka road make travel slow and unreliable." },
+    { "q": "How long is the drive from Aalo to Mechuka?", "a": "The Aalo–Mechuka road is about 187 km and takes 7 to 8 hours in good weather, with lunch at Tato. The road is being widened to two lanes, so fresh cuttings and short stops for machines are normal. After heavy rain the drive can take 10 hours or more, which is why we keep a buffer on the return." },
+    { "q": "Is there a flight to Mechuka?", "a": "Mechuka has an Air Force advanced landing ground, and a small helicopter service under the UDAN scheme has operated on some days of the week. Seats are few and depend on weather, so we do not build trips around it. Treat any helicopter as subject to operation and check current status before you travel." },
+    { "q": "Where do we stay in Mechuka?", "a": "Mechuka has no big hotels. You stay in family homestays or small guesthouses such as Accomoon Valleyside Homes, with clean twin rooms, shared dining and home-cooked food. Hot water is usually by geyser or bucket. The standard of comfort is basic but warm, and staying with a Memba family is one of the best parts of the trip." },
+    { "q": "Is the Mechuka trip suitable for families and older travellers?", "a": "It suits fit families with children over about eight and active older travellers who can handle two 7–8 hour mountain drives. There is no trekking involved. Travellers with back problems or motion sickness should think carefully, as the road is winding and rough in places. We can add an extra night in Aalo to split the long drives." },
+    { "q": "How much does the Mechuka package cost?", "a": "This 6 nights / 7 days Mechuka trip starts from ₹31,500 per person on twin sharing, with standard hotels and homestays, breakfast and dinner, and a private SUV throughout. Most of the cost is the vehicle, so groups of four sharing one car pay less per person. Flights, permit fees and lunches are extra." }
+  ]
+}

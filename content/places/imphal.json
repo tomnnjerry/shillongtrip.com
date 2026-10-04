@@ -1,0 +1,68 @@
+{
+  "slug": "imphal",
+  "name": "Imphal",
+  "state": "northeast",
+  "state_name": "Manipur",
+  "district": "Imphal West and Imphal East",
+  "types": ["city", "history", "culture", "market"],
+  "tagline": "Manipur's valley capital of Kangla, Ima Keithel and polo",
+  "altitude_m": 786,
+  "coords": [24.8170, 93.9368],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for dry, mild weather, subject to the current security situation; check current advisories before planning.",
+  "permit": {
+    "required": true,
+    "indians": "Manipur Inner Line Permit required. Apply online at manipurilponline.mn.gov.in; the temporary permit is valid for 30 days, with counters at Imphal Airport, Mao Gate and Jiribam. Check current status before you travel",
+    "foreigners": "Protected Area Permit required again since 17 December 2024, plus registration with the authorities within 24 hours of arrival. Several foreign governments advise against travel to Manipur; check current advisories"
+  },
+  "from_hub": { "hub": "Imphal Airport", "km": 8, "hours": "0.5" },
+  "ideal_stay": "2 nights in Imphal, plus a day at Loktak Lake",
+  "meta_description": "Imphal, Manipur: Kangla Fort, Ima Keithel, war cemeteries, ILP rules, current travel advisory, how to reach and 9 answered FAQs.",
+  "quick_answer": "Imphal is the capital of Manipur, in a wide valley at about 786 m, and its airport is 8 km from the centre. See Kangla Fort, the women-run Ima Keithel market, Shree Govindajee temple and the war cemeteries, then Loktak Lake, 45 km south. Indians need a Manipur ILP. Check current advisories before planning; we confirm conditions before booking.",
+  "intro": [
+    "Imphal sits in the middle of an oval valley ringed by hills, and on a clear winter day you can see ridge after ridge in every direction. It was the seat of the Manipur kingdom for centuries, and the old royal enclosure at Kangla, surrounded by a moat, is still the heart of the city. Manipuri dance, martial arts such as thang-ta and the game of sagol kangjei, from which modern polo developed, all belong here.",
+    "The city's best-known sight is Ima Keithel, the mothers' market, where thousands of women traders have sold fish, vegetables, textiles and household goods for generations. In 1944 Imphal and Kohima were the scene of the battles that stopped the Japanese advance into India, and two Commonwealth war cemeteries stand in the city.",
+    "We have to be direct about the situation. Manipur has seen ethnic violence since May 2023, with curfews, road blockades and internet shutdowns at times, and several foreign governments advise against all but essential travel. President's Rule ended in February 2026, but tensions remain in parts of the state. Check current advisories before planning; we confirm conditions before booking."
+  ],
+  "highlights": [
+    { "name": "Kangla Fort", "text": "The old royal seat of Manipur, with a moat, gateways, restored temples and large grounds in the centre of Imphal. Allow 1.5 to 2 hours." },
+    { "name": "Ima Keithel", "text": "A market run entirely by women traders, housed in several large halls in Khwairamband. Go in the morning for fish, vegetables and handloom textiles." },
+    { "name": "Shree Govindajee Temple", "text": "A Vaishnavite temple next to the royal palace with twin domes and a large prayer hall. Evening aarti often includes devotional music." },
+    { "name": "Imphal War Cemetery", "text": "A Commonwealth War Graves Commission cemetery for soldiers who died in the 1944 battles, quiet and well kept." },
+    { "name": "Manipur State Museum", "text": "Galleries on Manipuri costume, weapons, musical instruments and a royal boat, near the polo ground." }
+  ],
+  "things_to_do": [
+    "Walk around Kangla Fort and its moat in the morning",
+    "Browse Ima Keithel for Manipuri handloom, black rice and dried fish",
+    "Attend evening prayers at Shree Govindajee Temple",
+    "Visit the Imphal War Cemetery and the Indian Army memorials",
+    "Spend an hour in the Manipur State Museum",
+    "Watch a polo match at Mapal Kangjeibung if one is on",
+    "Eat eromba (fermented fish and vegetable mash) and chak-hao kheer (black rice pudding)",
+    "Take a day trip to Loktak Lake and the INA memorial at Moirang",
+    "Check whether the Sangai Festival, traditionally held in late November, is being held during your visit"
+  ],
+  "how_to_reach": "Flying is the practical way in. Imphal's Bir Tikendrajit International Airport is about 8 km south of the city, with direct flights from Kolkata, Guwahati, Delhi and other cities, and an ILP counter on arrival. By road, NH2 runs about 215 km from Dimapur through Kohima and Mao Gate, and NH37 comes in from Silchar through Jiribam; both have seen blockades and disruption since 2023. There is no railway to Imphal yet; the Jiribam to Imphal line is under construction. Check current advisories before planning; we confirm conditions before booking.",
+  "where_to_stay": "Most visitors stay in central Imphal, around Paona Bazar, Thangal Bazar and the roads near Kangla and Ima Keithel, where mid-range hotels are within walking distance of the main sights. Homestays exist in residential areas and villages on the valley edge. Choose a place with power backup, confirm the hotel is open and ask about curfew hours or restrictions at the time of booking, since these can change quickly.",
+  "tips": [
+    "Check current advisories before planning; we confirm conditions before booking",
+    "Apply for your Manipur ILP online before travel or at the airport counter, and carry printed and digital copies",
+    "Mobile internet has been suspended at times; carry cash, hotel details and offline maps",
+    "Follow any curfew or movement restrictions and ask your hotel each morning about local conditions",
+    "Ask before photographing traders at Ima Keithel and people at religious sites",
+    "Keep your itinerary flexible and avoid road journeys between districts unless your local contact confirms they are safe"
+  ],
+  "faqs": [
+    { "q": "Is it safe to visit Imphal now?", "a": "Manipur has seen ethnic violence since May 2023, with curfews, blockades and internet shutdowns at times, and several foreign governments advise against all but essential travel. President's Rule ended in February 2026, but tensions remain in parts of the state. Conditions change quickly. Check current advisories before planning; we confirm conditions before booking." },
+    { "q": "Do I need a permit to visit Imphal?", "a": "Yes. Indian citizens from outside Manipur need a Manipur Inner Line Permit. Apply online at manipurilponline.mn.gov.in or at counters at Imphal Airport, Mao Gate and Jiribam; the temporary permit is valid for 30 days. Foreign nationals need a Protected Area Permit and must register on arrival. Check current status before you travel." },
+    { "q": "How do I reach Imphal?", "a": "Fly into Imphal's Bir Tikendrajit International Airport, about 8 km from the city, which has direct flights from Kolkata, Guwahati, Delhi and other cities. The road routes from Dimapur via Kohima and from Silchar via Jiribam have faced blockades since 2023. There is no railway to Imphal yet." },
+    { "q": "What is Ima Keithel?", "a": "Ima Keithel, the mothers' market, is a large market in central Imphal run entirely by women traders, who sell fish, vegetables, spices, handloom textiles and household goods. It dates back several centuries and is often described as one of the largest women-run markets in Asia. Go in the morning." },
+    { "q": "What are the main places to visit in Imphal?", "a": "The main sights are Kangla Fort, the old royal seat; Ima Keithel market; Shree Govindajee Temple; the Imphal War Cemetery; the Manipur State Museum; and the Mapal Kangjeibung polo ground. Loktak Lake, Keibul Lamjao National Park and the INA memorial at Moirang make a day trip about 45 to 55 km south." },
+    { "q": "What is the best time to visit Imphal?", "a": "October to March is the best time for dry, mild weather, with cool nights from December to February. The monsoon from June to September is wet. Any visit depends on the current security situation, so check current advisories before planning; we confirm conditions before booking." },
+    { "q": "When is the Sangai Festival?", "a": "The Sangai Festival, Manipur's state tourism festival, has traditionally been held from 21 to 30 November, with cultural shows, crafts and food in Imphal and at Loktak. It has been scaled down or not held in some recent years because of the situation in the state. Check whether it is being held before you plan around it." },
+    { "q": "Is Manipur the birthplace of polo?", "a": "Manipur's traditional game of sagol kangjei is widely recognised as the origin of modern polo, which British officers learned here in the 19th century. The Mapal Kangjeibung ground in Imphal is often described as one of the oldest polo grounds in the world, and the Manipur pony is a local breed." },
+    { "q": "How many days do I need in Imphal?", "a": "Two nights cover Kangla Fort, Ima Keithel, Shree Govindajee Temple, the war cemetery and the museum. Add a day for Loktak Lake, Keibul Lamjao and Moirang. Keep a spare day in case of local restrictions or flight changes, and check current advisories before planning." }
+  ],
+  "nearby": ["loktak-lake", "kohima", "dzukou-valley", "aizawl"],
+  "image_query": "Kangla Fort Imphal Manipur"
+}

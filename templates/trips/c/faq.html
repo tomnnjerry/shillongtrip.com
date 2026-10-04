@@ -1,0 +1,7 @@
+{% load trips_tags %}{% if faqs %}<section class="band faqs" id="{{ id }}" aria-labelledby="{{ id }}-h">
+  <div class="shell">
+    <header class="band__head band__head--center"><span class="eyebrow">{% icon 'info' %} Good to know</span><h2 id="{{ id }}-h">{{ title }}</h2>{% if intro %}<p class="band__lede">{{ intro }}</p>{% endif %}</header>
+    <div class="faqs__grid">{% for f in faqs %}<details class="qa"{% if forloop.counter0 < 2 %} open{% endif %}><summary><span class="qa__n">{{ forloop.counter|pad2 }}</span><span class="qa__q">{{ f.q }}</span><span class="qa__t" aria-hidden="true"></span></summary><p>{{ f.a }}</p></details>{% endfor %}</div>
+    <p class="faqs__more">Still wondering? <a href="{% wa_link 'Hi, I have a question about a Northeast trip.' %}"{% wa_attrs %}>Ask a trip planner</a></p>
+  </div>
+</section>{% endif %}

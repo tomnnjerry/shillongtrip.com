@@ -1,0 +1,12 @@
+{% load trips_tags %}<article class="pk" data-pkg data-slug="{{ t.slug }}" data-states="{{ t.states|spacejoin }}" data-themes="{{ t.themes|spacejoin }}" data-nights="{{ t.nights }}" data-price="{{ t.price_from_inr }}" data-months="{{ t.best_months|spacejoin }}" data-foreign="{% if f.ok %}yes{% else %}no{% endif %}">
+  <a class="pk__img" href="/packages/{{ t.slug }}/" tabindex="-1" aria-hidden="true">{% img im sizes='(min-width: 900px) 260px, 100vw' eager=eager %}<span class="pk__nights">{{ t.nights }}N / {{ t.nights|plus1 }}D</span></a>
+  <div class="pk__body">
+    <div class="pk__top">{% for s in t.states %}{% state_chip s %}{% endfor %}<button class="pk__save" type="button" data-save="{{ t.slug }}" data-title="{{ t.title }}" aria-pressed="false" aria-label="Save {{ t.title }}">{% icon 'heart' %}</button></div>
+    <h3 class="pk__title"><a href="/packages/{{ t.slug }}/">{{ t.title|trimstop }}</a></h3>
+    <ol class="pk__route" aria-label="Route">{% for s in stops %}<li>{{ s }}</li>{% endfor %}{% if more %}<li>+{{ more }}</li>{% endif %}</ol>
+    <div class="pk__foot">
+      <p class="pk__price"><small>From</small> <b>{{ t.price_from_inr|inr }}</b><small>/person</small></p>
+      <a class="pk__go" href="/packages/{{ t.slug }}/" aria-label="View {{ t.title }}">{% icon 'arrow' %}</a>
+    </div>
+  </div>
+</article>

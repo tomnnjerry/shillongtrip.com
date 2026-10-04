@@ -1,0 +1,8 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="ih"><div class="shell">{% crumbs crumb_list %}<h1>Sitemap</h1><p class="ih__lede">Every page on the site, grouped by type.</p></div></section>
+<section class="band band--tight"><div class="shell smap">
+  {% for heading, items in cols %}<section class="smap__col"><h2 class="h-sm">{{ heading }}</h2><ul>{% for u, t in items %}<li><a href="{{ u }}">{{ t }}</a></li>{% endfor %}</ul></section>
+  {% endfor %}
+</div></section>
+{% endblock %}

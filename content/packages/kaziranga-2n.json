@@ -1,0 +1,103 @@
+{
+  "slug": "kaziranga-2n",
+  "title": "Kaziranga Safari Break",
+  "nights": 2,
+  "themes": ["wildlife", "short-break"],
+  "states": ["assam"],
+  "places": ["kaziranga"],
+  "hero": "kaziranga",
+  "price_from_inr": 13500,
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 60,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Kaziranga safari package, 2 nights / 3 days from Guwahati: two jeep safaris in the Central and Western ranges, optional dawn elephant ride. From ₹13,500.",
+  "quick_answer": "Our Kaziranga Safari Break is 2 nights / 3 days from Guwahati, run while the park is open, roughly October or November to April. It includes two jeep safaris, one in the Central (Kohora) and one in the Western (Bagori) range, with an optional dawn elephant ride and a third safari. From ₹13,500 per person on twin sharing.",
+  "overview": [
+    "Kaziranga holds most of the world's greater one-horned rhinos, and two nights is the right length to see them properly. We plan around safari sessions rather than days: an easy first afternoon after the 195 km drive from Guwahati, a full safari day with the Central range in the morning and the Western range in the afternoon, and an optional third drive on the last morning before heading back.",
+    "The park is open only in the dry season. It reopens in phases from October after the monsoon floods and closes around May, with exact dates set each year, so this trip runs only in that window. The Central range at Kohora is the main gateway, with the widest choice of lodges; Bagori, about 25 km west, is short and dense with rhino and wild buffalo around open beels. Check current status before you travel."
+  ],
+  "highlights": [
+    "Two jeep safaris included, in the Central (Kohora) and Western (Bagori) ranges",
+    "Greater one-horned rhinos, wild water buffalo, elephants, swamp deer and winter water birds",
+    "Optional dawn elephant ride at Kohora or Bagori, about 5.30 to 7.30 am",
+    "Optional third safari in the Eastern range at Agaratoli, better for water birds",
+    "Kaziranga Orchid and Biodiversity Park and a tea estate walk on arrival",
+    "Lodges on the park edge at Kohora, minutes from the Central range gate"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Kaziranga",
+      "stay": "Kohora, Kaziranga",
+      "altitude_m": 60,
+      "drive": "195 km · 4.5–5 hrs",
+      "text": "Your driver meets you at Guwahati Airport or the railway station. The route runs east on NH27 through Nagaon and joins NH715 along the southern edge of the park, with a lunch stop on the way; the last hour passes tea gardens and the Karbi Anglong hills. Watch the speed limit through the animal corridors, which is strictly enforced. Reach Kohora by mid-afternoon and check in. Late afternoon, visit the Kaziranga Orchid and Biodiversity Park at Durgapur, or take a short walk through a nearby tea estate. Your lodge confirms tomorrow's safari slots and the ID you need to carry.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Central range and Western range jeep safaris",
+      "stay": "Kohora, Kaziranga",
+      "altitude_m": 60,
+      "drive": "2 jeep safaris · about 2 hrs each",
+      "text": "If you have booked the optional elephant ride, be at the Kohora or Bagori mounting point by 5.30 am for a one-hour ride into tall grass, where rhinos often stand a few metres away. Otherwise, sleep in. The morning jeep safari in the Central range starts around 7.30 am and runs for about two hours past beels and grassland; carry binoculars and a warm layer in December and January. After lunch at the lodge, drive 25 km to Bagori for the afternoon session from about 1.30 pm, when rhinos and buffalo gather around the open water. Return to the lodge by dusk.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Optional morning safari and return to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "195 km · 4.5–5 hrs",
+      "text": "Early risers can add a third jeep safari, ideally in the Eastern range at Agaratoli, which is quieter and good for pelicans, storks and migratory ducks from November to February. Return by about 10 am for breakfast and check-out. Drive back west along NH715 and NH27, stopping for lunch. Traffic builds on the Guwahati bypass in the late afternoon, so you reach the airport or station at around 3.30 to 4 pm. Please book flights after 5.30 pm or trains after 6 pm. If you skip the third safari and leave by 8 am, you can make a flight after 2.30 pm.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "2 nights at a lodge or resort near Kohora, twin sharing",
+    "Daily breakfast and dinner",
+    "Two jeep safaris per vehicle: Central range (Kohora) and Western range (Bagori), including jeep, driver and road toll",
+    "Private car (Dzire or similar; Innova or Ertiga for 4 or more) for Guwahati transfers and local drives",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Visit to a tea estate near Kohora",
+    "Driver allowance, fuel, tolls and parking",
+    "Taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Park entry fee per safari (about ₹100 for Indian adults and ₹650 for foreign adults) and camera fees",
+    "Elephant ride and the optional third jeep safari",
+    "Entry fee at the Kaziranga Orchid and Biodiversity Park",
+    "Lunches and drinks",
+    "Tips for jeep drivers and forest guards",
+    "Travel insurance",
+    "Costs from floods, road closures, bandhs or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Wild Grass Lodge or Aranya Tourist Lodge (Assam Tourism), Kohora, or similar" },
+    { "tier": "Premium", "options": "IORA The Retreat or Infinity Resorts Kaziranga, Kohora, or similar" },
+    { "tier": "Luxury", "options": "Diphlu River Lodge, on the park edge near Bagori, or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga opens in phases from October and closes around May for the monsoon; dates and open ranges are set each year, so check current status before you travel",
+    "Elephant rides run only in the Kohora and Bagori ranges, about 5.30 to 7.30 am, with very few seats; book them before anything else, or skip them if you prefer not to ride elephants",
+    "Carry the photo ID used for booking; names are checked at the safari gate",
+    "Rules for the 2026–27 season, including mobile phone use and daily vehicle quotas, were still being discussed in September 2026; check current status before you travel",
+    "There is no night safari in Kaziranga, and you may not leave the jeep except at designated watchtowers",
+    "Wear muted greens and browns, and carry a warm layer for December and January mornings"
+  ],
+  "faqs": [
+    { "q": "Is 2 nights enough for Kaziranga?", "a": "Yes, for most visitors. Two nights give you two or three jeep safaris across different ranges and an optional dawn elephant ride, which is enough to see rhinos, buffalo, elephants, deer and many birds. Keen photographers or birders should add a third night for the Eastern range and Burapahar." },
+    { "q": "When is Kaziranga open for safaris?", "a": "Kaziranga reopens in phases each October after the monsoon and closes around May. In 2025 a limited Bagori circuit opened on 26 September, Kohora in the second week of October and elephant rides on 1 November. The 2026–27 reopening was expected in October 2026. Check current status before you travel." },
+    { "q": "What does the Kaziranga safari package cost?", "a": "It starts at ₹13,500 per person on twin sharing, including two nights at a standard lodge, breakfast and dinner, two jeep safaris, and a private car from Guwahati. Park entry and camera fees are extra. Premium resorts such as IORA or Infinity add about ₹4,000 to ₹8,000 per person." },
+    { "q": "Which Kaziranga safari zone is best?", "a": "The Central range at Kohora and the Western range at Bagori give the most reliable rhino sightings, which is why we include both. Bagori's open beels often show dozens of animals in one drive. The Eastern range at Agaratoli is better for water birds, and Burapahar is smaller and more forested." },
+    { "q": "How far is Kaziranga from Guwahati?", "a": "Kohora, the Central range gateway, is about 195 km from Guwahati, a 4.5 to 5 hour drive via NH27 and NH715 with a lunch stop. Jorhat airport is closer, about 97 km or 2 hours east, but Guwahati has far more flights and suits most itineraries." },
+    { "q": "Should we book the elephant ride?", "a": "An elephant ride takes you into tall grass at dawn, often very close to rhinos, which jeeps cannot do. Rides last about an hour, run only at Kohora and Bagori, and have very few seats. Some travellers choose not to ride elephants for welfare reasons; the jeep safaris cover the park well without it." },
+    { "q": "Can we see tigers in Kaziranga?", "a": "Kaziranga has a high density of tigers, but the tall grass hides them, so sightings are rare and unpredictable. Your chances are slightly better in March and April when the grass has been burnt back. Plan the trip around rhinos, elephants, buffalo, deer and birds, and treat a tiger as a bonus." },
+    { "q": "Do we need a permit to visit Kaziranga?", "a": "No state permit is needed for Indian or foreign travellers in Assam. You pay a park entry fee for each safari, about ₹100 for Indian adults and ₹650 for foreign adults, plus camera fees. Carry the photo ID or passport used when booking, since names are checked." },
+    { "q": "Can we combine Kaziranga with Shillong?", "a": "Yes. Shillong is about 100 km from Guwahati and Kaziranga about 195 km in the other direction, so most combined trips run Guwahati to Shillong, back to Guwahati and on to Kaziranga. Our Shillong, Cherrapunji and Kaziranga package does this in five nights." }
+  ]
+}

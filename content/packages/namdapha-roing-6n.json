@@ -1,0 +1,139 @@
+{
+  "slug": "namdapha-roing-6n",
+  "title": "Namdapha and Mayodia",
+  "nights": 6,
+  "themes": ["wildlife", "offbeat"],
+  "states": ["arunachal", "assam"],
+  "places": ["dibrugarh", "namdapha", "roing-mayodia"],
+  "hero": "namdapha",
+  "price_from_inr": 32500,
+  "best_months": [11, 12, 1, 2, 3],
+  "difficulty": "moderate",
+  "max_altitude_m": 2655,
+  "start": "Dibrugarh Airport (DIB)",
+  "end": "Dibrugarh Airport (DIB)",
+  "meta_description": "Namdapha and Mayodia trip, 6 nights / 7 days from Dibrugarh: two nights at Deban inside Namdapha, Roing, Mayodia Pass snow and a tea bungalow finish.",
+  "quick_answer": "This 6 nights / 7 days trip from Dibrugarh spends two nights at Deban inside Namdapha National Park, then crosses the Brahmaputra on the Dhola–Sadiya bridge to Roing and drives up to Mayodia Pass at 2,655 m. It suits birders, walkers and anyone who wants rainforest and winter snow on one short trip.",
+  "overview": [
+    "Namdapha, in Changlang district, is India's fourth-largest national park at about 1,985 sq km, rising from 200 m to 4,571 m. It is one of the few places with four big cats on record (tiger, leopard, clouded leopard and snow leopard), and the only Indian ape, the hoolock gibbon, calls from the canopy at dawn. Visitors enter through Miao and stay at Deban, a forest rest house on the Noa-Dihing river. Sightings of big cats are rare; people come for the forest itself, the gibbons, hornbills and about 425 bird species.",
+    "The second half moves west to Roing in Lower Dibang Valley, home of the Idu Mishmi. From Roing a 56 km mountain road climbs to Mayodia Pass at about 2,655 m, which is often under snow from December to February. We finish with a night in a Dibrugarh tea bungalow, so your flight day is short. The best months are November to March; Namdapha's season runs roughly October to April."
+  ],
+  "highlights": [
+    "Two nights at Deban forest rest house inside Namdapha, on the Noa-Dihing river",
+    "Dawn calls of hoolock gibbons and guided forest walks with a park guide",
+    "Stilwell Road history and the Jairampur World War II cemetery on the way in",
+    "The 9.15 km Dhola–Sadiya (Bhupen Hazarika) bridge over the Lohit",
+    "Mayodia Pass at about 2,655 m, with snow most years from December to February",
+    "Bhismaknagar ruins and Idu Mishmi villages around Roing",
+    "A last night in a heritage tea bungalow in Dibrugarh"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Dibrugarh to Miao",
+      "stay": "Miao",
+      "altitude_m": 200,
+      "drive": "150 km · 4.5 hrs",
+      "text": "We meet you at Dibrugarh Airport and drive east through Tinsukia and Margherita, coal and tea country, to the Arunachal border, where your ILP or PAP is checked. Just inside Arunachal the road follows the old Stilwell Road, built in World War II to supply China from Ledo. Stop at the Jairampur war cemetery, a quiet clearing of graves from that campaign. Reach Miao, the gateway town to Namdapha, by mid-afternoon. We collect your park entry permit at the Field Director's office, and if time allows, visit the Tibetan settlement at Choephelling, known for its carpets.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Miao to Deban inside Namdapha",
+      "stay": "Deban",
+      "altitude_m": 350,
+      "drive": "25 km · 1 hr",
+      "text": "A short drive through forest brings you to Deban, the tourist zone of Namdapha, where the forest rest house stands above a bend in the Noa-Dihing river with the park's ridges behind it. Check in and spend the afternoon on an easy walk with a park guide along the river trail. Listen for hornbill wing beats overhead and watch the river shingle for otter and heron. Deban has limited power, often only a few hours of generator in the evening, and no mobile signal, so charge your camera batteries in Miao. Dinner is cooked by the rest house staff.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Forest walk in Namdapha",
+      "stay": "Deban",
+      "altitude_m": 350,
+      "drive": "No drive",
+      "text": "Be on the verandah at first light, when hoolock gibbon families call across the valley; the sound carries for kilometres. After breakfast, cross the Noa-Dihing by boat and walk into the forest with an armed forest guard and a guide on one of the Deban trails, such as the route towards Haldibari. Expect leeches in wet months, so wear leech socks. Birders can hope for great and wreathed hornbills, several babblers and laughingthrushes, and if very lucky the white-winged wood duck. Return by mid-afternoon for a rest and an evening by the river.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Deban to Roing over the Dhola–Sadiya bridge",
+      "stay": "Roing",
+      "altitude_m": 390,
+      "drive": "260 km · 7 hrs",
+      "text": "The long day of the trip. Leave Deban at 6.30 am, drive back through Miao and Margherita to Digboi, where oil was struck in the 1880s and a refinery has run since 1901; the small Digboi Centenary Museum is worth 30 minutes. Continue past Tinsukia to the 9.15 km Dhola–Sadiya bridge over the Lohit, opened in 2017 and named after Bhupen Hazarika. On the far side the road reaches the Arunachal gate and Roing, the headquarters of Lower Dibang Valley, at the foot of the Mishmi Hills. Your ILP is checked again here.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Mayodia Pass day trip",
+      "stay": "Roing",
+      "altitude_m": 390,
+      "drive": "112 km · 6 hrs round trip",
+      "text": "Leave Roing at 7 am for Mayodia Pass, 56 km away and about 2,655 m up on the road to Anini. The climb takes 2.5 to 3 hours through subtropical forest, then bamboo and rhododendron, and the air turns cold fast. From December to February the top is often under snow, sometimes enough to close the road beyond the pass; check current status before you travel. Stop at the bends above Roing for the view back over the Dibang plains. Return to Roing for a late lunch and spend the evening at Sally Lake in town. Pack warm layers and gloves even on a sunny day.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Bhismaknagar and back to Dibrugarh",
+      "stay": "Dibrugarh",
+      "altitude_m": 108,
+      "drive": "190 km · 5 hrs",
+      "text": "In the morning, drive about 30 km to Bhismaknagar, the brick ruins of a fort city linked in local legend to King Bhismaka and Rukmini and dated by archaeologists to around the 12th century. If time allows, stop at an Idu Mishmi village; the community's Reh festival falls on 1 February. Then drive back over the Dhola–Sadiya bridge and through Tinsukia to Dibrugarh. Check in to a heritage tea bungalow, walk through the tea rows before dusk, and in the March to November plucking season, ask for a visit to the factory.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Depart Dibrugarh",
+      "stay": "Departure",
+      "altitude_m": 108,
+      "drive": "20 km · 45 min",
+      "text": "A slow morning in the tea garden. Take your tea on the verandah, and if you are a birder, walk the estate roads for bulbuls, barbets and drongos. Most tea bungalows in Dibrugarh are 15–25 km from Mohanbari airport, so we drop you about 90 minutes before your flight. If your flight is late in the day, we can add a short Dibrugarh town drive along the Brahmaputra embankment. If you want more wildlife, ask us about adding a night for a boat trip in Dibru-Saikhowa National Park, 60 km away.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "6 nights on twin sharing: 1 in Miao, 2 at Deban forest rest house, 2 in Roing, 1 in a Dibrugarh tea bungalow",
+    "Daily breakfast and dinner, plus lunch on the Namdapha walking day",
+    "Private SUV (Scorpio, Bolero or similar) for all drives, including Mayodia",
+    "Dibrugarh Airport pick-up and drop",
+    "Park guide and forest guard for walks at Deban",
+    "Boat crossing of the Noa-Dihing at Deban, when the river allows",
+    "Help with the Arunachal tourist ILP for Indian citizens",
+    "PAP and park-permit paperwork through our approved partner for foreign guests",
+    "Driver allowance, fuel, tolls and parking"
+  ],
+  "exclusions": [
+    "Flights to and from Dibrugarh",
+    "ILP, PAP and royalty fees",
+    "Namdapha park entry and camera fees, paid at Miao",
+    "Lunches except on day 3, snacks and drinks",
+    "Leech socks and personal gear",
+    "Extra nights or costs from snow closures, landslides or bandhs",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Miao: government tourist lodge or similar. Deban: Deban Forest Rest House. Roing: town hotel or Idu Mishmi homestay (limited choice). Dibrugarh: Hotel Tea County or similar" },
+    { "tier": "Premium", "options": "Miao: Namdapha Eco Camp or similar. Deban: Deban Forest Rest House (best rooms). Roing: best available town hotel. Dibrugarh: Chowkidinghee Heritage Tea Bungalow or similar" },
+    { "tier": "Luxury", "options": "No luxury stays exist at Miao, Deban or Roing, so we book the best rooms available. Dibrugarh: Mancotta Heritage Chang Bungalow or similar" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in, which covers Changlang and Lower Dibang Valley; it costs about ₹300–500, so pay whatever the portal shows. Foreign nationals need a Protected Area Permit plus a park entry permit from the Field Director at Miao. Check current status before you travel.",
+    "Namdapha's visitor season runs roughly October to April. Deban rooms are few and are booked through the Field Director's office, so we confirm them before you pay the balance.",
+    "Big cats are almost never seen. Come for the forest, gibbons and birds, and treat any mammal sighting as a bonus.",
+    "Mayodia gets snow most years between December and February, and the road beyond the pass can shut after heavy falls. Check current status before you travel.",
+    "Deban has no mobile signal and limited generator power. Carry a power bank, a torch and cash.",
+    "Wear long trousers and leech socks on forest walks, and use insect repellent. Walks are on uneven, often wet trails."
+  ],
+  "faqs": [
+    { "q": "How do you reach Namdapha National Park?", "a": "Fly into Dibrugarh, then drive about 150 km (4.5 hours) east through Tinsukia and Margherita to Miao, the gateway town. From Miao it is 25 km, about an hour, to Deban, where visitors stay inside the park. Park entry permits are issued at the Field Director's office in Miao, and your Arunachal permit is checked at the border." },
+    { "q": "What permits do I need for Namdapha?", "a": "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500, so pay what the portal shows. Foreign nationals need a Protected Area Permit arranged through an approved operator and a park entry permit from the Field Director at Miao. Park entry and camera fees are paid in Miao. Check current status before you travel." },
+    { "q": "When is the best time to visit Namdapha?", "a": "Namdapha is open to visitors roughly from October to April, and November to March is the most comfortable, with dry trails and fewer leeches. Winter mornings are misty and cool. From May to September heavy rain floods the rivers, trails turn to mud and access to Deban can be cut, so we do not run this trip then." },
+    { "q": "Will we see a tiger in Namdapha?", "a": "Probably not. Namdapha has records of tigers, leopards, clouded leopards and snow leopards, but the forest is dense and sightings are very rare. What you can count on is the dawn call of hoolock gibbons, hornbills overhead, river birds and a real rainforest. It is a walking park, not a jeep safari park like Kaziranga." },
+    { "q": "What is Deban forest rest house like?", "a": "Deban is a government forest rest house in the park's tourist zone, above the Noa-Dihing river. Rooms are simple twin rooms with attached bathrooms, and meals are cooked by the staff. Power comes from a generator for a few hours in the evening and there is no mobile signal. Booking is through the Field Director's office in Miao." },
+    { "q": "How far is Mayodia from Roing and does it snow?", "a": "Mayodia Pass is about 56 km from Roing, a 2.5 to 3 hour climb, at about 2,655 m on the road to Anini. Snow falls most years from December to February, sometimes enough to close the road beyond the pass. Snow is never guaranteed, so check current status before you travel if snow is the main reason for your trip." },
+    { "q": "How long is the drive from Namdapha to Roing?", "a": "Deban to Roing is about 260 km and takes around 7 hours. The road goes back through Miao, Margherita, Digboi and Tinsukia, then crosses the Lohit on the 9.15 km Dhola–Sadiya bridge before reaching Roing. We stop at Digboi for lunch and its small oil museum, which breaks the day nicely." },
+    { "q": "Is the Namdapha and Mayodia trip suitable for older travellers?", "a": "Active older travellers who can walk 6–8 km on uneven forest trails will enjoy it. The walks at Deban can be shortened, and the Mayodia day is a scenic drive with short stops. Deban's rooms are basic and power is limited, so travellers who need constant electricity for medical equipment should talk to us before booking." },
+    { "q": "How much does the Namdapha and Mayodia package cost?", "a": "This 6 nights / 7 days trip starts from ₹32,500 per person on twin sharing, with standard rooms, breakfast and dinner, a private SUV, park guides and a final night in Dibrugarh. Flights, permit fees, park entry and camera fees are extra. Groups of four sharing one vehicle pay less per person." }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "majuli",
+  "name": "Majuli",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Majuli",
+  "types": ["island", "culture", "satra", "village"],
+  "tagline": "A shrinking river island of satras, masks and Mising villages",
+  "altitude_m": 85,
+  "coords": [26.9500, 94.1667],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for dry roads and regular ferries; November brings the Raas festival.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed. Carry photo ID for the ferry and your homestay",
+    "foreigners": "No RAP or PAP needed for Assam. Carry your passport; your stay files the standard Form C registration"
+  },
+  "from_hub": { "hub": "Jorhat", "km": 30, "hours": "2.5" },
+  "ideal_stay": "2 nights in Garamur or Kamalabari",
+  "meta_description": "Majuli island guide: Nimati Ghat ferry timings, satras, mask-making, Mising villages, Raas festival, where to stay and 9 answered FAQs.",
+  "quick_answer": "Majuli is a large river island in the Brahmaputra, reached by ferry from Nimati Ghat near Jorhat to Kamalabari in about an hour. It is the centre of Assam's Vaishnavite satras, with mask-making at Samaguri and Mising stilt-house villages. Two nights in Garamur or Kamalabari is right. Ferries run in daylight only.",
+  "intro": [
+    "Majuli sits in the middle of the Brahmaputra, and getting there is half the experience. From Nimati Ghat, about 14 km north of Jorhat, crowded ferries carry people, bicycles, motorbikes and cars across the river's channels to Kamalabari Ghat. The crossing takes about an hour, and on a winter morning the far bank appears slowly out of the mist.",
+    "The island has lost a great deal of land to erosion; estimates put it at roughly 1,250 sq km a century ago and around 880 sq km now. In 2016 it became India's first island district. It is best known for its satras, monasteries founded in the tradition of the 15th-16th century saint Srimanta Sankardev, where monks keep alive sattriya dance, devotional music and bhaona theatre. About 20 or so remain active on the island.",
+    "Away from the satras, Majuli is flat, green and rural: paddy fields, bamboo bridges, wetlands full of winter birds and Mising villages of houses raised on stilts against floods. We suggest hiring a bicycle or scooter for a day. A road bridge from Jorhat has been under construction for several years; until it opens, plan around ferry timings and check current status before you travel."
+  ],
+  "highlights": [
+    { "name": "Samaguri Satra", "text": "The home of Majuli's mask-making tradition, where families craft large bamboo, clay and cloth masks for bhaona plays. You can watch the work and buy small masks." },
+    { "name": "Auniati and Dakhinpat satras", "text": "Two of the oldest and largest satras. Auniati has a museum of old utensils, jewellery and manuscripts; Dakhinpat is known for its Raas celebrations." },
+    { "name": "Kamalabari and Garamur satras", "text": "Centres of sattriya dance and music close to the main village of Garamur. Ask politely if a practice session or evening prayer is on." },
+    { "name": "Mising villages", "text": "Stilt houses called chang ghar, handloom weaving under the houses and rice beer. Visit with a local host and ask before photographing people." },
+    { "name": "Raas Mahotsav", "text": "A festival around the full moon of Kartik, usually in November, when satras stage plays of Krishna's life through the night. Stays sell out early." }
+  ],
+  "things_to_do": [
+    "Cross the Brahmaputra on the Nimati Ghat to Kamalabari ferry",
+    "Watch masks being made at Samaguri Satra and buy one to take home",
+    "Visit Auniati Satra's museum and Dakhinpat Satra's prayer hall",
+    "Ask at Kamalabari or Garamur satra about evening prayers or sattriya dance practice",
+    "Cycle or ride a scooter through paddy fields and Mising stilt-house villages",
+    "Watch potters at Salmora make pottery by hand without a wheel",
+    "Look for winter migratory birds on the wetlands in the south and east of the island",
+    "Watch sunset from the Brahmaputra bank near Kamalabari or Garamur",
+    "Time your trip for Raas Mahotsav in November for all-night plays"
+  ],
+  "how_to_reach": "Fly or take a train to Jorhat, which is about 305 km from Guwahati. From Jorhat town it is about 14 km to Nimati Ghat, where government ferries cross to Kamalabari Ghat on Majuli in about an hour. Recent schedules show departures from Nimati roughly between 8.30 am and 3.30 pm, with the last boats back from Kamalabari in mid-afternoon, and fares of a few tens of rupees per person. Larger ferries carry cars and bikes for an extra charge. Timings change with water levels and weather, so check current status before you travel.",
+  "where_to_stay": "Garamur and Kamalabari, the two main villages about 5 km apart, have most of the stays. Bamboo cottages and homestays are the norm rather than hotels. La Maison de Ananda near Garamur offers bamboo stilt huts in a garden, and Ygdrasill Bamboo Cottage sits between Garamur and Kamalabari. Me:Po Okum is another long-running bamboo-cottage stay. A few satras accept guests in simple rooms; ask in advance and follow their rules. Expect basic bathrooms, occasional power cuts and early dinners. Book well ahead for Raas.",
+  "tips": [
+    "Take a morning ferry from Nimati so you have a full afternoon on the island",
+    "Carry cash; ATMs on Majuli are few and card acceptance is limited",
+    "Dress modestly at satras, remove shoes at prayer halls and do not enter the inner sanctum unless invited",
+    "Ferries can leave 10 to 15 minutes late and run full; reach the ghat 45 minutes early with a car",
+    "Hire a scooter or bicycle in Garamur for a flexible day; roads are flat but some are rough",
+    "Majuli floods in the monsoon; from June to September parts of the island may be cut off"
+  ],
+  "faqs": [
+    { "q": "How do I reach Majuli from Jorhat?", "a": "Drive about 14 km from Jorhat town to Nimati Ghat, then take the government ferry to Kamalabari Ghat on Majuli, which takes about an hour. From Kamalabari it is a short drive to Garamur. Cars and bikes can go on the larger ferries for an extra charge. Ferries run only in daylight, so plan an early start." },
+    { "q": "What are the Majuli ferry timings?", "a": "Recent schedules show ferries leaving Nimati Ghat at about 8.30, 9.30 and 10.30 am and 1, 2, 3 and 3.30 pm, and leaving Kamalabari at about 7, 7.30, 8.30 and 10.30 am and 12.30, 1.30 and 3 pm. Timings change with the river level and season. Check current status before you travel." },
+    { "q": "How many days are enough for Majuli?", "a": "Two nights is ideal. That gives you an afternoon on arrival, a full day for satras, mask-making at Samaguri and a Mising village, and a relaxed morning ferry back. One night is possible if you catch the first ferry across, but you will spend much of the day in transit and see only a few satras." },
+    { "q": "What is a satra in Majuli?", "a": "A satra is a Vaishnavite monastery in the tradition of the saint Srimanta Sankardev, where monks, called bhakats, live, pray and keep alive sattriya dance, borgeet songs and bhaona plays. Majuli once had around 65 satras; about 20 or so remain active. Visitors are welcome at most, but dress modestly and follow their rules." },
+    { "q": "Is there a bridge to Majuli?", "a": "A two-lane road bridge between Nimati Ghat near Jorhat and Kamalabari on Majuli has been under construction since 2021. Work stopped for a period and resumed in early 2026, with officials suggesting completion in about two years. Until it opens, the ferry remains the main way in. Check current status before you travel." },
+    { "q": "When is the Raas festival in Majuli?", "a": "Raas Mahotsav is held around the full moon of the Assamese month of Kartik, which usually falls in November. For about three days, satras and villages stage all-night performances of Krishna's life with masks and music. It is the busiest time on the island, so book your stay and plan ferry times well ahead." },
+    { "q": "What is the best time to visit Majuli?", "a": "October to March is best, with dry roads, cool weather and regular ferries. November has the Raas festival and winter brings migratory birds to the wetlands. April and May get hot and stormy. From June to September the Brahmaputra floods parts of the island and ferries can be disrupted, so we avoid the monsoon." },
+    { "q": "Where should I stay in Majuli?", "a": "Stay in or between Garamur and Kamalabari, the island's two main villages. Choices are mostly bamboo cottages and homestays, such as La Maison de Ananda and Ygdrasill Bamboo Cottage, plus a few simple satra guest rooms. Expect basic facilities, limited hot water and early nights. Book well ahead for November and the Raas festival." },
+    { "q": "Can I take my car to Majuli?", "a": "Yes. Larger ferries between Nimati Ghat and Kamalabari carry cars and motorbikes, but space is limited and loading can take time. Pay the vehicle charge at the ghat, arrive at least 45 minutes early and expect a wait in busy months. Many travellers leave the car in Jorhat and hire a local vehicle on the island." }
+  ],
+  "nearby": ["jorhat", "sivasagar", "kaziranga", "dibrugarh"],
+  "image_query": "Majuli island Brahmaputra satra"
+}

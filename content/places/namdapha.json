@@ -1,0 +1,130 @@
+{
+  "slug": "namdapha",
+  "name": "Namdapha National Park",
+  "state": "arunachal",
+  "state_name": "Arunachal Pradesh",
+  "district": "Changlang",
+  "types": [
+    "wildlife",
+    "national-park",
+    "trek",
+    "birding"
+  ],
+  "tagline": "1,985 sq km of rainforest from 200 m to 4,571 m on the Myanmar border",
+  "altitude_m": 350,
+  "coords": [
+    27.4833,
+    96.3833
+  ],
+  "best_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+  ],
+  "best_time": "November to March for dry trails, fewer leeches and good birding; the park is best avoided in the monsoon.",
+  "permit": {
+    "required": true,
+    "indians": "Tourist eILP for Arunachal Pradesh (about Rs 300 to 500; pay what eilp.arunachal.gov.in shows) plus park entry at Miao or the Deban gate (about Rs 10 per person, Rs 100 per vehicle, camera fees extra, subject to revision).",
+    "foreigners": "Protected Area Permit (PAP) through a registered Indian tour operator, plus park entry (about Rs 50 per person) and camera fees. Royalty is reported at USD 30–50 per person and the permit at 30 days; confirm with your operator."
+  },
+  "from_hub": {
+    "hub": "Dibrugarh",
+    "km": 185,
+    "hours": "6"
+  },
+  "ideal_stay": "3 to 4 nights: 1 in Miao and 2 to 3 at Deban or on a trek",
+  "meta_description": "Namdapha National Park guide: 1,985 sq km tiger reserve in Changlang, Miao and Deban, permits, entry fees, treks, season, and how to reach from Dibrugarh.",
+  "quick_answer": "Namdapha is a 1,985 sq km national park and tiger reserve in Changlang district, rising from about 200 m to 4,571 m along the Myanmar border. The entry town is Miao, about 160 km from Dibrugarh, with the Deban camp 26 km inside. Indians need an eILP, foreigners a PAP, plus park fees. Visit November to March.",
+  "intro": [
+    "Namdapha is one of the largest protected areas in India and one of the least visited. It runs from lowland tropical forest along the Noa-Dihing river to snow peaks on the Myanmar border, and it is one of the few places anywhere with four big cats on record: tiger, leopard, clouded leopard and snow leopard. Hoolock gibbons call from the canopy at dawn, and around 425 bird species have been recorded, including several hornbills.",
+    "It was declared a national park and tiger reserve in 1983. Do not expect safaris or jeep tracks. Namdapha is a walking park: you base yourself at Deban, on a bend of the Noa-Dihing, and go out on foot with forest guides, or take a multi-day trek deeper in towards Firmbase and beyond.",
+    "We tell guests that sightings of big mammals are rare. People come for the forest itself, the birds, the gibbons and the feeling of being a long way from any road."
+  ],
+  "highlights": [
+    {
+      "name": "Deban and the Noa-Dihing",
+      "text": "The forest rest house and camp on the river, 26 km inside the park, with morning mist and gibbon calls."
+    },
+    {
+      "name": "Birding",
+      "text": "About 425 species recorded, including hornbills, wren-babblers and forest species rarely seen elsewhere in India."
+    },
+    {
+      "name": "Hoolock gibbons",
+      "text": "India's only ape, heard daily and sometimes seen around Deban and the Hornbill area."
+    },
+    {
+      "name": "Multi-day treks",
+      "text": "Guided treks from Deban to Haldibari, Bulbulia, Firmbase and Moti Jheel, camping in the forest."
+    },
+    {
+      "name": "Miao and the Stilwell Road area",
+      "text": "Tibetan settlement crafts at Miao and Second World War history around Jairampur and the Stilwell Road."
+    }
+  ],
+  "things_to_do": [
+    "Cross the Noa-Dihing by boat from Deban and walk forest trails with a guide",
+    "Listen for hoolock gibbons at dawn near Deban",
+    "Spend a morning birding along the road between Miao and Deban",
+    "Book a 3 to 5 day trek to Firmbase or Moti Jheel with park staff and porters",
+    "Visit the Tibetan settlement handicraft centre near Miao",
+    "Stop at the Second World War cemetery at Jairampur on the way in",
+    "Attend the Pangsau Pass Winter Festival at Nampong in January if dates suit"
+  ],
+  "how_to_reach": "From Dibrugarh, drive via Tinsukia and Margherita to Miao, about 160 km and 4 to 5 hours, entering Arunachal at the Jairampur side where the eILP is checked. Deban is a further 26 km inside the park, about an hour on a rough road. Tinsukia (115 km from Miao) and Margherita (65 km) are the nearest railheads, and Dibrugarh's Mohanbari airport is the nearest with regular flights. Taxis from Dibrugarh to Miao cost roughly Rs 3,500 to 4,000. Check current status before you travel, especially after heavy rain.",
+  "where_to_stay": "Inside the park, the Deban Forest Rest House, with 11 rooms overlooking the Noa-Dihing, is the classic stay and is booked through the park and district offices. In Miao there is an Inspection Bungalow, a forest guest house, a circuit house and the private Namdapha Jungle Camp. Rooms are basic, power can be limited to generator hours, and food is simple. Book early for November to March, as the few rooms fill quickly.",
+  "tips": [
+    "Book Deban through the Field Director's office in Miao well in advance",
+    "Carry leech socks, even in the dry season",
+    "Bring binoculars, a headlamp and quick-dry clothes",
+    "Carry enough cash from Dibrugarh or Tinsukia; there are few ATMs beyond Margherita",
+    "Mobile signal disappears after Miao; Deban is effectively offline",
+    "Treks deeper into the park need park staff, porters and permission arranged in Miao"
+  ],
+  "faqs": [
+    {
+      "q": "What permits do I need for Namdapha National Park?",
+      "a": "Indian citizens need the Arunachal Pradesh tourist eILP (about Rs 300 to 500 per person, as shown on the portal), plus park entry at Miao or the Deban gate. Published park fees are about Rs 10 per Indian, Rs 50 per foreigner and Rs 100 per vehicle, with camera fees extra. Check current status before you travel."
+    },
+    {
+      "q": "Can foreigners visit Namdapha?",
+      "a": "Yes. Foreign nationals need a Protected Area Permit, arranged through a registered Indian tour operator, usually for groups of two or more, as well as the park entry and camera fees. Birding groups from abroad visit regularly. Confirm current PAP rules and fees with your operator before booking."
+    },
+    {
+      "q": "What is the best time to visit Namdapha?",
+      "a": "November to March is best, with drier trails, fewer leeches and good birding. October and April are possible but wetter. The monsoon from May to September brings heavy rain, swollen rivers and leeches, and access to Deban can be cut. Check current status before you travel."
+    },
+    {
+      "q": "How do I reach Namdapha from Dibrugarh?",
+      "a": "Drive about 160 km via Tinsukia, Margherita and Jairampur to Miao, which takes 4 to 5 hours. Deban, the camp inside the park, is 26 km further on a rough road. Taxis from Dibrugarh to Miao cost roughly Rs 3,500 to 4,000. The nearest railheads are Tinsukia and Margherita."
+    },
+    {
+      "q": "Can I see a tiger in Namdapha?",
+      "a": "Namdapha is a tiger reserve and has tiger, leopard, clouded leopard and snow leopard on record, but sightings of any of them are extremely rare in its dense forest. Visitors are far more likely to hear hoolock gibbons, see hornbills and find a wide range of birds, butterflies and plants."
+    },
+    {
+      "q": "Is there mobile network or an ATM near Namdapha?",
+      "a": "Mobile signal is available in Miao but fades on the road to Deban, and Deban has effectively no network. ATMs are limited to towns such as Miao, Jairampur and Margherita and may be out of cash, so bring enough from Dibrugarh or Tinsukia for your whole stay."
+    },
+    {
+      "q": "What are the treks in Namdapha?",
+      "a": "From Deban, guided treks run to Haldibari, Bulbulia, Hornbill, Firmbase and Moti Jheel, taking one to five days with camping. Longer routes need park staff, porters and permission arranged at Miao. Trails are muddy, leech-prone and cross streams, so good boots and fitness matter."
+    },
+    {
+      "q": "Is Namdapha suitable for children and senior citizens?",
+      "a": "Deban itself is reachable by vehicle, and short walks near the rest house suit older children and active seniors. Multi-day treks are only for fit adults. Facilities are basic, medical help is far away and weather changes fast, so carry medicines and plan conservatively."
+    },
+    {
+      "q": "Is altitude a concern in Namdapha?",
+      "a": "Not for most visitors. Miao and Deban are in the lowland part of the park, at a few hundred metres above sea level. The park rises to 4,571 m on the Myanmar border, but those ridges are far beyond normal trekking routes and are rarely visited."
+    }
+  ],
+  "nearby": [
+    "dibrugarh",
+    "dibru-saikhowa",
+    "roing-mayodia"
+  ],
+  "image_query": "Namdapha National Park"
+}

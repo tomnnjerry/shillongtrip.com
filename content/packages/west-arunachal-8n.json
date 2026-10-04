@@ -1,0 +1,156 @@
+{
+  "slug": "west-arunachal-8n",
+  "title": "Western Arunachal Complete",
+  "nights": 8,
+  "themes": ["adventure", "culture"],
+  "states": ["arunachal"],
+  "places": ["guwahati", "bomdila", "dirang", "sela-pass", "nuranang-falls", "tawang", "tawang-monastery", "bum-la-pass", "madhuri-lake"],
+  "hero": "sela-pass",
+  "price_from_inr": 37000,
+  "best_months": [3, 4, 5, 10, 11],
+  "difficulty": "challenging",
+  "max_altitude_m": 4600,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Western Arunachal tour, 8 nights / 9 days: Bhalukpong, Bomdila, 2 nights in Dirang, 3 in Tawang with Bum La, and Monpa villages, monasteries and Sela.",
+  "quick_answer": "This 8 nights / 9 days trip covers western Arunachal at a pace that allows for culture as well as scenery: Bhalukpong, Bomdila, two nights in Dirang's Monpa valley, three in Tawang with a Bum La day for Indian citizens, and a return via Bomdila. From ₹37,000 per person, twin sharing, March to May and October to November.",
+  "overview": [
+    "Most Tawang trips treat everything below Sela as road. This one stops properly. The first night is at Bhalukpong on the Kameng river, so the climb into the hills starts fresh. Bomdila's monasteries and craft centre get a real visit, and Dirang gets two nights: time to walk through the stone houses of Dirang Dzong, see the Kalachakra gompa, soak in the hot springs and drive up the Sangti valley. Those two nights at about 1,500 m are also the best acclimatisation you can give yourself before Sela and Tawang.",
+    "In Tawang you have three nights: one day for the monastery, Urgelling and the war memorial, and one for Bum La and Madhuri Lake if you are an Indian citizen and the army allows it that day. Foreign guests, who cannot visit Bum La, spend that day among Tawang's nunneries and villages instead. The return is split at Bomdila. The whole trip keeps daily drives under nine hours and never sleeps above about 3,050 m."
+  ],
+  "highlights": [
+    "Bhalukpong on the Kameng river and the Tipi orchid centre",
+    "Bomdila's Gontse Gaden Rabgye Ling monastery and craft centre",
+    "Two nights in Dirang for Dirang Dzong, hot springs and the Sangti valley",
+    "Sela Pass at about 4,170 m, Jaswant Garh and Nuranang Falls",
+    "Tawang Monastery, Urgelling and the Tawang War Memorial",
+    "Bum La and Madhuri Lake for Indian citizens, army permitting"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Bhalukpong on the Kameng river",
+      "stay": "Bhalukpong",
+      "altitude_m": 215,
+      "drive": "230 km · 5.5–6 hrs",
+      "text": "Pickup at Guwahati airport and the drive along the north bank through Mangaldai and Balipara, with tea gardens most of the way. Bhalukpong sits where the Kameng, called the Jia Bhoroli in Assam, leaves the hills. We cross the Arunachal check gate, where your eILP and ID are checked, and check in near the river. In the late afternoon walk along the Kameng bank, where anglers fish for mahseer, and see the scattered brick ruins that local tradition links to the legendary King Bhaluka. Dinner at the lodge with the sound of the river.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Bhalukpong to Bomdila via Tipi and Tenga",
+      "stay": "Bomdila",
+      "altitude_m": 2400,
+      "drive": "100 km · 4–4.5 hrs",
+      "text": "A short driving day. Five kilometres from Bhalukpong we stop at Tipi, where the orchid research centre has greenhouses of Arunachal species that flower mainly from April to June. The road then climbs along the Kameng gorge to Tenga, an army town in a broad valley, and on to Bomdila at about 2,400 m. After lunch visit Gontse Gaden Rabgye Ling monastery above the town, rebuilt in the 1960s on the model of a Tibetan monastery, and the government craft centre where carpets, masks and woodwork are made. Sunset from the Bomdila viewpoint.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Down to Dirang and the Dzong",
+      "stay": "Dirang",
+      "altitude_m": 1500,
+      "drive": "42 km · 1.5 hrs",
+      "text": "A late start and a short drive down to the Dirang valley at about 1,500 m, warmer and greener than Bomdila. After check-in we walk through Dirang Dzong, an old fortified village of stone houses where Monpa families still live, some with wooden balconies and prayer flags. Visit the Kalachakra gompa above the valley, then the roadside hot springs, where locals soak in stone tubs. Dirang is known for apples, kiwis and walnuts; in October you can often buy fruit direct from orchards. Two nights here allow proper acclimatisation.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Sangti valley and Dirang villages",
+      "stay": "Dirang",
+      "altitude_m": 1500,
+      "drive": "Local · about 40 km",
+      "text": "Drive about 10 km into the Sangti valley, a wide, flat river valley with fields, willows and small villages. From December to February black-necked cranes have been recorded wintering here; sightings are not guaranteed. In other months it is a quiet place for a riverside walk and a picnic lunch. In the afternoon visit the National Research Centre on Yak's demonstration area if open, or a Monpa home where the family makes butter tea and explains the weaving of the red and maroon Monpa cloth. An easy day, planned to prepare you for tomorrow's pass.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Dirang to Tawang via Sela and Nuranang",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "140 km · 5–6 hrs",
+      "text": "We leave at 8 am and climb past the yak farm at Nyukmadung to Sela. In fair weather the old road goes over the pass at about 4,170 m for photographs at Sela Lake and the gateway; in snow the Sela Tunnel, open since March 2024, keeps you moving. Beyond is Jaswant Garh, the memorial to rifleman Jaswant Singh Rawat, who held this sector in 1962. Descending through Jang, we stop at Nuranang Falls, about 100 metres high. Tawang by mid-afternoon; rest and hydrate. Our team submits Bum La permit papers for Indian guests.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tawang Monastery, Urgelling and the war memorial",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "Local · about 25 km",
+      "text": "Start at Tawang Monastery at 8 am. Founded in 1680–81 by Mera Lama Lodre Gyatso, it houses several hundred monks, a large gilded Buddha in the assembly hall and a museum with old thangkas and manuscripts. After lunch visit Urgelling, a small temple marking the birthplace of the Sixth Dalai Lama, Tsangyang Gyatso, then the Giant Buddha statue and the craft centre. End at the Tawang War Memorial, a stupa-shaped monument listing the soldiers who died in the 1962 war, with an evening light and sound show when running.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Bum La and Madhuri Lake, or Tawang nunneries",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "About 90 km round trip · 7–8 hrs",
+      "text": "Indian citizens with a stamped permit leave at 7 am in a local SUV for Bum La, 37 km away at about 4,600 m on the India–China border. On the way back turn off for Madhuri Lake, the Shonga-tser, formed by the 1950 earthquake. Snow or army orders can close the road with little notice, so check current status before you travel. Foreign guests, and anyone whose permit is refused, spend the day at the Ani Gompa nunneries above town, Khinmey monastery and a Monpa village, with lunch in the old market.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Tawang to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2400,
+      "drive": "175 km · 6–7 hrs",
+      "text": "After breakfast we recross Sela, by the pass or the tunnel depending on weather, and descend to Dirang for lunch. We continue to Bomdila for the night, arriving by late afternoon. If you enjoyed the Monpa crafts, the Bomdila market has good yak-wool shawls, woven bags and wooden masks. This split keeps tomorrow's drive to Guwahati to about eight or nine hours and means you never drive the Bhalukpong ghats in the dark. Last dinner in the hills; ask the hotel kitchen for thukpa, momos or a Monpa dish such as churpi soup.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Bomdila to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "290 km · 8–9 hrs",
+      "text": "Leave at 6 am and descend through Tenga and Bhalukpong to the Assam plains, with a lunch stop around Balipara. We aim to reach Guwahati by about 4 pm, depending on traffic at the Saraighat bridge, so book a flight after 6.30 pm or stay a night in the city. Tezpur Airport is closer, about 150 km from Bomdila, if its limited flights suit you. Landslides are possible on the ghats even outside the monsoon, and we check road reports the night before.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "8 nights in the chosen hotel tier, twin sharing",
+    "Daily breakfast and dinner",
+    "Private SUV with an experienced hill driver throughout",
+    "Arunachal Temporary ILP processing for Indian citizens",
+    "Protected Area Permit processing for foreign nationals (two or more)",
+    "Bum La permit application and army stamping for Indian citizens",
+    "Local SUV to Bum La and Madhuri Lake for Indian citizens, one attempt",
+    "All sightseeing listed, including Tipi, Dirang Dzong and Sangti valley",
+    "Driver allowance, fuel, tolls, parking and inter-state taxes",
+    "Oxygen canister in the vehicle and 24-hour WhatsApp support"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Government eILP fee (about ₹300–500) or PAP royalty (USD 30–50)",
+    "Monastery, museum and memorial entry and camera fees",
+    "Lunches, snacks and drinks",
+    "Extra charges for room heaters where levied",
+    "Tips and personal expenses",
+    "Travel insurance, strongly recommended at this altitude"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Bhalukpong: Bhalukpong Tourist Lodge; Bomdila: Hotel Tsepal Yangjom; Dirang: Hotel Pemaling; Tawang: Hotel Tawang Heights, or similar" },
+    { "tier": "Premium", "options": "Balipara: Wild Mahseer (in place of Bhalukpong); Bomdila: Hotel Tsepal Yangjom deluxe; Dirang: Dirang Boutique Cottages; Tawang: Hotel Menda-La or Timilo Boutique, or similar" },
+    { "tier": "Luxury", "options": "Balipara: Wild Mahseer heritage bungalow; Bomdila: best available room; Dirang: Dirang Boutique Cottages; Tawang: Vivanta Arunachal Pradesh, Tawang, or similar" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal Temporary ILP from eilp.arunachal.gov.in, about ₹300–500; pay whatever the portal shows. It is checked at Bhalukpong. Foreigners need a Protected Area Permit via an approved operator, normally for groups of two or more. Check current status before you travel.",
+    "Bum La is open to Indian civilians only, on a DC Tawang permit stamped by the army. Closures after snow are common from December to March.",
+    "This plan sleeps at Bomdila and two nights at Dirang before Tawang. We never schedule a first night in Tawang straight from the plains.",
+    "Tipi's orchids flower mainly from April to June. Dirang's apples and kiwis are harvested from about September to November.",
+    "Losar, the Monpa new year, falls in February or March, and Torgya is held at Tawang Monastery in January; both need early hotel bookings."
+  ],
+  "faqs": [
+    { "q": "How is this different from a standard Tawang package?", "a": "It adds a night at Bhalukpong, a proper stop in Bomdila and a second night in Dirang, so you see Monpa villages, monasteries and the Sangti valley instead of passing through. The extra Dirang night also improves acclimatisation. Tawang still gets three nights, including a Bum La day." },
+    { "q": "Is 8 nights too long for western Arunachal?", "a": "Not if you enjoy villages and monasteries. Guwahati to Tawang takes two days each way even on a short trip, so the extra nights here go into Dirang, Bomdila and Tawang. If you only want Tawang and Bum La, our seven-night Tawang with Bum La plan is tighter." },
+    { "q": "Which permits do we need for this trip?", "a": "Indian citizens need an Arunachal Temporary ILP, and for Bum La a separate DC Tawang permit stamped by the army. Foreign nationals need a Protected Area Permit through an approved operator and cannot visit Bum La. We process all of these. Check current status before you travel." },
+    { "q": "What is the highest point on this trip?", "a": "Bum La, at about 4,600 m, for Indian citizens who go. For everyone else it is Sela Pass at about 4,170 m. The highest place you sleep is Tawang at about 3,050 m, reached after two nights in Dirang at about 1,500 m." },
+    { "q": "When is the best time for this western Arunachal tour?", "a": "March to May and October to November. Spring brings rhododendrons and orchids; autumn has the clearest mountain views and fruit harvests in Dirang. December to February can bring snow, which is beautiful but often closes Bum La. June to September has frequent landslides." },
+    { "q": "How much does the western Arunachal package cost?", "a": "Our indicative price starts at ₹37,000 per person, twin sharing, with standard hotels, breakfast and dinner, a private SUV, permit processing and one Bum La trip for Indian citizens. Vivanta Tawang and Wild Mahseer raise the price. Government permit fees and lunches are extra." },
+    { "q": "Who are the Monpa people?", "a": "The Monpa are the main community of Tawang and West Kameng districts, mostly Tibetan Buddhists of the Gelug and Nyingma schools. They are known for stone and timber houses, handmade paper, carpets, wooden masks and yak herding at high altitude. Dirang, Bomdila and Tawang are all Monpa towns." },
+    { "q": "Can foreigners join this trip?", "a": "Yes. Foreign nationals travel on a Protected Area Permit, usually as a group of two or more, arranged through us as an approved operator, with a royalty of about USD 30–50 per person. They follow the same route but spend Day 7 at Tawang's nunneries and villages instead of Bum La." },
+    { "q": "Is the Bhalukpong to Bomdila road difficult?", "a": "It is a mountain road with long climbs, hairpin bends and some narrow, broken sections, especially near Tenga after rain. Our drivers use it every week. Travellers prone to motion sickness should take a tablet before leaving and sit in the front. We never drive it after dark." }
+  ]
+}

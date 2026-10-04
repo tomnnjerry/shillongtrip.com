@@ -1,0 +1,130 @@
+{
+  "slug": "shillong-kaziranga-5n",
+  "title": "Shillong, Cherrapunji and Kaziranga",
+  "nights": 5,
+  "themes": ["family", "wildlife"],
+  "states": ["meghalaya", "assam"],
+  "places": ["shillong", "sohra", "shillong-peak", "elephant-falls", "nohkalikai-falls", "mawsmai-cave", "kaziranga"],
+  "hero": "nohkalikai-falls",
+  "price_from_inr": 23000,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Shillong, Cherrapunji and Kaziranga, 5 nights / 6 days: a night in Sohra, Nohkalikai and Mawsmai, then rhino safaris. From ₹23,000 per person.",
+  "quick_answer": "This 5 nights / 6 days trip pairs the Khasi Hills with rhino country: two nights in Shillong, one in Sohra (Cherrapunji) for Nohkalikai Falls and Mawsmai Cave, and two at Kaziranga with jeep safaris. It is the shortest trip that does both states without rushing. From ₹23,000 per person, twin sharing, October to April.",
+  "overview": [
+    "Families often ask whether Meghalaya and Kaziranga fit in under a week. They do, if you accept one long driving day. This plan gives the hills three nights and the park two, and puts the long drive between Shillong and Kaziranga in the middle, where it breaks the trip rather than ending it. Sleeping one night in Sohra means you see Nohkalikai in morning light, before the valley clouds build, which day-trippers from Shillong usually miss.",
+    "The Shillong to Kaziranga leg is about 270 km and six and a half to seven hours, down the Guwahati road to Jorabat and east along NH27. We leave early, break at Nagaon for lunch and reach Kohora by mid-afternoon. The next day has a full safari programme in two ranges, and you drive back to Guwahati on the last morning for a flight after 3 pm."
+  ],
+  "highlights": [
+    "Umiam Lake on the drive up from Guwahati and a first evening in Police Bazar",
+    "Shillong Peak at 1,965 m and Elephant Falls on the way to Sohra",
+    "A night in Sohra so you see Nohkalikai Falls at 8 am with a clear gorge",
+    "Mawsmai Cave, 150 metres of lit limestone passages, easy for children",
+    "Two jeep safaris and an optional elephant ride in Kaziranga",
+    "Assamese dinner at Kohora after a day of rhino and wild buffalo"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong via Umiam Lake",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "120 km from airport · 3.5 hrs",
+      "text": "Pickup at Guwahati airport and a climb up NH6 through Jorabat and Nongpoh, where pineapple sellers line the road from June to September. The first view of Umiam Lake comes about 15 km before Shillong; we stop at the viewpoint above the dam for 20 minutes. Check in at your Shillong hotel by mid-afternoon. In the evening walk Police Bazar and Ward's Lake, or head to one of the live-music cafes on Laitumkhrah. Shillong sits at about 1,525 m, so evenings from November to February drop to 5 to 8 degrees Celsius; pack a jacket.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Shillong Peak, Elephant Falls and on to Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "60 km · 2.5 hrs with stops",
+      "text": "After breakfast we drive up to Shillong Peak, at 1,965 m the highest point in the Khasi Hills, inside an Air Force area where you show ID at the gate. Next is Elephant Falls, three tiers down a staircase of about 200 steps. The road to Sohra then crosses the Mawkdok Dympep valley, where a short stop at the viewpoint is worth it. Check in at Sohra by lunch. The afternoon is for the Seven Sisters Falls viewpoint and Ramakrishna Mission's small museum of Khasi life. Sohra has few restaurants, so dinner is usually at your resort.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Nohkalikai at dawn, Mawsmai Cave, back to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "60 km · 2 hrs plus sightseeing",
+      "text": "Be at the Nohkalikai viewpoint by 8 am. The falls drop about 340 metres into a green plunge pool, and on most winter mornings the gorge is clear until about 10 am, after which cloud rolls in. Then Mawsmai Cave, a short lit limestone passage with one squeeze point that most children love; it takes 20 to 30 minutes. Stop at Arwah or Dainthlen Falls if time allows, then return to Shillong by late afternoon. Free evening in town. Village and site entry fees in Sohra are small and paid at each gate.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Shillong to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "270 km · 6.5–7 hrs",
+      "text": "The longest day. We leave Shillong at 7 am, drop down to Jorabat on the edge of Guwahati and turn east on NH27 past Jagiroad and Nagaon. Lunch is at Nagaon, roughly the halfway point. From Nagaon, NH715 runs beside tea gardens and, near Kohora, along the park boundary, where rhino are sometimes visible from the road in the grass on the right. Arrive at your lodge by 3 pm. The rest of the day is free; most families take a short walk through the neighbouring tea garden or visit the Kaziranga Orchid and Biodiversity Park near Kohora.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Kaziranga safaris in two ranges",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "Local · park roads",
+      "text": "Optional dawn elephant ride at Kohora or Bagori from November, at around 5.30 or 6.30 am. After breakfast the morning jeep safari enters the Central Range at Kohora, where open grassland and beels make rhino, wild water buffalo and swamp deer easy to see. After lunch the afternoon jeep goes to the Western Range at Bagori, known for the highest density of rhino in the park and big herds of wild buffalo. Tigers live here in good numbers, but the tall grass hides them and most visitors do not see one. Dinner at the lodge.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Kaziranga to Guwahati and departure",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "215 km to airport · 5 hrs",
+      "text": "Breakfast and a relaxed start. We leave by 8.30 am for Guwahati airport, about 215 km away, stopping for tea at Nagaon. Book flights after 3 pm to allow for traffic on Guwahati's eastern bypass. If you prefer, we can drop you at Jorhat Airport instead, only 95 km and two hours east of Kaziranga. Families with a late evening flight sometimes add a stop at the Brahmaputra riverfront or Kamakhya Temple on the way into the city, which we can arrange if you tell us your flight time in advance.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "5 nights' accommodation in the chosen hotel tier, twin sharing",
+    "Daily breakfast and dinner",
+    "Private air-conditioned vehicle from arrival to departure",
+    "All sightseeing in Shillong and Sohra as listed",
+    "2 jeep safaris in Kaziranga including entry and jeep fees",
+    "Kaziranga camera fee for one still camera per person",
+    "Safari slot booking with the forest department",
+    "Driver allowance, fuel, tolls, parking and inter-state permits",
+    "Guwahati airport pickup and drop",
+    "24-hour WhatsApp support from our team"
+  ],
+  "exclusions": [
+    "Flights or train fares",
+    "Elephant safari and extra jeep safaris",
+    "Village, cave and viewpoint entry fees in Meghalaya",
+    "Lunches, snacks and drinks",
+    "Video camera and drone fees",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Anything not mentioned in inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Centre Point; Sohra: Sai-Mika Resort; Kaziranga: Wild Grass Lodge, or similar" },
+    { "tier": "Premium", "options": "Shillong: Hotel Polo Towers; Sohra: Polo Orchid Resort; Kaziranga: Infinity Resorts Kaziranga, or similar" },
+    { "tier": "Luxury", "options": "Shillong: Vivanta Meghalaya or Ri Kynjai Serenity by the Lake; Sohra: Polo Orchid Resort valley-view room; Kaziranga: Diphlu River Lodge, or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga opens in phases through October, with elephant rides from around 1 November, and closes for the monsoon from about May. Check current status before you travel.",
+    "From June to September Kaziranga is shut, but Sohra's waterfalls are at their fullest. If you travel then, we swap Kaziranga for two more Meghalaya nights.",
+    "Shillong Peak is inside an Air Force station and occasionally closes to visitors at short notice. Carry photo ID.",
+    "Since June 2025 every Meghalaya hotel and homestay must register guests on the state tourism app, so carry photo ID. Villages and sites charge a small entry fee, typically under ₹100 per person, plus parking, in cash.",
+    "The Day 4 drive is long. Carry motion-sickness tablets for the first hour down from Shillong, which has many bends."
+  ],
+  "faqs": [
+    { "q": "Can we do Shillong, Cherrapunji and Kaziranga in 5 nights?", "a": "Yes. Two nights in Shillong, one in Sohra and two at Kaziranga work well. The only long day is Shillong to Kaziranga, about 270 km and seven hours. Doing it in fewer nights means dropping either the Sohra night or one safari, which we do not recommend with children." },
+    { "q": "How far is Kaziranga from Shillong?", "a": "About 270 km by road. You descend 80 km to Jorabat on Guwahati's edge, then drive east through Nagaon to Kohora on NH27 and NH715. Allow six and a half to seven hours with a lunch stop. There is no shorter road; a direct route through the hills does not exist." },
+    { "q": "Why stay a night in Sohra instead of a day trip from Shillong?", "a": "Sohra's valleys usually fill with cloud by late morning. Day-trippers from Shillong arrive around 10 am and often see Nohkalikai as a white wall. Sleeping in Sohra lets you reach the viewpoint by 8 am, and the evening there is quiet and cool." },
+    { "q": "Which is the best month for this trip?", "a": "October to April. Meghalaya is dry and clear from November to March, and Kaziranga is fully open from November. October has fuller waterfalls, but Kaziranga's Eastern Range and elephant rides may not be open yet. Avoid June to September, when Kaziranga is closed." },
+    { "q": "What is the price of the Shillong and Kaziranga package?", "a": "Our indicative price starts at ₹23,000 per person, twin sharing, in standard hotels with breakfast, dinner, a private car and two jeep safaris. Premium and luxury tiers cost more, mainly because Kaziranga's better lodges are expensive. Flights and elephant rides are extra. We confirm the exact price after checking hotel availability." },
+    { "q": "Is Mawsmai Cave safe for children and seniors?", "a": "Mawsmai is the easiest cave in Meghalaya, lit throughout and about 150 metres long, with one narrow section where adults stoop. Children usually enjoy it. Seniors with knee problems can skip it and wait at the cafe outside. The floor is wet, so wear shoes with grip." },
+    { "q": "Do we need a permit for Meghalaya or Kaziranga?", "a": "Indian citizens need no permit for Meghalaya or Assam. Foreign nationals also need no special permit for these two states, only a valid Indian visa and hotel registration. Kaziranga safaris require park entry tickets, which we book. Rules can change, so check current status before you travel." },
+    { "q": "Will we see a tiger at Kaziranga?", "a": "Possibly, but do not count on it. Kaziranga has one of the highest tiger densities in India, yet the tall elephant grass hides them and most visitors on a two-safari trip do not see one. Rhino, wild buffalo, elephants and deer are almost certain." },
+    { "q": "What should we pack for this trip?", "a": "Layers. Shillong and Sohra drop to 5 to 10 degrees at night in winter, while Kaziranga afternoons reach 25. Bring a warm jacket, a light rain jacket even in winter, walking shoes with grip, earth-coloured clothes for safari, a cap and binoculars. Cash is useful for village entry fees." }
+  ]
+}

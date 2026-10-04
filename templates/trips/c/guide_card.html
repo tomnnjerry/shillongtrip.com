@@ -1,0 +1,4 @@
+{% load trips_tags %}<article class="gd{% if big %} gd--big{% endif %}" data-cat-item="{{ g.category }}">
+  <a class="gd__img" href="/guides/{{ g.slug }}/" tabindex="-1" aria-hidden="true">{% if big %}{% img im sizes='(min-width: 900px) 55vw, 100vw' %}{% else %}{% img im sizes='(min-width: 900px) 30vw, 100vw' %}{% endif %}</a>
+  <div class="gd__body"><span class="gd__cat">{{ g.category|default:'Guide' }} · {{ g.read_minutes|default:9 }} min</span><h3><a href="/guides/{{ g.slug }}/">{{ g.title|trimstop }}</a></h3>{% if big %}<p>{{ g.description }}</p>{% endif %}</div>
+</article>

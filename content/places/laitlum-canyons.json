@@ -1,0 +1,64 @@
+{
+  "slug": "laitlum-canyons",
+  "name": "Laitlum Canyons",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["viewpoint", "trek", "photography"],
+  "tagline": "Grassy ridge above deep valleys, an hour from Shillong",
+  "altitude_m": 1750,
+  "coords": [25.4636, 91.9464],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April on clear mornings or at sunset; fog can hide the valleys completely in the monsoon.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Parking and toilet fees are collected by the village; carry cash",
+    "foreigners": "No permit needed. A good alternative to Shillong Peak, which is closed to foreign nationals"
+  },
+  "from_hub": { "hub": "Shillong", "km": 22, "hours": "0.75" },
+  "ideal_stay": "A half-day from Shillong; a full day if you walk down to Rasong village",
+  "meta_description": "Laitlum Canyons, Meghalaya: ridge viewpoint 22 km from Shillong. How to reach, the steps to Rasong village, best light, fees and 9 FAQs.",
+  "quick_answer": "Laitlum Canyons is a grassy ridge at about 1,750 m in East Khasi Hills, Meghalaya, 22 km (45 minutes) from Shillong, where the plateau drops into deep valleys. Go at sunrise or sunset between October and April. There is no entry ticket, only small parking and toilet fees. A long stairway leads down to Rasong village.",
+  "intro": [
+    "Laitlum means end of the hills in Khasi, and that is what you see: the grassy top of the Shillong plateau stopping suddenly at an edge, with forested valleys several hundred metres below. On a clear day you can follow ridges fading south, and pick out a village and its paths far down in the gorge.",
+    "The road from Shillong runs south-east through Smit and ends at a small parking area. From there it is a five-minute walk to the rim. There are no railings along most of the edge, only open grass, which is the reason it feels wild and the reason to watch children closely.",
+    "We like it most in the last hour before sunset between October and February, when the light comes in low across the valleys. In the monsoon you can drive up into thick fog and see nothing; on those days it is better to wait for a clearing than to leave immediately, because the cloud moves fast here."
+  ],
+  "highlights": [
+    { "name": "The rim", "text": "An open grassy edge above deep valleys, with long views south on clear days." },
+    { "name": "Rasong stairway", "text": "A stone stairway of roughly 3,000 steps drops to Rasong village, used daily by villagers; a hard but rewarding walk." },
+    { "name": "Sunrise and sunset", "text": "Low light between October and February brings out the layered ridges best." },
+    { "name": "Cloud play", "text": "Even in fog, clouds often sweep through the gorge and clear for a few minutes at a time." }
+  ],
+  "things_to_do": [
+    "Watch sunset from the rim between October and February",
+    "Walk part of the stairway towards Rasong village and back",
+    "Do the full descent to Rasong with a local guide if you are fit and have a full day",
+    "Photograph the layered ridges in morning or evening light",
+    "Picnic on the grass away from the edge on a clear winter day",
+    "Combine with Shillong Peak or Elephant Falls in a half-day loop from Shillong"
+  ],
+  "how_to_reach": "Laitlum is about 22 km from Police Bazar, roughly 45 minutes to an hour by car on the road through Smit. There is no regular public transport to the rim, so hire a taxi from Shillong and ask the driver to wait; agree the waiting time first, especially for a sunset visit. The last stretch is narrow but paved. From Guwahati, Laitlum is about 120 km and fits best as a half-day from a Shillong base rather than a stop on the way in.",
+  "where_to_stay": "There are no hotels at the viewpoint. Most visitors stay in Shillong, 45 minutes away, and drive out for sunrise or sunset. Police Bazar and Laitumkhrah have the most choice of hotels and food. A few homestays have opened in the villages on the Laitlum road and near Smit; they suit photographers who want to be on the rim at first light. For a descent to Rasong, ask a guide about basic village homestays below.",
+  "tips": [
+    "Stay well back from the edge; most of the rim has no fencing and the grass is slippery when wet",
+    "Carry a warm layer; the ridge is windy and often colder than Shillong",
+    "Start any walk down to Rasong by 9 am and allow twice as long for the climb back up",
+    "Keep your driver on call for sunset; the road is dark afterwards",
+    "Carry your rubbish back to the car; there are few bins on the ridge",
+    "If fog is thick, wait 20 to 30 minutes before giving up"
+  ],
+  "faqs": [
+    { "q": "How far is Laitlum Canyons from Shillong?", "a": "Laitlum Canyons is about 22 km from Police Bazar in Shillong, which takes 45 minutes to an hour by car on the road through Smit. There is no regular bus to the rim, so most visitors hire a taxi from Shillong for a half-day and ask the driver to wait." },
+    { "q": "Is there an entry fee for Laitlum Canyons?", "a": "There has been no entry ticket for the viewpoint itself. The village collects a small parking fee per car and a small charge for toilets. These are community fees used for upkeep and can change, so carry cash and check current status before you travel." },
+    { "q": "What is the best time to visit Laitlum?", "a": "October to April gives the clearest views, and the hour before sunset or just after sunrise gives the best light. From June to September the ridge is often in cloud, though views can open for a few minutes at a time. Winter afternoons are windy and cold, so carry a jacket." },
+    { "q": "How many steps are there to Rasong village?", "a": "The stairway from the Laitlum rim down to Rasong village is commonly described as around 3,000 steps. There is no official count, but plan for 1.5 to 2 hours down and 2 to 3 hours back up at a steady pace. Go with a local guide and start early in the day." },
+    { "q": "Is Laitlum Canyons safe?", "a": "It is safe if you respect the edge. Most of the rim has no railings, the drop is steep and the grass is slippery after rain or in fog. Stay a few metres back, keep children close and skip edge photos in wind. Leave before dark, as the road back is unlit." },
+    { "q": "Can foreigners visit Laitlum Canyons?", "a": "Yes. There are no permit requirements for foreign nationals at Laitlum, which makes it a good substitute for Shillong Peak, where foreigners have generally not been allowed. Carry your passport for hotel registration in Shillong, and bring cash for parking and toilet fees on the ridge." },
+    { "q": "Is Laitlum suitable for seniors and kids?", "a": "The rim itself is a short, gentle walk from the parking area, so seniors and children can enjoy the view. The stairway to Rasong is not suitable for anyone with knee problems or small children. Supervise kids closely near the unfenced edge, especially when it is windy." },
+    { "q": "Is Laitlum worth visiting in the monsoon?", "a": "Only if you have flexible time. Between June and September the canyons can be hidden in thick cloud for hours. On a lucky day, cloud rolls through the valley and clears briefly, which is dramatic. Combine it with other Shillong sights so that a foggy visit does not waste your day." },
+    { "q": "Can I combine Laitlum with other places in one day?", "a": "Yes. A half-day loop from Shillong can cover Shillong Peak and Elephant Falls in the morning and Laitlum for sunset. If you are heading to Sohra, keep Laitlum for a separate afternoon, as it lies on a different road east of the Sohra highway." }
+  ],
+  "nearby": ["shillong", "shillong-peak", "elephant-falls", "sohra"],
+  "image_query": "Laitlum Canyons Meghalaya"
+}

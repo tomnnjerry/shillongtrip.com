@@ -1,0 +1,149 @@
+{
+  "slug": "tawang-bumla-7n",
+  "title": "Tawang with Bum La and Madhuri Lake",
+  "nights": 7,
+  "themes": ["adventure", "snow"],
+  "states": ["arunachal", "assam"],
+  "places": ["guwahati", "tezpur", "bomdila", "dirang", "sela-pass", "nuranang-falls", "tawang", "tawang-monastery", "bum-la-pass", "madhuri-lake"],
+  "hero": "bum-la-pass",
+  "price_from_inr": 34000,
+  "best_months": [3, 4, 5, 10, 11],
+  "difficulty": "challenging",
+  "max_altitude_m": 4600,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Tawang, Bum La and Madhuri Lake tour, 7 nights / 8 days: Tezpur, Dirang, Sela, 4 nights in Tawang with a spare day for the Bum La permit and weather.",
+  "quick_answer": "This 7 nights / 8 days trip is built around Bum La, the 4,600 m pass on the India–China border, and Madhuri Lake. It breaks the drive at Tezpur and Dirang, gives Tawang four nights with a spare day in case the army closes the road, and returns via Bomdila. For Indian citizens. From ₹34,000 per person, twin sharing.",
+  "overview": [
+    "Bum La is the main reason many Indians travel to Tawang, and the most common reason they come home disappointed. The pass is run on army permission day by day, closes after snow and needs a DC Tawang permit stamped at the cantonment, which is applied for the day before. Most six-night packages allow only one attempt. This plan gives you four nights in Tawang, so that if Bum La is shut on the planned day, you have a second chance the next.",
+    "We also make the drive up gentler. The first night is in Tezpur, only four and a half hours from Guwahati, so late arrivals are fine. The second is in Dirang at about 1,500 m, which is the best place to acclimatise before crossing Sela at about 4,170 m. Bum La itself is at about 4,600 m, so the extra Tawang nights also help your body adjust before you go that high. Foreign nationals are not permitted at Bum La; we offer them our Tawang via Dirang and Sela plan instead."
+  ],
+  "highlights": [
+    "Bum La Pass at about 4,600 m, with an army-guided look at the border and the 1962 history",
+    "Madhuri (Shonga-tser) Lake, formed by an earthquake and later a film location",
+    "A spare Tawang day to protect against Bum La closures",
+    "Sela Pass and Sela Lake at about 4,170 m, and Nuranang Falls near Jang",
+    "Tawang Monastery, Urgelling and the Tawang War Memorial",
+    "An easy first night in Tezpur on the Brahmaputra"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Tezpur",
+      "stay": "Tezpur",
+      "altitude_m": 75,
+      "drive": "180 km · 4.5 hrs",
+      "text": "Pickup at Guwahati airport at any time of day, which is the point of this gentle start. We drive east along the north bank to Tezpur, a quiet town on the Brahmaputra. If you arrive by midday, there is time for Agnigarh hill, with its view over the river and the Kolia Bhomora bridge, and the carved stone doorframe at Da Parbatia, among the oldest sculpture in Assam. Dinner in Tezpur. Tonight is a good time to make sure your eILP is downloaded on your phone and printed, with original ID ready for tomorrow's check gate.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Tezpur to Dirang via Bhalukpong and Bomdila",
+      "stay": "Dirang",
+      "altitude_m": 1500,
+      "drive": "195 km · 7–8 hrs",
+      "text": "Leave Tezpur at 7 am for Bhalukpong, 60 km north, where the eILP check gate marks the Arunachal border. The road then follows the Kameng river past Tipi's orchid centre and climbs through Tenga to Bomdila at about 2,400 m, where we stop for lunch and the view over the Kameng valley. From Bomdila it is 42 km down to Dirang, a warmer valley at about 1,500 m. Arrive by late afternoon and stretch your legs at Dirang Dzong, the old stone Monpa village, or the hot springs by the river.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dirang to Tawang over Sela",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "140 km · 5–6 hrs",
+      "text": "Start at 8 am past the yak farm at Nyukmadung and up the zigzags to Sela. If the weather is fair, take the old road to the pass at about 4,170 m for Sela Lake, which is frozen from about December to March; in snow the Sela Tunnel takes you under it. Stop at Jaswant Garh, the 1962 war memorial, and at Nuranang Falls near Jang, which drops about 100 metres beside a small hydel plant. Reach Tawang by mid-afternoon. Rest, drink water and keep the first evening quiet. We submit your Bum La permit request tomorrow.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tawang Monastery, town sights and the Bum La permit",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "Local · about 25 km",
+      "text": "While our team takes your ID copies to the DC office for the Bum La permit and then to the army cantonment for its stamp, you visit Tawang Monastery, founded in 1680–81 and the largest monastery in India. Go early for morning prayers, then see the assembly hall and museum. After lunch visit Urgelling Monastery, birthplace of the Sixth Dalai Lama, the Giant Buddha and the craft centre where carpets are woven. At dusk go to the Tawang War Memorial for its evening light and sound show, when running. Permit news usually comes by evening.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Bum La Pass and Madhuri Lake",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "About 90 km round trip · 7–8 hrs",
+      "text": "Leave at 7 am in a local SUV, as only these are allowed on the Bum La road. The route climbs past PT Tso, a small lake close to the road, and army posts to Bum La at about 4,600 m, 37 km from Tawang. At the pass, army staff usually brief visitors on the border and the 1962 war; photography rules are set on the day. On the way back, turn off for Madhuri Lake, also called Shonga-tser, formed by an earthquake in 1950 and later used as a film location. Return to Tawang by mid-afternoon. Snow can close any part of the road.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Spare day: second Bum La attempt or Tawang villages",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "Local · up to 90 km",
+      "text": "This day exists to protect the trip. If Bum La was closed yesterday because of snow or army orders, we reapply and try again today. If you have already been, spend a gentler day at the Ani Gompa nunneries above the town, Khinmey monastery and a Monpa village, where families often offer butter tea, or walk the old market lanes. Photographers can return to the monastery for the late afternoon light across the valley. Pack in the evening; tomorrow starts early. Bum La status changes daily, so check current status before you travel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Tawang to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2400,
+      "drive": "175 km · 6–7 hrs",
+      "text": "After breakfast we drive back through Jang and over Sela, using the tunnel or the pass depending on conditions, with lunch in Dirang. We continue 42 km to Bomdila, arriving by late afternoon. Visit the Gontse Gaden Rabgye Ling monastery above the town if time allows, and the market for yak-wool shawls, woven bags and chhurpi, the hard dried yak cheese. Splitting the return here keeps tomorrow's drive to about eight to nine hours. Hand back any borrowed winter gear to the driver tonight.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Bomdila to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "290 km · 8–9 hrs",
+      "text": "Leave Bomdila at 6 am and descend through Tenga and Bhalukpong to the Assam plains, with lunch near Balipara or Tezpur. We aim to reach Guwahati by about 4 pm, so book a flight after 6.30 pm or stay the night in the city. Tezpur Airport, about 150 km from Bomdila, is an option if its limited flights suit your plans, and cuts four hours off the day. In the monsoon shoulder months, landslides can delay the Bhalukpong stretch; we watch road reports the evening before and adjust the start time if needed.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "7 nights in the chosen hotel tier, twin sharing",
+    "Daily breakfast and dinner",
+    "Private SUV with a hill-experienced driver from Guwahati and back",
+    "Arunachal Temporary ILP processing for all travellers",
+    "Bum La permit application at the DC office and army stamping in Tawang",
+    "Local SUV to Bum La and Madhuri Lake, one attempt",
+    "All sightseeing listed in Tezpur, Dirang, Tawang and Bomdila",
+    "Driver allowance, fuel, tolls, parking and inter-state taxes",
+    "Oxygen canister in the vehicle",
+    "24-hour WhatsApp support"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Government eILP fee (about ₹300–500 per person)",
+    "Second Bum La attempt vehicle, if needed",
+    "Monastery, museum and memorial entry and camera fees",
+    "Lunches, snacks and drinks",
+    "Extra room-heater charges where levied",
+    "Tips and personal expenses",
+    "Travel insurance, strongly recommended"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Tezpur: Hotel KF Grand; Dirang: Hotel Pemaling; Tawang: Hotel Tawang Heights; Bomdila: Hotel Tsepal Yangjom, or similar" },
+    { "tier": "Premium", "options": "Tezpur: Wild Mahseer, Balipara; Dirang: Dirang Boutique Cottages; Tawang: Hotel Menda-La or Timilo Boutique; Bomdila: Hotel Tsepal Yangjom deluxe room, or similar" },
+    { "tier": "Luxury", "options": "Tezpur: Wild Mahseer heritage bungalow; Dirang: Dirang Boutique Cottages; Tawang: Vivanta Arunachal Pradesh, Tawang; Bomdila: best available room, or similar" }
+  ],
+  "good_to_know": [
+    "Bum La is open to Indian civilians only. The permit comes from the DC office in Tawang and must be stamped at the army cantonment; apply the day before. It runs on army permission day by day, and closures after snow are common between December and March. Check current status before you travel.",
+    "Madhuri Lake lies about 7 km past the Bum La fork and uses the same permit.",
+    "Only local SUVs registered in Tawang are allowed on the Bum La road; your own vehicle waits in town.",
+    "The Temporary ILP costs about ₹300–500 per person; pay whatever eilp.arunachal.gov.in shows. Carry it with original ID for the Bhalukpong gate.",
+    "Bum La is about 4,600 m. Anyone with heart or lung conditions, pregnant travellers and very young children should consult a doctor or skip it.",
+    "Best months are March to May and October to November, when snow closures are least likely."
+  ],
+  "faqs": [
+    { "q": "Who can visit Bum La Pass?", "a": "Only Indian citizens. Foreign nationals, including OCI card holders, are generally not permitted. You need an Arunachal ILP to reach Tawang, then a separate Bum La permit from the DC office in Tawang, stamped at the army cantonment. We handle the application the day before your visit." },
+    { "q": "How far is Bum La from Tawang?", "a": "About 37 km, but the road is rough and climbs to about 4,600 m, so it takes two to two and a half hours each way. With Madhuri Lake on the return, allow seven to eight hours for the day. Only local SUVs are permitted." },
+    { "q": "Is Bum La open every day?", "a": "Bum La runs on army permission day by day, and closures without notice are possible. Snow frequently closes the road between December and March. We do not publish fixed closed weekdays because they change. This plan includes a spare Tawang day for a second attempt. Check current status before you travel." },
+    { "q": "What is Madhuri Lake?", "a": "Madhuri Lake, or Shonga-tser, is a high-altitude lake on the Bum La road, formed when an earthquake in 1950 blocked a valley and drowned a forest; dead tree trunks still stand in the water. It got its popular name after a Hindi film song was shot there in the 1990s." },
+    { "q": "Why stay four nights in Tawang?", "a": "To protect the Bum La day and to acclimatise. The permit is applied for on your first full day, Bum La is attempted on the second, and the third is a spare in case of closure. More time at 3,050 m also makes the climb to 4,600 m easier on your body." },
+    { "q": "How much does the Tawang and Bum La package cost?", "a": "Our indicative price starts at ₹34,000 per person, twin sharing, with standard hotels, breakfast and dinner, a private SUV, permit processing and one Bum La trip in a local SUV. Luxury stays such as Vivanta Tawang cost more. Government fees and a second Bum La attempt are extra." },
+    { "q": "What should we wear for Bum La?", "a": "Dress for sub-zero wind even in October: thermals, a fleece, a down jacket, waterproof gloves, a woollen cap, sunglasses and warm, waterproof shoes. The sun is strong at 4,600 m, so use sunscreen. Keep water and a snack in the SUV; there are few stops." },
+    { "q": "Why start from Tezpur instead of driving straight to Dirang?", "a": "Guwahati to Dirang is about 320 km and ten hours in one go, which is tiring after a flight and ends in darkness in winter. A night in Tezpur, four and a half hours from Guwahati, means any arrival time works, and the next day to Dirang is a steady seven to eight hours." },
+    { "q": "What happens if Bum La is closed on both days?", "a": "We refund the unused Bum La vehicle cost and use the time for Tawang's nunneries, Khinmey monastery, PT Tso if accessible, and Monpa villages. Closures are an army decision and cannot be overridden. For the best odds, travel between March and May or in October and November." }
+  ]
+}

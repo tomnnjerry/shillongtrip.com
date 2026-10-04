@@ -1,0 +1,66 @@
+{
+  "slug": "nongkhnum-island",
+  "name": "Nongkhnum River Island",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "West Khasi Hills",
+  "types": ["river-island", "camping", "offbeat"],
+  "tagline": "Meghalaya's largest river island, with sand, falls and few visitors",
+  "altitude_m": 600,
+  "coords": [25.4440, 91.2530],
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "best_time": "November to April, when rivers are low, the beach is exposed and the roads are drier.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Village or community fees may apply for camping and boating",
+    "foreigners": "No permit needed. Carry your passport for homestay registration"
+  },
+  "from_hub": { "hub": "Shillong", "km": 110, "hours": "3.5" },
+  "ideal_stay": "1 night camping or in Nongstoin, with Langshiang Falls",
+  "meta_description": "Nongkhnum River Island, Meghalaya: the state's largest river island near Nongstoin. How to reach, camping, Langshiang Falls, best time and 9 FAQs.",
+  "quick_answer": "Nongkhnum is Meghalaya's largest river island, about 21 sq km, formed by the Kynshi and Namliang rivers in West Khasi Hills, about 14 km from Nongstoin and roughly 110 km (3.5 hours) from Shillong. Go between November and April for its sandy beach, waterfalls and camping. No permit is needed; the last stretch of road is rough.",
+  "intro": [
+    "Nongkhnum is what happens when a river splits and rejoins around a piece of land. In West Khasi Hills, the Kynshi and Namliang rivers enclose an island of about 21 sq km, the largest river island in Meghalaya. It has grassland, forest, rocky gorges, a sandy beach where the rivers divide, and waterfalls along its edges.",
+    "Tourism here is still small. Nongstoin, the district headquarters, is the nearest town, about 14 km away, and the road from there gets rough in the last stretch. Facilities on the island are basic: a few camping spots, local boatmen, and a suspension footbridge over the river. That is the appeal for travellers who like space and silence more than services.",
+    "We plan Nongkhnum between November and April, when the rivers are low and clear, the sand beach is exposed and the tracks are drier. It pairs with Langshiang Falls, one of Meghalaya's tallest falls at roughly 337 m, about 24 km from Nongstoin. Go with a local contact or guide, and carry supplies for the day."
+  ],
+  "highlights": [
+    { "name": "River beach", "text": "A sandy stretch where the Kynshi splits, good for a picnic and a swim in calm, low water." },
+    { "name": "Langshiang Falls", "text": "A tall waterfall of roughly 337 m in the same region, about 24 km from Nongstoin." },
+    { "name": "Riverside camping", "text": "Pitch a tent or join a local camp on the grassland and sand in the dry season." },
+    { "name": "Few visitors", "text": "Even in peak season, you will share the island with far fewer people than at Dawki." },
+    { "name": "Suspension footbridge", "text": "A footbridge across the river gives views up and down the gorge." }
+  ],
+  "things_to_do": [
+    "Camp overnight on the island in the dry season",
+    "Swim or paddle at the river beach in calm, low water",
+    "Take a short boat ride with local boatmen",
+    "Walk across the suspension footbridge over the river",
+    "Visit Langshiang Falls with a local guide",
+    "Walk the grassland and forest edges at sunrise",
+    "Stop at Nongstoin market for supplies and local snacks"
+  ],
+  "how_to_reach": "Nongkhnum is reached via Nongstoin, the headquarters of West Khasi Hills, which is about 95 km west of Shillong by road, around 3 hours. From Nongstoin, it is about 14 km to the island, and the last part of the road is rough; a sturdy vehicle with good clearance helps, especially after rain. Public transport runs from Shillong to Nongstoin, but not reliably to the island. Hire a car and driver from Shillong for the trip, or arrange local transport in Nongstoin.",
+  "where_to_stay": "Options are limited. On the island, camping with your own gear or with small local operators is the main choice in the dry season; confirm toilets, water and food before you go. Nongstoin, about 14 km away, has a few modest hotels and guest houses where you can base yourself for a night. There are no resorts nearby. Travellers wanting comfort should stay in Shillong and treat Nongkhnum as a long day, though that means 6 to 7 hours of driving in total.",
+  "tips": [
+    "Go only between November and April; the rivers rise quickly in the monsoon",
+    "Carry drinking water, food and a torch; facilities on the island are basic",
+    "Hire a local guide in Nongstoin, especially for Langshiang Falls",
+    "Do not swim in fast or deep water, and never after rain upstream",
+    "Carry cash; there are few ATMs outside Nongstoin",
+    "Leave no rubbish; there is no waste collection on the island"
+  ],
+  "faqs": [
+    { "q": "Where is Nongkhnum River Island?", "a": "Nongkhnum is in West Khasi Hills district, Meghalaya, about 14 km from Nongstoin, the district headquarters. It is formed by the Kynshi and Namliang rivers, which divide and rejoin around it, creating an island of about 21 sq km. It is described as the largest river island in Meghalaya." },
+    { "q": "How far is Nongkhnum from Shillong?", "a": "Nongkhnum is roughly 110 km from Shillong, including about 95 km to Nongstoin and 14 km from Nongstoin to the island. Expect around 3.5 hours or more, as the last stretch is rough. An overnight stay is more comfortable than a day trip." },
+    { "q": "What is the best time to visit Nongkhnum?", "a": "November to April is best. The rivers are low and clear, the sandy beach is exposed and camping is comfortable. From May, rains start and the rivers rise. In the monsoon, June to September, access roads can be muddy and the rivers dangerous, so avoid visiting then." },
+    { "q": "Can I camp on Nongkhnum River Island?", "a": "Yes. Camping is the main way to stay on the island in the dry season, either with your own gear or with small local operators. Facilities are basic, so confirm toilets, water and meals in advance. Carry out all rubbish, and ask locals about the best and safest spots." },
+    { "q": "How far is Langshiang Falls from Nongkhnum?", "a": "Langshiang Falls is about 24 km from Nongstoin and within reach of Nongkhnum in the same part of West Khasi Hills. Its total drop is often quoted at around 337 m, among the tallest in Meghalaya. Go with a local guide, as roads are rough and signage limited." },
+    { "q": "Is Nongkhnum suitable for families?", "a": "It suits adventurous families who are comfortable with basic facilities, rough roads and camping. Children will enjoy the beach and open space, but must be supervised near the water at all times. Families wanting comfort and short drives may prefer Umiam Lake or Shnongpdeng instead." },
+    { "q": "Is it safe to swim at Nongkhnum?", "a": "In the dry season, some calm, shallow spots near the beach are used for paddling and swimming. The rivers can have hidden currents and deep sections, and they rise quickly after rain upstream. Ask locals where it is safe, never swim alone and stay out of the water in the monsoon." },
+    { "q": "Is there an entry fee for Nongkhnum?", "a": "There has been no fixed entry ticket for the island, but village or community fees may be collected for parking, camping or boat rides. Amounts are set locally and can change. Carry cash in small notes and check current status before you travel." },
+    { "q": "Is Nongkhnum worth visiting?", "a": "Yes, for travellers who want a quiet, offbeat side of Meghalaya and do not mind basic facilities and a long drive. It is not a polished tourist spot. Pair it with Langshiang Falls and a night in Nongstoin or camping to make the trip worthwhile." }
+  ],
+  "nearby": ["mawphlang-sacred-forest", "shillong", "mawsynram", "balpakram"],
+  "image_query": "Nongkhnum river island"
+}

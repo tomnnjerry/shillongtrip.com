@@ -1,0 +1,66 @@
+{
+  "slug": "mawlynnong",
+  "name": "Mawlynnong",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["village", "root-bridge", "culture"],
+  "tagline": "Khasi village known for swept lanes, near the Bangladesh border",
+  "altitude_m": 500,
+  "coords": [25.2017, 91.9160],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for dry lanes and views over the plains; the monsoon is lush but very wet.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. The village charges an entry fee and parking in cash",
+    "foreigners": "No permit needed. Same village fees apply"
+  },
+  "from_hub": { "hub": "Shillong", "km": 78, "hours": "2.5" },
+  "ideal_stay": "A half-day on the way to Dawki, or 1 night in a village guest house",
+  "meta_description": "Mawlynnong, Meghalaya: the clean Khasi village near Dawki. Entry fee, Riwai root bridge, Sky View, how to reach, homestays and 9 FAQs.",
+  "quick_answer": "Mawlynnong is a Khasi village in East Khasi Hills, Meghalaya, about 78 km (2.5 hours) from Shillong and 30 km from Dawki, known since 2003 for being named Asia's cleanest village by Discover India magazine. See its flower-lined lanes, the Riwai living root bridge and the bamboo Sky View. The village charges a small entry fee.",
+  "intro": [
+    "Mawlynnong became famous in 2003, when Discover India magazine called it the cleanest village in Asia. The label brought buses of visitors to a place of fewer than a hundred households, and the village has adapted: there is now an entry gate, a car park and guest houses, but the habits that earned the title are still visible. Bamboo dustbins stand along every lane, paths are swept every morning, and residents compost leaf and food waste.",
+    "The village sits on a slope above the Bangladesh plains at the southern edge of the Khasi Hills, with betel nut groves, broom grass and flowering gardens between the houses. A short walk takes in the Church of the Epiphany, a balancing rock, and the Sky View, a bamboo tower that looks out over the plains on a clear day.",
+    "About 2 km before the village, a short trail leads down to the Riwai living root bridge, the easiest root bridge to reach in Meghalaya. We plan Mawlynnong as a half-day with Riwai on the way to Dawki. Visit on a weekday if you can; weekends in the dry season are crowded."
+  ],
+  "highlights": [
+    { "name": "Clean lanes", "text": "Swept stone paths, bamboo bins and neat gardens are part of village rules that residents still follow." },
+    { "name": "Riwai root bridge", "text": "A single living root bridge about 2 km from the village, reached by a short, easy flight of steps." },
+    { "name": "Sky View", "text": "A bamboo lookout tower with views south across the plains towards Bangladesh on clear days." },
+    { "name": "Balancing rock", "text": "A large boulder resting on a smaller stone, a short walk from the village centre." },
+    { "name": "Church of the Epiphany", "text": "A small, old church at the heart of the village; keep quiet if a service is on." }
+  ],
+  "things_to_do": [
+    "Walk the village lanes and gardens in the early morning before day-trippers arrive",
+    "Walk down to the Riwai living root bridge",
+    "Climb the bamboo Sky View for views of the plains",
+    "See the balancing rock and the Church of the Epiphany",
+    "Eat a Khasi lunch of rice, dal and local greens at a village eatery",
+    "Stay overnight in a guest house and see the village after the buses leave",
+    "Continue to Dawki and the Umngot River, about 30 km away"
+  ],
+  "how_to_reach": "Mawlynnong is about 78 km from Shillong via Pynursla, a drive of roughly 2.5 hours on a mostly good road; the last 15 km is narrower and winding. The Riwai root bridge parking is about 2 km before the village. Dawki is about 30 km away, so most visitors combine the two in one long day from Shillong or on the way to a night in Dawki or Shnongpdeng. Public transport is limited to occasional shared taxis to Pynursla, so hire a cab for the full day from Shillong.",
+  "where_to_stay": "Mawlynnong has several family-run guest houses and bamboo cottages, some raised on stilts, with simple rooms and home-cooked Khasi meals. A night here lets you see the village in the quiet evening and early morning, after day visitors leave. Book ahead for October to December weekends, as rooms are limited. Alternatives nearby are riverside camps and homestays at Shnongpdeng and Dawki, 30 to 40 km away, or a hotel in Shillong if you prefer more comfort and a longer drive.",
+  "tips": [
+    "Use the bins and carry your own rubbish out; littering is taken seriously here",
+    "Smoking and plastic are discouraged in the village; follow the signs",
+    "Ask before photographing people or entering gardens",
+    "Visit on a weekday or stay overnight to avoid crowds",
+    "Carry cash for entry, parking and small fees at the Sky View and root bridge",
+    "Combine with Dawki the same day; start from Shillong by 7.30 am"
+  ],
+  "faqs": [
+    { "q": "Why is Mawlynnong called the cleanest village in Asia?", "a": "In 2003 the travel magazine Discover India named Mawlynnong the cleanest village in Asia, and in 2005 the cleanest in India. The title reflects village rules on waste: bamboo bins on every lane, daily sweeping, composting and a community push against plastic and smoking. The title is a magazine award, not an official ranking." },
+    { "q": "What is the entry fee for Mawlynnong?", "a": "Mawlynnong charges a small entry fee at the village gate, typically under INR 100 per person, plus a parking charge per vehicle. The Sky View and Riwai root bridge may collect their own small fees. All are cash only and change over time, so check current status before you travel." },
+    { "q": "How far is Mawlynnong from Shillong?", "a": "Mawlynnong is about 78 km from Shillong via Pynursla, roughly 2.5 hours by car. Dawki and the Umngot River are about 30 km further, so most people visit both in one day. Straight-line distance on maps is shorter, which is why some websites quote lower figures." },
+    { "q": "How far is the Riwai root bridge from Mawlynnong?", "a": "The Riwai living root bridge is about 2 km before Mawlynnong village, with its own parking area on the road. From there, a short flight of steps leads down to the bridge in about 10 minutes. It is the easiest living root bridge to see in Meghalaya, suitable for most visitors." },
+    { "q": "What is the best time to visit Mawlynnong?", "a": "October to April is best, with dry lanes and clear views from the Sky View. Flowers are at their best after the monsoon, in October and November. The June to September monsoon is very wet and misty, but the village is green and far less crowded, which suits some travellers." },
+    { "q": "Can I stay overnight in Mawlynnong?", "a": "Yes. Several family guest houses and bamboo cottages offer simple rooms and home-cooked meals. Staying overnight lets you see the village after day visitors leave, which is when it is most peaceful. Rooms are few, so book ahead for October to December and long weekends." },
+    { "q": "Is Mawlynnong good for families and seniors?", "a": "Yes. The village lanes are mostly paved and gentle, and the Riwai root bridge needs only a short set of steps. The bamboo Sky View involves climbing a ladder-like stair, which some seniors may prefer to skip. The long drive from Shillong is the main effort, so keep it to one outing a day." },
+    { "q": "Can I visit Mawlynnong and Dawki in one day?", "a": "Yes. Leave Shillong by 7.30 am, see the Riwai root bridge and Mawlynnong by late morning, then drive about 30 km to Dawki for boating on the Umngot River in the afternoon. You will be back in Shillong by evening, after about 6 hours of driving in total." },
+    { "q": "Is Mawlynnong still worth visiting?", "a": "Yes, with the right expectations. It is a small, lived-in village that has become busy with day-trippers, so go early, on a weekday or stay overnight. Treat it as a stop combined with the Riwai root bridge and Dawki rather than a destination of its own." }
+  ],
+  "nearby": ["dawki-umngot", "shnongpdeng", "shillong", "sohra"],
+  "image_query": "Mawlynnong village Meghalaya"
+}

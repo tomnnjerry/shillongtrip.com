@@ -1,0 +1,177 @@
+{
+  "slug": "northeast-photography-10n",
+  "title": "Northeast Photography Tour",
+  "nights": 10,
+  "themes": ["photography"],
+  "states": ["meghalaya", "assam", "arunachal"],
+  "places": ["shillong", "laitlum-canyons", "sohra", "nohkalikai-falls", "mawlynnong", "dawki-umngot", "kaziranga", "majuli", "tezpur", "dirang", "sela-pass", "tawang", "tawang-monastery", "bomdila"],
+  "hero": "laitlum-canyons",
+  "price_from_inr": 54000,
+  "best_months": [11, 12, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 4170,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Northeast photography tour, 10 nights / 11 days: Laitlum at dawn, Umngot's clear water, Kaziranga rhinos, Majuli light and Tawang over Sela.",
+  "quick_answer": "This 10-night photography tour runs Guwahati to Guwahati through three states: Laitlum and Sohra's cliffs, the clear Umngot river at Dawki, two Kaziranga safaris, a sunrise on Majuli and the high road over Sela Pass to Tawang Monastery. Shoots are timed for early and late light. Best in November, December, March and April.",
+  "overview": [
+    "This route is built around light rather than a checklist. We schedule Laitlum for sunset and Nohkalikai for the afternoon, reach the Umngot river at Dawki in the late morning when the sun is high enough to light the riverbed through the water, put you in a Kaziranga jeep at the soft ends of the day, and give you a Brahmaputra sunrise from Majuli. The last third climbs into the eastern Himalaya: Dirang's stone village, the prayer flags at Sela Pass (4,170 m), and Tawang Monastery during morning prayers.",
+    "It is a full trip, with pre-dawn starts and three road days of six hours or more. Groups are small, a maximum of six, in one vehicle with room for tripods, and the driver knows to stop when you ask. November is the sweet spot: dry air, clear water at Dawki, Kaziranga open and Sela usually free of heavy snow. March and April bring rhododendron in Arunachal and green grass in Kaziranga, with more haze. Drones are not allowed in national parks or in border areas like Tawang, so leave yours at home."
+  ],
+  "highlights": [
+    "Laitlum Canyons at sunset, with the ridge lines stacked into the Bangladesh haze",
+    "Nohkalikai Falls and the Mawsmai cliffs from the plateau edge at Sohra",
+    "Boats that appear to float on the clear Umngot river at Dawki",
+    "Two jeep safaris in Kaziranga for rhinos, swamp deer and water birds",
+    "Sunrise over the Brahmaputra and mask-makers at work on Majuli",
+    "Prayer flags at Sela Pass and morning prayers at Tawang Monastery"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong, sunset at Laitlum",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "125 km · 4 hrs with stops",
+      "text": "Land at Guwahati by noon if you can. The 100 km drive up to Shillong on NH-6 takes about three hours, with a stop at the Umiam Lake viewpoint, where the reservoir's arms curl between pine-covered hills. We check in and head straight out 25 km to Laitlum Canyons, which face south-west and catch the late sun across layered ridges and deep gorges. Walk down the first flight of steps from the rim for a lower angle with the village of Rasong below. A 24–70 mm and a longer lens both earn their place here. After sunset we return to Shillong. Tonight your guide goes through the plan, light times and gear list for the week.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Shillong to Sohra, Nohkalikai and Mawsmai",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "55 km · 1.5 hrs, plus sightseeing",
+      "text": "A slow morning in Shillong, then the drive south across open grassland to Sohra, with a stop at the Mawkdok Dympep gorge viewpoint, which is best before 11 am when haze is low. After lunch we go to Nohkalikai Falls, a 340 m plunge from the plateau into a turquoise pool; afternoon light falls across the cliff face. Flow is strongest from June to October and thin from December to February, so expect a slender ribbon in winter. Late afternoon, set up at the Mawsmai viewpoint for the Seven Sisters cliffs and the Bangladesh plains below as the sun goes down. We stay on the plateau edge in Sohra tonight.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Sohra to Mawlynnong and Dawki",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 200 km · 6.5 hrs with stops",
+      "text": "An early start takes us east through Pynursla to Mawlynnong, where the village lanes, bamboo bins and flower-lined paths photograph best before the tour buses arrive around 10 am. The Riwai living root bridge is 2 km away, a short walk down. We reach Dawki by late morning, when the sun is high enough to light the riverbed of the Umngot through clear green water and the boats seem to float. The water is clearest from November to April. Hire a boat at the ghat, priced per boat, and shoot from the suspension bridge as well. We drive back to Shillong in the afternoon, about 2.5 hours, arriving around dark.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Shillong to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "About 250 km · 6.5 hrs",
+      "text": "We leave Shillong at 6.30 am and descend to the plains at Jorabat, then drive east on the highway through Nagaon. From Jakhalabandha the road runs along the southern edge of Kaziranga, and you often see rhinos and wild buffalo grazing in the grassland from the highway itself. We reach Kohora in the early afternoon. If the drive runs to time and slots are available, we take an afternoon jeep in the Central Range; otherwise we walk a tea garden in the last hour of light, when the pluckers finish work and the rows glow. Tonight we confirm tomorrow's jeep slot at the range office. Park entry and camera fees are paid at the gate.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Kaziranga safari, ferry to Majuli",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "About 95 km · 2.5 hrs, plus ferry 1–1.5 hrs",
+      "text": "The morning jeep enters the Central or Western Range around 7 am, the best light of the day for rhinos in the tall grass, swamp deer at the beels and pelicans, storks and fish eagles along the water. Sightings of rhino are close to certain; tigers are rare and never promised. Bring a 100–400 mm or similar, and a bean bag rather than a tripod, since jeeps are tight. After breakfast we drive to Nimati Ghat near Jorhat and take the ferry to Majuli, a crossing of about an hour with wide river views. In the evening photograph the prayers and lamp-lighting at a satra, one of the island's Vaishnav monasteries.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Majuli sunrise, then west to Tezpur",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "About 250 km · 7 hrs including the ferry",
+      "text": "Sunrise over the Brahmaputra channels from Majuli is the reason for this stop: fishermen in wooden boats, mist on the water and cattle on the sandbars. By 7 am we are at Samaguri Satra, where monks make masks for Majuli's religious theatre from bamboo, clay and cloth, and a Mising village of stilt houses nearby. We take a morning ferry back to Nimati, then drive west along the south bank past Kaziranga and cross the Brahmaputra on the Kalia Bhomora bridge to Tezpur. Arrive in the late afternoon. If you still have energy, the view of the river from Agnigarh hill at sunset is worth the short climb.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Tezpur to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1560,
+      "drive": "About 190 km · 6–7 hrs",
+      "text": "Indian travellers show their Arunachal ILP at the Bhalukpong check gate; foreign nationals show their Protected Area Permit. The road follows the Kameng river gorge, a good place for a slow stop with the river below, then climbs through Tenga and over the Bomdila ridge at about 2,400 m. We descend to Dirang in its valley at about 1,560 m. In the late afternoon walk up to the old Dirang dzong village, a cluster of stone houses with carved wooden windows and prayer flags, which catches warm side light before sunset. Tonight is an acclimatisation stop: drink water, skip alcohol and rest, since tomorrow crosses 4,000 m.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Over Sela Pass to Tawang",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "About 135 km · 5 hrs",
+      "text": "We leave Dirang at 7 am to reach Sela Pass (4,170 m) while the sky is clear, which is usually before cloud builds after 10 am. When the old pass road is open, we stop at the top for the gateway, prayer flags and Sela Lake below, often frozen from December to March; when it is not, we use the Sela Tunnel, opened in March 2024. Keep your time at the top short and move slowly. The road then drops past the Jaswantgarh war memorial and Nuranang Falls near Jang, a 100 m drop worth a short stop. We reach Tawang by mid-afternoon and rest. An easy evening walk in the town market is enough today.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Tawang Monastery at morning prayers",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "About 25 km around town · 2 hrs",
+      "text": "Tawang Monastery, founded in 1680–81 and the largest in India, is at its best in the early morning, when young monks cross the courtyard for prayers and the sun lights the assembly hall. Photography is allowed in the courtyard, but ask before photographing inside the halls or close up of monks. After breakfast visit the monastery museum, then the Tawang War Memorial for the 1962 war. In the afternoon, the view back across the valley to the monastery from the Giant Buddha statue area gives the classic wide shot with the town below. Indian citizens can add Bum La Pass on an extra day with Army permission; foreign nationals cannot go there.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Tawang to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2415,
+      "drive": "About 170 km · 6 hrs",
+      "text": "We leave after breakfast and cross Sela a second time, which is your backup chance if the pass was cloudy on the way up. Then the road descends through Dirang's valley, with a stop at the apple and kiwi orchards if they are in season, and climbs to Bomdila, a ridge town at about 2,400 m. In the late afternoon we photograph Gontse Gaden Rabgye Ling monastery above the town as the light turns warm, and on clear evenings the Kangto and Gorichen ranges show to the north. Tonight is the last night in the hills; back up your cards and batteries before the long drive tomorrow.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Bomdila to Guwahati Airport",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "About 340 km · 9–10 hrs",
+      "text": "We leave Bomdila at 6 am for the long drive back to the plains through Tenga and Bhalukpong, where the forest gives way to tea gardens and rice fields. After a breakfast stop, the road runs past Tezpur and across the Brahmaputra toward Guwahati. Expect to reach Guwahati Airport between 4 and 5 pm, so book a flight after 7.30 pm or ask us to add a night in Guwahati. With an extra night, you can photograph the Brahmaputra at sunrise from Uzan Bazar ghat or the old stone steps below Kamakhya. The driver helps with your bags at the terminal. Send us your favourite frames; we like seeing them.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "10 nights on twin sharing in hotels, a Sohra resort and a Majuli bamboo cottage",
+    "Daily breakfast and dinner",
+    "One private vehicle for the group, maximum six guests, with room for tripods and bags",
+    "Guwahati Airport pickup and drop",
+    "Two jeep safaris in Kaziranga with park entry, subject to slot availability",
+    "Ferry crossings to and from Majuli with the vehicle",
+    "A trip guide who knows the light and timing at each stop",
+    "Local guides at Mawlynnong, Majuli and Tawang",
+    "Help with the Arunachal ILP for Indian citizens",
+    "Driver allowance, fuel, tolls and parking"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Arunachal ILP fee, or Protected Area Permit fee for foreign nationals",
+    "Camera fees at Kaziranga and other sites, and village entry fees",
+    "Umngot boat hire at Dawki, priced per boat",
+    "Bum La excursion, permit and vehicle",
+    "Lunches, drinks and snacks",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Extra nights caused by landslides, snow or flight changes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Centre Point (Shillong), Sa-I-Mika Park (Sohra), Aranya Tourist Lodge (Kaziranga), Me:Po Okum (Majuli), Prashaanti Tourist Lodge (Tezpur), Hotel Pemaling (Dirang), Hotel Tawang Heights (Tawang), Hotel Siphiyang Phong (Bomdila), or similar" },
+    { "tier": "Premium", "options": "Tripura Castle (Shillong), Cherrapunjee Holiday Resort (Sohra), Iora The Retreat (Kaziranga), La Maison de Ananda (Majuli), Dirang Boutique Cottages, Hotel Gakyi Khang Zhang (Tawang), Hotel Tsepal Yangjom (Bomdila), or similar" },
+    { "tier": "Luxury", "options": "Ri Kynjai (Umiam, near Shillong), Polo Orchid Resort (Sohra), Diphlu River Lodge (Kaziranga), La Maison de Ananda (Majuli), Wild Mahseer (near Tezpur), Dirang Boutique Cottages, Hotel Gakyi Khang Zhang (Tawang), or similar; Arunachal has no true luxury hotels on this route" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal ILP; the tourist permit now runs 15 days for the whole state, about ₹300–500, so pay whatever the portal shows. Foreign nationals need a Protected Area Permit through a registered operator. Check current status before you travel.",
+    "Drones are not allowed in Kaziranga or in border districts like Tawang without permission, which tourists rarely get. Leave them at home.",
+    "Kaziranga's ranges open in phases from October and close for the monsoon from about May, with dates set each year. Jeeps cost from about ₹3,500 per vehicle. Check current status before you travel.",
+    "Meghalaya requires every hotel and homestay to register guests on the state tourism app, and renting self-drive vehicles to tourists is banned. Carry photo ID.",
+    "Umngot's water is clearest from November to April. After heavy rain it turns green-brown for days, and boats can stop running.",
+    "Ask before photographing people, especially monks, older villagers and worshippers at satras. Some interiors do not allow photography at all."
+  ],
+  "faqs": [
+    { "q": "What makes this a photography tour?", "a": "The timing. Each stop is scheduled for its best light: Laitlum at sunset, Dawki in late morning when the riverbed is lit, Kaziranga at the start of the day, Majuli at sunrise and Sela before cloud builds. Groups are capped at six in one vehicle, and the guide plans around shots rather than a fixed timetable." },
+    { "q": "How much does the Northeast photography tour cost?", "a": "It starts at ₹54,000 per person on twin sharing, with standard hotels, one vehicle for the group, two Kaziranga safaris, Majuli ferries, guides and breakfast and dinner daily. Flights, permit fees, camera fees and Umngot boat hire are extra. Premium and luxury tiers add better-sited rooms at Sohra, Kaziranga and Majuli." },
+    { "q": "What lenses should I bring?", "a": "A 24–70 mm or similar covers most landscapes and villages. For Kaziranga, a 100–400 mm or 150–600 mm makes a real difference, since jeeps keep to the tracks. A wide lens helps at Laitlum and Sela. Bring a bean bag for the jeep, a light tripod for sunsets and spare batteries for the cold." },
+    { "q": "Can I fly a drone on this tour?", "a": "No. Drones are not allowed in Kaziranga National Park, and Tawang and the Sela area are sensitive border zones where flying without official permission can lead to seizure of the drone. Meghalaya sites also increasingly restrict them. We suggest leaving the drone at home rather than risking trouble at checkpoints." },
+    { "q": "When is the best month for photography in the Northeast?", "a": "November is the best all-round month: dry air, clear water at Dawki, Kaziranga open, Majuli's harvest fields and Sela usually passable. December adds snow chances at Sela but thins the waterfalls. March and April bring rhododendron and green grass, with more haze. The monsoon gives dramatic falls but closes Kaziranga." },
+    { "q": "Is Tawang on a photography tour too far?", "a": "It adds four days, but it changes the trip completely: from subtropical grassland to 4,170 m passes in 48 hours. Sela Pass, the Dirang dzong and Tawang Monastery are among the most photogenic places in the region. If time is short, our Meghalaya Photography Tour covers the Meghalaya part alone in 5 nights." },
+    { "q": "What permits do I need?", "a": "Indian citizens need an Arunachal ILP, which covers the whole state for 15 days and is applied for online. Foreign nationals need a Protected Area Permit through a registered tour operator. Meghalaya and Assam need no permit, but hotels register guests. Check current status before you travel, since rules changed in 2026." },
+    { "q": "How much walking is involved?", "a": "Not much. The longest walks are the steps at Laitlum, the path around Mawlynnong and the short descent to the Riwai root bridge, each under an hour. Tawang involves stairs at the monastery. The harder part is early starts and long drives, especially from Bomdila to Guwahati on the last day." },
+    { "q": "Can I photograph monks and villagers?", "a": "Yes, with permission. Monks at Tawang and satra members on Majuli are used to visitors, but always ask first and respect a no. Inside prayer halls and some satra naamghars, photography is not allowed. In Khasi villages like Mawlynnong, ask before photographing homes or children. Your guide will help with local courtesy." }
+  ]
+}

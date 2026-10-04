@@ -1,0 +1,140 @@
+{
+  "slug": "meghalaya-complete-6n",
+  "title": "Complete Meghalaya",
+  "nights": 6,
+  "themes": ["family", "photography"],
+  "states": ["meghalaya"],
+  "places": ["shillong", "shillong-peak", "laitlum-canyons", "sohra", "nohkalikai-falls", "mawsmai-cave", "nongriat-root-bridges", "mawlynnong", "dawki-umngot", "krang-suri-falls", "jowai"],
+  "hero": "krang-suri-falls",
+  "price_from_inr": 23500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Complete Meghalaya tour, 6 nights / 7 days: Laitlum, Sohra, Nongriat root bridge, Mawlynnong, Dawki and Krang Suri. Private car, from ₹23,500 per person.",
+  "quick_answer": "Complete Meghalaya is 6 nights / 7 days from Guwahati covering Laitlum Canyons, two nights in Sohra with the Nongriat double decker root bridge trek, a night in Mawlynnong, an early Dawki boat ride and the blue pool at Krang Suri Falls. It costs from ₹23,500 per person with a private car and standard hotels.",
+  "overview": [
+    "Seven days is the length at which Meghalaya stops feeling like a checklist. This route adds the three things shorter trips drop: sunrise at Laitlum Canyons, a full day for the Nongriat trek with rest either side, and Krang Suri Falls in the Jaintia Hills, where the pool below the fall is a clear blue from November to April. You sleep in four different places but never more than 3.5 hours apart.",
+    "It suits families with children over about ten, and anyone with a camera. The Nongriat day is the only hard one: about 3,500 steps down from Tyrna and the same climb back, 6 to 8 hours in all. Anyone who prefers to skip it can spend that day at Sohra's viewpoints with the car. We time Nohkalikai, Laitlum and Dawki for early morning, when light and crowds are both on your side."
+  ],
+  "highlights": [
+    "Sunrise at Laitlum Canyons, where the plateau breaks off in steep grass ridges above Rasong village",
+    "Nongriat double decker root bridge, with a full day and a registered local guide",
+    "Two nights in Sohra, so Nohkalikai Falls gets an 8 am visit",
+    "A night in Mawlynnong and a 7.30 am boat on the Umngot at Dawki",
+    "Krang Suri Falls and its blue pool, with swimming allowed in life jackets when the pool is open",
+    "Shillong Peak, Elephant Falls and the Don Bosco Museum in Shillong"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "We meet you at Guwahati Airport or the railway station and drive up through Jorabat, Byrnihat and Nongpoh, with a tea stop on the way. The Umiam Lake viewpoint, about 15 km before Shillong, is a good first look at the Khasi Hills. Check in by mid-afternoon. Take the evening easy: a walk around Ward's Lake and Police Bazar, and an early dinner, since tomorrow starts before dawn. Your driver will confirm sunrise time at Laitlum, which ranges from about 4.30 am in June to 6 am in January.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Laitlum sunrise and Shillong city",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "Local sightseeing · about 70 km",
+      "text": "Leave at first light for Laitlum Canyons, 25 km and 45 minutes away. The grass ridges fall away steeply into a deep valley, and on clear winter mornings mist lies below you. A stone stairway leads down towards Rasong village if you want a short walk. Return for breakfast, then go to Shillong Peak once it opens, carrying original ID for the Air Force checkpoint. Elephant Falls is 3 km further. After lunch, allow 90 minutes at the Don Bosco Museum. Evenings in Laitumkhrah bring coffee and, on weekends, live music.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Shillong to Sohra via Mawkdok and Mawsmai",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "55 km · 1.5–2 hrs, plus local stops",
+      "text": "Check out after breakfast and drive the Sohra road with stops at the Mawkdok Dympep valley viewpoint and Wah Kaba Falls. In Sohra, see Mawsmai Cave, whose lit route is about 150 m with one tight squeeze, and look across to the Seven Sisters Falls, which flow mainly in the rains. After lunch, walk the 1 km cliff path to Arwah Cave. Check in early and pack a small daypack for tomorrow: water, snacks, a light rain jacket and shoes with grip. Sunset from Thangkharang Park looks over the Bangladesh plains when the sky is clear.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Nongriat double decker root bridge trek",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "Trek about 6 km return · 6–8 hrs",
+      "text": "Drive 30 minutes to Tyrna and meet your registered local guide, required on East Khasi Hills treks since mid-2025. Start by 7.30 am. About 3,500 concrete steps drop steeply into the valley, crossing two steel-wire suspension bridges over the Umshiang stream, before you reach the double decker root bridge at Nongriat, grown from rubber fig roots. Rest at the natural pools below it. Fit walkers can continue about an hour to Rainbow Falls. The climb back takes most people 1.5 to 2.5 hours. The car waits at Tyrna and you are back in Sohra by late afternoon.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Nohkalikai Falls and on to Mawlynnong",
+      "stay": "Mawlynnong",
+      "altitude_m": 500,
+      "drive": "85 km · 3 hrs",
+      "text": "Start at the Nohkalikai viewpoint at 8 am, while the gorge is usually clear; the 340 m plunge is India's tallest. Leave Sohra by 10 am, drive back to Laitlyngkot and turn south through Pynursla towards the Bangladesh border. Reach Mawlynnong by early afternoon and check into a village homestay. Walk 20 minutes down stone steps to the Riwai living root bridge, then climb the bamboo Sky View platform if it is open. After 4 pm the day visitors leave and the village is quiet. Dinner is home-cooked Khasi food with rice, dal and greens.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Dawki at dawn and Krang Suri Falls",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 190 km · 6–7 hrs with stops",
+      "text": "Leave at 6.30 am with a packed breakfast and reach Dawki, 30 km away, by 7.30. A boat on the Umngot takes 30 to 45 minutes; fares are fixed at the ghat. Then drive north through Amlarem to Krang Suri Falls, about 1.5 to 2 hours on a narrow hill road. Steps lead down to the pool, and swimming is allowed only in the marked area with a hired life jacket. After a late lunch, continue via Jowai, the Jaintia Hills headquarters, and the NH-6 back to Shillong, arriving around 6 pm. It is the longest day, so rest on the back seat between stops.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Shillong to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "After a slow breakfast, leave Shillong around 9.30 am. The Umiam Lake Water Sports Complex is on the highway if you want a 20 minute boat ride. Stop at Nongpoh for pineapples and local tea. Traffic builds near Jorabat and on the Guwahati bypass after 2 pm, so we ask you to book flights after 2.30 pm or trains after 3 pm. With a late departure, we can add the Kamakhya Temple on Nilachal Hill, though the queue for the inner sanctum can run two to four hours. Your driver drops you at the terminal or station entrance.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights in Shillong, 2 nights in Sohra and 1 night in a Mawlynnong homestay, twin sharing",
+    "Daily breakfast and dinner, with a packed breakfast on the Dawki morning",
+    "Private car (Dzire or similar; Innova or Ertiga for 4 or more) for the whole itinerary",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Registered local guide for the Nongriat trek",
+    "Driver allowance, fuel, tolls, parking and inter-district permits for the car",
+    "All sightseeing as per the day plan",
+    "Hotel taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Entry fees at viewpoints, caves, falls, villages and root bridges",
+    "Dawki boat fare and Krang Suri life-jacket hire",
+    "Lunches, drinks and snacks",
+    "Porters on the Nongriat trek (available at Tyrna on request)",
+    "Ziplining and other optional activities",
+    "Camera fees, tips and personal expenses",
+    "Travel insurance",
+    "Costs from landslides, road closures or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Centre Point or Pinewood Hotel. Sohra: Jiva Resort or Sa-I-Mika Resort. Mawlynnong: Hep Homestay or Streamside Guest House, or similar" },
+    { "tier": "Premium", "options": "Shillong: Polo Towers Shillong or Hotel Pegasus Crown. Sohra: Cherrapunjee Holiday Resort. Mawlynnong: best available homestay, or similar" },
+    { "tier": "Luxury", "options": "Shillong: Vivanta Meghalaya Shillong or Ri Kynjai. Sohra: Polo Cherrapunjee Resort. Mawlynnong: best available homestay, or similar" }
+  ],
+  "good_to_know": [
+    "East Khasi Hills has required registered local guides on treks such as Nongriat since mid-2025, and the Nongriat trail has been closed on Sundays, so we never plan the trek for a Sunday; check current status before you travel",
+    "Krang Suri's pool and the Umngot at Dawki are clearest from November to April; in the monsoon Krang Suri swimming and Dawki boating are often closed",
+    "The Nongriat trek is about 3,500 steps each way; knees take the strain on the way down, so trekking poles help",
+    "Hotels and homestays register every guest on Meghalaya's system, so keep photo ID for all adults ready",
+    "Day 6 is long; if you prefer, we split it by adding a night in Jowai",
+    "Carry cash in small notes; village counters for entry and parking fees rarely take cards"
+  ],
+  "faqs": [
+    { "q": "Is 7 days enough to see Meghalaya?", "a": "Seven days covers the main circuit comfortably: Shillong, Laitlum, Sohra with the Nongriat trek, Mawlynnong, Dawki and Krang Suri. It leaves out the Garo Hills, West Khasi Hills and deeper Jaintia Hills, which need their own trips. Most first-time visitors find six nights the right length." },
+    { "q": "How difficult is the Nongriat root bridge trek?", "a": "It is about 3,500 steps down from Tyrna and the same climb back, with two wire suspension bridges on the way. The steps are concrete and well made but steep. Reasonably fit adults manage it in 6 to 8 hours including rest. It is hard on knees; people with heart or joint conditions should skip it." },
+    { "q": "What does the Complete Meghalaya package cost?", "a": "It starts at ₹23,500 per person on twin sharing with standard hotels, one homestay night, breakfast and dinner, a private sedan and the Nongriat guide. Premium hotels add about ₹6,000 to ₹9,000 per person. Groups of four or more usually move to an Innova or Ertiga." },
+    { "q": "Can we swim at Krang Suri Falls?", "a": "Swimming has been allowed in a marked section of the pool with a hired life jacket, under watch of local staff, mainly from November to May. In the monsoon the pool is often closed to swimmers because of strong currents. Rules and fees are set locally, so check current status before you travel." },
+    { "q": "What if someone in the group cannot do the trek?", "a": "The car stays with the group all day. While the others trek, non-trekkers can visit the Eco Park, Nohkalikai, Dainthlen Falls or simply rest at the resort in Sohra. Tyrna is only 30 minutes from Sohra, so the driver can drop the trekkers and return." },
+    { "q": "When is the best month for this trip?", "a": "October to April. October has full waterfalls and green hills with a mostly clear river. November to February brings the clearest Dawki and Krang Suri water and dry trekking steps. March and April are warm with occasional storms. We avoid July and August for this route because of slippery steps and muddy rivers." },
+    { "q": "Is this trip good for photography?", "a": "Yes. We plan the key frames for good light: Laitlum at sunrise, Nohkalikai at 8 am before cloud, and Dawki at 7.30 am when the river surface is calm and boats cast clear shadows on the bed. Drones need local permission at most sites and are banned near the border." },
+    { "q": "Do we need any permit for Dawki or Krang Suri?", "a": "No permit is needed for Indian or foreign tourists at Dawki, Krang Suri or anywhere else on this route. You cannot cross into Bangladesh at Dawki without a visa and immigration clearance. Every hotel and homestay registers guests on Meghalaya's system, so carry photo ID." },
+    { "q": "Can we stay overnight in Nongriat village?", "a": "Yes. Nongriat has simple homestays with basic rooms and shared bathrooms. Staying there lets you visit Rainbow Falls without rushing and climb back up in the cool morning. We can swap one Sohra night for Nongriat; you would carry a small overnight bag down the steps, or hire a porter." }
+  ]
+}

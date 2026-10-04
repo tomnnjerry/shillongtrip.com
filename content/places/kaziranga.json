@@ -1,0 +1,68 @@
+{
+  "slug": "kaziranga",
+  "name": "Kaziranga National Park",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Golaghat and Nagaon",
+  "types": ["wildlife", "national-park", "safari", "unesco"],
+  "tagline": "Grassland rhino country on the Brahmaputra floodplain",
+  "altitude_m": 60,
+  "coords": [26.6667, 93.3500],
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "best_time": "November to April, when all ranges and elephant safaris are usually open; ranges start opening in phases from October.",
+  "permit": {
+    "required": false,
+    "indians": "No state permit needed. Park entry is INR 100 per adult, plus INR 100 for a still camera and a per-jeep safari charge; carry photo ID. Check current status before you travel",
+    "foreigners": "No RAP or PAP needed for Assam. Park entry is INR 650 per adult, plus INR 200 for a still camera and a higher per-jeep charge; carry your passport"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 195, "hours": "5" },
+  "ideal_stay": "2 nights at Kohora or Bagori for three safaris; 3 nights to add the Eastern Range",
+  "meta_description": "Kaziranga National Park: safari zones, jeep and elephant timings, season dates, how to reach from Guwahati and Jorhat, resorts and 9 answered FAQs.",
+  "quick_answer": "Kaziranga National Park in Assam is home to most of the world's greater one-horned rhinos. It opens in phases from October and closes around May. Jeep safaris run in the Central (Kohora), Western (Bagori), Eastern (Agaratoli) and Burapahar ranges; dawn elephant rides only at Kohora and Bagori. Kohora is about 195 km from Guwahati.",
+  "intro": [
+    "Kaziranga is flat, wet grassland on the south bank of the Brahmaputra, broken by shallow lakes called beels and patches of forest. The Karbi Anglong hills rise just south of the highway, and in the monsoon the river floods much of the park, pushing animals towards that higher ground. It became a UNESCO World Heritage Site in 1985 and a tiger reserve in 2007, and the 2022 count put the rhino population above 2,600.",
+    "The park is visited range by range. Kohora (Central) holds the park's main tourist hub and the widest spread of lodges; Bagori (Western) is short and dense with rhinos and buffalo around open beels; Agaratoli (Eastern) is quieter and better for water birds; Burapahar in the west is smaller and more forested. NH715 runs along the southern edge, so most resorts line the highway between Bagori and Agaratoli.",
+    "We plan Kaziranga around sessions rather than days. A two-night stay gives you an afternoon jeep safari on arrival, an early elephant ride or jeep safari the next morning and a third safari in a different range. The park closes for the monsoon, usually from May to September, and reopens in phases: in 2025 a limited Bagori circuit opened on 26 September, Kohora in the second week of October and elephant safaris on 1 November. Dates are set each year, so check current status before you travel."
+  ],
+  "highlights": [
+    { "name": "Jeep safari", "text": "Open Gypsy jeeps take up to six passengers with a forest guide on fixed routes. Morning sessions usually start around 7.30 am and afternoon sessions around 1.30 pm, ending before sunset. Expect from about INR 3,500 per jeep." },
+    { "name": "Elephant safari", "text": "Short dawn rides of about an hour, only in the Central and Western ranges, in batches between about 5.30 and 7.30 am. They get close to rhinos in tall grass but are limited and sell out early." },
+    { "name": "Western Range, Bagori", "text": "Open grassland and beels with a high density of rhinos and wild water buffalo. Many visitors see a dozen or more rhinos on a single morning drive." },
+    { "name": "Eastern Range, Agaratoli", "text": "Longer drives to Sohola beel and the river, with pelicans, storks, ducks and fishing eagles in winter. Quieter than Kohora and good for photographers." },
+    { "name": "Watchtowers and beels", "text": "Towers such as those around Mihimukh and Donga look over lakes where rhinos, buffalo, swamp deer and elephants gather to drink and feed." },
+    { "name": "Tea gardens and Karbi hills", "text": "Tea estates and Karbi villages line the southern side of the highway. Morning walks through the tea bushes are an easy add-on between safaris." }
+  ],
+  "things_to_do": [
+    "Take at least one jeep safari in the Central Range at Kohora and one in the Western Range at Bagori",
+    "Book a dawn elephant safari well ahead if it is operating during your dates",
+    "Spend an afternoon in the Eastern Range at Agaratoli for winter water birds",
+    "Scan the beels from watchtowers with binoculars for rhino, buffalo and swamp deer",
+    "Walk through a tea estate near Kohora early in the morning",
+    "Visit the Kaziranga Orchid and Biodiversity Park near Durgapur for orchids and a cultural show",
+    "Watch the elephant corridors along NH715 carefully at dusk; animals cross the road here",
+    "Attend the Kaziranga Elephant Festival if it is held during your visit; dates vary each year"
+  ],
+  "how_to_reach": "Kohora, the Central Range gateway, is about 195 km from Guwahati via NH27 and NH715, a 4.5 to 5 hour drive. Jorhat airport is the nearest, about 97 km or 2 hours east, with flights from Kolkata and Delhi; Tezpur is about 75 km across the Kolia Bhomora bridge. Guwahati airport has many more flights and suits most itineraries. Buses between Guwahati and Jorhat or Golaghat stop at Kohora and Bagori. The nearest railheads are Jakhalabandha to the west and Furkating near Golaghat, both needing a road transfer.",
+  "where_to_stay": "Kohora has the most choice, from state tourism lodges to resorts such as IORA The Retreat and Infinity Resorts Kaziranga, and puts you minutes from the Central Range gate. Bagori, about 25 km west, suits Western Range safaris; Diphlu River Lodge sits on the park edge here and is one of the more expensive stays in the region. Wild Grass Lodge near Kohora is a long-running mid-range option. Budget guest houses and homestays line NH715 near Kohora. Book November to March stays and safaris several weeks ahead.",
+  "tips": [
+    "Book jeeps through your lodge, an operator or the range office queue, and book scarce elephant seats first; carry the photo ID used for booking",
+    "Sit on the side facing the beels and carry binoculars; a 200 to 400 mm lens helps for wildlife photos",
+    "Wear muted greens and browns, and a warm layer for December and January dawns",
+    "Keep to the speed limit on NH715 through the animal corridors; fines and enforcement are strict",
+    "Opening dates, open ranges and safari rules change each season; check current status before you travel",
+    "Do not get out of the jeep except at designated watchtowers and points"
+  ],
+  "faqs": [
+    { "q": "When does Kaziranga National Park open and close?", "a": "Kaziranga reopens in phases each October after the monsoon. In 2025 a limited Bagori circuit opened on 26 September, Kohora in the second week of October and elephant safaris on 1 November; the 2026-27 reopening was expected in October 2026. The park closes around May. Dates depend on flood damage each year, so check current status before you travel." },
+    { "q": "What are the jeep safari timings in Kaziranga?", "a": "Jeep safaris run in two sessions. The morning session usually starts around 7.30 am and the afternoon session around 1.30 pm, finishing by about 3.30 to 5 pm. Each drive lasts about two hours on fixed routes in one range. Jeeps cost from about INR 3,500 per vehicle. Slot times are set each season." },
+    { "q": "Which is the best zone in Kaziranga for rhinos?", "a": "The Central Range at Kohora and the Western Range at Bagori give the most reliable rhino sightings, with Bagori's open beels often showing many animals in a single drive. The Eastern Range at Agaratoli is better for water birds in winter, and Burapahar is smaller and more forested. Most visitors combine Kohora and Bagori over two days." },
+    { "q": "How do I book a Kaziranga safari?", "a": "In practice most jeeps are booked through your lodge, a tour operator or the queue at the range office, and resorts arrange them for guests. Elephant rides run only at Kohora and Bagori and have very few seats, so book them first. Carry the photo ID used for booking, since names are checked at the gate." },
+    { "q": "Is the elephant safari in Kaziranga worth it?", "a": "An elephant safari lets you get close to rhinos in tall grass at dawn, which jeeps cannot do. Rides last about an hour and run only in the Central (Kohora) and Western (Bagori) ranges, between about 5.30 and 7.30 am. Seats are limited and sell out early in peak months. Some travellers prefer not to ride elephants for welfare reasons; jeep safaris cover the park well without it." },
+    { "q": "How many days are enough for Kaziranga?", "a": "Two nights is the sweet spot. That gives you an afternoon jeep safari on arrival, a dawn elephant or jeep safari the next morning, a second-range jeep safari that afternoon and time to leave the next day. Add a third night for the Eastern Range, a tea estate walk or more photography." },
+    { "q": "What is the best time to visit Kaziranga?", "a": "November to April is best, when all ranges are usually open and animals gather around shrinking beels. December to February is cool and misty at dawn and busy with migratory birds. March and April are warmer, the grass is burnt back and sightings are often easier. The park is closed in the monsoon." },
+    { "q": "Can we see tigers in Kaziranga?", "a": "Kaziranga has a high density of tigers, but the tall elephant grass makes sightings unpredictable. Some visitors see one crossing a track or at a beel, especially in March and April when the grass is shorter, but most do not. Plan your trip around rhinos, elephants, buffalo, deer and birds, and treat a tiger as a bonus." },
+    { "q": "Which airport is nearest to Kaziranga?", "a": "Jorhat airport is the nearest, about 97 km or 2 hours east of Kohora, with flights from Kolkata and Delhi. Tezpur is about 75 km away but has few flights. Guwahati airport, about 195 km and 5 hours west, has the most flights and is how most travellers arrive, often combining the drive with Shillong or Pobitora." }
+  ],
+  "nearby": ["pobitora", "nameri", "tezpur", "jorhat", "majuli"],
+  "image_query": "Kaziranga National Park rhinoceros grassland"
+}

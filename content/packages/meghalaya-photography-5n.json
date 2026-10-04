@@ -1,0 +1,129 @@
+{
+  "slug": "meghalaya-photography-5n",
+  "title": "Meghalaya Photography Tour",
+  "nights": 5,
+  "themes": ["photography"],
+  "states": ["meghalaya"],
+  "places": ["shillong", "laitlum-canyons", "sohra", "nohkalikai-falls", "wei-sawdong-falls", "mawsmai-cave", "mawlynnong", "dawki-umngot", "shnongpdeng", "umiam-lake"],
+  "hero": "dawki-umngot",
+  "price_from_inr": 27500,
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "difficulty": "easy",
+  "max_altitude_m": 1800,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Meghalaya photography tour, 5 nights / 6 days: Laitlum at sunrise, Wei Sawdong, Nohkalikai, a night in Mawlynnong and morning boats on the Umngot.",
+  "quick_answer": "This 5-night Meghalaya photography tour runs Guwahati to Guwahati: Laitlum Canyons at sunrise, two nights in Sohra for Nohkalikai, Wei Sawdong and Mawsmai, a night in Mawlynnong so you shoot the village empty, and the Umngot river at Dawki and Shnongpdeng in late-morning light. Best October to March for clear skies and clear water.",
+  "overview": [
+    "Most Meghalaya tours rush through Laitlum at noon, Nohkalikai in haze and Dawki with a hundred other boats. We slow it down and time each location. Laitlum is shot at sunrise, when cloud often lies in the gorges below the rim. Sohra gets two nights so you can work Nohkalikai in afternoon light and Wei Sawdong's three tiers without a queue. We sleep in Mawlynnong, so the village lanes are yours at dawn, and reach the Umngot by 9 am, before the crowds and while the sun lights the riverbed through the water.",
+    "Walking is light, apart from the 20–30 minute scramble down to Wei Sawdong and a short walk to the Riwai root bridge. Groups are small, up to six in one vehicle. From October to March skies are mostly clear and the Umngot runs clear enough to see stones several metres down. If you want waterfalls at full force and cloud drama instead, the same route works from June to September, but the river turns green-brown and boats may stop. Meghalaya's guest registration rule applies at every stay, so carry photo ID."
+  ],
+  "highlights": [
+    "Laitlum Canyons at sunrise, with cloud lying in the gorges below the rim",
+    "Nohkalikai Falls in afternoon light and Wei Sawdong's three tiers up close",
+    "A night in Mawlynnong so you photograph the village before day visitors arrive",
+    "Umngot boats that appear to float on clear water at Dawki and Shnongpdeng",
+    "Inside Mawsmai Cave with a fast lens and high ISO",
+    "Umiam Lake at dawn on the drive back to Guwahati"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong via Umiam Lake",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "115 km · 3.5 hrs with stops",
+      "text": "Our driver meets you at Guwahati Airport for the 3 to 3.5 hour drive up NH-6 to Shillong. The first stop is the Umiam Lake viewpoint 15 km before the city, where the reservoir's arms reach between pine hills; the afternoon light here is soft and side-lit. After check-in, head out in the evening to Police Bazar and the Khyndailad area for street scenes, food stalls and neon under light rain if you are lucky. Your guide briefs you on tomorrow's early start, sunrise time and what to carry: a wide lens, a tripod, a warm layer and a head torch. Dinner is early, since the car leaves before dawn.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Laitlum sunrise, then Sohra and Nohkalikai",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "About 90 km · 3 hrs in total",
+      "text": "We leave Shillong about an hour before sunrise for the 25 km drive to Laitlum Canyons. From the rim, which faces south and south-west, the first light picks out ridge after ridge while cloud often sits in the gorges below, especially in October and November. Walk down the stone steps toward Rasong for a lower angle. After breakfast in Shillong or a packed one at the rim, we drive south to Sohra, stopping at the Mawkdok Dympep viewpoint. After lunch we set up at Nohkalikai Falls, a 340 m plunge from the plateau into a turquoise pool; afternoon light falls across the cliff. From December the flow thins to a ribbon.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Wei Sawdong, Mawsmai Cave and the cliffs",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "About 50 km in total · 2 hrs",
+      "text": "Wei Sawdong is a three-tier waterfall a short drive from Sohra, reached by a steep 20–30 minute path with bamboo railings and rough steps; wear shoes with grip. Morning is best, before other visitors arrive and when the pools are in shade, which suits long exposures with an ND filter. Nearby, Dainthlen Falls runs over flat rock carved with shapes from a Khasi legend. After lunch we go into Mawsmai Cave, a short lit limestone cave with narrow squeezes, where a fast lens and high ISO are essential; tripods are awkward inside. We finish at the Mawsmai viewpoint for sunset over the Seven Sisters cliffs and the plains of Bangladesh below.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Sohra to Mawlynnong and the Riwai root bridge",
+      "stay": "Mawlynnong",
+      "altitude_m": 750,
+      "drive": "About 90 km · 3 hrs via Pynursla",
+      "text": "We drive east across the plateau through Pynursla, with views south into deep valleys, and reach Mawlynnong by lunch. Day visitors fill the village from late morning, so we use the afternoon for the Riwai living root bridge, a 2 km drive and a short walk down to a single-span bridge of rubber-tree roots over a stream. The Sky View bamboo platform gives an elevated look across the forest toward the Bangladesh plains. After 4 pm the buses leave, and the village's flower-lined lanes, conical bamboo bins and stone steps are quiet and warm in the evening light. We stay in a Mawlynnong homestay tonight, with a simple Khasi dinner.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Umngot river at Dawki and Shnongpdeng",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 120 km · 4 hrs in total",
+      "text": "Walk Mawlynnong at dawn before breakfast, when households sweep the lanes and mist hangs in the trees. We then drive 30 km to Dawki and reach the Umngot by 9 am. From mid-morning, the sun is high enough to light the stony riverbed through the clear water, which is what makes boats look as if they float. Hire a boat at the ghat, priced per boat, and shoot from the suspension bridge as well. We then go about 8 km upstream to Shnongpdeng, where the water is often clearer and quieter. After lunch by the river, we drive back to Shillong, about 2.5–3 hours, arriving in the evening.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Shillong to Guwahati Airport",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "If your flight allows, we leave Shillong early and stop at Umiam Lake shortly after sunrise, when the water is still and mist rises from the arms of the reservoir; the dam end and the viewpoint on the highway both work. From there it is about 2.5 hours down to Guwahati. For afternoon flights, you can instead spend the morning at the Don Bosco Museum in Shillong, whose top-floor Skywalk looks across the city. The driver drops you at Guwahati Airport at least two hours before departure. Before you go, back up your cards; we would be glad to see your best frames on WhatsApp.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "5 nights on twin sharing: 2 in Shillong, 2 in Sohra and 1 in a Mawlynnong homestay",
+    "Daily breakfast and dinner, with a packed breakfast on the Laitlum sunrise morning",
+    "One private vehicle for the group, maximum six guests",
+    "Guwahati Airport pickup and drop",
+    "Pre-dawn transfer to Laitlum Canyons",
+    "A trip guide who plans each stop around light",
+    "Local guide in Mawlynnong and at Wei Sawdong",
+    "Guest registration with the Meghalaya tourism app at each stay",
+    "Driver allowance, fuel, tolls and parking"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Village, waterfall, cave and camera entry fees, usually under ₹100 per person each",
+    "Umngot boat hire at Dawki and Shnongpdeng, priced per boat",
+    "Lunches, drinks and snacks",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Costs from landslides, strikes or flight changes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Centre Point, Shillong, or similar; Sa-I-Mika Park, Sohra, or similar; a Mawlynnong village homestay" },
+    { "tier": "Premium", "options": "Tripura Castle, Shillong, or similar; Cherrapunjee Holiday Resort, Sohra, or similar; a Mawlynnong village homestay with attached bathroom" },
+    { "tier": "Luxury", "options": "Ri Kynjai at Umiam or similar for the Shillong nights; Polo Orchid Resort, Sohra, or similar; a Mawlynnong homestay, since the village has no hotels" }
+  ],
+  "good_to_know": [
+    "Meghalaya has no Inner Line Permit, but every hotel and homestay must register guests on the state tourism app, and renting self-drive vehicles to tourists is banned. Carry photo ID. Check current status before you travel.",
+    "The Umngot is clearest from November to April. After heavy rain it turns green-brown for days and boats may be suspended.",
+    "Nohkalikai, Wei Sawdong, Mawsmai and Mawlynnong charge small entry fees, typically under ₹100 per person, plus parking and camera fees in places.",
+    "Drones are restricted at many Meghalaya sites and near the Bangladesh border at Dawki. Ask before flying anywhere, and expect to be told no.",
+    "Sohra can be wet in any month. Bring a rain cover for your camera and a microfibre cloth for the mist at waterfall viewpoints.",
+    "Ask before photographing people in Khasi villages, especially children and homes."
+  ],
+  "faqs": [
+    { "q": "What is the best time for photography in Meghalaya?", "a": "October and November give the best balance: clear skies, cloud in the Laitlum gorges at dawn, waterfalls still running and clear water at Dawki. December to March is drier with thinner falls but the clearest river. June to September brings full waterfalls and dramatic cloud but a muddy Umngot and frequent rain." },
+    { "q": "How much does the Meghalaya photography tour cost?", "a": "It starts at ₹27,500 per person on twin sharing, with standard hotels, a Mawlynnong homestay, one vehicle for the group, a photography-minded trip guide and breakfast and dinner daily. Flights, entry and camera fees and Umngot boat hire are extra. Groups are capped at six guests." },
+    { "q": "Why stay overnight in Mawlynnong?", "a": "Because day visitors fill the village from late morning to about 4 pm. Staying overnight lets you shoot the lanes, bamboo bins and gardens in warm evening light and again at dawn, when households sweep the paths and mist sits in the trees. It also puts you 30 km from Dawki for an early river start." },
+    { "q": "When is the Umngot river clearest?", "a": "From November to April, when there is little rain upstream. Late morning to early afternoon is best, when the sun is high enough to light the riverbed through the water. After heavy rain, even in the dry season, the water turns green-brown for a few days. Shnongpdeng, upstream, is often clearer than Dawki." },
+    { "q": "What camera gear should I bring?", "a": "A wide-to-standard zoom covers most of the trip, plus a telephoto for compressed ridge lines at Laitlum. Bring a tripod, an ND filter for waterfalls, a fast lens for Mawsmai Cave, a rain cover and several microfibre cloths. Spare batteries and cards matter, since charging points in homestays can be limited." },
+    { "q": "Is Wei Sawdong hard to reach?", "a": "The path is short, 20–30 minutes each way, but steep, with rough steps and bamboo railings that can be slippery when wet. Anyone reasonably fit can manage it with good shoes. Carrying a tripod down is fine. We skip it in heavy rain, when the path and pools are unsafe." },
+    { "q": "Can I fly a drone in Meghalaya?", "a": "It is risky. Many village councils and sites now restrict drones, and Dawki sits on the Bangladesh border, where security forces do not allow them. Some operators have had drones seized. Ask your guide before flying anywhere, and follow the answer. We recommend not planning your shots around a drone." },
+    { "q": "Do I need a permit for Meghalaya?", "a": "No. Meghalaya has no Inner Line Permit for Indian or foreign travellers. Since 2025, though, every hotel and homestay must register guests on the state tourism app, so keep photo ID ready. The state has also discussed registration at entry points. Check current status before you travel." },
+    { "q": "Can this tour add Kaziranga or Tawang?", "a": "Yes. Kaziranga is about 250 km from Shillong, a 6.5-hour drive, and two nights there add rhinos and grassland birds. Tawang needs at least five more nights. Our 10-night Northeast Photography Tour combines Meghalaya, Kaziranga, Majuli and Tawang in one route if you want the whole range." }
+  ]
+}

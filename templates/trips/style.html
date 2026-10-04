@@ -1,0 +1,15 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="sh"><div class="shell sh__grid">
+  <div>{% crumbs crumb_list %}<span class="eyebrow">{% icon th.icon %} {{ th.name }}</span><h1>{{ h1 }}</h1><p class="ih__lede">{{ th.desc }} Prices from {{ min_p|inr }} per person.</p><a class="btn btn--sun" href="/contact/?msg={{ plan_msg|urlq }}">Plan mine {% icon 'arrow' %}</a></div>
+  <figure class="sh__img">{% img im sizes='(min-width: 900px) 45vw, 100vw' eager=True %}{% credit im %}</figure>
+</div></section>
+<section class="band band--tight"><div class="shell">
+  <div class="tbl" tabindex="0"><table><caption>{{ h1 }} at a glance</caption><thead><tr><th scope="col">Package</th><th scope="col">Nights</th><th scope="col">States</th><th scope="col">Best months</th><th scope="col">From</th></tr></thead>
+  <tbody>{% for r in rows %}<tr><th scope="row"><a href="/packages/{{ r.t.slug }}/">{{ r.t.title|trimstop }}</a></th><td>{{ r.t.nights }}N/{{ r.t.nights|plus1 }}D</td><td>{{ r.states }}</td><td>{{ r.t.best_months|monthslabel }}</td><td>{{ r.t.price_from_inr|inr }}</td></tr>{% endfor %}</tbody></table></div>
+  <div class="pk-grid pk-grid--mt">{% for t in lst %}{% pk_card t %}{% endfor %}</div>
+  <div class="chips-row chips-row--center">{% for o in other_themes %}<a class="pill" href="/styles/{{ o.key }}/">{% icon o.icon %}{{ o.name }}</a>{% endfor %}</div>
+</div></section>
+{% faq_block faqs title=h1|add:": questions" %}
+{% cta_panel %}
+{% endblock %}

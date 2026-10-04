@@ -1,0 +1,67 @@
+{
+  "slug": "sohra",
+  "name": "Sohra (Cherrapunji)",
+  "state": "meghalaya",
+  "state_name": "Meghalaya",
+  "district": "East Khasi Hills",
+  "types": ["town", "waterfalls", "caves", "base"],
+  "tagline": "Rain-record town on a plateau edge, ringed by falls and root bridges",
+  "altitude_m": 1480,
+  "coords": [25.2840, 91.7210],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for clear views and dry trails; June to September for roaring falls and near-daily rain.",
+  "permit": {
+    "required": false,
+    "indians": "No permit. Small entry fees at most falls, caves and parks; carry photo ID for homestay registration",
+    "foreigners": "No permit needed. Some sites charge a higher foreigner fee"
+  },
+  "from_hub": { "hub": "Shillong", "km": 54, "hours": "1.5" },
+  "ideal_stay": "2 nights in Sohra, or 1 night plus a night in Nongriat for the root bridge trek",
+  "meta_description": "Sohra (Cherrapunji), Meghalaya: rainfall facts, falls, caves, root bridges, how to reach from Shillong, where to stay and 9 FAQs.",
+  "quick_answer": "Sohra, still widely called Cherrapunji, is a plateau town at about 1,480 m, 54 km (1.5 to 2 hours) south of Shillong. It is among the wettest places on Earth, averaging about 11,200 mm of rain a year. Base here for Nohkalikai Falls, Mawsmai Cave and the Nongriat root bridges. No permit is needed.",
+  "intro": [
+    "Sohra sits on the southern edge of the Khasi Hills plateau at about 1,480 m. South of town the land drops sharply towards the Bangladesh plains, and that wall of hills catches monsoon cloud coming off the Bay of Bengal. The result is some of the heaviest rainfall on the planet: an average of about 11,200 mm a year on the IMD 1991–2020 normal, with June and July each bringing more rain than Guwahati gets in a year, and a recorded 26,461 mm in the twelve months from August 1860 to July 1861.",
+    "The town itself is small: a market, the Ramakrishna Mission, a few churches and a spread of homestays and resorts along the roads south and west. What people come for is around it. Nohkalikai Falls is 5 km west, Mawsmai Cave about 4 km south, the Seven Sisters falls near Mawsmai, and Tyrna, the start of the Nongriat root bridge trek, about 12 km south-east.",
+    "We plan at least two nights here. The Shillong–Sohra road is 54 km, but the sights are spread across several small roads, fog can close in by noon, and the root bridge trek takes most of a day on its own. The dry months give views; the monsoon gives water, and you will need both patience and a rain jacket."
+  ],
+  "highlights": [
+    { "name": "Nohkalikai Falls", "text": "About 340 m high, the tallest plunge waterfall in India, falling into a green pool; 5 km from Sohra market." },
+    { "name": "Nongriat root bridges", "text": "The double decker living root bridge, reached by roughly 3,500 steps down from Tyrna village." },
+    { "name": "Mawsmai Cave", "text": "A lit limestone cave with a walk-through section of about 150 m, a short, easy caving taste." },
+    { "name": "Seven Sisters Falls", "text": "Nohsngithiang, a line of falls along a cliff near Mawsmai that flows fullest from June to September." },
+    { "name": "Rain", "text": "Sohra's rainfall records are real, and in the monsoon you can watch cloud pour up over the plateau edge." }
+  ],
+  "things_to_do": [
+    "See Nohkalikai Falls early in the morning before cloud rises",
+    "Trek from Tyrna to the Nongriat double decker root bridge and Rainbow Falls",
+    "Walk through Mawsmai Cave's lit passage",
+    "Watch Seven Sisters Falls from the Mawsmai viewpoints in the monsoon",
+    "Stop at Wei Sawdong and Dainthlen falls on the Shillong road",
+    "Visit Arwah Cave and its fossil-marked walls",
+    "Look over the Mawkdok Dympep valley on the drive from Shillong",
+    "Buy Khasi oranges, honey and local cinnamon at Sohra market in season"
+  ],
+  "how_to_reach": "Sohra is 54 km south of Shillong on a good two-lane road via Mawkdok, usually 1.5 to 2 hours by taxi with viewpoint stops. Shared taxis and some buses run from Bara Bazar in Shillong in the morning, but a private cab is far easier because the sights are spread out on side roads. From Guwahati, allow 4.5 to 5 hours for the 155 km or so. In the monsoon, fog on the plateau can slow driving to walking pace; avoid driving back after dark and check current status of the road before you travel.",
+  "where_to_stay": "Sohra has resorts and homestays spread along the plateau rather than a hotel district. Polo Cherrapunjee Resort (formerly Polo Orchid) sits by the Seven Sisters falls near Mawsmai. Cherrapunjee Holiday Resort at Laitkynsew is closer to the root bridge trails. Sa-I-Mika Park Resort offers cottages on the edge of town. Family-run homestays around Sohra market and on the Tyrna road suit budget travellers and trekkers. For the root bridges, one night in a basic Nongriat homestay is worth adding. Book ahead for October to December weekends.",
+  "tips": [
+    "Start sightseeing by 8 am; views often cloud over by noon",
+    "Carry a proper rain jacket in every month, and an umbrella from May to October",
+    "Keep cash for entry, camera and parking fees at every site",
+    "Wear shoes with good grip for caves and wet steps",
+    "Avoid driving the Shillong–Sohra road after dark in fog",
+    "Many shops and some sites close or are quiet on Sundays"
+  ],
+  "faqs": [
+    { "q": "Is Cherrapunji the wettest place on Earth?", "a": "Cherrapunji, or Sohra, is among the wettest places on Earth, with an average of about 11,200 mm of rain a year. It holds the record for a calendar month, about 9,300 mm in July 1861, and a 12-month record of 26,461 mm. Nearby Mawsynram usually records a slightly higher annual average." },
+    { "q": "How far is Sohra from Shillong?", "a": "Sohra is about 54 km south of Shillong by road, which takes 1.5 to 2 hours with a couple of viewpoint stops. From Guwahati it is roughly 155 km, or 4.5 to 5 hours. Most visitors either stay in Sohra for two nights or do a long day trip from Shillong." },
+    { "q": "Is Sohra the same as Cherrapunji?", "a": "Yes. Sohra is the local Khasi name, and Cherrapunji, sometimes spelled Cherrapunjee, is the older name used in British records and still common on tour itineraries. Road signs, maps and hotels use both. When booking, search for both spellings, as some properties list only one." },
+    { "q": "What is the best time to visit Cherrapunji?", "a": "October to April gives clear views of the valleys and dry trails for the root bridge trek, with October and November ideal. June to September is the monsoon, when waterfalls are at full force but rain falls on most days and fog can hide everything by noon. December to February brings thinner falls." },
+    { "q": "How many days do I need in Sohra?", "a": "Plan at least two nights. One day covers Nohkalikai Falls, Mawsmai Cave, Seven Sisters Falls and viewpoints; another is needed for the Nongriat root bridge trek, which takes 5 to 7 hours return. Adding a night in Nongriat village makes the trek easier and lets you reach Rainbow Falls." },
+    { "q": "Is Cherrapunji worth visiting in the monsoon?", "a": "Yes, if you want to see the falls at full power and are happy to spend time in rain and fog. Seven Sisters Falls and Nohkalikai are at their best from June to September. The downside is that views can vanish for hours, trails are slippery and landslides sometimes delay roads, so keep a spare day." },
+    { "q": "Where should I stay in Cherrapunji?", "a": "Choose resorts near Laitkynsew or Mawsmai if the root bridges and Seven Sisters Falls are your priority, and homestays near Sohra market if you want easy access to food and taxis. Polo Cherrapunjee Resort, Cherrapunjee Holiday Resort and Sa-I-Mika Park Resort are established options; budget homestays are spread across the plateau." },
+    { "q": "Is Sohra suitable for senior citizens?", "a": "Largely yes. Nohkalikai, Seven Sisters Falls and the valley viewpoints need only short walks from the car. Mawsmai Cave has narrow, low sections, and the Nongriat root bridge trek has about 3,500 steps each way, so skip both if mobility is limited. Keep drives to mornings and avoid fog after dark." },
+    { "q": "Do I need a permit for Cherrapunji?", "a": "No permit is needed for Indians or foreign nationals. Sites charge small entry, camera and parking fees in cash. Homestays and hotels must register each guest on the Meghalaya tourism app, so carry photo ID or your passport and visa, and check current status before you travel." }
+  ],
+  "nearby": ["nohkalikai-falls", "mawsmai-cave", "nongriat-root-bridges", "wei-sawdong-falls", "mawsynram"],
+  "image_query": "Cherrapunji Sohra Meghalaya"
+}

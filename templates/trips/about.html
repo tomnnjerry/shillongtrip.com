@@ -1,0 +1,50 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="abh"><div class="shell abh__grid">
+  <div class="abh__text">{% crumbs crumb_list %}<span class="eyebrow">{% icon 'pin' %} About us</span>
+    <h1>We plan the <mark>Northeast</mark>, one rain-washed road at a time</h1>
+    <p class="ih__lede">Shillong Trip is a travel desk for Meghalaya, Assam, Arunachal and the hills beyond. We know which Dawki boat stand opens first, which Kaziranga range suits your dates, and how long the Sela road really takes in January.</p>
+    <div class="row"><a class="btn btn--sun" href="/contact/">Plan with us {% icon 'arrow' %}</a><a class="btn btn--line" href="/packages/">See packages</a></div>
+  </div>
+  <div class="abh__pics"><figure class="abh__p abh__p--1">{% img pa sizes='(min-width: 900px) 26vw, 60vw' eager=True %}{% credit pa %}</figure><figure class="abh__p abh__p--2">{% img pb sizes='(min-width: 900px) 18vw, 40vw' %}{% credit pb %}</figure><figure class="abh__p abh__p--3">{% img pc sizes='(min-width: 900px) 18vw, 40vw' %}{% credit pc %}</figure></div>
+</div></section>
+
+<section class="band band--mist"><div class="shell">
+  <header class="band__head band__head--center"><span class="eyebrow">{% icon 'star' %} What we promise</span><h2>Six things we won’t compromise on</h2></header>
+  <div class="bento">{% for p in promises %}<article class="bento__it bento__it--{{ forloop.counter0 }}">{% icon p.icon %}<h3>{{ p.h }}</h3><p>{{ p.t }}</p></article>{% endfor %}</div>
+</div></section>
+
+<section class="band"><div class="shell logo-story">
+  <div class="logo-story__mark">{% logo_img h=96 %}</div>
+  <div><span class="eyebrow">{% icon 'spark' %} The story in our logo</span><h2>A bridge that grows</h2>
+    <p class="lede-p">Our mark is a living root bridge under a cloud. Khasi and Jaintia villages have trained the roots of rubber fig trees across streams for generations; the bridges grow stronger as they age, and some carry people across rivers today. We like that idea for travel: built slowly, with local hands, and better every year.</p>
+    <p class="lede-p">The cloud is for Meghalaya, the “abode of clouds”, and the sun-orange dot is for the mornings when it lifts.</p></div>
+</div></section>
+
+<section class="band band--forest"><div class="shell">
+  <header class="band__head"><span class="eyebrow eyebrow--light">{% icon 'route' %} How it works</span><h2>How your trip comes together</h2></header>
+  <ol class="steps5">{% for s in steps %}<li><span>{{ s.n }}</span><h3>{{ s.h }}</h3><p>{{ s.t }}</p></li>{% endfor %}</ol>
+</div></section>
+
+<section class="band"><div class="shell reach">
+  <div><span class="eyebrow">{% icon 'compass' %} Where we work</span><h2>Four states, one plan</h2><p class="lede-p">Most of our trips start in Guwahati and combine two or three of these. We’ll tell you honestly when a combination needs more days.</p><p class="stamp">{% icon 'check' %} Permits, parks and road status last checked {% checked_date %}</p></div>
+  <ul class="reach__list">{% for k, s in STATES.items %}<li><a href="/states/{{ k }}/" style="--c:{{ s.color }}"><b>{{ s.name }}</b><span>{{ s.line }}</span>{% icon 'arrow' %}</a></li>{% endfor %}</ul>
+</div></section>
+
+{% if team %}<section class="band band--mist"><div class="shell"><header class="band__head"><span class="eyebrow">{% icon 'users' %} The desk</span><h2>People you’ll talk to</h2></header><div class="team">{% for m in team %}<article class="mem">{% if m.photo %}<img src="{{ m.photo }}" alt="{{ m.name }}" width="400" height="480" loading="lazy">{% else %}<div class="mem__ph">{{ m.initials }}</div>{% endif %}<h3>{{ m.name }}</h3><p class="mem__role">{{ m.role }}</p>{% if m.bio %}<p>{{ m.bio }}</p>{% endif %}</article>{% endfor %}</div></div></section>{% endif %}
+
+<section class="band{% if not team %} band--mist{% endif %}"><div class="shell resp">
+  <div><span class="eyebrow">{% icon 'leaf' %} Travelling well</span><h2>How we try to leave it better</h2></div>
+  <ul class="ticks resp__list">
+    <li>{% icon 'check' %}<span><b>Village rules first.</b> Mawlynnong, Mawphlang and Nongriat have their own rules on litter, photography and the sacred forest. We brief you before you arrive.</span></li>
+    <li>{% icon 'check' %}<span><b>Go easy on root bridges.</b> We keep groups small on the trails and follow local limits on how many people cross at once.</span></li>
+    <li>{% icon 'check' %}<span><b>Local stays where they fit.</b> Homestays in Nongriat, Shnongpdeng, Ziro and Khonoma put money straight into the village.</span></li>
+    <li>{% icon 'check' %}<span><b>Wildlife on its terms.</b> Official safari slots, quiet vehicles and no feeding or chasing animals for photos.</span></li>
+  </ul>
+</div></section>
+
+{% if facts %}<section class="band band--tight"><div class="shell"><dl class="cofacts">{% for k, v in facts %}<div><dt>{{ k }}</dt><dd>{{ v }}</dd></div>{% endfor %}</dl></div></section>{% endif %}
+<section class="band band--tight"><div class="shell follow"><div><span class="eyebrow">{% icon 'camera' %} Follow along</span><h2 class="h-md">Road updates, rain reports and new routes</h2></div>{% socials 'soc--lg' %}</div></section>
+{% faq_block faqs title='About us: questions people ask' id='about-faq' %}
+{% cta_panel title='Start with a message' img='laitlum-canyons' %}
+{% endblock %}

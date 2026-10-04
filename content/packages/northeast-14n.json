@@ -1,0 +1,213 @@
+{
+  "slug": "northeast-14n",
+  "title": "Grand Northeast",
+  "nights": 14,
+  "themes": ["photography", "luxury"],
+  "states": ["assam", "arunachal", "meghalaya"],
+  "places": ["dirang", "sela-pass", "tawang", "tawang-monastery", "madhuri-lake", "bum-la-pass", "ziro-valley", "majuli", "kaziranga", "shillong", "laitlum-canyons", "sohra", "nohkalikai-falls"],
+  "hero": "tawang-monastery",
+  "price_from_inr": 84500,
+  "best_months": [11, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 4600,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Grand Northeast, 14 nights / 15 days from Guwahati: Tawang and Sela, Ziro's Apatani villages, Majuli, Kaziranga safaris, Laitlum and Sohra.",
+  "quick_answer": "This 14 nights / 15 days loop from Guwahati links the Northeast's best photographs in one trip: Dirang, Sela and three nights in Tawang, two nights in Ziro, a night on Majuli, two in Kaziranga and a finish in Shillong and Sohra. It uses heritage and upscale stays where they exist. Best in November, March and April.",
+  "overview": [
+    "Most Northeast tours pick one corner. This one takes in four: the Monpa monasteries and high passes of West Kameng, the Apatani rice valley of Ziro, the river island of Majuli with Kaziranga's grasslands beside it, and Meghalaya's gorges and waterfalls. The loop follows the land rather than zig-zagging: up into Arunachal from Balipara, east along the Brahmaputra's north bank to Ziro, across the river via Majuli, west through Kaziranga, and finally up to the Khasi Hills before a short run to Guwahati.",
+    "We plan it around light and comfort. Sela Lake is timed for morning, Laitlum for sunrise, Kaziranga for the soft light of the dawn elephant ride, and Majuli for the evening satra prayers. Where good places to stay exist we use them: Wild Mahseer's heritage bungalows at Balipara, Vivanta Tawang, Diphlu River Lodge at Kaziranga and Ri Kynjai above Umiam Lake in the luxury tier. Ziro and Majuli have no luxury hotels, and we tell you so. Four no-drive days keep the pace humane."
+  ],
+  "highlights": [
+    "Three nights in Tawang with Sela Lake, Madhuri Lake and the 1681 monastery",
+    "Two nights in Ziro among Apatani villages and rice fields",
+    "A night on Majuli with evening prayers at a Vaishnavite satra",
+    "Two nights in Kaziranga with an elephant ride and two jeep safaris",
+    "Sunrise at Laitlum Canyons and a last night in Sohra",
+    "Heritage and upscale stays where they exist, from Wild Mahseer to Vivanta Tawang",
+    "Four days with no long drive, spread through the trip"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Balipara",
+      "stay": "Balipara",
+      "altitude_m": 80,
+      "drive": "215 km · 5 hrs",
+      "text": "Your driver meets you at Guwahati Airport and heads out along the north bank of the Brahmaputra through Mangaldoi to Balipara, near Tezpur, about 5 hours. Balipara sits at the foot of the Arunachal hills among tea gardens, and in the luxury tier you stay at Wild Mahseer, restored planters' bungalows in old gardens. In the late afternoon, walk the tea rows with a camera; the low light across the bushes and shade trees is lovely. This is also the night before your ILP check at Bhalukpong, 35 km away, so keep printouts and IDs ready.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Balipara to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "180 km · 6.5 hrs",
+      "text": "Leave at 7.30 am. At Bhalukpong your ILP or PAP is checked, then the road climbs along the green Kameng river, with good photographs from the bends below Tipi. Continue through Tenga and Rupa to Bomdila at 2,415 m for lunch and its monastery. From Bomdila it is 42 km down to Dirang at about 1,620 m. Check in and walk up to the old stone Dirang Dzong in evening light for pictures of its houses and the river valley. Sleeping in Dirang before Tawang gives your body a night at middle height.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dirang to Tawang over Sela",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "135 km · 5 hrs",
+      "text": "Leave at 7 am to reach Sela before the cloud. In fair weather we take the old road over Sela Pass at about 4,170 m for the lake, often frozen from December to March and deep blue in November and April; the Sela Tunnel, open since March 2024, is the fall-back in bad weather. Stop at the Jaswantgarh war memorial and at Jang for the Nuranang falls, about 100 m high. Reach Tawang at about 2,670 m in the early afternoon and rest. Your driver files the Bum La permit at the DC office today.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tawang Monastery at morning prayers",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "25 km · local",
+      "text": "No long drive. Be at Tawang Monastery, founded in 1681 and the largest in India, for morning prayers, when monks cross the courtyard in low sun. Ask before photographing monks and never use flash indoors. The museum holds old thangkas and manuscripts. Later, visit Urgelling, the birthplace of the sixth Dalai Lama, the Gyangong Ani Gompa nunnery and the handmade paper unit in town. At dusk, photograph the monastery lit against the hills from the road below the giant Buddha statue, then watch the light and sound show at the Tawang War Memorial.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Madhuri Lake and Bum La",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "80 km · 6–7 hrs round trip",
+      "text": "Leave at 7 am in a local Tawang taxi, the only vehicles allowed on this road. Indian citizens continue to Bum La at 4,600 m on the India–China border, 37 km from Tawang, where photography at the post is restricted and Army instructions must be followed. Madhuri Lake (Sangetsar Tso), at about 3,700 m, is the photographic prize: dead tree trunks standing in still water under bare ridges, best on calm mornings. Bum La runs on Army permission day by day and often closes after snow from December to March. Foreign guests are not allowed on this road; we plan a Tawang town day instead.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tawang to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "135 km · 5 hrs",
+      "text": "Leave Tawang after breakfast. If the morning is clear, take the pass road again for Sela Lake in a different light; otherwise the tunnel. Reach Dirang by early afternoon. In the late afternoon, drive about 10 km to Sangti valley, a flat river valley of willows and stone walls, where black-necked cranes spend the winter from about November to February; bring a long lens and keep well back from the birds. End the day at the Dirang hot spring. This night in Dirang splits the descent so tomorrow is a fair drive, not a 10-hour push.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Dirang to Balipara",
+      "stay": "Balipara",
+      "altitude_m": 80,
+      "drive": "165 km · 5.5 hrs",
+      "text": "Leave at 8 am, climb over Bomdila for tea, and descend to Bhalukpong for lunch by the Kameng. Reach Balipara in the afternoon and rest. The heritage gardens at Wild Mahseer are full of birds in winter, and the tea estate roads nearby are good for a quiet walk. Use the evening to back up your photographs and charge batteries; the Wi-Fi here is much better than in the hills. Tomorrow is the longest drive of the trip, so dinner is early. If you prefer, we can use a Tezpur hotel tonight in the standard tier.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Balipara to Ziro",
+      "stay": "Ziro (Hapoli)",
+      "altitude_m": 1690,
+      "drive": "290 km · 8 hrs",
+      "text": "Leave at 6.30 am and drive east along the north-bank highway through Gohpur, then north into Arunachal at Banderdewa, where your permit is checked again. Lunch in Itanagar. From Itanagar, the road to Ziro climbs 115 km through Yazali and Potin, about 4 hours, to the flat Ziro plateau at about 1,690 m. This is the longest day, and there is no shorter way: there is no road across the hills between the Kameng valley and Ziro. Check in at Hapoli in the early evening. Dinner of smoked pork with bamboo shoot and rice.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Apatani villages of Ziro",
+      "stay": "Ziro (Hapoli)",
+      "altitude_m": 1690,
+      "drive": "35 km · local",
+      "text": "No long drive. With a local guide, walk through Hong, one of the largest Apatani villages, with tight rows of stilt houses and lapang platforms used for meetings and rituals. Some older women still wear the facial tattoos and nose plugs the community gave up in the 1970s; always ask before photographing them, and accept a refusal. In the afternoon, visit Siiro and Hari, the managed pine and bamboo groves, and the viewpoint over the rice fields, where fish are raised in the paddy water. The best light over the valley is early morning and late afternoon.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Ziro to Majuli",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "190 km · 6.5 hrs",
+      "text": "Leave at 7.30 am and drop down through Yachuli and Kimin to the Assam plains near North Lakhimpur, then turn south to Majuli, the Brahmaputra river island, which is reached by road from this northern side. The drive passes rice fields, Mising stilt villages and wide sandbanks. Check in to a bamboo cottage by mid-afternoon. At dusk, go to Auniati or Kamalabari satra for the evening nam-prasanga, the Vaishnavite prayer with cymbals and drums; photography rules vary by satra, so ask first. Monsoon floods can close the island's roads, which is why this trip avoids June to September.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Majuli satras and ferry to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "110 km · 2.5 hrs, plus 1 hr ferry",
+      "text": "Start early at Samaguri satra, where masks for the bhaona dance-dramas are shaped from bamboo, cloth and clay, and at a Mising village where women weave on backstrap and frame looms. Then take the late-morning ferry from Kamalabari to Nimati Ghat, about an hour across the Brahmaputra, with your car on the vehicle ferry. Ferry timings change with the river level and services stop when the water rises, so check current status before you travel. From Nimati, drive about 2.5 hours west to Kaziranga. Check in by late afternoon.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Kaziranga safaris",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "50 km · local",
+      "text": "No long drive. Elephant rides run only in the Central (Kohora) and Western (Bagori) ranges, in one-hour batches between about 5.30 and 7.30 am; the mist over the grass at dawn makes this the best photographic ride. After breakfast, a jeep safari in the Central range, then an afternoon jeep safari in the Western range, with its wide beels, water birds and a high density of one-horned rhinos. Use a 300–600 mm lens and a beanbag on the jeep rail. Park entry is ₹100 per Indian adult and ₹650 per foreign adult.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Kaziranga to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "250 km · 6.5 hrs",
+      "text": "Leave Kaziranga at 8 am and drive west on NH-27 through Nagaon to Jorabat, then climb NH-6 into the Khasi Hills. Lunch on the highway. In the luxury tier you stay at Ri Kynjai, a resort of Khasi-style cottages above Umiam Lake, 15 km before Shillong; otherwise, a hotel in Shillong at about 1,525 m. Meghalaya requires hotels to register every guest on the state tourism app, so keep IDs handy at check-in. Evening at leisure, or a walk around Police Bazaar or Laitumkhrah's cafes if you stay in town.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 14,
+      "title": "Laitlum sunrise and Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "90 km · 3 hrs with stops",
+      "text": "Leave at 4.45 am for Laitlum Canyons, where the ridge drops into deep, forested gorges and first light slides across the valleys. Back for breakfast, then drive about 55 km south to Sohra (Cherrapunji), stopping at the Mawkdok Dympep viewpoint. In the afternoon, photograph Nohkalikai Falls, a 340 m plunge that is fullest after the monsoon and thin by February, then walk through the lit Mawsmai Cave. End the trip at the Seven Sisters falls viewpoint at sunset, when the cliffs turn orange above the Bangladesh plains.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 15,
+      "title": "Sohra to Guwahati and depart",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "155 km · 4.5 hrs",
+      "text": "A last early walk in Sohra if the morning is clear, then drive back through Shillong and down NH-6 to Guwahati Airport, about 4.5 hours. We suggest a flight after 3 pm. If you want one more night, a Brahmaputra sunset cruise and a room in Guwahati make a gentle end, or stay on in Sohra for the Nongriat double-decker root bridge walk with a registered guide. Our driver takes you to the terminal door, and we stay on WhatsApp until you board.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "14 nights on twin sharing: 2 Balipara, 2 Dirang, 3 Tawang, 2 Ziro, 1 Majuli, 2 Kaziranga, 1 Shillong, 1 Sohra",
+    "Daily breakfast and dinner",
+    "Private SUV (Innova Crysta or similar) with one driver for all 15 days",
+    "Local Tawang taxi for Bum La and Madhuri Lake (Indian citizens)",
+    "One elephant ride and two jeep safaris in Kaziranga (vehicle, driver and range guide)",
+    "Brahmaputra vehicle ferry from Majuli",
+    "Local guides in Tawang, Ziro and Majuli",
+    "Help with the Arunachal tourist ILP for Indian citizens; PAP paperwork for foreign guests",
+    "Driver allowance, fuel, tolls, parking and state entry taxes",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "ILP, PAP and Bum La permit fees",
+    "Kaziranga entry and camera fees",
+    "Village and site entry fees in Meghalaya, typically under ₹100 per person",
+    "Lunches, snacks and drinks",
+    "Drone permissions; drones are not allowed in Tawang's military areas",
+    "Extra nights from snow closures, floods, landslides or bandhs",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Balipara/Tezpur: Cygnett Inn Imperial Tezpur or similar. Dirang: Pemaling Lords Inn or similar. Tawang: Hotel Tawang Heights or similar. Ziro: Hotel Zirora or similar. Majuli: Risong Family Guest House or similar. Kaziranga: Wild Grass Lodge or similar. Shillong: Hotel Pegasus Crown or similar. Sohra: Cherrapunjee Holiday Resort or similar" },
+    { "tier": "Premium", "options": "Balipara: Wild Mahseer or similar. Dirang: Dirang Boutique Cottages or similar. Tawang: Hotel Gakyi Khang Zhang or Timilo Boutique, or similar. Ziro: Siiro Resort or similar. Majuli: La Maison de Ananda or similar. Kaziranga: IORA The Retreat or similar. Shillong: Hotel Polo Towers or similar. Sohra: Polo Orchid Resort or similar" },
+    { "tier": "Luxury", "options": "Balipara: Wild Mahseer or similar. Dirang: Dirang Boutique Cottages (best rooms). Tawang: Vivanta Tawang or similar. Ziro and Majuli: best rooms at Siiro Resort and La Maison de Ananda, as neither has a luxury hotel. Kaziranga: Diphlu River Lodge or similar. Umiam: Ri Kynjai or similar. Sohra: Polo Orchid Resort (best rooms) or similar" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in covering Tawang and Ziro; it costs about ₹300–500, so pay whatever the portal shows. Foreign nationals need a Protected Area Permit through an approved operator and cannot visit Bum La. Check current status before you travel.",
+    "Kaziranga opens in phases from about October and closes around May; Majuli ferries stop when the Brahmaputra rises. Dates and timings change, so check current status before you travel.",
+    "Bum La is for Indian civilians only, with a DC Tawang permit stamped by the Army, and often closes after snow from December to March.",
+    "Meghalaya needs no permit, but hotels must register all guests on the state tourism app, and self-drive rental cars are banned there.",
+    "Pack for −5°C nights in Tawang and 25°C afternoons in Kaziranga. Photographers should carry spare batteries, as cold drains them fast.",
+    "Ziro and Majuli have no luxury hotels. We book their best rooms and tell you honestly what to expect."
+  ],
+  "faqs": [
+    { "q": "How many days do you need to see the whole Northeast?", "a": "To see Tawang, Ziro, Majuli, Kaziranga and Meghalaya without rushing, plan at least 14 nights. Guwahati to Tawang alone takes two driving days each way, and Ziro sits in a separate valley with no road link across the hills. This loop uses 14 nights with four no-drive days, which is the shortest version we recommend." },
+    { "q": "Is the Grand Northeast trip suitable for luxury travellers?", "a": "Partly. We use real upscale and heritage stays where they exist: Wild Mahseer at Balipara, Vivanta Tawang, Diphlu River Lodge at Kaziranga and Ri Kynjai at Umiam Lake. Dirang, Ziro and Majuli have no luxury hotels, so we book their best rooms. The private Innova Crysta and driver stay with you for all 15 days." },
+    { "q": "What is the best time for the Grand Northeast tour?", "a": "November, March and April are best. November has clear skies, a clear Umngot and autumn light; March and April bring rhododendrons, mild days and open roads. December to February adds snow at Sela but also Bum La closures and very cold nights. Avoid June to September, when Kaziranga closes and landslides and floods disrupt most roads." },
+    { "q": "How long are the drives on this trip?", "a": "Most driving days are 5 to 6.5 hours. The longest is Balipara to Ziro, about 290 km and 8 hours, because there is no road between the Kameng valley and Ziro through the hills. Four days have no long drive: two in Tawang, one in Ziro and one in Kaziranga. The total is about 2,400 km." },
+    { "q": "Do I need permits for the Grand Northeast?", "a": "Indian citizens need one Arunachal tourist ILP covering Tawang and Ziro, from eilp.arunachal.gov.in, costing about ₹300–500; pay what the portal shows. Foreign nationals need a Protected Area Permit through an approved operator. Assam and Meghalaya need no permit, though Meghalaya hotels register all guests. Check current status before you travel." },
+    { "q": "Is this a good trip for photographers?", "a": "Yes. The plan times each place for its light: Sela and Madhuri Lake in the morning, Tawang Monastery at prayers, Ziro's valley early and late, Kaziranga at dawn, Laitlum at sunrise and the Seven Sisters falls at sunset. Bring a wide lens and a 300–600 mm lens. Drones are not allowed in Tawang's military areas." },
+    { "q": "How do we get from Ziro to Majuli?", "a": "From Ziro you drive down through Kimin to North Lakhimpur on the Assam plains and then south onto Majuli, which is reached by road from its northern side; the drive takes about 6.5 hours. You leave Majuli the next day by ferry to Nimati Ghat near Jorhat. Monsoon floods can close island roads and stop ferries, so check current status before you travel." },
+    { "q": "Is altitude a problem on this route?", "a": "The risk is low. You sleep at Dirang (1,620 m) before Tawang (about 2,670 m), and the visits to Sela (about 4,170 m) and Bum La (4,600 m) are short day trips. Ziro and Shillong are around 1,500–1,700 m. Drink water, skip alcohol on the first night in Tawang and tell us about heart or lung conditions." },
+    { "q": "How much does the Grand Northeast package cost?", "a": "This 14 nights / 15 days trip starts from ₹84,500 per person on twin sharing with standard hotels, breakfast and dinner, a private Innova Crysta for all 15 days, Kaziranga safaris and the Tawang taxi for Bum La. The luxury tier with Wild Mahseer, Vivanta Tawang, Diphlu River Lodge and Ri Kynjai costs roughly double. Flights and fees are extra." }
+  ]
+}

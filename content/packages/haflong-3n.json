@@ -1,0 +1,110 @@
+{
+  "slug": "haflong-3n",
+  "title": "Haflong and the Dima Hasao Hills",
+  "nights": 3,
+  "themes": ["offbeat"],
+  "states": ["assam"],
+  "places": ["guwahati", "haflong"],
+  "hero": "haflong",
+  "price_from_inr": 16000,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 700,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Haflong tour, 3 nights / 4 days: Assam's only hill station, Haflong Lake, Jatinga ridge, the Dimasa ruins at Maibang and Panimur Falls on the Kopili.",
+  "quick_answer": "This 3 nights / 4 days trip goes to Haflong, Assam's only hill station, in the Dima Hasao hills about 330 km south-east of Guwahati. You see Haflong Lake, the Jatinga ridge, the old Dimasa capital at Maibang and Panimur Falls on the Kopili river. From ₹16,000 per person, twin sharing, October to April.",
+  "overview": [
+    "Haflong sees few tourists, and that is the appeal. The town sits at around 680 m on ridges above the Diyung and Jatinga valleys, with a lake in the middle and hill villages of the Dimasa, Zeme Naga and Hmar communities all around. Jatinga, about 6 km away, is known for the birds that fly into lights on dark, misty nights in autumn, a phenomenon that is much less frequent now than in past decades. Maibang, 45 to 50 km away, was the capital of the Dimasa kingdom from about the 16th to the 18th century.",
+    "The catch is distance. Haflong is about 330 km from Guwahati by road, eight to nine hours via Nagaon, Lanka and Umrangso, or five to six hours on the hill railway through Lumding. We drive in with an early start and a stop at Panimur, where the Kopili river spreads over wide rock shelves, and give you the choice of train or car for the return. Dima Hasao roads can be hit by landslides in the monsoon, so we sell this trip from October to April."
+  ],
+  "highlights": [
+    "Panimur Falls, where the Kopili river pours across broad rock shelves",
+    "Haflong Lake and the ridge-top town with views over blue hill ranges",
+    "Jatinga ridge and its bird-watching tower",
+    "The Dimasa stone house and ruins at Maibang",
+    "Village walks among Dimasa and Zeme Naga communities",
+    "The Lumding to Haflong hill railway with tunnels and viaducts"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Haflong via Panimur Falls",
+      "stay": "Haflong",
+      "altitude_m": 680,
+      "drive": "340 km · 9–10 hrs with stops",
+      "text": "A long day, so please book a flight landing in Guwahati by 8 am, or arrive the evening before and let us book a Guwahati hotel. We drive east to Nagaon, then south on NH27 through Lanka and Umrangso, where the road enters the Dima Hasao hills. Near Umrangso we stop at Panimur, where the Kopili spreads across a wide bed of rock shelves in a series of cascades; it is best from October to December, while water is still high. The last stretch climbs to Haflong, arriving after dark. Dinner at the hotel.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Haflong town, lake and Jatinga ridge",
+      "stay": "Haflong",
+      "altitude_m": 680,
+      "drive": "Local · about 30 km",
+      "text": "A slow morning around Haflong Lake, where rowing boats are available, followed by a walk up to the viewpoints behind the town for views across the Barail range. After lunch drive about 6 km to Jatinga, a small village on a ridge, and climb the watchtower built for bird observation. The bird phenomenon, when birds fly towards lights on dark, foggy nights, is associated with September to November and is far rarer today; we treat it as history rather than a promise. Late afternoon in Haflong market, where Dimasa and Zeme weavers sell shawls.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Day trip to Maibang, the old Dimasa capital",
+      "stay": "Haflong",
+      "altitude_m": 680,
+      "drive": "100 km round trip · 4 hrs plus sightseeing",
+      "text": "We drive about 50 km through the hills to Maibang, which was the seat of the Dimasa Kachari kings for roughly two centuries before they moved to the plains of Cachar. The main surviving structure is a small stone house cut from a single rock, and there are temple ruins in the area. A local guide explains the history of the Dimasa kingdom, which once ruled a large part of central Assam. The road passes Dimasa villages with raised bamboo houses and terraced fields. Return to Haflong in the afternoon for a final walk around the lake.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Haflong to Guwahati by road or hill railway",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "330 km · 8–9 hrs by road, or 5–6 hrs by train",
+      "text": "You choose on the day. The road back via Umrangso and Nagaon takes eight to nine hours, reaching Guwahati by early evening for a late flight or a night in the city. The alternative is a morning train from New Haflong, which winds through tunnels and viaducts down towards Lumding and reaches Guwahati in about five to six hours, depending on the service. Our driver then meets you at Guwahati station for the airport transfer. Timetables change often, so we confirm train options when you book.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights in Haflong, twin sharing",
+    "Daily breakfast and dinner",
+    "Private vehicle for all road travel and sightseeing",
+    "Guwahati airport pickup and drop",
+    "Local guide for Maibang",
+    "Panimur Falls and Jatinga visits",
+    "Driver allowance, fuel, tolls and parking",
+    "Train ticket booking assistance for the return, if chosen",
+    "WhatsApp support throughout"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Train fare, if you choose the hill railway",
+    "Guwahati hotel if you arrive a day early",
+    "Boating on Haflong Lake",
+    "Lunches and drinks",
+    "Tips and personal expenses",
+    "Travel insurance"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Haflong: Haflong Tourist Lodge (Assam Tourism), or similar" },
+    { "tier": "Premium", "options": "Haflong: the best available private hotel room with a lake or valley view, or similar" },
+    { "tier": "Luxury", "options": "Haflong has no luxury hotels. Our top tier books the best available rooms in town plus a Guwahati night at Vivanta Guwahati before or after the trip, or similar" }
+  ],
+  "good_to_know": [
+    "Dima Hasao roads and the hill railway are prone to landslides in the monsoon; in 2022 floods badly damaged the New Haflong area. We run this trip October to April. Check current status before you travel.",
+    "Haflong is remote. Mobile data is limited outside town, ATMs can run out of cash, and there are few restaurants. Carry enough cash.",
+    "The Jatinga bird phenomenon is rarely witnessed now. Visit for the ridge and the history, not a guaranteed spectacle.",
+    "Hotels in Haflong are simple and few. Book early for October and November, when Durga Puja holidays draw visitors.",
+    "Panimur's cascades are fullest from October to December and much thinner by March."
+  ],
+  "faqs": [
+    { "q": "Where is Haflong and why visit?", "a": "Haflong is the headquarters of Dima Hasao district in southern Assam, at about 680 m, and the state's only hill station. People visit for its quiet ridge-top setting, Haflong Lake, the Jatinga ridge, the Dimasa ruins at Maibang and Panimur Falls. It sees very few tourists compared with Shillong." },
+    { "q": "How far is Haflong from Guwahati?", "a": "About 330 km by road, eight to nine hours via Nagaon, Lanka and Umrangso. By rail, trains via Lumding take roughly five to six hours to New Haflong, depending on the service. Silchar airport, south of Haflong, is another option for some travellers." },
+    { "q": "What is the Jatinga bird mystery?", "a": "On some dark, foggy nights between September and November, birds were seen flying towards lights in Jatinga village. Researchers link it to weather, mist and disorientation of local birds. The phenomenon is now much rarer, and a watchtower on the ridge marks the site. We do not promise sightings." },
+    { "q": "Is Haflong safe for tourists?", "a": "Dima Hasao has been largely peaceful in recent years and receives domestic tourists, especially in winter. The bigger risks are landslides in the monsoon and long, winding roads. We travel only from October to April and advise you to check current status before you travel." },
+    { "q": "What is the best time to visit Haflong?", "a": "October to April. October to December gives clear skies, fuller waterfalls at Panimur and cool evenings around 10 to 14 degrees. January and February are the coldest months. From May to September heavy rain brings landslides on both road and rail routes." },
+    { "q": "How much does the Haflong package cost?", "a": "The indicative price starts at ₹16,000 per person, twin sharing, with three nights in Haflong, breakfast and dinner, a private vehicle and a Maibang guide. The long drive makes the vehicle a large share of the cost. Flights and train fares are extra." },
+    { "q": "What is there to see at Maibang?", "a": "Maibang was the capital of the Dimasa Kachari kingdom from around the 16th to 18th century. The best-known relic is a small stone house carved from a single rock, and there are temple ruins nearby. It takes about two hours each way from Haflong, including stops." },
+    { "q": "Can we take the train to Haflong?", "a": "Yes. The Lumding to Badarpur hill section passes through New Haflong, with tunnels, viaducts and valley views. Services and coach types, including occasional glass-roofed coaches, change often. We suggest the train for one direction and the road for the other." },
+    { "q": "Do we need a permit to visit Haflong?", "a": "No. Haflong is in Assam and needs no Inner Line Permit for Indian citizens or special permit for foreigners. Dima Hasao is an autonomous council area, and you may be asked for ID at police checkpoints, so carry it. Rules can change, so check current status before you travel." }
+  ]
+}

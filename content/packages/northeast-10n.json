@@ -1,0 +1,175 @@
+{
+  "slug": "northeast-10n",
+  "title": "Meghalaya, Kaziranga and Majuli",
+  "nights": 10,
+  "themes": ["family", "culture"],
+  "states": ["meghalaya", "assam"],
+  "places": ["shillong", "mawphlang-sacred-forest", "sohra", "nohkalikai-falls", "dawki-umngot", "mawlynnong", "kaziranga", "majuli", "jorhat"],
+  "hero": "majuli",
+  "price_from_inr": 47500,
+  "best_months": [11, 12, 1, 2, 3],
+  "difficulty": "easy",
+  "max_altitude_m": 1525,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Jorhat Airport (JRH)",
+  "meta_description": "Meghalaya, Kaziranga and Majuli, 10 nights / 11 days from Guwahati to Jorhat: Khasi villages, Dawki, rhino safaris and two nights on a river island.",
+  "quick_answer": "This 10 nights / 11 days trip runs one way from Guwahati to Jorhat. You spend five nights in Meghalaya, including a village night in Mawlynnong, two in Kaziranga for rhino safaris, two on Majuli island among Vaishnavite satras and Mising villages, and a last night in Jorhat's tea country. It suits families who like culture as much as scenery.",
+  "overview": [
+    "This route follows people as much as places. In Meghalaya you walk through the Mawphlang sacred forest with a Khasi guide, sleep in Mawlynnong, a village famous for keeping its lanes clean, and see how root bridges are grown rather than built. In Assam, Kaziranga's grasslands give you rhinos and elephants, and then a ferry across the Brahmaputra takes you to Majuli, a river island of about 880 sq km with 23 active satras, the monasteries of Assamese Vaishnavism.",
+    "The trip runs one way and ends in Jorhat, which has direct flights, so you never double back. Drives are 1–3 hours on most days, with one 6.5-hour day from Shillong to Kaziranga. We time it for November to March, when Dawki's river is clear, Kaziranga is open and the Brahmaputra ferries run on their winter schedule. If you travel in late November, ask us about Majuli's Raas festival around Kartik Purnima."
+  ],
+  "highlights": [
+    "A guided walk in the Mawphlang sacred forest with a Khasi guide",
+    "Nohkalikai Falls and the lit Mawsmai Cave in Sohra",
+    "A night in Mawlynnong with the Riwai root bridge and a clear Umngot at Dawki",
+    "Two nights in Kaziranga with an elephant ride and two jeep safaris",
+    "Two nights on Majuli: satra prayers, mask-making at Samaguri and Mising stilt villages",
+    "A Brahmaputra ferry crossing and a last night among Jorhat's tea gardens"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "120 km · 3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport and takes NH-6 up into the Khasi Hills, about 3 to 3.5 hours. Stop at Umiam Lake, 15 km before Shillong, for tea and a first look at the pine hills. Check in at Shillong, at about 1,525 m. Meghalaya requires hotels to register every guest on the state tourism app, so keep IDs handy for everyone. In the evening, walk Ward's Lake or Police Bazaar. Shillong is a Khasi city with a strong music scene, and many cafes in Laitumkhrah have live music at weekends.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Mawphlang sacred forest and the Don Bosco museum",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "60 km · local",
+      "text": "Drive about 25 km to Mawphlang, where a Khasi guide leads you through the sacred forest, a grove protected by the community for centuries under a rule that nothing may be taken out, not even a fallen leaf. The walk takes about 90 minutes past monoliths, moss-covered trees and old ritual sites, and your guide explains how clan and forest are linked. After lunch, visit the Don Bosco Museum of Indigenous Cultures in Shillong, seven floors on the peoples of the Northeast with a rooftop skywalk. It is the best single introduction to the region's cultures.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Shillong to Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "60 km · 2 hrs",
+      "text": "Drive 55 km south to Sohra (Cherrapunji), stopping at the Mawkdok Dympep valley viewpoint. After lunch, see Nohkalikai Falls, a 340 m drop into a green pool, told in local legend through the story of a grieving mother named Likai. Then walk through Mawsmai Cave, a short, lit limestone cave that takes about 20 minutes, and end the day at the Seven Sisters falls at sunset. Sohra is one of the wettest places on earth, with more rain in June and July than Guwahati gets in a year. Pack an umbrella even in winter.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Sohra to Dawki and Mawlynnong",
+      "stay": "Mawlynnong",
+      "altitude_m": 600,
+      "drive": "125 km · 4 hrs",
+      "text": "Leave Sohra at 8 am and drive east through Pynursla to Dawki, about 3 hours, on the Bangladesh border. From November to April the Umngot is clear enough to see its stony bed; boats are priced per boat, so agree the fare at the ghat, and ask for life jackets. After lunch, drive about 30 km to Mawlynnong and check in to a village guesthouse. In the late afternoon, walk down to the living root bridge at Riwai, about 10 minutes on steps, where a Ficus elastica root span crosses a stream. Evening in the village, with dinner cooked by your hosts.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Mawlynnong village morning and back to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "80 km · 2.5 hrs",
+      "text": "Wake early and walk the village lanes before visitors arrive. Mawlynnong keeps bamboo dustbins on every corner and residents sweep the paths daily, a practice that has made it one of the cleanest villages in India. Climb the bamboo Sky View tower for a look over the plains of Bangladesh, and see the village's old Church of the Epiphany. Your hosts can explain how Khasi families pass property through the youngest daughter. After lunch, drive back to Shillong, about 2.5 hours. Evening free for shopping at Police Bazaar.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Shillong to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "250 km · 6.5 hrs",
+      "text": "The longest drive of the trip. Leave Shillong at 8 am, drop down to Jorabat and drive east on NH-27 through Nagaon, with a lunch stop, to Kohora at the edge of Kaziranga's Central range. The highway is four-lane for most of the way and passes paddy fields, tea gardens and Karbi hills to the south. Check in by mid-afternoon. If there is time, visit the Kaziranga orchid and biodiversity park near Kohora, which has an orchid house, a rice museum and an evening cultural show with Bihu dancers. Early dinner; tomorrow begins before sunrise.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Kaziranga safaris",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "50 km · local",
+      "text": "Elephant rides run only in the Central (Kohora) and Western (Bagori) ranges, in one-hour batches between about 5.30 and 7.30 am; we book your seats early because they are limited. After breakfast, take a jeep safari in the Central range. In the afternoon, a second jeep safari in the Western range, which has wide beels full of water birds and a high density of rhinos. You are also likely to see wild buffalo, swamp deer, elephants and, in winter, pelicans and storks. Park entry is ₹100 per Indian adult and ₹650 per foreign adult.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Kaziranga to Majuli by ferry",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "110 km · 2.5 hrs, plus 1 hr ferry",
+      "text": "Leave Kaziranga after breakfast and drive east to Nimati Ghat near Jorhat, about 2.5 hours. The ferry across the Brahmaputra to Kamalabari on Majuli takes about an hour, and the car goes with you on the vehicle ferry. Ferries run a few times a day and their timings change with the river level, so check current status before you travel; the last boats leave in mid-afternoon. On the island, check in to a bamboo cottage or Mising-style stilt guesthouse. Spend the evening cycling the village roads past rice fields and ponds.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Satras and Mising villages of Majuli",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "60 km · local",
+      "text": "A full day on the island. Start at Auniati or Kamalabari satra, where monks of Assamese Vaishnavism keep a daily round of prayer, music and dance; if you arrive in time for the evening nam-prasanga, the singing with cymbals and drums is unforgettable. Visit Samaguri satra, where masks for the bhaona dance-dramas are made from bamboo, cloth and clay, and Salmora, where women make pottery by hand without a wheel. In the afternoon, walk through a Mising village of stilt houses and watch weavers at their looms. Majuli's Raas festival falls around Kartik Purnima in late November.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Majuli to Jorhat tea country",
+      "stay": "Jorhat",
+      "altitude_m": 116,
+      "drive": "40 km · 1.5 hrs, plus 1 hr ferry",
+      "text": "Take the morning ferry back to Nimati Ghat and drive 13 km into Jorhat. Jorhat is the centre of Upper Assam's tea industry and home to Tocklai, the oldest tea research station in the world. In the afternoon, visit the Hoollongapar Gibbon Sanctuary, about 20 km away, where a forest guide leads a walk to look for India's only ape, the hoolock gibbon, and six other primate species. If you prefer, spend the afternoon at a tea estate instead, with a garden walk and a tea tasting. Last dinner of the trip.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Depart Jorhat",
+      "stay": "Departure",
+      "altitude_m": 116,
+      "drive": "10 km · 20 min",
+      "text": "After breakfast, drive to Jorhat Airport at Rowriah, only about 10 km from town. Jorhat has direct flights to Kolkata and Delhi, so there is no need to go back to Guwahati. If your flight is in the afternoon, take a short drive to the Jorhat Gymkhana Club, one of the oldest golf clubs in Asia, or the tea market in town. If you prefer to fly out of Guwahati, we can drive you there instead, about 6.5 hours, or add a night in Kaziranga on the way. We stay in touch on WhatsApp until you board.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "10 nights on twin sharing: 3 Shillong, 1 Sohra, 1 Mawlynnong, 2 Kaziranga, 2 Majuli, 1 Jorhat",
+    "Daily breakfast and dinner",
+    "Private car (Innova, Ertiga or similar by group size), Guwahati Airport to Jorhat Airport",
+    "One elephant ride and two jeep safaris in Kaziranga (vehicle, driver and range guide)",
+    "Brahmaputra vehicle ferry to and from Majuli",
+    "Khasi guide in Mawphlang sacred forest",
+    "Local guide for the satras and villages of Majuli",
+    "Driver allowance, fuel, tolls, parking and Meghalaya entry tax",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights into Guwahati and out of Jorhat",
+    "Kaziranga entry and camera fees",
+    "Umngot boat rides, priced per boat at the ghat",
+    "Village entry fees at falls, caves and Mawlynnong, typically under ₹100 per person",
+    "Gibbon sanctuary entry and guide fees",
+    "Lunches, snacks and drinks",
+    "Donations at satras",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Pegasus Crown or similar. Sohra: Cherrapunjee Holiday Resort or similar. Mawlynnong: village guesthouse. Kaziranga: Aranya Tourist Lodge or similar. Majuli: Risong Family Guest House or similar. Jorhat: Hotel Gulmohar Grand or similar" },
+    { "tier": "Premium", "options": "Shillong: Hotel Polo Towers or similar. Sohra: Polo Orchid Resort or similar. Mawlynnong: best village guesthouse. Kaziranga: Infinity Resorts Kaziranga or IORA The Retreat, or similar. Majuli: La Maison de Ananda or Me:Po Okum, or similar. Jorhat: Clubway Grand or similar" },
+    { "tier": "Luxury", "options": "Shillong: Vivanta Meghalaya Shillong or similar. Sohra: Polo Orchid Resort (best rooms) or similar. Mawlynnong: best village guesthouse. Kaziranga: Diphlu River Lodge or similar. Majuli: La Maison de Ananda (best cottage) or similar. Jorhat: Thengal Manor or Banyan Grove, or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga opens in phases from about October and closes for the monsoon around May. Dates are set each year, so check current status before you travel.",
+    "Majuli ferries run a few times a day from Nimati Ghat and change with the river level. A road bridge to Majuli is under construction; until it opens, the ferry is the way across. Check current status before you travel.",
+    "Meghalaya needs no permit, but hotels and homestays must register every guest on the state tourism app. Self-drive rental cars are banned in Meghalaya.",
+    "Mawlynnong guesthouses are simple, with clean twin rooms and basic bathrooms. Since January 2026 the village is closed to day visitors on Sundays, but overnight guests are exempt, which is one more reason to stay the night.",
+    "Dress modestly at satras on Majuli: shoulders and knees covered. Remove shoes before entering the prayer halls.",
+    "Majuli's Raas festival falls around Kartik Purnima in late November. Rooms on the island fill fast that week, so book early if you want to see it."
+  ],
+  "faqs": [
+    { "q": "How do you get to Majuli island?", "a": "Drive to Nimati Ghat, about 13 km from Jorhat, and take the ferry across the Brahmaputra to Kamalabari on Majuli, about an hour. Cars travel on the vehicle ferry. Ferries run a few times a day and timings change with the river level, with the last boats in mid-afternoon. A road bridge is under construction; check current status before you travel." },
+    { "q": "Why does this trip end in Jorhat?", "a": "Jorhat is the nearest airport to Majuli, only a ferry and a short drive away, and it has direct flights to Kolkata and Delhi. Ending there means you do not drive back 6.5 hours to Guwahati. If you prefer to fly out of Guwahati, we can drive you there or add a night in Kaziranga on the way." },
+    { "q": "What is special about Majuli?", "a": "Majuli is a large river island of about 880 sq km in the Brahmaputra and the centre of Assamese Vaishnavism, with 23 active satras. You can watch prayers and dance, see masks made at Samaguri and hand-shaped pottery at Salmora, and visit Mising villages of stilt houses. The island is flat and quiet, with rice fields and ponds." },
+    { "q": "What is it like to stay a night in Mawlynnong?", "a": "Mawlynnong is a small Khasi village with clean lanes, flower gardens and bamboo dustbins on every corner. Guesthouses are simple and run by village families, who cook dinner for you. Staying the night lets you walk the village early before day visitors arrive and see the Riwai root bridge in quiet morning light." },
+    { "q": "When is the best time for Meghalaya, Kaziranga and Majuli?", "a": "November to March is best. Dawki's Umngot is clear, Kaziranga is open, Majuli's roads are dry and the ferries run their winter schedule. Late November can coincide with Majuli's Raas festival. The monsoon, June to September, closes Kaziranga, floods parts of Majuli and brings very heavy rain to Sohra." },
+    { "q": "Is this trip suitable for families with children?", "a": "Yes. Most days have short drives and easy walks, children enjoy the elephant ride, the Mawsmai Cave and the ferry, and village stays in Mawlynnong and Majuli are safe and friendly. Mawlynnong and Majuli rooms are simple, so families who need more comfort can choose the premium tier. Only one day involves a 6.5-hour drive." },
+    { "q": "Do we need a permit for this Northeast trip?", "a": "No. Meghalaya and Assam need no permit for Indian or foreign visitors. Meghalaya does require hotels and homestays to register every guest on the state tourism app, so carry photo ID for everyone. Majuli and Kaziranga have no entry permits beyond park entry fees at Kaziranga." },
+    { "q": "What are satras and can we visit them?", "a": "Satras are monasteries of Assamese Vaishnavism, founded in the tradition of the 15th–16th century saint Srimanta Sankardeva. Visitors are welcome at most satras on Majuli. Dress modestly, remove shoes before the prayer hall, and ask before photographing monks. Evening prayers with cymbals and drums are the best time to visit." },
+    { "q": "How much does the Meghalaya, Kaziranga and Majuli package cost?", "a": "This 10 nights / 11 days trip starts from ₹47,500 per person on twin sharing, with standard hotels and guesthouses, breakfast and dinner, a private car, three Kaziranga safaris, the Majuli ferries and local guides. Flights, park entry, boat rides and lunches are extra. Premium and luxury upgrades cost more." }
+  ]
+}

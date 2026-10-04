@@ -1,0 +1,7 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="ih"><div class="shell">{% crumbs crumb_list %}<h1>Northeast travel FAQs</h1><p class="ih__lede">Straight answers about permits, seasons, costs, safaris and getting around. Each place and package page has its own questions too.</p></div></section>
+{% faq_block faqs_a title='Before you book' id='faq-a' %}
+{% faq_block faqs_b title='On the road' id='faq-b' %}
+{% cta_panel %}
+{% endblock %}

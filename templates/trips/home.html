@@ -1,0 +1,94 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="hx" aria-labelledby="hx-h">
+  <div class="shell hx__grid">
+    <div class="hx__panel">
+      <span class="eyebrow eyebrow--light">{% icon 'pin' %} Meghalaya · Assam · Arunachal · Northeast</span>
+      <h1 id="hx-h">Shillong, Meghalaya and Northeast tour packages</h1>
+      <p class="hx__lede">Root bridges, rhinos and the road to Tawang, planned day by day by people who know these roads. Permits, drivers and rooms handled.</p>
+      <form class="plan" action="/packages/" method="get" aria-label="Find a package">
+        <label class="plan__f"><span>Going to</span><select name="state"><option value="">Anywhere in the Northeast</option>{% for k, s in STATES.items %}<option value="{{ k }}">{{ s.name }}</option>{% endfor %}</select></label>
+        <label class="plan__f"><span>In</span><select name="month"><option value="">Any month</option>{% for m in MONTHS_LONG %}<option value="{{ forloop.counter }}">{{ m }}</option>{% endfor %}</select></label>
+        <label class="plan__f"><span>For</span><select name="nights"><option value="">Any length</option><option value="2-4">2–4 nights</option><option value="5-7">5–7 nights</option><option value="8-18">8+ nights</option></select></label>
+        <button class="btn btn--sun plan__go" type="submit">{% icon 'search' %} Find packages</button>
+      </form>
+      <ul class="hx__trust"><li>{% icon 'check' %} Written quotes</li><li>{% icon 'check' %} ILP &amp; safari bookings</li><li>{% icon 'check' %} Local drivers</li></ul>
+    </div>
+    <div class="hx__collage">
+      <figure class="hx__ph hx__ph--a">{% img h1 sizes='(min-width: 1000px) 34vw, 70vw' eager=True %}<span class="sticker">{% state_chip 'meghalaya' %}</span>{% credit h1 %}</figure>
+      <figure class="hx__ph hx__ph--b">{% img h2 sizes='(min-width: 1000px) 18vw, 45vw' eager=True %}<span class="sticker">{% state_chip 'assam' %}</span>{% credit h2 %}</figure>
+      <figure class="hx__ph hx__ph--c">{% img h3 sizes='(min-width: 1000px) 18vw, 45vw' %}<span class="sticker">{% state_chip 'arunachal' %}</span>{% credit h3 %}</figure>
+    </div>
+  </div>
+</section>
+
+<div class="ticker" aria-label="Quick facts"><div class="ticker__track">{% for ic, a, b in facts %}<span class="ticker__it"{% if forloop.counter0 >= nfacts %} aria-hidden="true"{% endif %}>{% icon ic %}<b>{{ a }}</b> {{ b }}</span>{% endfor %}</div></div>
+
+<section class="band" aria-labelledby="st-h">
+  <div class="shell">
+    <header class="band__head"><span class="eyebrow">{% icon 'compass' %} Choose your Northeast</span><h2 id="st-h">Four ways into the Northeast</h2></header>
+    <div class="tabs" data-tabs>
+      <div class="tabs__list" role="tablist" aria-label="States">{% for tab in tabs %}<button type="button" role="tab" id="tab-{{ tab.st.key }}" aria-controls="panel-{{ tab.st.key }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" style="--c:{{ tab.st.color }}">{{ tab.st.name }}</button>{% endfor %}</div>
+      {% for tab in tabs %}<div class="tabs__panel stp" role="tabpanel" id="panel-{{ tab.st.key }}" aria-labelledby="tab-{{ tab.st.key }}"{% if not forloop.first %} hidden{% endif %}>
+        <a class="stp__hero" href="/states/{{ tab.st.key }}/">{% img tab.hero sizes='(min-width: 900px) 45vw, 100vw' %}<span class="stp__cap"><b>{{ tab.st.name }}</b><span>{{ tab.st.line }}</span><span class="stp__go">Explore {{ tab.st.short }} {% icon 'arrow' %}</span></span></a>
+        <div class="stp__places">{% for d in tab.places %}{% place_card d size='pl--sm' %}{% endfor %}</div>
+        <div class="stp__pk"><p class="stp__h">Packages here</p><ul>{% for t in tab.packages %}<li><a href="/packages/{{ t.slug }}/"><span>{{ t.title|trimstop }}</span><small>{{ t.nights }}N · from {{ t.price_from_inr|inr }}</small></a></li>{% endfor %}</ul></div>
+      </div>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band band--mist" aria-labelledby="pp-h">
+  <div class="shell">
+    <header class="band__head band__head--split"><div><span class="eyebrow">{% icon 'star' %} Most booked routes</span><h2 id="pp-h">Popular packages</h2></div><a class="more" href="/packages/">See all packages {% icon 'arrow' %}</a></header>
+    <div class="pk-grid">{% for t in popular %}{% pk_card t %}{% endfor %}</div>
+  </div>
+</section>
+
+<section class="band" aria-labelledby="hm-h">
+  <div class="shell">
+    <header class="band__head band__head--split"><div><span class="eyebrow">{% icon 'cal' %} Timing is everything</span><h2 id="hm-h">When each place is at its best</h2></div><p class="band__lede">Tap a month to see what lines up. Clear rivers, open parks and snow on the passes rarely happen in the same week.</p></header>
+    {% heatmap %}
+  </div>
+</section>
+
+<section class="band band--forest" aria-labelledby="sy-h">
+  <div class="shell">
+    <header class="band__head band__head--center"><span class="eyebrow eyebrow--light">{% icon 'spark' %} Travel styles</span><h2 id="sy-h">Pick the trip that fits</h2></header>
+    <div class="styles">{% for s in styles %}<a class="sty" href="/styles/{{ s.key }}/">{% icon s.icon %}<b>{{ s.name }}</b><span>{{ s.desc }}</span></a>{% endfor %}</div>
+  </div>
+</section>
+
+{% if has_sohra %}<section class="band" aria-labelledby="rn-h">
+  <div class="shell rainband">
+    <div><span class="eyebrow">{% icon 'rain' %} The rain question</span><h2 id="rn-h">How wet is Meghalaya, really</h2><p class="band__lede">Sohra and Mawsynram sit where monsoon clouds from the Bay of Bengal hit the Khasi hills first. Most of the year’s rain falls between June and September, which is why we plan treks and river days for the dry months.</p><a class="more" href="/guides/monsoon-in-meghalaya/">Travelling in the monsoon {% icon 'arrow' %}</a></div>
+    <div class="rainband__charts">{% rain_meter 'sohra' %}{% rain_meter 'guwahati' %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="band band--mist" aria-labelledby="hw-h">
+  <div class="shell how">
+    <div class="how__pic">{% img_of '_root-bridge' as rb %}{% if not rb %}{% img_of 'nongriat-root-bridges' as rb %}{% endif %}{% img rb sizes='(min-width: 900px) 40vw, 100vw' %}</div>
+    <div>
+      <span class="eyebrow">{% icon 'route' %} How it works</span><h2 id="hw-h">From first message to the root bridge</h2>
+      <ol class="how__list">
+        <li><b>Message us</b><span>Dates, who’s coming, and what you want to see. WhatsApp is fine.</span></li>
+        <li><b>Get a real plan</b><span>Day-by-day routing, drive times, three hotel options and a written price.</span></li>
+        <li><b>Shape it</b><span>Swap places, slow it down, add a safari. Pay a deposit when it’s right.</span></li>
+        <li><b>Travel sorted</b><span>ILPs, safari slots and a driver who knows which road is open that morning.</span></li>
+      </ol>
+      <a class="btn btn--forest" href="/contact/">Start with step one {% icon 'arrow' %}</a>
+    </div>
+  </div>
+</section>
+
+<section class="band" aria-labelledby="gd-h">
+  <div class="shell">
+    <header class="band__head band__head--split"><div><span class="eyebrow">{% icon 'doc' %} Read before you go</span><h2 id="gd-h">Travel guides</h2></div><a class="more" href="/guides/">All guides {% icon 'arrow' %}</a></header>
+    <div class="mag">{% guide_card lead big=True %}<div class="mag__side">{% for g in side %}{% guide_card g %}{% endfor %}</div></div>
+  </div>
+</section>
+
+{% faq_block faqs title='Northeast trip questions, answered' %}
+{% cta_panel %}
+{% endblock %}

@@ -1,0 +1,131 @@
+{
+  "slug": "meghalaya-adventure-5n",
+  "title": "Caves, Canyons and Camping",
+  "nights": 5,
+  "themes": ["adventure"],
+  "states": ["meghalaya"],
+  "places": ["shillong", "umiam-lake", "laitlum-canyons", "sohra", "mawsmai-cave", "nohkalikai-falls", "shnongpdeng", "dawki-umngot", "nongkhnum-island"],
+  "hero": "nongkhnum-island",
+  "price_from_inr": 21500,
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 1750,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Meghalaya adventure tour, 5 nights / 6 days: Laitlum to Rasong, Sohra caves, a river camp at Shnongpdeng and a night on Nongkhnum Island. From ₹21,500.",
+  "quick_answer": "Caves, Canyons and Camping is a 5 nights / 6 days adventure trip from Guwahati, run November to April. You walk down from Laitlum Canyons towards Rasong, explore Mawsmai and Arwah caves, kayak and snorkel from a riverside camp at Shnongpdeng, and camp on Nongkhnum, Meghalaya's largest river island. From ₹21,500 per person.",
+  "overview": [
+    "This trip is for people who would rather get wet and muddy than tick off viewpoints. Every day has something physical: kayaking on Umiam Lake, the long stairway down from the Laitlum rim, a zipline over the Mawkdok valley, cave passages at Sohra, a full river day at Shnongpdeng and a night on Nongkhnum, a 21 sq km island formed by the Kynshi and Namliang rivers in West Khasi Hills.",
+    "Two of the five nights are in tents, both on rivers and both run by local operators with basic facilities. The trip only works in the dry season, from November to April, when the Umngot and Kynshi are low and clear and the camps are open. You should be comfortable swimming with a life jacket and walking two to three hours on steps. Every water activity uses a life jacket and a local operator, and the Laitlum walk is done with a registered guide."
+  ],
+  "highlights": [
+    "Sunrise at Laitlum Canyons, at about 1,750 m, and the stairway down towards Rasong village",
+    "Mawsmai Cave's squeeze and Arwah Cave's fossil walls at Sohra",
+    "Zipline across the Mawkdok Dympep valley, when running",
+    "A riverside camp at Shnongpdeng with kayaking, snorkelling and cliff jumps",
+    "A night camping on Nongkhnum, Meghalaya's largest river island",
+    "Kayaking at Umiam Lake on the first afternoon"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong, kayaking at Umiam",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport or the railway station and heads up the highway through Jorabat, Byrnihat and Nongpoh. At Umiam Lake, a reservoir at about 980 m, 15 km before Shillong, stop at the Water Sports Complex for an hour of kayaking or a speedboat ride; life jackets are provided. Reach Shillong and check in by late afternoon. In the evening, eat early in Police Bazar and pack a daypack for the morning: water, a warm layer, a torch and snacks. Your driver will pick you up before sunrise, which ranges from about 5.30 to 6 am in winter.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Laitlum to Rasong, Mawkdok zipline and on to Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "About 100 km · 3.5 hrs, plus walking",
+      "text": "Drive 45 minutes to Laitlum Canyons for sunrise at about 1,750 m, where the plateau stops at a grassy rim above deep valleys. With your registered local guide, walk down the long stairway towards Rasong village, then climb back; allow two to three hours and twice as long for the climb as the descent. Return to Shillong for a late breakfast, then take the Sohra road. At the Mawkdok Dympep viewpoint, ride the zipline across the valley if it is running. In Sohra, walk the lit route of Mawsmai Cave, about 150 m with a tight squeeze, then the 1 km path to Arwah Cave.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Nohkalikai and down to the Umngot at Shnongpdeng",
+      "stay": "Shnongpdeng",
+      "altitude_m": 60,
+      "drive": "About 110 km · 3.5–4 hrs",
+      "text": "Start at the Nohkalikai viewpoint at 7.30 am for the 340 m plunge before the cloud rises. Then drive back to Laitlyngkot and south through Pynursla and Dawki to Shnongpdeng, a Pnar village about 10 km upstream of Dawki on the Umngot. The road drops from about 1,480 m to 60 m, and the air warms with it. Check into a riverside camp by early afternoon. Spend the rest of the day on the river: a kayak session, a boat ride through the clear shallows and a swim in a marked area with a life jacket. Evenings at camp usually end with a bonfire.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "River morning at Shnongpdeng, back to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "90 km · 3 hrs",
+      "text": "Mist often sits on the river until about 7 am in winter; get up for it. After breakfast, it is snorkelling in the shallows, where the water is clear enough to watch fish over the stones, and cliff jumping from a rock that the operator has checked, with a life jacket on. The zipline across the river runs when the operator is on site. Operators charge per activity, so agree prices first. Leave by 12.30 pm and drive back through Dawki and Pynursla to Shillong, arriving around 4 pm. Do laundry, charge batteries and restock snacks and water for the island.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Shillong to Nongkhnum River Island",
+      "stay": "Nongkhnum Island (tents)",
+      "altitude_m": 600,
+      "drive": "110 km · 3.5–4 hrs",
+      "text": "Leave Shillong by 7.30 am on the road west to Nongstoin, headquarters of West Khasi Hills, about 95 km and 3 hours away. From there the last 14 km to Nongkhnum gets rough, which is why we use a car with good clearance. The island covers about 21 sq km between the Kynshi and Namliang rivers, with grassland, forest, rocky gorges and a sandy beach where the rivers divide. After lunch, walk to the waterfalls along its edge with a local guide. Camp is set up by a local operator; facilities are basic. If the camp is unavailable, we stay in a Nongstoin guest house instead.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Nongkhnum to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "About 210 km · 6.5–7 hrs",
+      "text": "Wake early for sunrise on the sand, pack up and leave by 8 am. The drive runs back through Nongstoin and east to Shillong, then down the Guwahati highway via Umiam and Nongpoh, with a lunch stop on the way. You reach Guwahati by about 3 to 3.30 pm, depending on traffic on the Guwahati bypass. Please book flights after 6 pm or trains after 6.30 pm, or add a night in Guwahati if you have an early departure the next day. Your driver drops you at the airport terminal or station entrance.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "2 nights in Shillong and 1 night in Sohra in standard hotels, twin sharing",
+    "1 night in a riverside tent camp at Shnongpdeng and 1 night in a tent on Nongkhnum Island, twin sharing",
+    "Daily breakfast and dinner",
+    "Private car with good ground clearance (Innova, Ertiga or similar) for the whole itinerary",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Registered local guide for the Laitlum to Rasong walk and a local guide on Nongkhnum",
+    "Driver allowance, fuel, tolls and parking",
+    "Taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Kayaking at Umiam, zipline at Mawkdok and all activities at Shnongpdeng (paid per activity to operators)",
+    "Entry and parking fees at Laitlum, Mawsmai, Arwah, Nohkalikai and Nongkhnum",
+    "Boat fares on the Umngot",
+    "Lunches, snacks and drinks",
+    "Personal gear such as dry bags, water shoes and torches",
+    "Tips and personal expenses",
+    "Travel insurance with adventure-activity cover",
+    "Costs from landslides, road closures or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Centre Point or Pinewood Hotel. Sohra: Jiva Resort or Sa-I-Mika Resort. Shnongpdeng: Travenjo Camping at Shnongpdeng or Riverruns Campsite. Nongkhnum: tents with a local operator, or similar" },
+    { "tier": "Premium", "options": "Shillong: Polo Towers Shillong or Hotel Pegasus Crown. Sohra: Cherrapunjee Holiday Resort. Camps: larger tents with beds and attached washrooms where available, or similar" },
+    { "tier": "Luxury", "options": "Shillong: Vivanta Meghalaya Shillong. Sohra: Polo Cherrapunjee Resort. Shnongpdeng and Nongkhnum have no luxury camps; we book the best tents available, or similar" }
+  ],
+  "good_to_know": [
+    "Camps at Shnongpdeng and on Nongkhnum run mainly from November to April; in the monsoon rivers rise fast and camps and activities stop, so check current status before you travel",
+    "Wear a life jacket for every water activity and only jump or swim where the operator shows you a checked, deep pool",
+    "Laitlum has no railings along most of the rim; stay back from the edge, especially when the grass is wet",
+    "East Khasi Hills has required registered local guides on treks since mid-2025; our price includes the Laitlum guide",
+    "Nongkhnum has no shops, few toilets and no waste collection; carry water and snacks and bring all rubbish back",
+    "Camps and hotels register every guest on Meghalaya's tourism app, and self-drive car and scooter rentals for tourists are banned; carry original photo ID"
+  ],
+  "faqs": [
+    { "q": "How fit do I need to be for this adventure trip?", "a": "You should be able to walk two to three hours on steep steps, and be comfortable in water with a life jacket. You do not need to be a strong swimmer, since every water activity is guided and optional. Most active adults aged 16 to 50 manage well." },
+    { "q": "What adventure activities are included?", "a": "The trip includes guided walks at Laitlum, cave visits at Mawsmai and Arwah, and camping at Shnongpdeng and Nongkhnum. Kayaking at Umiam, the Mawkdok zipline and river activities at Shnongpdeng are paid locally per activity. Budget about ₹2,000 to ₹4,000 per person for the activities you choose." },
+    { "q": "What is Nongkhnum River Island?", "a": "Nongkhnum is Meghalaya's largest river island, about 21 sq km, formed where the Kynshi and Namliang rivers split and rejoin in West Khasi Hills. It has grassland, forest, gorges, a sandy beach and waterfalls. It is about 14 km from Nongstoin and 110 km from Shillong." },
+    { "q": "What are the camps like?", "a": "Camps at Shnongpdeng range from basic two-person tents with shared toilets to larger tents with beds and attached washrooms. On Nongkhnum facilities are more basic, with simple tents and limited toilets. Both include dinner and breakfast. Carry a torch, a warm layer and quick-dry clothes." },
+    { "q": "When is the best time for this trip?", "a": "November to April. The Umngot and Kynshi are low and clear, camps are open, and trails at Laitlum are dry. December and January nights at camp can drop close to single digits, so bring warm layers. From June to September rivers rise fast and most camps close." },
+    { "q": "What does the Caves, Canyons and Camping package cost?", "a": "It starts at ₹21,500 per person on twin sharing, including three hotel nights, two camp nights, breakfast and dinner, a private car with good clearance and local guides. Activities are paid locally. Premium hotels in Shillong and Sohra add about ₹3,000 to ₹6,000 per person." },
+    { "q": "Is cliff jumping at Shnongpdeng safe?", "a": "It is reasonably safe when done with a local operator, from a checked rock into a deep pool, wearing a life jacket. Never jump into unchecked water, after rain, or after drinking alcohol. The Umngot has deep pools and currents. If you are unsure, skip it; snorkelling and kayaking are just as rewarding." },
+    { "q": "Do we need a permit for any of these places?", "a": "No permits are needed for Indian or foreign tourists at Laitlum, Sohra, Shnongpdeng or Nongkhnum. Meghalaya has no ILP. Camps and hotels register every guest on the state tourism app, so carry original photo ID. Do not approach the Bangladesh border near Dawki beyond public roads." },
+    { "q": "Can we add Langshiang Falls to the trip?", "a": "Yes, with one extra night. Langshiang Falls, roughly 337 m and one of Meghalaya's tallest, is about 24 km from Nongstoin. We would stay a night in a Nongstoin guest house and visit the falls with a local guide before driving back to Guwahati." }
+  ]
+}

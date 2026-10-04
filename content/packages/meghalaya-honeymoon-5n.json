@@ -1,0 +1,130 @@
+{
+  "slug": "meghalaya-honeymoon-5n",
+  "title": "Meghalaya Honeymoon",
+  "nights": 5,
+  "themes": ["honeymoon"],
+  "states": ["meghalaya"],
+  "places": ["umiam-lake", "shillong", "shillong-peak", "dawki-umngot", "mawlynnong", "sohra", "nohkalikai-falls"],
+  "hero": "umiam-lake",
+  "price_from_inr": 22500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Meghalaya honeymoon package, 5 nights / 6 days: a lakeside night at Umiam, Shillong, Dawki and two nights in Sohra. Private car, from ₹22,500 per person.",
+  "quick_answer": "Our Meghalaya Honeymoon is 5 nights / 6 days from Guwahati: a first night by Umiam Lake, two in Shillong with a day at Dawki and Mawlynnong, and two slow nights in Sohra with valley views. It includes a candlelight dinner and room decoration, from ₹22,500 per person on twin sharing.",
+  "overview": [
+    "We built this for couples who want time together more than a long list of stops. The first night is by Umiam Lake, only 2.5 hours from the airport, so the arrival day ends with a sunset on the water rather than a traffic jam in Police Bazar. Two nights in Shillong cover the city and one full day to the Umngot River at Dawki, and the trip closes with two nights on the Sohra plateau.",
+    "The last full day has only one fixed plan: Nohkalikai Falls at 8 am. After that you choose between Arwah Cave, a walk to a viewpoint or an afternoon at the resort. Room choices matter on a honeymoon, so we book lake-view rooms at Umiam and valley-facing rooms in Sohra where the hotel has them, and we add flower decoration and a candlelight dinner once."
+  ],
+  "highlights": [
+    "First night beside Umiam Lake with a sunset on the water and a morning boat ride",
+    "A day on the clear Umngot River at Dawki and lunch in Mawlynnong",
+    "Two unhurried nights in Sohra, with Nohkalikai Falls at 8 am",
+    "Shillong Peak at 1,965 m and an evening at a Laitumkhrah cafe",
+    "Room decoration and one candlelight dinner included",
+    "Sunset over the Bangladesh plains from Thangkharang Park"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Umiam Lake",
+      "stay": "Umiam",
+      "altitude_m": 1000,
+      "drive": "85 km · 2.5–3 hrs",
+      "text": "Your driver meets you at Guwahati Airport or the railway station with a name board. The highway climbs from the Assam plains through Jorabat, Byrnihat and Nongpoh into pine hills, and after about 2.5 hours you reach Umiam Lake, a reservoir at about 1,000 m with wooded shores. Check into a lake-facing room and have the rest of the day to yourselves. The light on the water is best in the hour before sunset, around 4.30 pm in winter. Your room is decorated with flowers on arrival, and dinner is at the resort.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Umiam to Shillong, Shillong Peak and Elephant Falls",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "Local sightseeing · about 45 km",
+      "text": "Take an early walk along the lake or a short boat ride from the Umiam Water Sports Complex. After breakfast, drive 15 km to Shillong and continue to Shillong Peak, which sits inside an Air Force area; carry original ID for both of you. The view from 1,965 m takes in the whole city. Elephant Falls is 3 km away, with steps down to the lower tier. Check into your Shillong hotel by mid-afternoon. In the evening, walk through Police Bazar and then head to Laitumkhrah, where cafes serve good coffee and, on weekends, live music.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Day trip to Dawki and Mawlynnong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 200 km round trip · 7 hrs driving",
+      "text": "Leave Shillong by 7 am to beat the boat queues at Dawki, 85 km and about 2.5 to 3 hours south through Pynursla. From November to April the Umngot is clear enough to see the stones on the riverbed; a boat for two takes 30 to 45 minutes, with fares fixed at the ghat. Walk onto the 1932 suspension bridge for photos. Drive 30 km to Mawlynnong for lunch and a short stroll through its clean lanes, then walk to the Riwai root bridge if you have the energy. Return to Shillong by about 6 pm. It is the longest day of the trip.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Shillong to Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "55 km · 1.5–2 hrs, plus stops",
+      "text": "After a late breakfast, drive the 55 km Sohra road. Stop at the Mawkdok Dympep valley viewpoint, where a zipline runs across the gorge for those who want it, and at Wah Kaba Falls. In Sohra, walk the lit route of Mawsmai Cave, about 150 m with one tight squeeze, and look across to the Seven Sisters Falls, which flow mainly in the rains. Check into a valley-facing room by 3 pm. If the sky is clear, drive 20 minutes to Thangkharang Park for sunset over the Bangladesh plains. Tonight is your candlelight dinner at the resort.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Nohkalikai Falls and a slow day in Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "Local sightseeing · about 25 km",
+      "text": "Go to the Nohkalikai viewpoint by 8 am, when the gorge is most often clear. The fall drops about 340 m into a pool that turns turquoise in the dry months, and a path leads a little way down for a lower angle. The rest of the day is yours. You can walk the 1 km cliff path to Arwah Cave, visit the Sohra market on its busy days, or simply sit on the resort terrace and watch cloud move through the valley. Couples who want a bigger walk can ask us for a guided half-day trail with a registered local guide.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Sohra to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "155 km · 5–5.5 hrs",
+      "text": "After breakfast, leave Sohra by 8.30 am. The drive runs back past Mawkdok to the edge of Shillong and then down the Guwahati highway via Umiam and Nongpoh, where you can stop for pineapples and local tea. Plan a light lunch on the way. Traffic near Jorabat and on the Guwahati bypass can slow the last hour, so please book flights after 3.30 pm or trains after 4 pm. Your driver drops you at the airport terminal or station entrance. If you are flying out early, we can move the last night to Shillong or Guwahati.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "1 night at Umiam Lake, 2 nights in Shillong and 2 nights in Sohra, double room",
+    "Lake-view or valley-view rooms where the hotel offers them",
+    "Daily breakfast and dinner, with one candlelight dinner in Sohra",
+    "Flower decoration in the room on arrival at Umiam",
+    "Private car (Dzire or similar sedan) for the whole itinerary",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Driver allowance, fuel, tolls and parking",
+    "Hotel taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Entry fees at Shillong Peak, Elephant Falls, Mawsmai Cave, Nohkalikai, Mawlynnong and other sights",
+    "Dawki and Umiam boat fares",
+    "Ziplining and other optional activities",
+    "Lunches and drinks",
+    "Photo shoots, spa treatments and room upgrades beyond the booked category",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Costs from landslides, road closures or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Umiam: Orchid Lake Resort (Meghalaya Tourism). Shillong: Hotel Pegasus Crown. Sohra: Jiva Resort, or similar" },
+    { "tier": "Premium", "options": "Umiam: Ri Kynjai. Shillong: Polo Towers Shillong. Sohra: Cherrapunjee Holiday Resort, or similar" },
+    { "tier": "Luxury", "options": "Umiam: Ri Kynjai lake-view cottage. Shillong: Vivanta Meghalaya Shillong. Sohra: Polo Cherrapunjee Resort, or similar" }
+  ],
+  "good_to_know": [
+    "The Umngot at Dawki is clearest from November to April; in the monsoon boating is often suspended, so check current status before you travel",
+    "Meghalaya hotels and homestays must register every guest on the state system; carry original photo ID for both of you",
+    "Since mid-2025, treks in East Khasi Hills require a registered local guide; we arrange one if you add a walk",
+    "Sohra is cool and misty; pack a warm layer even in April and a rain jacket in any month",
+    "Shillong Peak is in an Air Force area and has been closed on some weekdays; we confirm the day before"
+  ],
+  "faqs": [
+    { "q": "Is Meghalaya good for a honeymoon?", "a": "Yes, if you enjoy green hills, waterfalls and cool weather more than beaches. Distances are short, roads are good, and resorts at Umiam and Sohra have quiet rooms with views. Evenings are calm, since most towns close early. It suits couples who like slow mornings and short walks." },
+    { "q": "What is the best time for a Meghalaya honeymoon?", "a": "October to April suits most couples. October and November bring full waterfalls and clear skies, December to February are cold and dry with the clearest river at Dawki, and March and April are pleasant with some storms. The monsoon is beautiful but wet, and Dawki boating often stops." },
+    { "q": "How much does the Meghalaya honeymoon package cost?", "a": "It starts at ₹22,500 per person on twin sharing, with lake-view or valley-view rooms where available, breakfast and dinner, one candlelight dinner, room decoration and a private sedan. With premium resorts it rises by about ₹7,000 to ₹12,000 per person, and luxury stays cost roughly double." },
+    { "q": "Which is the best resort for couples at Umiam Lake?", "a": "Ri Kynjai has cottages facing the lake and is the most popular choice for couples. Orchid Lake Resort, run by Meghalaya Tourism, is simpler and cheaper, with rooms close to the water. Both are about 15 km from Shillong and 85 km from Guwahati." },
+    { "q": "Is the Dawki day trip tiring?", "a": "It is the longest day, about seven hours of driving in total, but the roads are paved and there are stops every hour or so. We leave Shillong at 7 am so you reach the river before the queues. Couples who prefer less driving can swap Dawki for a Laitlum Canyons morning." },
+    { "q": "Can we add Kaziranga to our honeymoon?", "a": "Yes, by adding two nights. Kaziranga is about 195 km from Guwahati, around 4.5 to 5 hours by road. It fits at the end of the trip between October and April, when jeep safaris run. See our Shillong, Cherrapunji and Kaziranga plan for a ready-made version." },
+    { "q": "Are there romantic dinners or experiences included?", "a": "We include flower decoration in your room at Umiam and one candlelight dinner at the Sohra resort. We can also add a cake, a private boat ride at Umiam or a photographer in Shillong at extra cost. Tell us your dates and anniversaries when booking." },
+    { "q": "Is Meghalaya safe for honeymoon couples?", "a": "Meghalaya is generally safe and friendly for couples. Since 2025 the state has tightened tourist safety: hotels register every guest, and treks in East Khasi Hills need a registered local guide. Stay on marked paths, avoid remote viewpoints after dark, and share your plans with your hotel." },
+    { "q": "Do we need a permit to visit Meghalaya?", "a": "Indian and foreign tourists do not need a permit to visit Shillong, Sohra, Dawki or Umiam. Hotels and homestays register guests on the state system, so carry original photo ID. Foreign nationals should carry passports and note that Shillong Peak has generally been closed to them." }
+  ]
+}

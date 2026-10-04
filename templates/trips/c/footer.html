@@ -1,0 +1,60 @@
+{% load trips_tags %}<footer class="ft">
+  <div class="shell">
+    <div class="ft__cta">
+      <div class="ft__cta-text"><span class="eyebrow eyebrow--light">{% icon 'route' %} Plan with locals</span><h2>One message, and your Northeast trip is in motion</h2><p>Permits, drivers, rooms and the rain forecast, handled by a desk that knows these roads.</p>
+        <div class="row"><a class="btn btn--sun" href="{% wa_link 'Hi, I would like help planning a Northeast trip.' %}"{% wa_attrs %}>{% icon 'wa' %} WhatsApp a planner</a>{% if tel %}<a class="btn btn--glass" href="tel:{{ tel }}">{% icon 'phone' %} Call</a>{% else %}<a class="btn btn--glass" href="mailto:{{ site.email }}">{% icon 'mail' %} Email</a>{% endif %}</div></div>
+      {% lead_form 'footer' compact=True cls='lf--card' title='Get a free plan' %}
+    </div>
+    <div class="ft__grid">
+      <div class="ft__brand">
+        <a class="brand" href="/" title="{{ site.name }}">{% logo_img h=50 %}</a>
+        <p>{{ site.tagline }}.</p>
+        <ul class="ft__contact">
+          {% if tel %}<li>{% icon 'phone' %}<a href="tel:{{ tel }}">{{ site.phone }}</a></li>{% endif %}
+          <li>{% icon 'mail' %}<a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>{% icon 'pin' %}{{ address_line }}</li>
+          <li>{% icon 'clock' %}{{ site.hours }}</li>
+        </ul>
+        {% socials %}
+      </div>
+      <nav aria-label="States"><p class="ft__h">States</p><ul>{% for k, s in STATES.items %}<li><a href="/states/{{ k }}/">{{ s.name }}</a></li>{% endfor %}<li><a href="/places/">All places</a></li></ul></nav>
+      <nav aria-label="Packages"><p class="ft__h">Packages</p><ul>{% for s in footer_styles %}<li><a href="/styles/{{ s.key }}/">{{ s.name }} tours</a></li>{% endfor %}</ul></nav>
+      <nav aria-label="Popular guides"><p class="ft__h">Popular guides</p><ul>{% for g in footer_guides %}<li><a href="/guides/{{ g.slug }}/">{{ g.footer_title }}</a></li>{% endfor %}</ul></nav>
+      <nav aria-label="Company"><p class="ft__h">Company</p><ul><li><a href="/about/">About us</a></li><li><a href="/trip-tools/">Trip tools</a></li><li><a href="/faq/">FAQs</a></li><li><a href="/contact/">Contact</a></li><li><a href="/cancellation-refund-policy/">Refund policy</a></li><li><a href="/terms/">Terms</a></li></ul></nav>
+    </div>
+    <div class="ft__base">
+      <p>&copy; {% now "Y" %} {% firstof site.company.legalName site.name %} · Prices are indicative, per person</p>
+      <p class="ft__legal"><a href="/privacy/">Privacy</a><a href="/cookie-policy/">Cookies</a><a href="/disclaimer/">Disclaimer</a><a href="/sitemap/">Sitemap</a><a href="/photo-credits/">Photo credits</a><button type="button" class="lnk" data-consent-open>Cookie settings</button></p>
+    </div>
+  </div>
+</footer>
+<a class="wa" data-wa-float href="{% wa_link 'Hi, I would like help planning a Northeast trip.' %}"{% wa_attrs %} aria-label="Chat with a trip planner">
+  <svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M16 3.2A12.7 12.7 0 0 0 5.1 22.4L3.3 28.8l6.6-1.7A12.7 12.7 0 1 0 16 3.2Zm0 23.1a10.4 10.4 0 0 1-5.3-1.5l-.4-.2-3.9 1 1-3.8-.2-.4A10.4 10.4 0 1 1 16 26.3Zm5.7-7.8c-.3-.2-1.8-.9-2.1-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7.1a8.5 8.5 0 0 1-4.2-3.7c-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.5l-1-2.3c-.2-.6-.5-.5-.7-.5h-.6a1.1 1.1 0 0 0-.8.4 3.4 3.4 0 0 0-1 2.5 5.9 5.9 0 0 0 1.2 3.1 13.5 13.5 0 0 0 5.2 4.6c1.9.8 2.7.9 3.6.7a3.1 3.1 0 0 0 2-1.4 2.5 2.5 0 0 0 .2-1.4c-.1-.1-.3-.2-.6-.4Z"/></svg>
+  <span>Chat with us</span>
+</a>
+<aside class="pop" data-leadpop hidden aria-labelledby="pop-h">
+  <button class="ib pop__x" type="button" data-leadpop-close aria-label="Close">{% icon 'close' %}</button>
+  <span class="eyebrow">{% icon 'route' %} Free trip plan</span>
+  <h2 id="pop-h">Heading to the Northeast? Get a day-by-day route</h2>
+  <p>Tell us your month. A planner replies with a route, hotel options and a clear price. No payment, no spam.</p>
+  {% lead_form 'popup' title='' compact=True %}
+  <button class="lnk pop__no" type="button" data-leadpop-close>Not now</button>
+</aside>
+<div class="cc" data-consent hidden role="dialog" aria-labelledby="cc-h">
+  <div class="shell cc__in">
+    <div class="cc__text"><p class="cc__h" id="cc-h">We use a few cookies</p><p>Essential storage keeps your saved trips and theme. With your OK we’d also use analytics to see which guides help people. No ads, no selling data. <a href="/cookie-policy/">Cookie policy</a></p>
+      <div class="cc__prefs" data-consent-prefs hidden><label class="tick"><input type="checkbox" checked disabled><span>Essential (always on)</span></label><label class="tick"><input type="checkbox" data-consent-analytics><span>Analytics</span></label></div></div>
+    <div class="cc__btns"><button class="btn btn--forest btn--sm" type="button" data-consent-accept>Accept</button><button class="btn btn--line btn--sm" type="button" data-consent-reject>Reject</button><button class="lnk" type="button" data-consent-manage>Choose</button><button class="btn btn--line btn--sm" type="button" data-consent-save hidden>Save</button></div>
+  </div>
+</div>
+<dialog class="srch" data-search aria-label="Search">
+  <form method="dialog" class="srch__box" role="search">{% icon 'search' %}<input type="search" placeholder="Search places, packages and guides" aria-label="Search" data-search-input autocomplete="off"><button class="ib" value="close" aria-label="Close">{% icon 'close' %}</button></form>
+  <ul class="srch__res" data-search-results role="listbox" aria-label="Results"></ul>
+  <p class="srch__hint">Try “Dawki”, “Kaziranga safari” or “ILP”</p>
+</dialog>
+<aside class="saved" data-saved hidden aria-label="Saved trips">
+  <div class="saved__head"><h2>Saved trips</h2><button class="ib" type="button" data-saved-close aria-label="Close">{% icon 'close' %}</button></div>
+  <ul class="saved__list" data-saved-list></ul>
+  <p class="saved__empty" data-saved-empty>Tap the heart on any package to keep it here. We can price several side by side.</p>
+  <a class="btn btn--sun btn--full" data-saved-ask href="/contact/">Ask about these {% icon 'arrow' %}</a>
+</aside>

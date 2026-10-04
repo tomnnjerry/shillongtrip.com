@@ -1,0 +1,23 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="ih"><div class="shell">{% crumbs crumb_list %}<h1>Northeast India tour packages</h1><p class="ih__lede">Meghalaya, Kaziranga, Tawang, Nagaland and more, from 2 to 18 nights. Each package shows its route night by night, hotels in three tiers and an indicative price.</p>
+  <div class="chips-row">{% for th in themes %}<a class="pill" href="/styles/{{ th.key }}/">{% icon th.icon %}{{ th.name }}</a>{% endfor %}</div></div></section>
+<section class="band band--tight"><div class="shell lgrid">
+  <aside class="lgrid__side">
+    <form class="fl" data-filters aria-label="Filter packages">
+      <div class="fl__head"><b>Filter</b><button type="reset" class="lnk" data-reset>Clear all</button></div>
+      <fieldset class="fl__grp"><legend>State</legend>{% for k, s in STATES.items %}<label class="tick"><input type="checkbox" name="state" value="{{ k }}"><span><i style="background:{{ s.color }}"></i>{{ s.name }}</span></label>{% endfor %}</fieldset>
+      <fieldset class="fl__grp"><legend>Length</legend><label class="tick tick--r"><input type="radio" name="nights" value="" checked><span>Any</span></label><label class="tick tick--r"><input type="radio" name="nights" value="2-4"><span>2–4 nights</span></label><label class="tick tick--r"><input type="radio" name="nights" value="5-7"><span>5–7 nights</span></label><label class="tick tick--r"><input type="radio" name="nights" value="8-18"><span>8+ nights</span></label></fieldset>
+      <label class="fl__sel"><span>Month</span><select name="month"><option value="">Any month</option>{% for m in MONTHS_LONG %}<option value="{{ forloop.counter }}">{{ m }}</option>{% endfor %}</select></label>
+      <label class="fl__sel"><span>Style</span><select name="theme"><option value="">Any style</option>{% for th in themes %}<option value="{{ th.key }}">{{ th.name }}</option>{% endfor %}</select></label>
+      <label class="tick"><input type="checkbox" name="foreign" value="yes"><span>Open to foreign passports</span></label>
+    </form>
+  </aside>
+  <div class="lgrid__main">
+    <div class="lbar"><p aria-live="polite"><b data-count>{{ packages|length }}</b> packages</p><label class="lbar__sort"><span>Sort</span><select form="" data-sort><option value="">Recommended</option><option value="price">Price: low to high</option><option value="-price">Price: high to low</option><option value="nights">Shortest first</option><option value="-nights">Longest first</option></select></label></div>
+    <div class="pk-list" data-pk-list>{% for t in packages %}{% pk_card t %}{% endfor %}</div>
+    <p class="empty" data-empty hidden>No packages match. <button class="lnk" type="button" data-reset>Clear filters</button> or <a href="/contact/">ask us to build one</a>.</p>
+  </div>
+</div></section>
+{% cta_panel title='Can’t find the right fit' text='Most trips we run are tailored. Tell us your dates and what matters and we’ll build one around you.' %}
+{% endblock %}

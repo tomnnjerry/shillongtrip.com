@@ -1,0 +1,129 @@
+{
+  "slug": "kaziranga-nameri-birding-5n",
+  "title": "Kaziranga and Nameri Birding",
+  "nights": 5,
+  "themes": ["wildlife", "photography"],
+  "states": ["assam"],
+  "places": ["kaziranga", "tezpur", "nameri"],
+  "hero": "nameri",
+  "price_from_inr": 28500,
+  "best_months": [11, 12, 1, 2, 3],
+  "difficulty": "moderate",
+  "max_altitude_m": 150,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Kaziranga and Nameri birding tour, 5 nights / 6 days: wetland birds in three Kaziranga ranges, then forest walks and a river float for hornbills and ibisbill.",
+  "quick_answer": "This 5 nights / 6 days birding trip pairs Kaziranga's wetlands and grasslands with Nameri's foothill forest. Three nights at Kaziranga cover four jeep safaris and a Panbari forest walk; two at Nameri add guided walks with an armed guard and a float on the Jia Bhoroli. From ₹28,500 per person, twin sharing, November to March.",
+  "overview": [
+    "Kaziranga and Nameri sit 110 km apart but hold very different birds. Kaziranga's beels and grassland bring pelicans, storks, raptors and winter ducks in large numbers, plus grassland specialities such as the swamp francolin and Bengal florican. Nameri, on the north bank below the Arunachal foothills, is forest and shingle river: great, wreathed and oriental pied hornbills, the white-winged wood duck, and in winter the ibisbill on the stony banks of the Jia Bhoroli. Nameri is one of the few parks in Assam you can enter on foot, with a forest guard.",
+    "We give Kaziranga three nights because different ranges suit different birds: the Eastern Range at Agaratoli for water birds, the Central and Western ranges for grassland and raptors. On the way north we stop at Tezpur for its riverside and the carved stone doorway at Da Parbatia. At Nameri we stay at Potasali, by the park entry, which means you are walking in the forest within minutes of waking."
+  ],
+  "highlights": [
+    "Four jeep safaris across three Kaziranga ranges, timed for birds",
+    "Spot-billed pelicans, storks and winter ducks on the Eastern Range beels",
+    "A guided morning walk in Panbari Reserve Forest near Kaziranga",
+    "Walking trails in Nameri with an armed forest guard",
+    "Ibisbill and river birds from a float down the Jia Bhoroli",
+    "Great and wreathed hornbills in the Nameri forest canopy"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "215 km from airport · 5 hrs",
+      "text": "Pickup at Guwahati airport and the drive east on NH27. Birders should keep binoculars handy: the wetlands around Jagiroad and Nagaon often hold egrets, cormorants and lesser adjutants visible from the road. Lunch at Nagaon, then NH715 along tea gardens to Kohora, arriving by mid-afternoon. We check in at a lodge with good garden birding and spend the last hour of light in its grounds or the neighbouring tea estate, where lineated barbets, drongos and orioles are common. Evening briefing with your bird guide on the next three days.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Kaziranga Eastern Range for water birds",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "Local · about 70 km including range transfer",
+      "text": "Leave at 7 am for the Eastern Range at Agaratoli, about 30 km east of Kohora. This is the best range for water birds: spot-billed pelicans, Asian openbill, black-necked and lesser adjutant storks, bar-headed geese and many ducks from November to March, with Pallas's fish eagle and grey-headed fish eagle along the channels. After lunch the afternoon jeep enters the Central Range at Kohora, where the Mihimukh area and watchtowers give views over beels and grassland. Raptors, including eastern imperial eagle in some winters, hunt over the open grass. Eastern Range opening varies, so check current status before you travel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Panbari forest walk and the Western Range",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "Local · about 60 km",
+      "text": "A dawn walk in Panbari Reserve Forest, a patch of semi-evergreen forest near Kaziranga where forest birds differ from those in the park: hornbills, woodpeckers, babblers and, with luck, hoolock gibbons calling. A forest guard accompanies the walk, which takes about three hours. After lunch the afternoon jeep goes to the Western Range at Bagori, known for large rhino numbers and wetlands with storks, ducks and waders. The late light at Bagori is good for photography. Evening checklist session with your guide.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Kaziranga to Nameri via Tezpur",
+      "stay": "Nameri",
+      "altitude_m": 120,
+      "drive": "110 km · 3 hrs plus stops",
+      "text": "A last early jeep in the Central Range for anything missed, then breakfast and the drive north across the Brahmaputra on the Kolia Bhomora bridge to Tezpur. We stop at Da Parbatia, where a carved stone doorframe from about the 5th or 6th century is among the oldest sculpture in Assam, and at Agnigarh hill for a river view. From Tezpur it is about 35 km to Potasali, the entry point for Nameri National Park. Check in at the eco camp and walk to the Jia Bhoroli bank at dusk, where river lapwings and wagtails feed.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Nameri on foot and a river float",
+      "stay": "Nameri",
+      "altitude_m": 120,
+      "drive": "Local · on foot and by raft",
+      "text": "Cross the Jia Bhoroli by boat at 6.30 am and walk into the park with an armed forest guard and a local bird guide. Nameri's trails pass through semi-evergreen forest and open riverine patches, and this is where great, wreathed and oriental pied hornbills are most likely. The white-winged wood duck is scarce and shy; the forest pools are the places to look. After lunch take a gentle rafting float of about 13 km on the Jia Bhoroli, used as a birding platform, looking for ibisbill on the shingle in winter, plus mergansers, cormorants and kingfishers.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Morning walk and drive to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "220 km to Guwahati Airport · 5.5 hrs",
+      "text": "A final early walk along the Potasali side of the river or in the camp grounds, where many forest birds visit the fruiting trees. After breakfast we drive back to Guwahati via Tezpur and the north-bank highway through Mangaldai, about 220 km, reaching the airport by mid-afternoon. Book flights after 5 pm. Tezpur Airport, about 40 km from Potasali, has limited flights to Kolkata, and we can drop you there instead if your schedule suits. The north-bank road also passes Orang National Park, which we can add for an extra night.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "5 nights in the chosen hotel tier, twin sharing",
+    "Breakfast and dinner daily, all meals at Nameri on Day 5",
+    "Private air-conditioned vehicle throughout",
+    "4 jeep safaris in Kaziranga with entry and vehicle fees",
+    "Panbari Reserve Forest walk with forest guard",
+    "Guided walk in Nameri with an armed forest guard and local bird guide",
+    "Rafting float on the Jia Bhoroli at Nameri",
+    "Still camera fees for one camera per person",
+    "Driver allowance, fuel, tolls and parking",
+    "Guwahati airport pickup and drop"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Elephant rides at Kaziranga",
+    "Video and professional camera fees",
+    "Specialist international bird guide, available on request",
+    "Lunches except on Day 5, and drinks",
+    "Tips for guides, guards and drivers",
+    "Travel insurance"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Kaziranga: Wild Grass Lodge; Nameri: Nameri Eco Camp, Potasali, or similar" },
+    { "tier": "Premium", "options": "Kaziranga: IORA The Retreat or Infinity Resorts Kaziranga; Nameri: Nameri Eco Camp best tents, or similar" },
+    { "tier": "Luxury", "options": "Kaziranga: Diphlu River Lodge; Nameri: Wild Mahseer, Balipara, a heritage tea bungalow about 30 km from Potasali, or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga opens in phases through October, with the Eastern Range and elephant rides from around 1 November. Nameri's walking and rafting season is roughly November to April. Check current status before you travel.",
+    "Nameri is entered at Potasali. Walks are allowed only with an armed forest guard, because wild elephants are common.",
+    "Ibisbill is a winter visitor to the Jia Bhoroli shingle, usually December to February; sightings are not guaranteed.",
+    "Bring binoculars, a field guide to birds of the Indian subcontinent, earth-coloured clothes and leech socks if travelling in March.",
+    "Raft floats depend on water level and are calm grade 1 to 2, suitable for non-swimmers with life jackets."
+  ],
+  "faqs": [
+    { "q": "Why combine Kaziranga and Nameri for birding?", "a": "They hold different birds. Kaziranga is floodplain grassland and wetland, rich in pelicans, storks, raptors and winter ducks. Nameri is foothill forest and shingle river, with hornbills, the white-winged wood duck and ibisbill. Together they cover a broad share of Assam's lowland birds in under a week." },
+    { "q": "How far is Nameri from Kaziranga?", "a": "About 110 km, roughly three hours, crossing the Brahmaputra on the Kolia Bhomora bridge at Tezpur and heading north to Potasali. Nameri is 35 km from Tezpur. The route allows a stop at Da Parbatia and Agnigarh in Tezpur." },
+    { "q": "Can you walk inside Nameri National Park?", "a": "Yes. Nameri is one of the few Assam parks that allows walking, always with an armed forest guard. You cross the Jia Bhoroli by boat from Potasali and follow forest trails for two to four hours. There are no jeep safaris in the core, so walking is the main way in." },
+    { "q": "What is the best season for birding at Kaziranga and Nameri?", "a": "November to March. Winter brings migratory ducks, geese and raptors to Kaziranga's beels and ibisbill to the Jia Bhoroli. February and March are good for resident birds starting to call and display. From June to September both parks are largely closed." },
+    { "q": "How much does this birding tour cost?", "a": "The indicative price starts at ₹28,500 per person, twin sharing, with standard lodges, four jeep safaris, forest walks, a rafting float and a private car. A specialist bird guide for the whole trip, exclusive jeeps or luxury stays at Diphlu River Lodge and Wild Mahseer cost more." },
+    { "q": "What birds can we expect at Kaziranga?", "a": "Common sightings include spot-billed pelican, Asian openbill, lesser adjutant, black-necked stork, bar-headed goose, Pallas's fish eagle and many ducks in winter. Grassland specialities such as swamp francolin and Bengal florican need luck and a good guide. Kaziranga is an Important Bird Area." },
+    { "q": "Is the Jia Bhoroli rafting safe?", "a": "Yes. It is a gentle float of about 13 km over two hours with mild rapids, run by the eco camp with life jackets and trained oarsmen. Non-swimmers can join. It works as a birding platform, and elephants are sometimes seen on the banks." },
+    { "q": "Do we need our own binoculars and camera?", "a": "Bring your own binoculars; 8x42 or 10x42 is ideal. Photographers should carry at least a 100 to 400 mm lens, and 500 or 600 mm for small forest birds. Our local guides carry field guides and a spotting scope on request." },
+    { "q": "Do foreigners need permits for this trip?", "a": "No special permit is needed for Kaziranga, Nameri or Tezpur, which are in Assam. Foreign nationals pay higher park and camera fees and register at hotels with passports. If you extend north into Arunachal, a Protected Area Permit is required. Check current status before you travel." }
+  ]
+}

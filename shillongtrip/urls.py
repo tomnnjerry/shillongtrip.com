@@ -1,0 +1,9 @@
+from django.contrib import admin
+from django.urls import include, path
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('', include('trips.urls')),
+]
+
+handler404 = 'trips.views.not_found'

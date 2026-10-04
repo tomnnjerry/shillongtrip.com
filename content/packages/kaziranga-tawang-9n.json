@@ -1,0 +1,167 @@
+{
+  "slug": "kaziranga-tawang-9n",
+  "title": "Kaziranga and Tawang",
+  "nights": 9,
+  "themes": ["wildlife", "adventure"],
+  "states": ["assam", "arunachal"],
+  "places": ["guwahati", "kaziranga", "nameri", "dirang", "sela-pass", "nuranang-falls", "tawang", "tawang-monastery", "bum-la-pass", "madhuri-lake", "tezpur"],
+  "hero": "kaziranga",
+  "price_from_inr": 45500,
+  "best_months": [11, 12, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 4600,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Kaziranga and Tawang tour, 9 nights / 10 days from Guwahati: rhino safaris, Nameri, Dirang, Sela, three nights in Tawang and Bum La for Indians.",
+  "quick_answer": "This 9 nights / 10 days tour pairs Kaziranga's rhinos with the Tawang road. You get two nights and three safaris in Kaziranga, a night at Nameri on the Jia Bhoroli, then Dirang, three nights in Tawang with Sela and Bum La, and a slow return via Dirang and Tezpur. Best from November to April.",
+  "overview": [
+    "Kaziranga and Tawang sit on either side of the Brahmaputra's north bank road, which makes them a natural pair. Kaziranga, a UNESCO World Heritage Site, holds the world's largest population of Indian one-horned rhinos, and its grasslands are open to visitors from about October or November to April or May. From Kaziranga it is only 3 hours to Nameri at the foot of the Arunachal hills, where the Tawang road begins.",
+    "We give each half the time it needs. In Kaziranga you get an elephant ride in the Central or Western range at dawn, a morning jeep safari and an afternoon jeep safari in a second range. In the hills, you sleep at Dirang before Tawang and again on the way back, so the climb to about 2,670 m is gradual and the Guwahati–Tawang road is split into two days each way. Bum La is for Indian citizens only and runs on Army permission day by day."
+  ],
+  "highlights": [
+    "Two nights in Kaziranga with an elephant ride and two jeep safaris in different ranges",
+    "A night at Nameri eco camp with a guided forest walk or a Jia Bhoroli raft trip",
+    "Sela Lake at about 4,170 m and the all-weather Sela Tunnel",
+    "Three nights in Tawang: the monastery, the war memorial and Madhuri Lake",
+    "Bum La at 4,600 m for Indian citizens, on Army permission",
+    "Dirang on the way up and down for easier acclimatisation"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "195 km · 4.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport. If you land before 9 am, we stop at Kamakhya temple on Nilachal hill; the general queue is free and can be booked online, and special darshan costs ₹501 per person. Otherwise, head straight east on NH-27 through Nagaon, with a lunch stop, to Kohora on the edge of Kaziranga's Central range. Check in to your lodge and spend the late afternoon at the Kaziranga orchid and biodiversity park or on the tea estates near Kohora. Early dinner; the elephant ride starts before sunrise tomorrow.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Kaziranga safaris",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "40 km · local",
+      "text": "Elephant rides run only in the Central (Kohora) and Western (Bagori) ranges, in one-hour batches between about 5.30 and 7.30 am; seats are limited, so we book yours early. You ride into the tall grass among rhino, wild buffalo and swamp deer in the mist. After breakfast, take a jeep safari in the Central range from about 7.30 am. In the afternoon, a second jeep safari in the Western range, which has the highest rhino density and wide beels with water birds. Park entry is ₹100 per Indian adult and ₹650 per foreign adult.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Kaziranga to Nameri",
+      "stay": "Nameri (Potasali)",
+      "altitude_m": 100,
+      "drive": "130 km · 3 hrs",
+      "text": "A short driving day. Cross the Brahmaputra on the Kalia Bhomora bridge at Tezpur and continue north to Potasali, the entry to Nameri National Park, 35 km from Tezpur. Nameri is a walking park: in the afternoon you can take a guided forest walk with an armed forest guard, looking for hornbills, white-winged wood duck and elephant signs, or float down the Jia Bhoroli river on a gentle raft trip in season. Evening by the river at the eco camp. This night also puts you at the foot of the hills, so tomorrow's climb starts fresh.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Nameri to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "150 km · 5.5 hrs",
+      "text": "Your ILP is checked at the Bhalukpong gate, just beyond Nameri. The road climbs along the Kameng river past the Tipi orchid centre and through Tenga and Rupa to Bomdila at 2,415 m, where you stop for lunch and a look at the monastery. From Bomdila it is 42 km down to Dirang at about 1,620 m. Check in and visit the hot spring or the old stone dzong in the evening. Sleeping here before Tawang gives your body a night at middle height. The Bhalukpong–Bomdila stretch has monsoon landslides, so check current status before you travel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Dirang to Tawang over Sela",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "135 km · 5 hrs",
+      "text": "Leave Dirang at 7.30 am. The Sela Tunnel, open since March 2024, keeps Tawang reachable all year; in fair weather we take the old road over Sela Pass at about 4,170 m to stop at Sela Lake, snowbound from about December to March. Then descend past the Jaswantgarh war memorial to Jang for the Nuranang falls, about 100 m high. Reach Tawang by early afternoon, check in and rest. Keep the evening quiet, drink water and skip alcohol on your first night at this height. Your driver files the Bum La permit at the DC office.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tawang Monastery and war memorial",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "25 km · local",
+      "text": "Start at Tawang Monastery, founded in 1681 and the largest in India, when the morning prayers are on. The museum inside has old thangkas, manuscripts and ritual objects. Drive down to Urgelling, the birthplace of the sixth Dalai Lama, and the Gyangong Ani Gompa nunnery. After lunch, visit the handmade paper unit where Monpa paper is made from local bark, then walk the Old Market. At dusk, go to the Tawang War Memorial, which honours soldiers of the 1962 war, for its light and sound show. The Army stamps your Bum La permit today.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Bum La and Madhuri Lake",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "80 km · 6–7 hrs round trip",
+      "text": "Leave at 7 am in a local Tawang taxi; only local SUVs are allowed on this road. Indian citizens drive to Bum La at 4,600 m on the India–China border, 37 km from Tawang, where Army staff explain the post and the 1962 history. On the way back, turn off for Madhuri Lake (Sangetsar Tso) at about 3,700 m, ringed by bare trees and ridges. Bum La runs on Army permission day by day and often closes after snow from December to March. Foreign guests cannot go; we plan a Tawang town day with local walks instead.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Tawang to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "135 km · 5 hrs",
+      "text": "Leave Tawang after breakfast and drive back through the Sela Tunnel, or over the pass if the weather is clear and you want morning photographs of the lake. Stop at Jang for tea. You reach Dirang by early afternoon. With the time left, drive to Sangti valley, about 10 km away, a flat river valley where black-necked cranes winter from about November to February, or visit an orchard and the Thupsung Dhargye Ling monastery. This night in Dirang means the rest of the drive down is an easy day tomorrow, not a 10-hour push.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Dirang to Tezpur",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "195 km · 6 hrs",
+      "text": "Leave Dirang at 8 am, climb over Bomdila for a tea stop and descend to Bhalukpong for lunch. Tezpur is another hour across the plains. Check in by mid-afternoon. At about 4 pm, go up Agnigarh hill for the sunset view of the Brahmaputra and the Kalia Bhomora bridge; sculptures on the hill tell the old story of Usha and Aniruddha. Tezpur is a good place for a last Assamese dinner: fish tenga, a light sour curry, with rice and greens. Tomorrow is a short drive to the airport.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Tezpur to Guwahati and depart",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "180 km · 4 hrs",
+      "text": "Drive along the north bank through Mangaldoi to Guwahati Airport, about 4 hours with one tea stop. We suggest a flight after 2 pm. If you have a late flight, we can stop at the Brahmaputra riverfront or the Assam State Museum in Guwahati. If you would like to extend, a night in Guwahati for a Brahmaputra sunset cruise or two nights in Shillong fit well at the end of this route; ask us at booking. We stay on WhatsApp until you board.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "9 nights on twin sharing: 2 Kaziranga, 1 Nameri, 2 Dirang, 3 Tawang, 1 Tezpur",
+    "Daily breakfast and dinner",
+    "One elephant ride and two jeep safaris in Kaziranga (vehicle, driver and range guide)",
+    "Private SUV (Innova, Scorpio or similar), Guwahati to Guwahati",
+    "Local Tawang taxi for Bum La and Madhuri Lake (Indian citizens)",
+    "Guided forest walk with forest guard at Nameri",
+    "Help with the Arunachal tourist ILP for Indian citizens",
+    "PAP paperwork through our approved partner for foreign guests",
+    "Driver allowance, fuel, tolls and parking",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Kaziranga and Nameri entry and camera fees",
+    "ILP, PAP and Bum La permit fees",
+    "Jia Bhoroli rafting",
+    "Lunches, snacks and drinks",
+    "Temple, monastery and museum fees",
+    "Extra nights from snow closures, landslides or bandhs",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Kaziranga: Aranya Tourist Lodge or Wild Grass Lodge, or similar. Nameri: Nameri Eco Camp or similar. Dirang: Pemaling Lords Inn or similar. Tawang: Hotel Tawang Heights or similar. Tezpur: Cygnett Inn Imperial Tezpur or similar" },
+    { "tier": "Premium", "options": "Kaziranga: Infinity Resorts Kaziranga or IORA The Retreat, or similar. Nameri: Wild Mahseer (Balipara) or similar. Dirang: Dirang Boutique Cottages or similar. Tawang: Hotel Gakyi Khang Zhang or similar. Tezpur: Cygnett Inn Imperial Tezpur or similar" },
+    { "tier": "Luxury", "options": "Kaziranga: Diphlu River Lodge or similar. Balipara: Wild Mahseer or similar. Dirang: Dirang Boutique Cottages (best rooms) or similar. Tawang: Vivanta Tawang or similar. Tezpur: Wild Mahseer or similar" }
+  ],
+  "good_to_know": [
+    "Kaziranga opens in phases from about October and closes for the monsoon around May; the best months are mid-November to April. Dates are set each year, so check current status before you travel.",
+    "Elephant rides run only in the Kohora and Bagori ranges, about 5.30–7.30 am. Jeep safaris cost from about ₹3,500 per jeep; there is no night safari.",
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500, so pay whatever the portal shows. Foreign nationals need a Protected Area Permit through an approved operator, and cannot visit Bum La.",
+    "Bum La needs a DC Tawang permit stamped by the Army, and often closes after snow from December to March.",
+    "Tawang nights fall below 0°C from November to March, while Kaziranga mornings are 10–12°C in winter. Pack layers for both.",
+    "Guwahati to Tawang is two driving days each way. This plan splits it with nights at Nameri and Dirang going up, and Dirang and Tezpur coming down."
+  ],
+  "faqs": [
+    { "q": "Can Kaziranga and Tawang be combined in one trip?", "a": "Yes, and they fit well. Kaziranga is on the south bank near Kohora, and the Tawang road starts at Bhalukpong, only about 3 hours away across the Kalia Bhomora bridge. With two nights in Kaziranga, a night at Nameri and six nights in the hills, 9 nights is a comfortable length for both." },
+    { "q": "How many safaris are included in Kaziranga?", "a": "You get three: one elephant ride at dawn in the Central or Western range, a morning jeep safari in the Central range and an afternoon jeep safari in the Western range. Park entry is ₹100 per Indian adult and ₹650 per foreign adult, with camera fees extra. More safaris in the Eastern or Burapahar ranges can be added." },
+    { "q": "When is Kaziranga open for this trip?", "a": "Kaziranga opens in phases from about October, with elephant rides usually from November, and closes for the monsoon around May. Dates are set each year by the park, so check current status before you travel. For this combined trip, November, December and February to April work best, when both Kaziranga and the Tawang road are in good shape." },
+    { "q": "Is there a night safari in Kaziranga?", "a": "No. Kaziranga runs elephant rides between about 5.30 and 7.30 am and jeep safaris in morning and afternoon slots, usually about 2 hours each. There is no official night safari. Evenings are spent at your lodge, and some lodges arrange tea garden walks or cultural programmes nearby." },
+    { "q": "Why do we stay at Nameri instead of driving straight to Dirang?", "a": "Kaziranga to Dirang is about 280 km and 8 or 9 hours, which is tiring after a dawn safari. A night at Nameri, 3 hours from Kaziranga, gives you a forest walk or river float, and the next day's climb to Dirang is a fair 5.5 hours. It also means your ILP check at Bhalukpong happens first thing." },
+    { "q": "Can foreigners do the Kaziranga and Tawang tour?", "a": "Yes. Kaziranga needs no special permit, only park entry. For Arunachal, foreign nationals need a Protected Area Permit through an approved operator, with a royalty of about USD 30–50 confirmed by the operator. Foreign guests cannot visit Bum La, so on that day we plan Tawang town and nearby monasteries instead." },
+    { "q": "Is Bum La guaranteed on this trip?", "a": "No. Bum La, at 4,600 m on the India–China border, is open to Indian civilians only, with a permit from the DC office in Tawang stamped at the Army cantonment. It runs on Army permission day by day and often closes after snow between December and March. Madhuri Lake is on the same route and usually remains reachable." },
+    { "q": "How cold does it get on this trip?", "a": "In winter, Kaziranga mornings are around 10–12°C and afternoons warm up to about 23–25°C. Tawang is much colder, with January nights often below −5°C, and Sela and Bum La are colder and windy. Pack thermals, a down jacket, gloves and a cap, plus light layers and neutral colours for the safaris." },
+    { "q": "How much does the Kaziranga and Tawang package cost?", "a": "This 9 nights / 10 days trip starts from ₹45,500 per person on twin sharing, with standard hotels, breakfast and dinner, a private SUV, three Kaziranga safaris and the Tawang local taxi for Bum La. Park entry fees, permit fees, flights and lunches are extra. Premium and luxury stays cost more." }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "tawang",
+  "name": "Tawang",
+  "state": "arunachal",
+  "state_name": "Arunachal Pradesh",
+  "district": "Tawang",
+  "types": [
+    "town",
+    "monastery",
+    "snow",
+    "road-trip"
+  ],
+  "tagline": "A 3,000 m Monpa town, India's largest monastery and the road to Bum La",
+  "altitude_m": 3050,
+  "coords": [
+    27.5883,
+    91.8653
+  ],
+  "best_months": [
+    3,
+    4,
+    5,
+    10,
+    11,
+    12
+  ],
+  "best_time": "March to May and October to November for clear roads and views; December to February for snow if you can live with road delays.",
+  "permit": {
+    "required": true,
+    "indians": "Tourist eILP (2026 Temporary ILP) from eilp.arunachal.gov.in: about Rs 300 to 500, pay what the portal shows; valid 15 days for the whole state, with Aadhaar-based online approval. Bum La and Madhuri Lake need an extra permit issued in Tawang.",
+    "foreigners": "Protected Area Permit (PAP), usually for groups of two or more through a registered Indian tour operator. Bum La is closed to foreign nationals. Royalty is reported at USD 30–50 per person and the permit at 30 days; confirm with your operator. Solo travellers are reportedly allowed only for Tawang, Bomdila and Ziro."
+  },
+  "from_hub": {
+    "hub": "Guwahati",
+    "km": 500,
+    "hours": "13"
+  },
+  "ideal_stay": "3 nights in Tawang, with a night in Dirang or Bomdila on the way up and down",
+  "meta_description": "Tawang trip guide: 3,050 m altitude, ILP and PAP rules, the 2-day drive from Guwahati via Sela, Bum La permits, snow months and where to stay.",
+  "quick_answer": "Tawang is a Monpa town at about 3,050 m in western Arunachal Pradesh, 37 km from the Bum La border pass. Indians need a tourist eILP and foreigners a PAP. It is roughly 500 km from Guwahati, a two-day drive via Bhalukpong, Bomdila, Dirang and the Sela Tunnel or Sela Pass.",
+  "intro": [
+    "Tawang sits on a ridge at around 3,000 m, looking across the Tawang Chu valley to the monastery that gives the town its reason to exist. We have driven up from Guwahati more times than we can count, and the first sight of the gompa's gold roofs after two days on NH-13 still makes the whole car go quiet.",
+    "The town itself is small and practical: a market around Nehru Market and Old Market, a string of hotels and homestays along the main road, army establishments on every side and cafes serving thukpa and butter tea. Most visitors use it as a base for three things: the monastery, the drive over Sela, and a permit-controlled day trip to Bum La on the India–China border with a stop at Madhuri Lake.",
+    "Plan for altitude. You gain about 2,800 m between Bhalukpong and Sela Pass, and most people feel it on the first night in Tawang. A night in Dirang (about 1,500 m) on the way up makes the next two days far more comfortable."
+  ],
+  "highlights": [
+    {
+      "name": "Tawang Monastery",
+      "text": "Founded in 1680–81, it is the largest Buddhist monastery in India, with an 8 m Buddha in the main assembly hall and a small museum of thangkas and manuscripts."
+    },
+    {
+      "name": "Bum La and Madhuri Lake",
+      "text": "A 37 km army road climbs to the 4,600 m border pass; Madhuri (Sangetsar Tso) Lake sits on a branch of the same route. Both need a permit from Tawang."
+    },
+    {
+      "name": "Tawang War Memorial",
+      "text": "A stupa-style memorial to soldiers of the 1962 war, with the names of the fallen listed on its panels and an evening light-and-sound show when it runs."
+    },
+    {
+      "name": "Urgelling Monastery",
+      "text": "A small, old gompa a few kilometres below town, venerated as the birthplace of the Sixth Dalai Lama."
+    },
+    {
+      "name": "Pankang Teng Tso (PT Tso)",
+      "text": "A high lake about 17 km out on the Bum La road, often frozen from December to March and usually part of the Bum La day."
+    }
+  ],
+  "things_to_do": [
+    "Arrive at Tawang Monastery for the morning prayers, then walk the lanes of monks' quarters around the main hall",
+    "Apply for the Bum La permit through your hotel or driver the day you arrive, then do Bum La, PT Tso and Madhuri Lake in one long day",
+    "Visit the War Memorial in the late afternoon and stay for the light-and-sound show if it is running",
+    "Walk down to Urgelling Monastery and the Gyangong Ani Gompa nunnery on the slopes around town",
+    "Browse the craft centre for Monpa carpets, wooden masks and handmade paper",
+    "Eat zan, thukpa and momos in the small kitchens around Old Market",
+    "Stop at Nuranang Falls and Jaswantgarh memorial on the drive in or out",
+    "Time your trip for Torgya (January) or Losar (February–March) if you want to see masked dances"
+  ],
+  "how_to_reach": "The usual route is Guwahati to Tezpur (about 180 km), then Bhalukpong, Bomdila and Dirang, and over Sela to Tawang: roughly 500 km and 12 to 14 hours of driving, which we always split with a night at Dirang or Bomdila. From Tezpur it is about 320 km. Since March 2024 the Sela Tunnel keeps the road open through winter, but most tourist cars still go over the old Sela Pass road on the way up when it is clear. Tezpur and Guwahati have the nearest airports. Helicopter transfers from Guwahati are subject to operation; check current status before you travel.",
+  "where_to_stay": "Tawang has mid-range hotels along the main road and around Nehru Market, plus a good number of family-run homestays on the lanes below the monastery. Dondrub Homestay on School Road, New Market, is one long-running option. Rooms are small and heating varies, so ask for electric blankets or a heater from October to March and confirm hot water hours. For monastery mornings, stay in the upper part of town. Book ahead for October–November and for the Tawang Festival dates, when rooms fill quickly.",
+  "tips": [
+    "Carry at least two photocopies of your eILP and photo ID; the Bum La permit application needs them",
+    "Sleep lower at Dirang the night before Tawang and drink plenty of water on the first day up",
+    "ATMs are in the market area but run dry at weekends and on holidays; carry enough cash for the Bum La vehicle and homestays",
+    "Jio, Airtel and BSNL work in town; signal drops on the Bum La road and around Sela",
+    "Local Tawang-registered SUVs are the only vehicles allowed to Bum La, so your Guwahati car will wait in town that day",
+    "Evenings are cold even in May; pack a down jacket, a warm cap and gloves"
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need an Inner Line Permit for Tawang?",
+      "a": "Yes. Indian citizens who are not from Arunachal Pradesh need the tourist eILP, a Temporary ILP under the 2026 rules, applied for on eilp.arunachal.gov.in with Aadhaar-based approval. It costs about Rs 300 to 500 (pay what the portal shows) and is valid 15 days for the whole state. It is checked at Bhalukpong. Check current status before you travel."
+    },
+    {
+      "q": "Can foreigners visit Tawang?",
+      "a": "Yes, with a Protected Area Permit (PAP). It is normally issued to groups of two or more through a registered Indian tour operator, who applies on your behalf before you arrive. Foreign nationals can see the town, monastery and Sela, but they are not allowed to Bum La. Rules and fees change, so check current status before you travel."
+    },
+    {
+      "q": "How long does it take to reach Tawang from Guwahati by road?",
+      "a": "Plan on two days. The distance is about 500 km, and actual driving time is 12 to 14 hours on hill roads with landslide-prone stretches. Most travellers stop overnight at Dirang or Bomdila, which also helps with the altitude. From Tezpur, it is about 320 km and still usually a two-day drive."
+    },
+    {
+      "q": "When does it snow in Tawang?",
+      "a": "Snow usually falls on Tawang town and Sela Pass between December and February, with late falls sometimes in March. Sela gets snow earlier and more often than the town. Heavy snow can shut the Sela Pass road and the Bum La route for days, so leave a buffer day in winter and check current status before you travel."
+    },
+    {
+      "q": "Is altitude sickness a problem in Tawang?",
+      "a": "It can be. Tawang sits at around 3,050 m and Sela Pass at about 4,170 m, and many visitors get headaches or poor sleep on the first night. Break the climb with a night at Dirang, walk slowly on day one, drink water and skip alcohol. Anyone with heart or lung conditions should see a doctor before going."
+    },
+    {
+      "q": "How do I get the Bum La permit in Tawang?",
+      "a": "The Bum La permit is issued in Tawang by the Deputy Commissioner's office and endorsed by the army; it cannot be applied for online. Hotels and local drivers usually file it a day ahead with copies of your eILP and ID. Only Indian citizens are allowed. Apply on a working day and check current status before you travel."
+    },
+    {
+      "q": "Are there ATMs and mobile network in Tawang?",
+      "a": "Tawang has SBI and a few other bank ATMs in the market area, but they can run out of cash at weekends and in peak season, so carry some from Tezpur. Jio, Airtel and BSNL work in town with reasonable data. Expect patchy or no signal on the Bum La road and over Sela Pass."
+    },
+    {
+      "q": "What is the best time to visit Tawang?",
+      "a": "March to May and October to November are the most reliable months, with open roads, clear views and cold nights. December to February brings snow and quieter hotels but also road delays. June to September is monsoon; landslides on the Bhalukpong to Bomdila stretch can hold you up for hours."
+    },
+    {
+      "q": "Is Tawang suitable for young children and senior citizens?",
+      "a": "It works for families and fit seniors who take it slowly. The long drive and the altitude are the real challenges, not the sightseeing. Build in a night at Dirang each way, keep days short, carry warm layers and basic medicines, and consider skipping Bum La at 4,600 m for small children or anyone with breathing problems."
+    }
+  ],
+  "nearby": [
+    "tawang-monastery",
+    "sela-pass",
+    "bum-la-pass",
+    "madhuri-lake",
+    "nuranang-falls"
+  ],
+  "image_query": "Tawang town Arunachal Pradesh"
+}

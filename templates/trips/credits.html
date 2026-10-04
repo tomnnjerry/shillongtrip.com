@@ -1,0 +1,5 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="ih"><div class="shell">{% crumbs crumb_list %}<h1>Photo credits</h1><p class="ih__lede">Every photo on this site comes from Wikimedia Commons and is used under its licence. Thank you to these photographers. Photos are resized; nothing else is changed.</p></div></section>
+<section class="band band--tight"><div class="shell"><div class="credits">{% for r in rows %}<figure class="credit">{% img r sizes='120px' %}<figcaption><b>{{ r.alt }}</b><span>{% if r.author_url %}<a href="{{ r.author_url }}" rel="noopener nofollow" target="_blank">{{ r.author }}</a>{% else %}{{ r.author }}{% endif %}</span><span><a href="{{ r.license_url }}" rel="noopener license" target="_blank">{{ r.license }}</a> · <a href="{{ r.source }}" rel="noopener" target="_blank">Source</a></span></figcaption></figure>{% endfor %}</div></div></section>
+{% endblock %}

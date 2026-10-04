@@ -1,0 +1,130 @@
+{
+  "slug": "ziro-festival-5n",
+  "title": "Ziro Festival of Music",
+  "nights": 5,
+  "themes": ["festival", "culture"],
+  "states": ["arunachal"],
+  "places": ["itanagar", "ziro-valley"],
+  "hero": "ziro-valley",
+  "price_from_inr": 27500,
+  "best_months": [9],
+  "difficulty": "moderate",
+  "max_altitude_m": 1690,
+  "start": "Donyi Polo Airport, Itanagar (HGI)",
+  "end": "Donyi Polo Airport, Itanagar (HGI)",
+  "meta_description": "Ziro Festival of Music trip, 5 nights / 6 days from Itanagar: four nights in Ziro, Apatani village walks, eILP help and festival-week homestays.",
+  "quick_answer": "This 5 nights / 6 days trip covers the four days of the Ziro Festival of Music in late September. You fly into Itanagar, drive 115 km to Ziro, sleep four nights in a Hapoli homestay or hotel and spend mornings in Apatani villages before the afternoon sets. Festival passes and the Arunachal eILP are bought separately.",
+  "overview": [
+    "The Ziro Festival of Music is a four-day outdoor festival held on a green hill in the Ziro valley, about 1,690 m up in Lower Subansiri district. It usually falls in the last week of September; the 2026 edition ran 24 to 27 September and the next one is expected in late September too. We build this trip around the festival dates: one night in Itanagar to break the journey, then four nights in Ziro so you never miss a day of music. Dates for the next edition are announced by the organisers, so check current status before you travel and book flights only after they are out.",
+    "Rooms in Ziro sell out months ahead of festival week, which is the main reason to book early. We hold homestay rooms in Hapoli and nearby Apatani villages, arrange a private car for the Itanagar–Ziro road and a local driver for the shuttle to the festival ground. Mornings are free for walks through Hong and Hari villages, the pine groves and the rice fields, which are close to harvest in late September. Expect rain on at least one day, cold nights around 12–15°C and muddy paths."
+  ],
+  "highlights": [
+    "Four nights in Ziro so you catch all four festival days, not just the weekend",
+    "Morning walks in Hong, Hari and Siiro, the Apatani villages around Hapoli",
+    "Rice fields close to harvest and bamboo-and-pine hillsides in late September",
+    "One night in Itanagar with Ita Fort and the Jawaharlal Nehru State Museum",
+    "Private car on the 115 km Itanagar–Ziro road, about 4 hours each way",
+    "Festival-week rooms held in advance, when Ziro runs out of beds",
+    "Help with the Arunachal eILP for Indian citizens and PAP for foreign guests"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Itanagar",
+      "stay": "Itanagar",
+      "altitude_m": 320,
+      "drive": "15 km · 30 min from Donyi Polo Airport",
+      "text": "We meet you at Donyi Polo Airport at Hollongi, about 15 km from Itanagar, or at Naharlagun railway station if you come by train from Guwahati. After check-in, spend the afternoon at the Jawaharlal Nehru State Museum, which has a good gallery of tribal textiles, masks and weapons from across Arunachal. Late afternoon, drive up to the Buddha Vihar (Gompa) for a view over the capital, then walk the brick ramparts of Ita Fort, built around the 14th–15th century. Dinner at the hotel. Your driver checks your eILP printouts tonight, since the Ziro road has a checkpoint at the Lower Subansiri border.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Itanagar to Ziro and festival day one",
+      "stay": "Ziro (Hapoli)",
+      "altitude_m": 1690,
+      "drive": "115 km · 4 hrs",
+      "text": "Leave Itanagar by 7 am on the Hoj–Potin road. The drive climbs through bamboo and rainforest to Yazali and Potin, then rises to the flat Ziro plateau at about 1,690 m. Plan for 4 hours with a tea stop; landslide work can add an hour in a wet September. Check in to your homestay in Hapoli or a nearby village, pick up your festival wristband and take the afternoon shuttle to the festival ground. Sets usually run from late morning into the evening. Carry a rain jacket, a warm layer and a torch for the walk back to the car park.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Hong village walk and festival day two",
+      "stay": "Ziro (Hapoli)",
+      "altitude_m": 1690,
+      "drive": "30 km · local",
+      "text": "Start early with a guided walk through Hong, one of the largest Apatani villages, where houses stand on stilts in tight rows and the lapang platforms are used for village meetings and rituals. Older women here still carry the facial tattoos and nose plugs that the Apatani stopped in the 1970s; ask before you take a photograph. Walk out along the bunds of the rice fields, where fish are raised in the paddy water. Back in Hapoli for lunch at around noon, then the shuttle to the festival for the afternoon and evening line-up.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Pine groves, Siiro and festival day three",
+      "stay": "Ziro (Hapoli)",
+      "altitude_m": 1690,
+      "drive": "35 km · local",
+      "text": "A slower morning. Drive to Siiro and Hari villages, then walk the pine and bamboo groves that the Apatani plant and manage as family woodlots. If the sky is clear, stop at the viewpoint above the valley for the patchwork of rice fields and village roofs. You can also visit the Tarin fish farm near Hapoli or the Kardo forest shrine, where a large natural stone lingam draws pilgrims. Be back by 1 pm for the festival. By the third day most people have found their favourite corner of the ground, so pace yourself and eat well at the food stalls.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Free morning and final festival day",
+      "stay": "Ziro (Hapoli)",
+      "altitude_m": 1690,
+      "drive": "20 km · local",
+      "text": "Keep the morning free for rest, laundry or a second village walk with your host. Many homestay families cook local dishes on request: smoked pork with bamboo shoot, rice cooked in bamboo, and the leafy greens grown around the house. Ask about apong (rice beer), which is brewed at home. The last day of the festival often has the longest line-up, so plan to stay until the final set. Your driver waits at the agreed car park and brings you back to Hapoli. Pack tonight, as we leave early for the airport.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Ziro to Itanagar and depart",
+      "stay": "Departure",
+      "altitude_m": 320,
+      "drive": "130 km · 4.5 hrs to the airport",
+      "text": "Leave Ziro by 6.30 am, because the whole festival crowd heads down on the same road and the airport is about 130 km away. The drive back through Potin and Yazali takes around 4.5 hours; allow extra time if it rained overnight. We suggest a flight after 1.30 pm from Donyi Polo Airport, or an afternoon train from Naharlagun. If your flight leaves from Guwahati instead, tell us at booking: Ziro to Guwahati is a 10-hour drive, so we add a night in Itanagar or North Lakhimpur on the way.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "1 night in Itanagar and 4 nights in Ziro (homestay or hotel, twin sharing)",
+    "Daily breakfast and dinner",
+    "Private car (Scorpio, Bolero or similar) for all transfers and sightseeing",
+    "Airport or Naharlagun station pick-up and drop",
+    "Daily shuttle between your stay and the festival ground car park",
+    "Local guide for the Hong village walk",
+    "Help with the Arunachal Tourist eILP application",
+    "Driver allowance, fuel, tolls and parking",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Ziro Festival of Music passes and camping tickets (bought from the organisers)",
+    "eILP fee for Indian citizens and PAP fees for foreign nationals",
+    "Flights or train tickets to Itanagar",
+    "Lunch and food at the festival stalls",
+    "Camera fees and tips",
+    "Extra nights or transfers caused by landslides or road closures",
+    "Anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Itanagar: Hotel Serenity or similar. Ziro: family homestays in Hapoli, Hong or Siiro, or similar" },
+    { "tier": "Premium", "options": "Itanagar: Cygnett Inn Trendz or similar. Ziro: Hotel Zirora or Siiro Resort, or similar" },
+    { "tier": "Luxury", "options": "Itanagar: Cygnett Inn Trendz (best rooms) or similar. Ziro has no luxury hotels; we book the best rooms at Siiro Resort or Odyssey Stays Siikhe Lake, or similar" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500 per person, so pay whatever the portal shows. Foreign nationals need a Protected Area Permit, applied for in groups of two or more through an approved operator. Check current status before you travel.",
+    "Festival dates, pass prices and camping rules are set by the organisers each year. The 2026 edition has already taken place (24–27 September); check the next edition's dates and book this trip once they are announced.",
+    "Late September is the tail of the monsoon. Pack a rain jacket, gumboots or trail shoes that can get muddy, and a fleece for nights around 12–15°C.",
+    "Ziro has limited ATMs and patchy card acceptance during festival week. Carry enough cash for four days.",
+    "Mobile data works in Hapoli on Jio and Airtel but slows down sharply when the festival crowd arrives.",
+    "Ask before photographing Apatani elders. Most agree, some do not, and a few may ask for a small payment."
+  ],
+  "faqs": [
+    { "q": "When is the Ziro Festival of Music held?", "a": "The Ziro Festival of Music is usually held over four days in the last week of September. The 2026 edition was held from 24 to 27 September in the Ziro valley, Lower Subansiri district, Arunachal Pradesh. Check the next edition's dates with the organisers before you travel and book flights only after they are confirmed." },
+    { "q": "How far is Ziro from Itanagar and how long is the drive?", "a": "Ziro is about 115 km from Itanagar by road through Yazali and Potin. The drive takes about 4 hours in a private car, a little more after heavy rain. From Donyi Polo Airport at Hollongi add another 15 km. Guwahati to Ziro is about 440 km, a 10–11 hour drive, which is why we start this trip in Itanagar." },
+    { "q": "Do I need a permit to attend the Ziro Festival?", "a": "Yes. Indian citizens from outside Arunachal Pradesh need a tourist ILP, applied for online at eilp.arunachal.gov.in before the trip; it costs about ₹300–500, so pay what the portal shows. Foreign nationals need a Protected Area Permit, arranged through an approved tour operator. Rules change from time to time, so check current status before you travel." },
+    { "q": "Are festival passes included in this package?", "a": "No. Festival passes and official camping are sold only by the organisers, and prices change each year and by booking stage. We include your stay, meals, private car, a daily shuttle to the festival car park and a guided village walk. Buy your passes as soon as you confirm dates, because early tiers sell out first." },
+    { "q": "Where do we stay during the Ziro Festival?", "a": "You stay one night in Itanagar and four nights in Ziro. In Ziro we use family homestays in Hapoli, Hong or Siiro for the standard trip, and Hotel Zirora or Siiro Resort for premium. Ziro has few rooms and festival week sells out months ahead, so booking three to four months early gives you the best choice." },
+    { "q": "What is the weather like in Ziro in late September?", "a": "Late September in Ziro is mild in the day, around 20–25°C, and cool at night, often 12–15°C. It is the end of the monsoon, so expect rain on at least one festival day and muddy ground. Bring a rain jacket, a warm fleece, quick-dry clothes and shoes you do not mind getting dirty." },
+    { "q": "Can we visit Apatani villages during the festival?", "a": "Yes. Festival sets usually start late in the morning, which leaves the early hours free. We plan a guided walk in Hong on day 3 and a slower visit to Siiro and Hari on day 4. You will see stilt houses, lapang platforms, pine groves and rice fields near harvest. Always ask before photographing elders with facial tattoos." },
+    { "q": "Is this Ziro Festival trip suitable for first-time visitors to Arunachal?", "a": "Yes, if you are comfortable with basic rooms, long days outdoors and some rain. The only long drive is the 4-hour road between Itanagar and Ziro, and Ziro sits at about 1,690 m, which rarely causes altitude problems for most people. Families with young children should choose a hotel over a homestay for more space." },
+    { "q": "How much does the Ziro Festival package cost?", "a": "This 5 nights / 6 days trip starts from ₹27,500 per person on twin sharing with standard homestays, breakfast, dinner and a private car. Premium rooms cost more. Festival passes, the eILP fee and flights are extra. Festival-week rates in Ziro are higher than the rest of the year, so the final price depends on when you book." }
+  ]
+}

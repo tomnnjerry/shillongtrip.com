@@ -1,0 +1,102 @@
+{
+  "slug": "shillong-weekend-2n",
+  "title": "Shillong Weekend",
+  "nights": 2,
+  "themes": ["short-break"],
+  "states": ["meghalaya"],
+  "places": ["shillong", "shillong-peak", "elephant-falls", "umiam-lake"],
+  "hero": "shillong-peak",
+  "price_from_inr": 9500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4, 5],
+  "difficulty": "easy",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Shillong weekend package, 2 nights / 3 days from Guwahati: Umiam Lake, Shillong Peak, Elephant Falls, cafes. Private car, hotel, from ₹9,500 per person.",
+  "quick_answer": "Our Shillong Weekend is 2 nights / 3 days from Guwahati with both nights in Shillong. You see Umiam Lake on the way up, Shillong Peak and Elephant Falls on a relaxed full day, and the cafes of Laitumkhrah in the evening. It costs from ₹9,500 per person with a private car and standard hotel.",
+  "overview": [
+    "This is the trip we suggest when you have a Friday to Sunday, or a work trip to Guwahati with two spare days. The drive up is 100 km and about 3 to 3.5 hours on a four-lane road, so you are in Shillong by mid-afternoon even on a late-morning flight. Both nights are in the same hotel, which means no packing and unpacking.",
+    "The one full day covers the classic city loop: Shillong Peak at 1,965 m when it opens, the three tiers of Elephant Falls, the Don Bosco Museum and the Cathedral, and an evening walk through Police Bazar. Sohra and Dawki are left out on purpose; each needs a full day and would turn a weekend into a rush. If you can add a night, see our Shillong and Cherrapunji trip."
+  ],
+  "highlights": [
+    "Umiam Lake viewpoint on the way up, and an optional boat ride at the Water Sports Complex on the way back",
+    "Shillong Peak at 1,965 m, the highest point around the city, at opening time for the clearest view",
+    "Elephant Falls, three tiers of water about 12 km from Police Bazar with a short stepped walk",
+    "Don Bosco Museum, seven floors on the cultures of the Northeast, and a rooftop view over Mawlai",
+    "Live music and coffee in Laitumkhrah, the part of Shillong that stays up after 8 pm",
+    "Same hotel both nights, with 3 to 3.5 hour drives at each end"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong via Umiam Lake",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport or the railway station with a name board. The road climbs gently after Jorabat, where you leave Assam, and passes pineapple stalls at Byrnihat and Nongpoh; a tea stop at Nongpoh is the usual break. About 15 km before Shillong, stop at the Umiam Lake viewpoint for twenty minutes; the reservoir sits at about 980 m with pine ridges on three sides. Check in by mid-afternoon. Late in the day walk to Ward's Lake and Police Bazar, which is compact and safe to explore on foot. If your flight lands after 1 pm, we skip the lake stop and add it on Day 3.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Shillong Peak, Elephant Falls and the city",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "Local sightseeing · about 40 km",
+      "text": "Leave the hotel by 8.45 am so you reach Shillong Peak soon after it opens. It sits inside an Air Force area, so every adult needs original photo ID, and it has been closed on some weekdays; we confirm the evening before. The view from 1,965 m takes in the whole city. Elephant Falls is 3 km away: allow 45 minutes for the steps down to the lower tier and back. After lunch, spend 90 minutes at the Don Bosco Museum, then see the Cathedral of Mary Help of Christians. Evenings are for Laitumkhrah, where several cafes host live music on weekends. Carry a warm layer from October to March.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Umiam Lake boating and return to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "After breakfast, check out around 9 am. If time allows, stop at the Umiam Water Sports Complex, run by the state tourism department, for a speedboat or paddle boat ride of 15 to 30 minutes; it takes about an hour including the ticket queue. Buy pineapples, bay leaves or local tea at the Nongpoh roadside stalls. Traffic thickens near Jorabat and on the Guwahati bypass after 2 pm, so we plan a 3 to 3.5 hour drive and ask you to book flights leaving after 2.30 pm, or trains after 3 pm. Your driver drops you at the airport terminal or station entrance.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "2 nights in a standard hotel in Shillong, twin sharing",
+    "Daily breakfast and dinner at the hotel",
+    "Private car (Dzire or similar sedan) for all transfers and sightseeing in the itinerary",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Driver allowance, fuel, tolls and parking",
+    "Shillong Peak and Elephant Falls visits as per the day plan",
+    "Hotel taxes as applicable",
+    "WhatsApp support from our Guwahati desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights and train tickets to and from Guwahati",
+    "Entry fees at Shillong Peak, Elephant Falls, Don Bosco Museum and Umiam Lake",
+    "Boating charges at Umiam Lake",
+    "Lunches, drinks and snacks",
+    "Camera fees where charged",
+    "Tips, laundry, phone calls and other personal expenses",
+    "Travel insurance",
+    "Extra costs from road closures, landslides or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Centre Point or Pinewood Hotel (Meghalaya Tourism), or similar" },
+    { "tier": "Premium", "options": "Polo Towers Shillong or Hotel Pegasus Crown, or similar" },
+    { "tier": "Luxury", "options": "Vivanta Meghalaya Shillong or Courtyard by Marriott Shillong, or similar" }
+  ],
+  "good_to_know": [
+    "Shillong Peak is inside an Indian Air Force area: carry original photo ID, and note that foreign nationals have generally not been allowed in; check current status before you travel",
+    "Hotels and homestays in Meghalaya must register every guest on the state tourism system, so keep ID for each adult handy at check-in",
+    "Weekend traffic in Police Bazar is slow between 5 and 8 pm; walking is often quicker than driving",
+    "Most shops and many restaurants in Shillong close by 8.30 to 9 pm; cafes in Laitumkhrah stay open later",
+    "Shillong is 1,525 m and nights drop to 4 to 8°C from December to February, so pack a proper jacket",
+    "Carry some cash; smaller entry counters and stalls may not accept cards"
+  ],
+  "faqs": [
+    { "q": "Is 2 nights enough for Shillong?", "a": "Two nights is enough for Shillong city itself: Umiam Lake, Shillong Peak, Elephant Falls, the Don Bosco Museum and an evening in Police Bazar or Laitumkhrah. It is not enough for Sohra or Dawki, which each need a full day. Add one night for Sohra, or two for Sohra and Dawki." },
+    { "q": "How far is Shillong from Guwahati Airport?", "a": "Shillong is about 120 km from Guwahati Airport and about 100 km from Guwahati Railway Station. By car it takes 3 to 3.5 hours on the four-lane highway via Jorabat and Nongpoh, a little longer on Friday evenings and Sunday afternoons. We plan the drives with a tea break at Nongpoh." },
+    { "q": "What does the Shillong weekend package cost?", "a": "It starts at ₹9,500 per person on twin sharing with a standard hotel, breakfast and dinner, and a private sedan for the whole trip. Premium hotels add roughly ₹2,500 to ₹4,000 per person, and luxury hotels more. Solo travellers pay a single supplement because the car and room are not shared." },
+    { "q": "Which is the best time for a Shillong weekend?", "a": "October to May is the most reliable, with October, November and March giving clear views from Shillong Peak. December to February is cold but dry. June to September is fine for a rainy city break, but cloud can hide Shillong Peak and Umiam Lake, so keep expectations flexible." },
+    { "q": "Can we visit Cherrapunji on this weekend trip?", "a": "Not comfortably. Sohra is 55 km from Shillong, 1.5 to 2 hours each way, and its viewpoints need at least five hours. Doing it on Day 2 means dropping the city sights; doing it on Day 3 risks your flight. We recommend adding one night and taking our Shillong and Cherrapunji plan." },
+    { "q": "Is Shillong Peak open every day?", "a": "Shillong Peak is inside an Air Force area and has been closed on some weekdays, with short opening hours. Timings change at short notice, so we confirm the evening before and swap the order of the day if needed. Every adult needs original photo ID. Check current status before you travel." },
+    { "q": "Is this trip suitable for parents and small children?", "a": "Yes. The drives are on good roads, both nights are in one hotel, and walking is light. The only steps are at Elephant Falls, where the lowest tier involves a few hundred steps; seniors can stop at the first viewpoint. We can also add a child seat if you tell us in advance." },
+    { "q": "Do we need a permit for Shillong?", "a": "Indian and foreign tourists do not need a permit to visit Shillong or the sights on this trip. Hotels do register every guest on the state system, so carry government photo ID for all adults. Foreign guests should carry their passport and visa, and note that Shillong Peak has generally been closed to them." },
+    { "q": "What should we pack for a Shillong weekend?", "a": "Pack a warm jacket from November to February, a light fleece in spring and autumn, and an umbrella or rain jacket from May to September. Comfortable walking shoes help on the Elephant Falls steps. Shillong is about 1,525 m, so mornings and evenings are cooler than Guwahati all year." }
+  ]
+}

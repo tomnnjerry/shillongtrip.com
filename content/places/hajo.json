@@ -1,0 +1,66 @@
+{
+  "slug": "hajo",
+  "name": "Hajo",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Kamrup",
+  "types": ["pilgrimage", "temple", "heritage", "day-trip"],
+  "tagline": "One hill town sacred to Hindus, Buddhists and Muslims",
+  "altitude_m": 50,
+  "coords": [26.2486, 91.5256],
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "best_time": "October to March for cool mornings; the hilltop shrines have little shade in summer.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed",
+    "foreigners": "No RAP or PAP needed for Assam. Dress modestly and follow shrine rules"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 30, "hours": "1" },
+  "ideal_stay": "A half-day trip from Guwahati, combined with Sualkuchi",
+  "meta_description": "Hajo near Guwahati: Hayagriva Madhava temple, Poa Mecca, Kedareswara, Sualkuchi silk village, how to reach and 9 answered FAQs.",
+  "quick_answer": "Hajo is a small town about 25 to 30 km north-west of Guwahati, across the Brahmaputra, sacred to three faiths. Hindus and Buddhists visit the Hayagriva Madhava temple, Muslims the 17th-century Poa Mecca shrine, and Shiva devotees Kedareswara. Pair it with the silk-weaving town of Sualkuchi for an easy half-day trip.",
+  "intro": [
+    "Hajo is one of those places where the history of the region is packed into a few hills. Its temples and shrines have drawn pilgrims for centuries, and unusually for India, three faiths treat it as holy ground. We go there for the mix, the quiet hilltop views over paddy fields and the pond full of turtles at the main temple.",
+    "The Hayagriva Madhava temple on Monikut hill was rebuilt in 1583 by the Koch king Raghudeva Narayan, though local tradition takes its origins back much further. Hindus worship Vishnu here, and many Buddhists, especially from Bhutan and Tibetan communities, believe it is where the Buddha attained parinirvana. On Garurachal hill, Poa Mecca holds the tomb of Giyasuddin Aulia; tradition says a visit earns a quarter of the merit of a pilgrimage to Mecca.",
+    "On Madanachal hill, the Kedareswara Shiva temple has inscriptions from the Ahom period, and a Ganesh temple at its base has a large image carved from a single boulder. Twelve kilometres away, Sualkuchi is Assam's best-known silk-weaving town, where you can watch muga, pat and eri silk being woven on handlooms."
+  ],
+  "highlights": [
+    { "name": "Hayagriva Madhava temple", "text": "A stone temple on Monikut hill, rebuilt in 1583, sacred to Hindus and Buddhists. The temple pond below has large, old turtles." },
+    { "name": "Poa Mecca", "text": "A 17th-century shrine on Garurachal hill with the tomb of Giyasuddin Aulia and an inscription dated 1657. Busy on Fridays." },
+    { "name": "Kedareswara temple", "text": "A Shiva temple on Madanachal hill with Ahom-period inscriptions and a large lingam. Reached by a flight of steps." },
+    { "name": "Ganesh temple", "text": "At the foot of Madanachal hill, with a Ganesh image carved from a single rock." },
+    { "name": "Sualkuchi silk village", "text": "About 12 km away, with thousands of handlooms weaving muga, pat and eri silk. Visit a weaving house and buy mekhela chador direct." }
+  ],
+  "things_to_do": [
+    "Climb to the Hayagriva Madhava temple and see the turtles in the pond",
+    "Visit Poa Mecca on Garurachal hill and the view from its hilltop",
+    "Climb the steps to Kedareswara temple on Madanachal hill",
+    "See the rock-carved Ganesh image at the foot of Madanachal",
+    "Watch silk being woven in Sualkuchi and buy mekhela chador or stoles",
+    "Stop at the Madan Kamdev ruins if you have extra time, about 30 km further",
+    "Cross back to Guwahati for a sunset river cruise the same evening"
+  ],
+  "how_to_reach": "Hajo is about 25 to 30 km north-west of Guwahati city, depending on where you start, a drive of about an hour across the Saraighat bridge at Jalukbari and through North Guwahati. From Guwahati airport it is about 30 km. City and private buses run to Hajo from Adabari bus stand in Guwahati, but a hired car is easier for combining Hajo with Sualkuchi, 12 km away. Weekend traffic on the Saraighat bridge can add time.",
+  "where_to_stay": "Most travellers visit Hajo as a half-day trip and stay in Guwahati. Hotels in Jalukbari or Adabari on the western side of Guwahati, or on the airport side, are closest to the Saraighat bridge. Hajo itself has only a few basic lodges and guest houses near the temples, used mostly by pilgrims. North Guwahati has a small number of quieter hotels and resorts by the river, which also suit a visit to Sualkuchi.",
+  "tips": [
+    "Go in the morning, when the steps are cooler and the temples less crowded",
+    "Dress modestly for all three faiths and carry a scarf to cover your head at Poa Mecca",
+    "Remove shoes at temples and the shrine, and ask before photographing inside",
+    "Sualkuchi weavers often close by late afternoon; visit before 4 pm",
+    "Buy silk from established weaving houses and ask whether it is pure muga or pat",
+    "Carry water; the hilltops have few shops"
+  ],
+  "faqs": [
+    { "q": "Why is Hajo important?", "a": "Hajo is sacred to three faiths. Hindus worship Vishnu at the Hayagriva Madhava temple, which many Buddhists believe is where the Buddha attained parinirvana. Muslims visit Poa Mecca, the 17th-century shrine of Giyasuddin Aulia. Shiva devotees climb to Kedareswara temple. It is one of the oldest pilgrimage centres in Assam." },
+    { "q": "How far is Hajo from Guwahati?", "a": "Hajo is about 25 to 30 km north-west of Guwahati, around an hour by car across the Saraighat bridge. Buses run from Adabari bus stand in Guwahati. Most visitors hire a car so they can combine Hajo with the silk-weaving town of Sualkuchi, about 12 km away." },
+    { "q": "What is Poa Mecca?", "a": "Poa Mecca is a shrine on Garurachal hill in Hajo containing the tomb of Giyasuddin Aulia, with an inscription dated 1657. Poa means a quarter, and local tradition holds that a pilgrimage here earns a quarter of the spiritual merit of a pilgrimage to Mecca. People of all faiths visit." },
+    { "q": "Why do Buddhists visit Hajo?", "a": "Many Buddhists, especially from Bhutan and Tibetan communities, believe the Hayagriva Madhava temple is the site where the Buddha attained parinirvana, and they visit it as a sacred place, particularly in winter. Most historians place the Buddha's death at Kushinagar, but the local belief has drawn pilgrims for centuries." },
+    { "q": "What is Sualkuchi famous for?", "a": "Sualkuchi, about 12 km from Hajo and 35 km from Guwahati, is Assam's best-known silk-weaving town. Families weave muga, pat and eri silk on handlooms in their homes and workshops. You can watch weavers at work and buy mekhela chador, saris and stoles directly. Visit before about 4 pm." },
+    { "q": "How much time do I need for Hajo?", "a": "Half a day is enough to see the Hayagriva Madhava temple, Poa Mecca, Kedareswara and the Ganesh temple, with a stop at Sualkuchi on the way back. Start early from Guwahati to finish by lunch and have the afternoon free for Kamakhya or a Brahmaputra cruise." },
+    { "q": "What is the best time to visit Hajo?", "a": "October to March is best, with cool mornings for climbing the steps to the hilltop temples. Festival days such as Doul (Holi) at Hayagriva Madhava draw big crowds. Summers are hot and humid, and the steps have little shade, so go early in the morning in any season." },
+    { "q": "Is there a dress code at Hajo?", "a": "There is no written dress code, but modest clothes covering shoulders and knees are expected at all the temples and at Poa Mecca. Remove shoes before entering, and carry a scarf to cover your head at Poa Mecca. Ask before taking photographs inside the shrines." },
+    { "q": "Can I visit Hajo with Kamakhya on the same day?", "a": "Yes. Visit Kamakhya at opening time, then drive about 45 minutes across the Saraighat bridge to Hajo and Sualkuchi, and return to Guwahati by late afternoon for a Brahmaputra sunset cruise. Queues at Kamakhya can be long, so keep the afternoon flexible." }
+  ],
+  "nearby": ["guwahati", "kamakhya-temple", "pobitora", "manas"],
+  "image_query": "Hayagriva Madhava temple Hajo"
+}

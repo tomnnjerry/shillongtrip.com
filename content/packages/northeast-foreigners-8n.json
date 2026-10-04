@@ -1,0 +1,158 @@
+{
+  "slug": "northeast-foreigners-8n",
+  "title": "Northeast for International Travellers",
+  "nights": 8,
+  "themes": ["international", "culture"],
+  "states": ["meghalaya", "assam"],
+  "places": ["shillong", "mawphlang-sacred-forest", "sohra", "nongriat-root-bridges", "nohkalikai-falls", "guwahati", "kamakhya-temple", "kaziranga", "majuli"],
+  "hero": "nongriat-root-bridges",
+  "price_from_inr": 64500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 1525,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Jorhat Airport (JRH)",
+  "meta_description": "Northeast India for foreign travellers, 8 nights / 9 days, no Protected Area Permit needed: Shillong, root bridges, Guwahati, Kaziranga and Majuli.",
+  "quick_answer": "This 8-night route is built for foreign passport holders and needs no Protected Area Permit: Shillong and Mawphlang, two nights in Sohra with the Nongriat root bridge, Guwahati and Kamakhya, two Kaziranga safaris and two nights on Majuli. An English-speaking escort travels with you throughout. Best October to April.",
+  "overview": [
+    "Since December 2024, foreigners again need a Protected Area Permit for Nagaland, Manipur and Mizoram, and Arunachal has long required one. Meghalaya and Assam do not. This route stays inside those two states, so you need only your Indian visa and passport, and your hotels file the standard Form C registration for you. You still see a wide range: Khasi villages and sacred forests in the hills, the living root bridges below Sohra, the Brahmaputra at Guwahati, rhinos in Kaziranga and the Vaishnav monasteries of Majuli.",
+    "An English-speaking escort travels with you from arrival to departure, handling hotel check-ins, guest registration, safari bookings and ferry tickets, and explaining the places as you go. Local Khasi, Assamese and Mising guides join at key sites. Hotels are the better-run properties on each stop, with reliable hot water and Western breakfasts alongside local food. The trip ends in Jorhat, with connections to Kolkata and Delhi. If you want Nagaland or Arunachal too, we can add them and arrange the permit through the proper channels."
+  ],
+  "highlights": [
+    "No Protected Area Permit needed: the whole route stays in Meghalaya and Assam",
+    "Mawphlang Sacred Forest with a Khasi guide who explains the forest's rules and monoliths",
+    "A guided day hike to the Nongriat double decker root bridge",
+    "Kamakhya Temple and an evening on the Brahmaputra in Guwahati",
+    "Two jeep safaris in Kaziranga, home to about two-thirds of the world's one-horned rhinos",
+    "Two nights on Majuli with mask-makers, satra prayers and Mising villages"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Guwahati, drive to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "115 km · 3–3.5 hrs",
+      "text": "Most international travellers reach Guwahati on a domestic connection from Delhi, Kolkata or Bengaluru. Your escort meets you at arrivals with a name board and a local SIM card if you want one, which needs your passport and visa. The 3 to 3.5 hour drive to Shillong climbs from the Brahmaputra plain into pine-covered hills, with a tea stop at the Umiam Lake viewpoint. At check-in the hotel records your passport details for Form C and registers you on the Meghalaya tourism app, which is routine. In the evening, walk Police Bazar with your escort for momos and jadoh, a Khasi rice and pork dish, or find a cafe with live music.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Mawphlang Sacred Forest and Don Bosco Museum",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 60 km in total · 2.5 hrs",
+      "text": "We drive 25 km south-west to Mawphlang, where a Khasi guide leads a 1.5-hour walk through the sacred forest, protected by clan tradition for centuries. Nothing may be taken out, not even a fallen leaf, and the guide explains the monoliths, sacrificial sites and the plants the community uses. Back in Shillong after lunch, the Don Bosco Museum gives the best overview of the Northeast's peoples you will find anywhere, across seven floors of dress, tools, music and ritual objects. Finish on its rooftop Skywalk. In the evening your escort can arrange a table at one of Shillong's music cafes; the city has a long tradition of blues and rock.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Shillong to Sohra, Nohkalikai and Mawsmai",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "60 km · 2 hrs, plus sightseeing",
+      "text": "The road south to Sohra, also known as Cherrapunji, crosses rolling grassland with a stop at the Mawkdok Dympep gorge. At Nohkalikai Falls, water drops 340 m from the plateau edge into a green pool; the flow is strongest from June to October and thin from December to February. After a Khasi lunch, walk through Mawsmai Cave, a short, lit limestone cave with a few narrow squeezes, and then stand at the Mawsmai viewpoint above the Seven Sisters cliffs, with Bangladesh's flat plains below. Sohra holds some of the highest rainfall records on earth, and the weather changes quickly, so keep a light rain jacket. Tonight's resort sits on the plateau edge.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Day hike to the Nongriat root bridge",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "25 km return · 1 hr, plus 5–6 hrs walking",
+      "text": "After an early breakfast we drive to Tyrna village with a local guide and walk down about 3,500 concrete steps through forest and betel nut groves, crossing two steel rope bridges. The descent takes 1.5 to 2 hours. At Nongriat, the double decker root bridge, two levels of living rubber-tree roots trained across a stream by Khasi villagers over generations, spans a clear pool where you can swim in warm weather. Rest, have a simple lunch at a village stall, and start the climb back by 1 pm; going up takes about two hours with rests. The walk is steep but not technical. If your knees object, the guide shows you a shorter root bridge nearer the road.",
+      "meals": "Breakfast, Packed lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Sohra to Guwahati and Kamakhya",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "About 155 km · 4.5 hrs",
+      "text": "We drive back through Shillong and down to Guwahati, arriving by early afternoon. After lunch we visit Kamakhya Temple on Nilachal hill, one of the most important Shakti temples in India, where the goddess is worshipped in a natural rock form rather than an idol. The courtyards are busy with pilgrims, priests and goats; dress modestly, remove your shoes at the entrance and expect crowds. The temple closes for the afternoon break until about 2.30 pm and for darshan at about 5.15 pm. In the early evening we take a cruise on the Brahmaputra, subject to operation, and watch the sun set over a river more than a kilometre wide.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Guwahati to Kaziranga, afternoon safari",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "About 200 km · 4.5–5 hrs",
+      "text": "We leave Guwahati at 7.30 am and drive east on the highway through Nagaon. From Jakhalabandha, the road runs along Kaziranga's southern edge, and rhinos often graze within sight of the highway. We reach your lodge near Kohora for lunch. The afternoon jeep safari in the Central or Western Range runs about two hours through tall elephant grass and wetlands. Rhinos are almost certain; you will likely also see wild water buffalo, swamp deer, wild elephants and many birds, including pelicans and storks. Tigers live here but are seen only occasionally. Foreigners pay a higher park entry fee than Indians, which your escort settles at the gate.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Morning safari, ferry to Majuli",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "About 95 km · 2.5 hrs, plus ferry 1–1.5 hrs",
+      "text": "The second safari starts around 7 am in a different range, often the Eastern Range at Agaratoli for its water birds, or the Central Range again for rhino. After breakfast we continue north-east to Nimati Ghat near Jorhat and cross the Brahmaputra by ferry, with the car on board. Majuli is one of the largest river islands in the world and the centre of Assam's neo-Vaishnav monastic tradition, begun by the saint Srimanta Sankardev in the 15th and 16th centuries. In the late afternoon a local guide takes you to a satra, a monastery, for the evening prayers with cymbals and drums. You stay in a bamboo cottage.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Satras, mask-makers and Mising villages",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "About 40 km on the island · 3 hrs",
+      "text": "Start at Samaguri Satra, where monks make masks for the island's religious theatre from bamboo, clay and cloth; you can watch the work and buy a small mask. Then visit Auniati Satra, with its museum of old utensils and manuscripts, and Kamalabari Satra, known for dance and music. After lunch your guide takes you into a Mising village, where houses stand on stilts against the floods and women weave on looms underneath. If you are interested, you can try a short cycle ride between villages. In the evening, watch the sunset over the river channels and share a Mising dinner of fish, greens and rice at your guesthouse.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Ferry to Jorhat for departure",
+      "stay": "Departure",
+      "altitude_m": 116,
+      "drive": "About 35 km · 2.5 hrs including the ferry",
+      "text": "After breakfast we take a morning ferry back to Nimati Ghat and drive about 20 km to Jorhat Airport, which has flights to Kolkata and Delhi for international connections. Ferries can be delayed by fog in winter or low water, so we book flights after 1 pm where possible. If your flight is late, we can visit a tea estate near Jorhat, the heart of Assam's tea country, to see plucking and processing in season. If you would rather return to Guwahati, it is about seven hours by road or train. Your escort stays with you until check-in. Please share feedback, since international travellers help us refine this route.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "8 nights on twin sharing in better-run hotels, a Sohra resort and a Majuli bamboo cottage",
+    "Daily breakfast and dinner, plus lunch on Majuli and a packed lunch on the root bridge hike",
+    "English-speaking escort for the whole trip, from Guwahati arrival to Jorhat departure",
+    "Local guides at Mawphlang, Nongriat, Kamakhya, Kaziranga and Majuli",
+    "Private air-conditioned vehicle for all transfers and sightseeing",
+    "Two jeep safaris in Kaziranga with foreigner park entry",
+    "Brahmaputra ferry crossing to Majuli with the vehicle",
+    "Brahmaputra evening cruise in Guwahati, subject to operation",
+    "Hotel Form C filing and Meghalaya guest registration handled with each stay",
+    "24-hour phone and WhatsApp support"
+  ],
+  "exclusions": [
+    "International and domestic flights",
+    "Indian visa fees",
+    "Camera fees at Kaziranga and entry fees at villages, caves, museums and temples",
+    "Lunches except where listed, drinks and snacks",
+    "Tips for escort, guides and drivers",
+    "Travel and medical insurance",
+    "Protected Area Permits, needed only if you add Nagaland, Mizoram, Manipur or Arunachal",
+    "Costs from flight changes, strikes, fog or ferry suspensions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Hotel Centre Point, Shillong; Sa-I-Mika Park, Sohra; Hotel Nandan, Guwahati; Aranya Tourist Lodge, Kaziranga; Me:Po Okum, Majuli; or similar" },
+    { "tier": "Premium", "options": "Tripura Castle, Shillong; Cherrapunjee Holiday Resort, Sohra; Novotel Guwahati GS Road; Iora The Retreat, Kaziranga; La Maison de Ananda, Majuli; or similar" },
+    { "tier": "Luxury", "options": "Ri Kynjai, Umiam, near Shillong; Polo Orchid Resort, Sohra; Vivanta Guwahati; Diphlu River Lodge, Kaziranga; La Maison de Ananda, Majuli, as the island has no luxury hotels; or similar" }
+  ],
+  "good_to_know": [
+    "Assam and Meghalaya need no Protected Area Permit. Nagaland, Manipur and Mizoram have required one again since 17 December 2024, and Arunachal requires one through a registered operator. Check current status before you travel.",
+    "Carry your passport and visa at all times. Hotels file Form C with the authorities, and Meghalaya stays also register you on the state tourism app.",
+    "Kaziranga charges foreigners ₹650 park entry at the last check, against ₹100 for Indians, and jeep hire costs more. The park opens in phases from October and closes from about May. Check current status before you travel.",
+    "Get a local SIM in Guwahati with your passport and visa; mobile data works well in Shillong, Guwahati and Kaziranga and patchily in Sohra and on Majuli.",
+    "Dress modestly for Kamakhya and the Majuli satras. Remove shoes before entering, and ask before photographing people or prayer halls.",
+    "Several foreign governments advise against travel to Manipur, which is not on this route. Check current advisories before booking any extension."
+  ],
+  "faqs": [
+    { "q": "Do foreigners need a permit for Meghalaya and Assam?", "a": "No. Meghalaya and Assam have no Protected Area Permit or Inner Line Permit for foreign nationals. You need a valid Indian visa and passport, and hotels file the usual Form C registration. Meghalaya also registers all guests on its tourism app. Check current status before you travel, since Northeast rules change." },
+    { "q": "Which Northeast states need a Protected Area Permit for foreigners?", "a": "Arunachal Pradesh, Nagaland, Manipur and Mizoram. The central government reimposed the permit for Nagaland, Manipur and Mizoram on 17 December 2024. Arunachal permits are arranged through a registered tour operator, usually for two or more travellers. Group and route rules differ by state. Check current status before you travel." },
+    { "q": "How much does this trip cost for international travellers?", "a": "It starts at ₹64,500 per person on twin sharing, with better-run hotels, an English-speaking escort throughout, local guides, a private air-conditioned vehicle, two Kaziranga safaris with foreigner entry, the Majuli ferry and breakfast and dinner daily. International and domestic flights, visa fees and most entry fees are extra." },
+    { "q": "How do I get to Guwahati from abroad?", "a": "Most travellers fly into Delhi, Kolkata, Mumbai or Bengaluru and take a domestic flight to Guwahati, which has frequent daily connections. Guwahati also has a few international routes, including Bangkok and Paro. Arriving by noon lets you reach Shillong the same day. The trip ends at Jorhat, with flights to Kolkata and Delhi." },
+    { "q": "Is Northeast India safe for foreign tourists?", "a": "Meghalaya and Assam on this route receive international visitors regularly, and your escort is with you throughout. As anywhere, bandhs (strikes) can close roads for a day at short notice, and we adjust the plan. Several governments advise against travel to Manipur, which this route avoids. Check your government's current advisory before booking." },
+    { "q": "Can I add Arunachal Pradesh or Nagaland?", "a": "Yes, with a Protected Area Permit. For Arunachal, we apply through a registered tour operator, usually for two or more travellers, with a royalty of roughly USD 30–50 per person. For Nagaland, the permit comes from the designated authorities before travel. Allow at least four weeks and check current status before you travel." },
+    { "q": "Is the root bridge hike difficult?", "a": "It is steep but straightforward: about 3,500 concrete steps down to Nongriat and back up, with railings and two steel rope bridges. It takes 5–6 hours in total with a rest at the bridge. Reasonably fit walkers manage well. If you prefer, your guide can take you to a shorter root bridge near the road instead." },
+    { "q": "What will the food be like?", "a": "Hotels serve Western breakfasts, Indian dishes and local food. Try Khasi jadoh and dohneiiong in Meghalaya, Assamese fish tenga and duck curry in Assam, and Mising dishes on Majuli. Spice levels can be adjusted on request. Drink bottled or filtered water, and tell us in advance about vegetarian, vegan or allergy needs." },
+    { "q": "When is the best time for this trip?", "a": "October to April. November to February is dry and cool, with clear views and Kaziranga fully open; Shillong nights can drop to 5°C. March and April are warmer with some storms. From June to September heavy rain fills the waterfalls but closes Kaziranga, and the root bridge steps get slippery." }
+  ]
+}

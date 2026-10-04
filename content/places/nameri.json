@@ -1,0 +1,66 @@
+{
+  "slug": "nameri",
+  "name": "Nameri National Park",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Sonitpur",
+  "types": ["wildlife", "national-park", "birding", "rafting"],
+  "tagline": "Foothill forest, river rafting and forest walks on the Jia Bhoroli",
+  "altitude_m": 100,
+  "coords": [27.0100, 92.7900],
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "best_time": "November to April, when the park is open for walks and the Jia Bhoroli is calm enough for rafting.",
+  "permit": {
+    "required": false,
+    "indians": "No state permit needed. Buy park entry, guide and armed guard fees at the range office at Potasali; carry photo ID",
+    "foreigners": "No RAP or PAP needed for Assam. Foreigners pay higher park fees; carry your passport at the range office"
+  },
+  "from_hub": { "hub": "Guwahati", "km": 215, "hours": "5" },
+  "ideal_stay": "2 nights at Potasali",
+  "meta_description": "Nameri National Park, Assam: forest walks, Jia Bhoroli rafting, white-winged wood duck, season, Potasali eco camp, how to reach and 9 FAQs.",
+  "quick_answer": "Nameri National Park is a 200 sq km tiger reserve in the foothills north of Tezpur, about 35 km from town and 215 km from Guwahati. There are no jeep safaris: you walk with an armed forest guard and raft down the Jia Bhoroli river. It is open roughly November to April and is excellent for birds.",
+  "intro": [
+    "Nameri is the park we suggest to people who find jeep safaris too passive. There are no vehicle tracks for tourists. Instead you cross the Jia Bhoroli river by boat from Potasali and walk into semi-evergreen forest with an armed forest guard, listening for hornbills and watching for elephant dung on the trail.",
+    "The park covers 200 sq km of the Himalayan foothills where the Jia Bhoroli leaves Arunachal Pradesh, and it joins Pakke Tiger Reserve across the state border, forming a protected block of more than 1,000 sq km. It was declared a national park in 1978 and became a tiger reserve in 2000. Tigers are present but rarely seen; the draw is the birdlife, including the white-winged wood duck, great and wreathed hornbills and the ibisbill on the river in winter.",
+    "The other reason to come is the river. Gentle rafting trips float down the clear Jia Bhoroli past the park edge, with small rapids, sandbanks and birds on every bend. Nameri sits on the road to Bhalukpong and Tawang, so it also makes a calm first or last stop on an Arunachal trip."
+  ],
+  "highlights": [
+    { "name": "Guided forest walks", "text": "Two to three hour walks with an armed forest guard, starting with a boat crossing of the Jia Bhoroli. Early morning is best for birds and fresh tracks." },
+    { "name": "Jia Bhoroli rafting", "text": "Gentle rafting of about 13 km, taking 2 to 3 hours, suitable for beginners. It runs in the dry season and stops when the river is high." },
+    { "name": "White-winged wood duck", "text": "One of the rarest ducks in Asia, found in forest pools in Nameri. Sightings need patience and a good guide." },
+    { "name": "Hornbills and river birds", "text": "Great, wreathed and oriental pied hornbills in the forest, and ibisbill, river lapwing and mergansers along the river in winter." },
+    { "name": "Potasali", "text": "The small gateway settlement on the river, with the range office, eco-camp tents and cottages, and easy riverside walks." }
+  ],
+  "things_to_do": [
+    "Take an early-morning forest walk with an armed guard from Potasali",
+    "Raft down the Jia Bhoroli in the late morning or afternoon",
+    "Look for the white-winged wood duck with a specialist bird guide",
+    "Watch ibisbills and river birds on the shingle banks in winter",
+    "Try catch-and-release angling for golden mahseer if the local association is running it; rules change, so ask first",
+    "Walk along the riverbank at sunset near the eco-camp",
+    "Combine Nameri with Kaziranga or break the journey to Bhalukpong and Tawang"
+  ],
+  "how_to_reach": "Nameri's gateway, Potasali, is about 35 km north of Tezpur, roughly an hour's drive, and about 215 km from Guwahati, 5 hours by road via Tezpur. Tezpur has a small airport with limited flights and a railway station, but most travellers fly into Guwahati and drive. Buses and shared taxis run from Tezpur towards Bhalukpong and can drop you at the Potasali turn-off, 2 to 3 km from the camp. From Kaziranga's Kohora, Nameri is about 110 km, 2.5 hours across the Kolia Bhomora bridge.",
+  "where_to_stay": "Most stays are at Potasali, a short walk from the range office and river. Nameri Eco Camp, run by a local angling and conservation association, has been the classic base for years, with tents and simple cottages and help with walks and rafting. A few other eco-lodges and homestays have opened along the approach road, ranging from basic to comfortable cottages. Expect limited electricity, warm water on request and set meals. Tezpur's hotels are an option if you only want a day visit, but you lose the dawn walk.",
+  "tips": [
+    "Carry the photo ID you will register with; permits and guards are arranged at the Potasali range office",
+    "Wear shoes with grip for the forest walk and river stones, and long trousers against leeches after rain",
+    "Rafting and walks stop when the river rises; check current status before you travel in October or May",
+    "Bring binoculars and ask for a dedicated bird guide if birds are your main interest",
+    "Nights are cool in December and January, and tents can be damp; pack a warm layer",
+    "Mobile coverage is patchy at Potasali; tell family before you arrive"
+  ],
+  "faqs": [
+    { "q": "Is there a jeep safari in Nameri National Park?", "a": "No. Nameri does not offer jeep safaris for tourists. You explore on guided walks with an armed forest guard, starting with a short boat crossing of the Jia Bhoroli river at Potasali, and many visitors also take a rafting trip down the river along the park edge. This makes it very different from Kaziranga." },
+    { "q": "When is Nameri National Park open?", "a": "Nameri is usually open for visitors from about 1 November to 30 April. Forest walks and rafting stop in the monsoon because of high water and heavy rain. November to March is the best time for birds and calm rafting. Dates can vary with weather, so check current status before you travel." },
+    { "q": "How far is Nameri from Tezpur and Guwahati?", "a": "Potasali, the gateway to Nameri, is about 35 km north of Tezpur, roughly an hour's drive on the road to Bhalukpong. From Guwahati it is about 215 km, around 5 hours via Tezpur. From Kaziranga's Kohora it is about 110 km, around 2.5 hours across the Kolia Bhomora bridge." },
+    { "q": "What is rafting on the Jia Bhoroli like?", "a": "It is gentle, scenic rafting rather than white-water adventure. Trips usually start about 13 km upstream and float down to Potasali in 2 to 3 hours, with small rapids, sandbanks and plenty of birds. Beginners and older children can usually join. Operators provide life jackets; it only runs when the river is low and calm." },
+    { "q": "What birds can I see in Nameri?", "a": "More than 370 bird species have been recorded, including the endangered white-winged wood duck, great and wreathed hornbills, ibisbill, long-billed plover, river lapwing, mergansers and many forest species. Winter mornings with a local bird guide give the best results. Carry binoculars and be patient at forest pools." },
+    { "q": "Where should I stay in Nameri?", "a": "Stay at Potasali, near the range office and river. Nameri Eco Camp, run by a local angling and conservation association, offers tents and simple cottages and arranges walks and rafting. A few other eco-lodges and homestays line the approach road. Facilities are basic, with set meals and limited electricity." },
+    { "q": "Can I see tigers or elephants in Nameri?", "a": "Nameri is a tiger reserve and has elephants, gaur, leopards and clouded leopards, but thick forest means sightings on foot are rare. Elephants are the most commonly seen large mammal, sometimes from the river. Walk quietly behind your guard and follow instructions if you meet one. Birds are the reliable highlight." },
+    { "q": "How many days do I need for Nameri?", "a": "Two nights is ideal. Arrive in the afternoon for a riverside walk, take a forest walk early the next morning and a rafting trip later, then leave the following morning. If you are heading to Tawang, one night at Nameri breaks the drive to Bhalukpong and Dirang nicely." },
+    { "q": "Can I combine Nameri with Kaziranga?", "a": "Yes. Kohora in Kaziranga is about 110 km or 2.5 hours from Nameri, via the Kolia Bhomora bridge near Tezpur. A common plan is two nights in Kaziranga for safaris and two in Nameri for walks and rafting. Birders often add Nameri to see species that are hard to find in Kaziranga's grasslands." }
+  ],
+  "nearby": ["tezpur", "kaziranga", "bomdila", "dirang"],
+  "image_query": "Nameri National Park Jia Bhoroli river"
+}

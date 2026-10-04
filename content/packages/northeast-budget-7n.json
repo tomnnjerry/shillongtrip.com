@@ -1,0 +1,146 @@
+{
+  "slug": "northeast-budget-7n",
+  "title": "Northeast on a Budget",
+  "nights": 7,
+  "themes": ["budget", "solo"],
+  "states": ["meghalaya", "assam"],
+  "places": ["guwahati", "shillong", "shillong-peak", "laitlum-canyons", "sohra", "nohkalikai-falls", "nongriat-root-bridges", "kaziranga"],
+  "hero": "nongriat-root-bridges",
+  "price_from_inr": 19500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Budget Northeast trip, 7 nights / 8 days from Guwahati: Shillong guesthouses, a night in Nongriat by the root bridges, Sohra and a Kaziranga jeep safari.",
+  "quick_answer": "This 7 nights / 8 days budget trip covers Shillong, Sohra, a night in Nongriat village by the double-decker root bridge, and a jeep safari in Kaziranga, starting and ending in Guwahati. It uses clean guesthouses, a small car for transfers and shared jeeps. Solo travellers can swap the car for shared taxis to cut the price further.",
+  "overview": [
+    "The Northeast does not have to be expensive. Meghalaya's best sights, the Laitlum gorges, Nohkalikai Falls and the living root bridges of Nongriat, cost little more than a small village entry fee. What drives the price of most packages is the hotel and the private SUV. This trip uses clean, well-reviewed guesthouses, a small hatchback for the longer transfers, a village guesthouse in Nongriat and a shared jeep in Kaziranga.",
+    "It also suits solo travellers. Shillong has a young cafe and music scene, the Nongriat walk is one of the most sociable nights in the region, and Kaziranga jeeps take up to six people, so you can split one with other visitors at the booking counter. The Nongriat trail has about 3,500 steps each way and needs a registered guide under East Khasi Hills rules, so come reasonably fit. October to April is the dry season."
+  ],
+  "highlights": [
+    "A night in Nongriat village beside the double-decker living root bridge",
+    "Laitlum Canyons at sunrise and Shillong Peak at 1,965 m",
+    "Nohkalikai Falls and Mawsmai Cave in Sohra",
+    "A shared jeep safari in Kaziranga's Central range",
+    "Clean guesthouses and a small car, with a shared-taxi option for solo travellers",
+    "Shillong's cafes, live music and Khasi food on a small budget"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "120 km · 3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport for the 3 to 3.5 hour drive up NH-6 to Shillong, with a short stop at Umiam Lake. Solo travellers on the shared option can take a shared taxi from the airport or Guwahati's Paltan Bazaar instead. Check in to your guesthouse, which will register you on the Meghalaya tourism app, as every stay in the state now must. In the evening, eat like a local: jadoh (rice cooked with pork) and dohneiiong (pork in black sesame) at a Khasi eatery, followed by live music at a Laitumkhrah cafe on weekends.",
+      "meals": "No meals included"
+    },
+    {
+      "day": 2,
+      "title": "Laitlum sunrise and Shillong on foot",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "60 km · local",
+      "text": "Leave at 5 am for Laitlum Canyons, about 25 km away, where the ridge drops into deep gorges and villages cling to the slopes far below; entry is a small village fee. Back in town for breakfast. Drive to Shillong Peak, 1,965 m, inside an Air Force area; carry photo ID and check current status, because access has been restricted at times. Then Elephant Falls, three tiers down a short flight of steps. Spend the afternoon on foot: Ward's Lake, the old Police Bazaar lanes and Bara Bazar, one of the largest markets in the Northeast.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Shillong to Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "60 km · 2 hrs",
+      "text": "Drive about 55 km south to Sohra (Cherrapunji), stopping at the Mawkdok Dympep valley viewpoint. After lunch at a local dhaba, visit Nohkalikai Falls, a 340 m plunge into a green pool, fullest after the monsoon. Walk through Mawsmai Cave, a short, lit limestone cave, and end at the Seven Sisters falls viewpoint for sunset. Entry at each site is a small village fee, typically under ₹100. Stay at a guesthouse in Sohra town. Sleep early: tomorrow's walk down to Nongriat is best started by 8 am, before the day warms up.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Walk down to Nongriat",
+      "stay": "Nongriat",
+      "altitude_m": 700,
+      "drive": "12 km · 30 min to Tyrna",
+      "text": "Drive 12 km to Tyrna village, where the trail starts and your registered guide meets you; East Khasi Hills has required registered guides for treks since June 2025. The path drops about 3,500 concrete steps to Nongriat, crossing two steel suspension bridges over clear pools and a single root bridge on the way; allow 1.5 to 2 hours. Check in to a village guesthouse by lunch. The double-decker root bridge, two spans of Ficus elastica roots trained by Khasi villagers, is a few minutes away. In the afternoon, fit walkers can continue about 1.5 hours to Rainbow Falls. The trail is reported closed on Sundays.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Climb out of Nongriat and back to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "70 km · 2.5 hrs from Tyrna",
+      "text": "Go down to the double-decker bridge at 6.30 am, before the day visitors arrive, and have the pools almost to yourself. After breakfast, start the climb back to Tyrna, about 2 to 2.5 hours up the 3,500 steps; take it slowly, drink water and rest on the landings. Porters are available in the village if you want your bag carried. Your car meets you at Tyrna for the drive back to Shillong via Sohra. Spend the evening resting your legs in a Shillong cafe; most people feel their calves for a day or two.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Shillong to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "250 km · 6.5 hrs",
+      "text": "Leave Shillong at 7.30 am and drive down to Jorabat, then east on NH-27 through Nagaon to Kohora at the edge of Kaziranga's Central range. Lunch at a highway dhaba. On the shared option, you can take a shared taxi to Guwahati and a state bus to Kohora; buses on the Jorhat and Tezpur routes stop at Kohora. Check in to a budget lodge or homestay near Kohora by mid-afternoon. Go to the jeep booking counter at the Central range gate in the evening to confirm tomorrow's jeep; solo travellers can share one with up to five others.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Kaziranga jeep safari and back to Guwahati",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "195 km · 4.5 hrs",
+      "text": "Take the morning jeep safari in the Central range, from about 7.30 am, for about 2 hours on the tracks through tall grass and wetlands. One-horned rhinos, wild buffalo, swamp deer, elephants and water birds are common. Park entry is ₹100 per Indian adult and ₹650 per foreign adult; the jeep costs from about ₹3,500 and is split among its passengers. After breakfast, drive back to Guwahati, about 4.5 hours. Stay near Paltan Bazaar, and in the evening walk the Brahmaputra riverfront at Uzan Bazar or Fancy Bazar for cheap street food.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 8,
+      "title": "Depart Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "25 km · 1 hr",
+      "text": "After breakfast, head to Guwahati Airport, about 25 km from Paltan Bazaar; allow an hour. If your flight is later in the day, visit Kamakhya temple on Nilachal hill, where the general queue is free and can be booked online, or the Assam State Museum near Dighalipukhuri, which is inexpensive and worth an hour. City buses and app cabs run to the airport if you want to go on your own. Our desk stays on WhatsApp until you board, and can suggest cheap ways to add Majuli or Dawki next time.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "7 nights in clean guesthouses and homestays on twin sharing: 3 Shillong, 1 Sohra, 1 Nongriat, 1 Kaziranga, 1 Guwahati",
+    "Daily breakfast; all meals in Nongriat",
+    "Small private car (Swift Dzire, WagonR or similar) for airport, Sohra, Tyrna and Kaziranga transfers",
+    "Registered local guide for the Nongriat trail",
+    "One seat in a shared Kaziranga jeep safari (Central range)",
+    "Help booking shared taxis and buses for solo travellers on the shared option",
+    "Driver allowance, fuel, tolls, parking and Meghalaya entry tax",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Lunches and dinners outside Nongriat",
+    "Kaziranga entry and camera fees",
+    "Village entry fees at Laitlum, Nohkalikai, Mawsmai and Nongriat, typically under ₹100 each",
+    "Porters on the Nongriat trail",
+    "Local city sightseeing in Guwahati",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Samanbha Guest House or East Land Bed & Breakfast, or similar. Sohra: Aisha Guest House or Sunset View Guest House, or similar. Nongriat: village guesthouse. Kaziranga: Kaziranga Tea Nest Homestay or similar. Guwahati: Treebo Green Pearl Inn or similar" },
+    { "tier": "Premium", "options": "Shillong: Windermere Hotel or similar. Sohra: Cherrapunjee Holiday Resort or similar. Nongriat: best village guesthouse. Kaziranga: Wild Grass Lodge or similar. Guwahati: Kiranshree Grand or similar" },
+    { "tier": "Luxury", "options": "Shillong: Hotel Polo Towers or similar. Sohra: Polo Orchid Resort or similar. Nongriat: best village guesthouse. Kaziranga: Infinity Resorts Kaziranga or similar. Guwahati: Novotel Guwahati GS Road or similar" }
+  ],
+  "good_to_know": [
+    "The Nongriat trail has about 3,500 steps each way and needs a registered guide under East Khasi Hills rules since June 2025. It is reported closed on Sundays, so we plan day 4 on another day of the week. Check current status before you travel.",
+    "Meghalaya needs no permit, but every guesthouse must register you on the state tourism app. Self-drive rental vehicles are banned for tourists in Meghalaya.",
+    "Kaziranga opens in phases from about October and closes for the monsoon around May. Jeeps cost from about ₹3,500 each and take up to six people. Check current status before you travel.",
+    "Solo travellers pay a single-room supplement, or can choose a hostel bed in Shillong and Guwahati to keep the price close to the twin-share rate.",
+    "Carry cash. Nongriat and many Sohra guesthouses take UPI when the signal works, but the signal in Nongriat is weak.",
+    "Pack light for Nongriat: one small backpack, a torch, a rain jacket and shoes with good grip. Leave your main bag at the Sohra guesthouse or in the car."
+  ],
+  "faqs": [
+    { "q": "How much does a budget Northeast trip cost?", "a": "This 7 nights / 8 days trip starts from ₹19,500 per person on twin sharing, with guesthouses, breakfast, a small private car for transfers, a Nongriat guide and a shared Kaziranga jeep seat. Most lunches and dinners are extra, and cost ₹150–400 a meal at local eateries. Solo travellers pay a single supplement unless they choose hostel beds." },
+    { "q": "Is the Northeast safe for solo travellers?", "a": "Shillong, Sohra, Nongriat and Kaziranga are well-travelled and generally friendly for solo travellers, including women. Meghalaya now registers every guest on a state app linked to the police, and East Khasi Hills treks need registered guides. Use common sense after dark, share your plans with someone at home and keep our desk's WhatsApp number handy." },
+    { "q": "How hard is the walk to Nongriat?", "a": "The trail from Tyrna to Nongriat is about 3,500 concrete steps down, 1.5 to 2 hours, and 2 to 2.5 hours back up. The steps are well made, with two steel suspension bridges, but the climb out is steep and humid. Anyone who can climb 20 floors of stairs with rests can manage it. Porters are available in the village." },
+    { "q": "Do I need a guide for Nongriat?", "a": "Yes. Since June 2025, East Khasi Hills requires registered guides for treks and outdoor activities, and this covers the Nongriat trail. We include a registered guide from Tyrna. The trail is also reported closed on Sundays, so we plan the walk on another day. Check current status before you travel." },
+    { "q": "Can I do this trip by public transport?", "a": "Mostly, yes. Shared taxis run from Guwahati to Shillong and from Shillong's Bara Bazar to Sohra, and state buses stop at Kohora for Kaziranga. Local taxis cover Tyrna. It is slower, with waits for taxis to fill. We can book the stays and the Nongriat guide and let you travel by shared transport to lower the price." },
+    { "q": "Is a shared jeep safari in Kaziranga possible?", "a": "Yes. Kaziranga jeeps are hired per vehicle, about ₹3,500 and up, and take up to six passengers, so solo travellers and couples often share one with others at the range booking counter. Park entry is ₹100 per Indian adult and ₹650 per foreign adult, paid separately. Morning safaris in the Central range are the most popular." },
+    { "q": "What is the cheapest time to visit Meghalaya and Kaziranga?", "a": "October, early November, February and March have lower guesthouse rates than the Christmas and New Year weeks, with dry weather and Kaziranga open. The monsoon, June to September, is cheapest in Meghalaya but very wet, and Kaziranga is closed then. Book early for December, when budget rooms in Sohra fill quickly." },
+    { "q": "What are the guesthouses like?", "a": "Standard stays are clean, family-run guesthouses and homestays with private bathrooms and hot water in Shillong, Sohra, Kaziranga and Guwahati. Nongriat's village guesthouses are simpler, with basic rooms, shared or attached bathrooms and home-cooked meals. We recheck every named property each season before we book it." },
+    { "q": "Do I need a permit for Shillong and Kaziranga?", "a": "No. Meghalaya and Assam need no permit for Indian or foreign travellers. You pay Kaziranga park entry and small village fees at Meghalaya sights. Every stay in Meghalaya registers you on the state tourism app, so carry photo ID. If you extend into Arunachal Pradesh, you will need an ILP or PAP." }
+  ]
+}

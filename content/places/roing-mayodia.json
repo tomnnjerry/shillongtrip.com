@@ -1,0 +1,131 @@
+{
+  "slug": "roing-mayodia",
+  "name": "Roing and Mayodia",
+  "state": "arunachal",
+  "state_name": "Arunachal Pradesh",
+  "district": "Lower Dibang Valley and Dibang Valley",
+  "types": [
+    "town",
+    "pass",
+    "snow",
+    "offbeat"
+  ],
+  "tagline": "A foothill town at 390 m and a 2,655 m pass that gets winter snow",
+  "altitude_m": 390,
+  "coords": [
+    28.1428,
+    95.8428
+  ],
+  "best_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+  ],
+  "best_time": "December to February for snow at Mayodia (heaviest in January–February); November and March for clearer roads and views.",
+  "permit": {
+    "required": true,
+    "indians": "Tourist eILP for Arunachal Pradesh (about Rs 300 to 500; pay what eilp.arunachal.gov.in shows; valid 15 days for the whole state).",
+    "foreigners": "Protected Area Permit (PAP) through a registered Indian tour operator, usually for groups of two or more. Royalty is reported at USD 30–50 per person and the permit at 30 days; confirm with your operator."
+  },
+  "from_hub": {
+    "hub": "Dibrugarh",
+    "km": 140,
+    "hours": "4"
+  },
+  "ideal_stay": "2 nights in Roing, with a day trip or 1 night at Mayodia",
+  "meta_description": "Roing and Mayodia guide: Roing at 390 m, Mayodia Pass at 2,655 m with winter snow, the Dhola-Sadiya bridge from Dibrugarh, permits, stays and tips.",
+  "quick_answer": "Roing is the headquarters of Lower Dibang Valley at about 390 m, roughly 140 km and 4 hours from Dibrugarh via the Dhola-Sadiya bridge. Mayodia Pass, 56 km and about 3 hours above it, sits at 2,655 m and gets snow from December to February. Indians need an eILP, foreigners a PAP.",
+  "intro": [
+    "Roing is a flat, green town at the foot of the Mishmi Hills, home to the Idu Mishmi and Adi communities. It used to be a long way from anywhere; since the 9.15 km Dhola-Sadiya bridge (Bhupen Hazarika Setu) opened across the Lohit, it is a half-day drive from Dibrugarh.",
+    "Most visitors come for Mayodia. The road from Roing climbs 56 km through forest and switchbacks to a pass at 2,655 m, one of the lowest-altitude places in Arunachal to get regular winter snow. From December to February we have driven into fresh snow here while Roing below stayed green. It is also a well-known birding road.",
+    "Around Roing itself are Mehao Lake and Wildlife Sanctuary, Sally Lake, the Nehru Van Udyan garden on the Deopani river and the brick ruins at Bhismaknagar, 30 km away, one of the oldest archaeological sites in the state."
+  ],
+  "highlights": [
+    {
+      "name": "Mayodia Pass",
+      "text": "A 2,655 m pass 56 km from Roing, with snow from December to February and wide views over the Mishmi Hills."
+    },
+    {
+      "name": "Mehao Lake and Sanctuary",
+      "text": "A forest lake inside Mehao Wildlife Sanctuary, reached on a guided trek from Roing."
+    },
+    {
+      "name": "Bhismaknagar",
+      "text": "Brick fort ruins about 30 km from Roing, an important archaeological and mythological site."
+    },
+    {
+      "name": "Nehru Van Udyan and Sally Lake",
+      "text": "A riverside garden with orchids and cacti, and a small lake just outside town."
+    },
+    {
+      "name": "Dhola-Sadiya bridge",
+      "text": "At 9.15 km, the longest bridge over water in India, on the drive in from Assam."
+    }
+  ],
+  "things_to_do": [
+    "Drive up to Mayodia early in the morning for snow and views",
+    "Spend a night at Mayodia in winter if you can accept basic facilities",
+    "Bird the Roing–Mayodia road with a local guide",
+    "Trek to Mehao Lake with a forest guide",
+    "Visit the ruins at Bhismaknagar",
+    "Walk around Nehru Van Udyan and Sally Lake",
+    "Time a visit for the Idu Mishmi Reh festival on 1 February"
+  ],
+  "how_to_reach": "From Dibrugarh, drive about 100 km to the Dhola end of the Dhola-Sadiya bridge, cross it, and continue about 35 km to Roing: roughly 140 km and 4 hours in all, with the eILP checked at the Arunachal border. Dibrugarh has the nearest major airport and railhead; Tezu airport, about 59 km from Roing, has limited regional flights. From Roing, Mayodia is 56 km and about 3 hours; drive it in daylight only, and use a 4x4 with chains in snow. The road beyond towards Anini can close after heavy snow. Check current status before you travel.",
+  "where_to_stay": "Roing has small hotels, government guesthouses and a few homestays and riverside camps, which are the practical base. At Mayodia, stays are very limited: a basic guesthouse known as the Coffee House, an inspection bungalow and a few small homestays, with power often only in the evening from a generator. If you stay up there in winter, bring a warm sleeping bag and extra layers, and confirm your booking before you drive up. Most travellers visit Mayodia on a day trip from Roing.",
+  "tips": [
+    "Leave Roing for Mayodia by 7 am and return before dark",
+    "Snow chains and a 4x4 are needed after fresh snow; ask your driver",
+    "Carry cash from Dibrugarh or Roing; there are no ATMs at Mayodia",
+    "Mobile signal is patchy on the Mayodia road and weak at the pass",
+    "Carry food and water; shops on the road are few",
+    "Snow and road status change daily in winter; check current status before you travel"
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a permit for Roing and Mayodia?",
+      "a": "Yes. Indian citizens need the Arunachal Pradesh tourist eILP, costing about Rs 300 to 500 per person; the current tourist permit covers the whole state for up to 15 days. Foreign nationals need a Protected Area Permit arranged through a registered Indian tour operator. Check current status before you travel."
+    },
+    {
+      "q": "Can foreigners visit Mayodia Pass?",
+      "a": "Foreign nationals can visit with a Protected Area Permit that covers the Dibang Valley districts, usually arranged by a registered Indian tour operator for groups of two or more. Birding groups from abroad visit the Mayodia road regularly. Confirm current rules and coverage with your operator before booking."
+    },
+    {
+      "q": "When does it snow at Mayodia?",
+      "a": "Snow at Mayodia usually falls between December and March, and it is heaviest in January and February. November and early April can also see light snow. After heavy falls the road may close until it is cleared, so keep a flexible day and check current status before you travel."
+    },
+    {
+      "q": "How far is Mayodia from Roing?",
+      "a": "Mayodia Pass is 56 km from Roing, taking about 3 hours on a steep, winding road. Drive only in daylight, as fog and snow make the road risky after dark. Most travellers make it a day trip from Roing, leaving around 7 am."
+    },
+    {
+      "q": "How do I reach Roing from Dibrugarh?",
+      "a": "Drive about 100 km from Dibrugarh to the Dhola-Sadiya bridge, cross the 9.15 km bridge and continue about 35 km to Roing, roughly 140 km and 4 hours in total. Dibrugarh has the nearest major airport and railway station. Shared Sumos also run from Tinsukia and Dibrugarh."
+    },
+    {
+      "q": "Is altitude sickness a risk at Mayodia?",
+      "a": "Mayodia is at 2,655 m, which most healthy visitors manage on a day trip without trouble. The climb from Roing at about 390 m is fast, so some people feel breathless or get a headache. Walk slowly in the snow, drink water and descend if symptoms persist."
+    },
+    {
+      "q": "Are there ATMs and mobile network in Roing and Mayodia?",
+      "a": "Roing has a few ATMs and reasonable Jio, Airtel and BSNL coverage. There are no ATMs at Mayodia, and mobile signal is patchy on the road and weak at the pass. Carry enough cash and download offline maps before leaving Roing."
+    },
+    {
+      "q": "What is the best time to visit Roing and Mayodia?",
+      "a": "December to February is best for snow at Mayodia, and November and March give clearer roads with cold, crisp days. The Reh festival on 1 February adds a cultural reason to visit. The monsoon from May to September brings heavy rain and landslides."
+    },
+    {
+      "q": "Is Mayodia suitable for children and senior citizens?",
+      "a": "A day trip from Roing works for most families and fit seniors, as long as everyone is dressed for snow and cold. Overnight stays at Mayodia are basic, cold and have limited power, so we suggest children and seniors stay in Roing and visit the pass during the day."
+    }
+  ],
+  "nearby": [
+    "pasighat",
+    "namdapha",
+    "dibrugarh",
+    "dibru-saikhowa"
+  ],
+  "image_query": "Mayodia Pass snow Arunachal"
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "majuli-heritage-6n",
+  "title": "Majuli, Sivasagar and Jorhat",
+  "nights": 6,
+  "themes": ["culture", "offbeat"],
+  "states": ["assam"],
+  "places": ["guwahati", "kaziranga", "jorhat", "majuli", "sivasagar"],
+  "hero": "majuli",
+  "price_from_inr": 26500,
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "difficulty": "easy",
+  "max_altitude_m": 120,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Jorhat Airport (JRH)",
+  "meta_description": "Majuli, Sivasagar and Jorhat tour, 6 nights / 7 days: Kaziranga safaris, 3 nights among Majuli's satras and Mising villages, and Ahom monuments.",
+  "quick_answer": "This 6 nights / 7 days trip follows the Brahmaputra upstream: two nights at Kaziranga for rhino, three on Majuli river island among Vaishnavite satras, mask makers and Mising villages, and a last night in Jorhat after a day at the Ahom monuments of Sivasagar. From ₹26,500 per person, twin sharing, October to March.",
+  "overview": [
+    "Majuli is not a place to rush. The island's satras, monasteries of the Neo-Vaishnavite faith founded by Srimanta Sankardev in the 15th and 16th centuries, keep their own daily rhythm of prayer, dance and music, and the best moments come when you are simply around at the right hour. That is why this trip gives Majuli three nights, reached by the ferry from Nimati Ghat near Jorhat, a crossing of about an hour to an hour and a half.",
+    "We start with two nights at Kaziranga because it lies on the way, 195 km from Guwahati and 95 km short of Jorhat. After Majuli we cross back and spend a full day at Sivasagar, the old Ahom capital, and Charaideo, whose royal burial mounds became a UNESCO World Heritage Site in 2024. You end the trip at Jorhat and fly out from its airport, avoiding the long drive back to Guwahati."
+  ],
+  "highlights": [
+    "Two Kaziranga jeep safaris and an optional dawn elephant ride",
+    "The Brahmaputra ferry from Nimati Ghat to Majuli",
+    "Evening prayers and Sattriya dance at Uttar Kamalabari or Auniati satra",
+    "Mask making at Samaguri Satra, where masks for bhaona theatre are still made by hand",
+    "Mising villages on stilts and Salmora's wheel-less pottery",
+    "Rang Ghar, Talatal Ghar and the Charaideo moidams of the Ahom kings"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "215 km from airport · 5 hrs",
+      "text": "Our driver meets you at Guwahati airport and we head east on NH27, stopping for lunch near Nagaon. Arrive at your Kohora lodge by mid-afternoon if you land before 10 am; later arrivals reach by early evening. The afternoon is for settling in and a short walk through the neighbouring tea garden. In the evening we brief you on the next day's safari slots. If your flight lands early, we try to fit an afternoon jeep safari in the Central Range, subject to arrival time and slot availability.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Kaziranga safaris",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "Local · park roads",
+      "text": "An optional elephant ride at dawn from Kohora or Bagori, available from about 1 November, starts the day. After breakfast the morning jeep safari enters the Central Range, the best introduction to the park's grasslands, rhino and wild buffalo. After lunch the afternoon jeep goes to the Western Range at Bagori, where rhino density is highest. In the evening we suggest the cultural show at one of the Kohora centres, which introduces Bihu dance and the Assamese music you will hear again on Majuli.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Kaziranga to Jorhat and the ferry to Majuli",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "110 km to Nimati Ghat · 2.5 hrs, ferry 1–1.5 hrs",
+      "text": "We leave Kaziranga at 7 am and drive 95 km east to Jorhat, then 13 km to Nimati Ghat on the Brahmaputra. Ferries usually run several times between morning and mid-afternoon, and we aim for a late-morning crossing. The boat carries people, motorbikes and a few cars, and the crossing takes an hour to an hour and a half depending on the water level and sandbars. On arrival at Kamalabari Ghat a Majuli-based vehicle drives you to your bamboo cottage at Garamur. Afternoon walk to a nearby Mising village at sunset.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Majuli satras: Kamalabari, Auniati and Dakhinpat",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "Local · about 50 km on the island",
+      "text": "A full day among the satras. We begin at Uttar Kamalabari Satra, known for Sattriya dance, where the resident monks, called bhakats, sometimes practise in the morning. Next is Auniati Satra, founded in 1653, with a small museum of Ahom-era utensils, ivory and manuscripts. After lunch at a local eatery, Dakhinpat Satra, whose Raas festival draws big crowds in November. Evening prayers, the naam-prasanga, are sung at dusk; we time one satra visit so you can sit in. Photography inside the namghar is usually not allowed, so ask first.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Samaguri masks, Salmora pottery and Mising villages",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "Local · about 60 km on the island",
+      "text": "Morning at Samaguri Satra, where the family of the satradhikar makes masks for bhaona plays from bamboo, cloth and clay, some large enough to cover the whole body. They often demonstrate a stage of the process and sell small masks. Then to Salmora on the island's eastern edge, where potters shape clay by hand and beat it with paddles, with no wheel, and fire it in open kilns. Afternoon cycling or walking through a Mising village, whose houses stand on stilts against floods, with a chance to taste apong rice beer.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Ferry to Jorhat, day at Sivasagar and Charaideo",
+      "stay": "Jorhat",
+      "altitude_m": 116,
+      "drive": "Ferry 1–1.5 hrs, then about 190 km round trip · 5 hrs",
+      "text": "We take an early ferry back to Nimati Ghat, where your main vehicle waits. From Jorhat it is about 60 km and 1.5 hours to Sivasagar, capital of the Ahom kingdom that ruled Assam for six centuries. See the Shiva Dol on the tank's bank, Rang Ghar, an 18th-century royal pavilion built to watch games and Bihu, and Talatal Ghar, the multi-storeyed palace complex. Then 28 km to Charaideo, where grassy moidams hold the remains of Ahom royalty and were inscribed as a UNESCO World Heritage Site in 2024. Return to Jorhat for the night.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Departure from Jorhat",
+      "stay": "Departure",
+      "altitude_m": 116,
+      "drive": "Hotel to Jorhat Airport 7 km · 20 min",
+      "text": "A free morning in Jorhat, depending on your flight time. If you have a few hours, visit the Tocklai Tea Research Institute area, where Assam's tea science began in 1911, though entry to the institute itself needs prior permission. Alternatively walk the Gar-Ali market for Assamese silk, gamosa towels and dried tea. Jorhat Airport at Rowriah is about 7 km from the town centre and has direct flights to Kolkata and Delhi. If you prefer to fly from Guwahati, the drive is about 310 km and seven to eight hours, and we can arrange it at extra cost.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "6 nights in the chosen hotel tier, twin sharing",
+    "Daily breakfast and dinner",
+    "Private air-conditioned vehicle on the mainland, Guwahati to Jorhat",
+    "Majuli-based vehicle for all island sightseeing",
+    "Passenger ferry tickets between Nimati Ghat and Majuli both ways",
+    "2 jeep safaris in Kaziranga with park entry and jeep fees",
+    "Local Majuli guide for two full days",
+    "Sivasagar monument entry tickets",
+    "Driver allowance, fuel, tolls and parking",
+    "Guwahati airport pickup and Jorhat airport drop"
+  ],
+  "exclusions": [
+    "Flights to Guwahati and from Jorhat",
+    "Ferry charge for taking the mainland vehicle across, if you choose to",
+    "Elephant safari and camera fees at Kaziranga",
+    "Satra donations and mask or handicraft purchases",
+    "Lunches and drinks",
+    "Tips for guides, drivers and boatmen",
+    "Travel insurance",
+    "Costs arising from ferry cancellation due to weather or water level"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Kaziranga: Wild Grass Lodge; Majuli: La Maison de Ananda; Jorhat: Hotel Heritage, or similar" },
+    { "tier": "Premium", "options": "Kaziranga: Infinity Resorts Kaziranga; Majuli: Ygdrasill Bamboo Cottage or Dekasang; Jorhat: Thengal Manor, or similar" },
+    { "tier": "Luxury", "options": "Kaziranga: Diphlu River Lodge; Majuli: Me:Po Okum; Jorhat: Banyan Grove, Gatoonga Tea Estate, or similar" }
+  ],
+  "good_to_know": [
+    "Nimati Ghat ferries run several times a day, usually between about 8.30 am and mid-afternoon, with timings changed seasonally. Services are suspended when the Brahmaputra rises in the monsoon. Check current status before you travel.",
+    "A road bridge between Jorhat and Majuli has been under construction since 2021. Until it opens, the ferry remains the standard crossing.",
+    "Majuli's Raas festival falls around Kartik Purnima in late November, when satras stage all-night plays. Rooms on the island sell out months ahead.",
+    "Majuli stays are simple bamboo cottages and homestays. Hot water, air conditioning and card payments are limited; carry cash.",
+    "Dress modestly at satras, remove footwear at the namghar entrance and ask before photographing monks or rituals.",
+    "Kaziranga opens in phases through October, with elephant rides from about 1 November. Check current status before you travel."
+  ],
+  "faqs": [
+    { "q": "How do you reach Majuli from Jorhat?", "a": "Drive 13 km from Jorhat to Nimati Ghat, then take the government ferry across the Brahmaputra to Kamalabari Ghat on Majuli. The crossing takes one to one and a half hours depending on water level. Ferries run several times a day and are suspended in high monsoon floods, so check current status before you travel." },
+    { "q": "How many days are enough for Majuli?", "a": "Two full days, meaning three nights on the island, is what we recommend. One day covers the main satras, and the second covers Samaguri's mask makers, Salmora's potters and a Mising village. A single night means spending much of your time on the ferry and missing evening prayers." },
+    { "q": "What are satras in Majuli?", "a": "Satras are monasteries of Assamese Neo-Vaishnavism, founded from the 16th century by followers of Srimanta Sankardev. Each has a prayer hall called a namghar, resident monks and traditions of dance, music, drama and crafts. Majuli has more than 20 active satras, including Auniati, Dakhinpat, Kamalabari and Samaguri." },
+    { "q": "When is the best time to visit Majuli?", "a": "October to March. The weather is dry and cool, ferries run reliably and November brings the Raas festival. April and May are warm but workable. From June to September floods can suspend ferries and submerge parts of the island, and many cottages close." },
+    { "q": "What is the price of this Majuli and Sivasagar package?", "a": "The indicative price starts at ₹26,500 per person, twin sharing, including standard stays, breakfast and dinner, a private car, ferry tickets, two Kaziranga safaris and a Majuli guide. Luxury options such as Diphlu River Lodge and Banyan Grove raise the cost. Flights and elephant rides are extra." },
+    { "q": "Is Charaideo worth visiting from Sivasagar?", "a": "Yes. Charaideo, 28 km from Sivasagar, was the first Ahom capital and holds dozens of moidams, earthen burial mounds of Ahom royalty, inscribed as a UNESCO World Heritage Site in 2024. Visiting takes about 90 minutes. It pairs naturally with Rang Ghar and Talatal Ghar in one day." },
+    { "q": "Can we stay inside a satra on Majuli?", "a": "Some satras have simple guest rooms for devotees and visitors, and a few accept travellers who ask in advance. Facilities are basic and rules on food, dress and timings are strict. Most travellers prefer the bamboo cottages at Garamur and visit satras by day and for evening prayers." },
+    { "q": "Can our car cross to Majuli on the ferry?", "a": "Yes, cars can go on the larger ferries, but space is limited and loading adds time. We usually leave the mainland car at Nimati Ghat and use a Majuli-based vehicle on the island, which is simpler and cheaper. If you want your own car across, tell us in advance." },
+    { "q": "Is Majuli suitable for families with children?", "a": "Yes, for children who enjoy villages, boats and crafts. There is no strenuous walking, and mask making at Samaguri is usually a favourite. Accommodation is simple, with basic bathrooms and no swimming pools. Carry mosquito repellent, as the island is low and wet near the river." }
+  ]
+}

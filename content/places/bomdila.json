@@ -1,0 +1,131 @@
+{
+  "slug": "bomdila",
+  "name": "Bomdila",
+  "state": "arunachal",
+  "state_name": "Arunachal Pradesh",
+  "district": "West Kameng",
+  "types": [
+    "town",
+    "monastery",
+    "road-trip"
+  ],
+  "tagline": "West Kameng's 2,415 m hill town and first overnight stop for Tawang",
+  "altitude_m": 2415,
+  "coords": [
+    27.265,
+    92.42
+  ],
+  "best_months": [
+    3,
+    4,
+    5,
+    9,
+    10,
+    11
+  ],
+  "best_time": "March to May and September to November for clear views of the Kangto and Gorichen ranges; winter is cold but usually open.",
+  "permit": {
+    "required": true,
+    "indians": "Tourist eILP for Arunachal Pradesh (about Rs 300 to 500; pay what eilp.arunachal.gov.in shows; valid 15 days for the whole state), checked at Bhalukpong.",
+    "foreigners": "Protected Area Permit (PAP) covering West Kameng, arranged by a registered Indian tour operator, usually for groups of two or more. Royalty is reported at USD 30–50 per person and the permit at 30 days; confirm with your operator. Solo travellers are reportedly allowed only for Tawang, Bomdila and Ziro."
+  },
+  "from_hub": {
+    "hub": "Tezpur",
+    "km": 162,
+    "hours": "5"
+  },
+  "ideal_stay": "1 night on the way to Tawang, or 2 nights with a day for Eaglenest or Dirang",
+  "meta_description": "Bomdila guide: 2,415 m West Kameng town 162 km from Tezpur, monasteries, apple orchards, eILP and PAP rules, snow, drive times and where to stay.",
+  "quick_answer": "Bomdila is the headquarters of West Kameng district at about 2,415 m, on NH-13 roughly 162 km and 5 hours from Tezpur. Most travellers stop here or at Dirang on the way to Tawang. Indians need a tourist eILP, checked at Bhalukpong; foreigners need a PAP. It has monasteries, orchards and Himalayan views.",
+  "intro": [
+    "Bomdila is the first proper hill town on the Tawang road, a place of steep lanes, monasteries, government offices and apple orchards spread across a ridge at about 2,415 m. It became the headquarters of the area in 1954 and still has the feel of an administrative town rather than a resort, which we rather like.",
+    "The draw is the view: on clear October and November mornings the Kangto and Gorichen ranges line the northern horizon. The Gontse Gaden Rabgye Ling monastery (the upper gompa), smaller gompas around town and the craft centre make an easy half day. Monpa, Sherdukpen, Aka, Miji and Bugun communities all live in the district.",
+    "Bomdila works best as an overnight stop after the climb from Bhalukpong. If you have an extra day, the Eaglenest Wildlife Sanctuary and the Tenga valley below the town are among the best birding areas in India."
+  ],
+  "highlights": [
+    {
+      "name": "Bomdila Monastery",
+      "text": "Gontse Gaden Rabgye Ling, the upper gompa, with a large prayer hall, murals and valley views."
+    },
+    {
+      "name": "Himalayan view point",
+      "text": "On clear mornings, the Kangto and Gorichen peaks rise above the ridges to the north."
+    },
+    {
+      "name": "Craft centre",
+      "text": "Monpa carpets, masks and woodwork made and sold at the government craft centre."
+    },
+    {
+      "name": "Apple and kiwi orchards",
+      "text": "Orchards around town and down towards Dirang, heavy with fruit from August to October."
+    },
+    {
+      "name": "Eaglenest and Tenga",
+      "text": "Below Bomdila, Eaglenest Wildlife Sanctuary is known for the Bugun liocichla and hundreds of other bird species."
+    }
+  ],
+  "things_to_do": [
+    "Visit the upper monastery in the early morning for prayers and views",
+    "Walk through the market and lower gompa area in the evening",
+    "Buy a Monpa carpet or mask at the craft centre",
+    "Drive to the view point at sunrise on a clear day for the Kangto range",
+    "Book a birding day at Eaglenest with a local guide",
+    "Stop at the Tipi Orchid Centre near Bhalukpong on the way up",
+    "Continue to Dirang (about 42 km) for hot springs and Dirang Dzong"
+  ],
+  "how_to_reach": "Bomdila is about 162 km from Tezpur, 5 to 6 hours via Bhalukpong, where the eILP or PAP is checked, and Tenga. From Guwahati it is about 320 km, 8 to 9 hours, so start early. Tezpur has the nearest airport; Rangapara and Tezpur the nearest railheads. The Bhalukpong to Tenga stretch has landslide-prone sections that can hold traffic during the monsoon. Shared Sumos run from Tezpur and Bhalukpong. Tawang is about 167 km further, via Dirang and Sela. Check current status before you travel.",
+  "where_to_stay": "Bomdila has government-approved hotels and guesthouses around the market and the upper town, plus a growing number of homestays with orchard or valley views. Rooms are simple but warm; ask for a heater from November to March. If you want quieter surroundings and a lower sleeping altitude, many travellers push on 42 km to Dirang, which has more homestays and farmstays. Birders heading to Eaglenest often stay at camps near Lama Camp or in Tenga valley instead.",
+  "tips": [
+    "Leave Tezpur by 7 am to reach Bomdila before dark",
+    "Carry cash from Tezpur; ATMs in Bomdila exist but can run dry",
+    "BSNL, Airtel and Jio work in town; signal is weak on the Tenga stretch",
+    "Nights are cold even in April; carry a warm jacket",
+    "Monsoon landslides between Bhalukpong and Tenga can block the road for hours",
+    "Bomdila gets occasional snow in January and February, but less than Sela"
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an Inner Line Permit for Bomdila?",
+      "a": "Yes. Indian citizens need the Arunachal Pradesh tourist eILP, which is checked at the Bhalukpong entry gate. You apply online and pay about Rs 300 to 500 per person, whatever the portal shows. Carry printed copies and photo ID. Check current status before you travel."
+    },
+    {
+      "q": "Can foreigners visit Bomdila?",
+      "a": "Yes. West Kameng district, including Bomdila and Dirang, is open to foreign nationals with a Protected Area Permit. It is usually arranged through a registered Indian tour operator for groups of two or more. Rules and fees are revised from time to time, so check current status with your operator before booking."
+    },
+    {
+      "q": "How far is Bomdila from Tezpur and Guwahati?",
+      "a": "Bomdila is about 162 km from Tezpur, taking 5 to 6 hours, and about 320 km from Guwahati, taking 8 to 9 hours. The road climbs from the plains at Bhalukpong through Tenga to the ridge at Bomdila. Monsoon landslides can add delays, so start early."
+    },
+    {
+      "q": "What is the altitude of Bomdila?",
+      "a": "Bomdila is at about 2,415 m. Most people feel fine here, but it is a big jump from Tezpur on the plains in one day. Sleeping in Bomdila or Dirang before crossing Sela Pass, at about 4,170 m, helps your body adjust before Tawang."
+    },
+    {
+      "q": "Does it snow in Bomdila?",
+      "a": "Bomdila gets occasional snowfall, usually in January and February, but it is not guaranteed every year. For more reliable snow, continue to Sela Pass and Tawang between December and March. Winter nights in Bomdila drop close to or below freezing, so heated rooms matter."
+    },
+    {
+      "q": "Are there ATMs and mobile network in Bomdila?",
+      "a": "Yes. Bomdila has ATMs of SBI and a few other banks near the market, though they can run out of cash at weekends. BSNL, Airtel and Jio work in town with usable data. Signal drops on parts of the road between Bhalukpong and Tenga."
+    },
+    {
+      "q": "Should I stay in Bomdila or Dirang on the way to Tawang?",
+      "a": "Both work. Bomdila is higher, at about 2,415 m, and has more of a town feel with monasteries and views. Dirang is lower, at about 1,500 m, warmer, and closer to Sela, which shortens the next day. We usually pick Dirang for families and Bomdila for travellers who want the monastery and views."
+    },
+    {
+      "q": "What is the best time to visit Bomdila?",
+      "a": "March to May and September to November are best, with orchards in bloom in spring and fruit and clear views in autumn. Winter is cold but quiet, with occasional snow. June to August brings heavy rain and landslide risk on the road from Bhalukpong."
+    },
+    {
+      "q": "Is Bomdila good for children and senior citizens?",
+      "a": "Yes. The altitude is moderate, the main sights are reachable by car, and the town has basic medical facilities as the district headquarters. The long drive from Tezpur is the main effort, so break it with stops at Bhalukpong and Tenga. Pack warm clothes for the evenings."
+    }
+  ],
+  "nearby": [
+    "dirang",
+    "tezpur",
+    "nameri",
+    "sela-pass"
+  ],
+  "image_query": "Bomdila monastery Arunachal Pradesh"
+}

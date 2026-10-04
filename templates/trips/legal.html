@@ -1,0 +1,10 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="ih"><div class="shell">{% crumbs crumb_list %}<h1>{{ d.title }}</h1><p class="ih__lede">{{ d.lede }}</p><p class="lmeta">{% icon 'cal' %} Last updated {{ d.updated }} · Operated by {{ d.operator }}</p></div></section>
+<section class="band band--tight"><div class="shell legal">
+  <nav class="legal__toc" aria-label="On this page"><p class="side__h">On this page</p><ol>{% for h in d.toc %}<li><a href="#{{ h.id }}">{{ h.text }}</a></li>{% endfor %}</ol></nav>
+  <div class="prose legal__body">{{ d.body }}
+    <div class="legal__foot"><p><b>Questions about this page?</b> Write to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p><p class="small muted">Related: <a href="/terms/">Terms</a> · <a href="/cancellation-refund-policy/">Cancellation &amp; refunds</a> · <a href="/privacy/">Privacy</a> · <a href="/cookie-policy/">Cookies</a> · <a href="/disclaimer/">Disclaimer</a></p></div>
+  </div>
+</div></section>
+{% endblock %}

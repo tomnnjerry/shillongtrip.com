@@ -1,0 +1,129 @@
+{
+  "slug": "meghalaya-luxury-5n",
+  "title": "Luxury Meghalaya",
+  "nights": 5,
+  "themes": ["luxury", "honeymoon"],
+  "states": ["meghalaya"],
+  "places": ["umiam-lake", "shillong", "shillong-peak", "laitlum-canyons", "mawphlang-sacred-forest", "sohra", "nohkalikai-falls", "mawsmai-cave"],
+  "hero": "laitlum-canyons",
+  "price_from_inr": 48000,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Luxury Meghalaya tour, 5 nights / 6 days: Ri Kynjai at Umiam, Shillong, Laitlum sunrise, Mawphlang forest, Polo Cherrapunjee. Innova Crysta, from ₹48,000.",
+  "quick_answer": "Luxury Meghalaya is 5 nights / 6 days from Guwahati Airport in an Innova Crysta: a night at Ri Kynjai on Umiam Lake, two in Shillong with a private Laitlum sunrise and a guided walk in Mawphlang Sacred Forest, and two at Polo Cherrapunjee Resort in Sohra. From ₹48,000 per person on twin sharing.",
+  "overview": [
+    "Meghalaya's best hotels are few, so a luxury trip here is less about marble lobbies and more about the right room in the right place. We start at Ri Kynjai, whose cottages look across Umiam Lake, move to one of Shillong's top city hotels for two nights, and finish with two nights at Polo Cherrapunjee Resort, which faces the Nohsngithiang (Seven Sisters) Falls across a gorge.",
+    "The pacing is deliberate. No day has more than about 3.5 hours in the car, there are two early starts that are worth it, Laitlum at sunrise and Nohkalikai at 8 am, and every afternoon has time at the hotel. A senior driver and an Innova Crysta stay with you throughout, and a local guide joins for Shillong and the sacred forest at Mawphlang."
+  ],
+  "highlights": [
+    "A lake-view cottage at Ri Kynjai on Umiam Lake",
+    "Private sunrise at Laitlum Canyons, 45 minutes from Shillong",
+    "Guided walk through Mawphlang Sacred Forest with a Khasi guide",
+    "Two nights at Polo Cherrapunjee Resort, facing the Seven Sisters Falls",
+    "Nohkalikai Falls at 8 am and the lit passage of Mawsmai Cave",
+    "Innova Crysta with a senior driver for the whole trip"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati Airport to Ri Kynjai, Umiam Lake",
+      "stay": "Umiam",
+      "altitude_m": 1000,
+      "drive": "85 km · 2.5–3 hrs",
+      "text": "Your driver meets you at the arrivals exit of Guwahati Airport with an Innova Crysta, cold water and towels. The highway climbs through Jorabat, Byrnihat and Nongpoh into pine-covered hills. After about 2.5 hours you turn off to Ri Kynjai, a resort of wood-and-stone cottages on the shore of Umiam Lake at about 1,000 m. Check into a lake-view cottage and spend the afternoon on your deck. The hour before sunset, around 4.30 pm in winter, turns the water gold. Dinner is at the resort, which serves Khasi dishes alongside Indian and continental food.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Shillong with a local guide",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "Local sightseeing · about 50 km",
+      "text": "After a slow breakfast by the lake, drive 15 km to Shillong and meet your local guide. Start at Shillong Peak, inside an Air Force area; carry original ID. The view from 1,965 m covers the whole city. Elephant Falls is 3 km away. After lunch, the Don Bosco Museum explains the cultures of the Northeast across seven floors, and the guide adds the local stories behind Khasi matrilineal families and clan names. Check into your Shillong hotel by 5 pm. In the evening, we can reserve a table at a Laitumkhrah restaurant with live music on weekends.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Laitlum sunrise and Mawphlang Sacred Forest",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "Local sightseeing · about 100 km",
+      "text": "Leave in the dark with a flask of tea for Laitlum Canyons, 45 minutes away, and watch first light spread over steep grass ridges and the valley below; sunrise ranges from about 4.30 am in June to 6 am in January. Return to the hotel for breakfast and a rest. Late morning, drive 25 km to Mawphlang, where Khasi guides lead every visitor through the sacred forest, protected by the community for centuries. Nothing, not even a leaf, may be taken out. The walk takes about 90 minutes among monoliths and moss-covered trees. Return for a quiet afternoon at the hotel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Shillong to Polo Cherrapunjee Resort",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "55 km · 1.5–2 hrs, plus stops",
+      "text": "Leave Shillong after breakfast on the Sohra road. Stop at the Mawkdok Dympep valley viewpoint and at Wah Kaba Falls. In Sohra, walk the lit route of Mawsmai Cave, about 150 m with one tight squeeze that you can bypass. Check into Polo Cherrapunjee Resort, whose rooms and terraces look across the gorge to the Seven Sisters Falls, full from June to October and a string of thin threads in winter. The resort has pools, a spa and several restaurants, so the afternoon is yours. If the sky is clear, the driver can take you to Thangkharang Park for sunset over the Bangladesh plains.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Nohkalikai Falls and Arwah Cave",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "Local sightseeing · about 25 km",
+      "text": "Reach the Nohkalikai viewpoint at 8 am, before cloud rises from the gorge. The fall drops about 340 m, India's tallest plunge, into a pool that turns turquoise between December and April. Next, walk the 1 km cliff path to Arwah Cave, with fossil impressions in its limestone walls. Return to the resort for lunch and a spa afternoon. If you would like something more active, we can arrange a registered local guide for a half-day walk; East Khasi Hills has required guides on treks since mid-2025. Dinner is at the resort, with a private table set on the terrace if the weather allows.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Sohra to Guwahati Airport",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "155 km · 5 hrs",
+      "text": "Enjoy a last breakfast facing the gorge and leave by 9 am. The road runs back past Mawkdok to the edge of Shillong and then down the Guwahati highway via Umiam and Nongpoh. We stop for lunch at a clean highway restaurant, or we can carry a packed lunch from the resort if you prefer. Traffic on the Guwahati bypass can be slow in the afternoon, so please book flights after 4 pm. If you are continuing to Kaziranga, the car can take you straight there instead, about 5 hours from Sohra, with an overnight stop on the way if you prefer.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "1 night at Ri Kynjai, 2 nights at a top Shillong hotel and 2 nights at Polo Cherrapunjee Resort, in view rooms where available",
+    "Daily breakfast and dinner",
+    "Innova Crysta with a senior English- and Hindi-speaking driver throughout",
+    "Meet and greet at Guwahati Airport arrivals",
+    "Local guide in Shillong on Day 2 and the Khasi guide fee at Mawphlang Sacred Forest",
+    "Sunrise tea flask and snacks for the Laitlum morning",
+    "Driver allowance, fuel, tolls and parking",
+    "Hotel taxes as applicable",
+    "Dedicated trip manager on WhatsApp"
+  ],
+  "exclusions": [
+    "Flights",
+    "Entry fees at Shillong Peak, Elephant Falls, Don Bosco Museum, Laitlum, Mawsmai, Nohkalikai and Arwah Cave",
+    "Lunches and drinks",
+    "Spa treatments and room service",
+    "Room upgrades beyond the booked category",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Costs from landslides, road closures or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Umiam: Ri Kynjai. Shillong: Polo Towers Shillong. Sohra: Polo Cherrapunjee Resort, or similar" },
+    { "tier": "Premium", "options": "Umiam: Ri Kynjai lake-view cottage. Shillong: Courtyard by Marriott Shillong. Sohra: Polo Cherrapunjee Resort valley-view room, or similar" },
+    { "tier": "Luxury", "options": "Umiam: Ri Kynjai best lake-view category. Shillong: Vivanta Meghalaya Shillong. Sohra: Polo Cherrapunjee Resort top room category, or similar" }
+  ],
+  "good_to_know": [
+    "Meghalaya has few five-star hotels; the best rooms at Ri Kynjai and Polo Cherrapunjee sell out early for October to December, so book 6 to 8 weeks ahead",
+    "Shillong Peak is inside an Air Force area and has generally been closed to foreign nationals; we substitute a longer Laitlum morning; check current status before you travel",
+    "Every hotel registers guests on Meghalaya's state system, so carry original ID for each adult",
+    "Mawphlang Sacred Forest can be visited only with a local guide; photography is allowed, but taking anything from the forest is forbidden",
+    "Cloud is the main risk at Laitlum and Nohkalikai; we keep a spare early morning to try again"
+  ],
+  "faqs": [
+    { "q": "What are the best luxury hotels in Meghalaya?", "a": "The top choices are Ri Kynjai on Umiam Lake, Vivanta Meghalaya Shillong and Courtyard by Marriott Shillong in the city, and Polo Cherrapunjee Resort in Sohra, which faces the Seven Sisters Falls. Meghalaya has few luxury properties, so the best rooms book out months ahead in October to December." },
+    { "q": "How much does a luxury Meghalaya trip cost?", "a": "This plan starts at ₹48,000 per person on twin sharing, with view rooms where available, breakfast and dinner, an Innova Crysta and guides. Choosing Vivanta in Shillong and top categories elsewhere raises it to around ₹60,000 to ₹70,000 per person. Prices peak from October to December." },
+    { "q": "Is this trip suitable for a honeymoon?", "a": "Yes. The lake-view night at Ri Kynjai, the sunrise at Laitlum and two nights facing the falls at Polo Cherrapunjee suit couples well. We can add flower decoration, a cake and a private terrace dinner. For a lower budget, see our Meghalaya Honeymoon package." },
+    { "q": "What is Mawphlang Sacred Forest?", "a": "Mawphlang is a sacred grove about 25 km from Shillong, protected by the local Khasi community for centuries. Only guided visits are allowed. The walk takes about 90 minutes past ancient trees, moss, orchids and stone monoliths used in ceremonies. By custom, nothing may be removed from the forest." },
+    { "q": "Why start at Umiam Lake instead of Shillong?", "a": "Umiam is only 2.5 hours from Guwahati Airport, so you arrive in daylight and avoid Shillong's evening traffic. Ri Kynjai's lake-view cottages are among the best rooms in the state. The next morning you are only 15 km from the city for sightseeing." },
+    { "q": "Can we add Dawki or Kaziranga?", "a": "Yes. Dawki fits as a day trip from Shillong with an extra night, leaving at 7 am to reach the river before the queues; boating runs mainly from November to April. Kaziranga adds two nights after Sohra, with jeep safaris from October to April. Check current status before you travel." },
+    { "q": "Do we need a permit for Meghalaya?", "a": "No permit is needed for Indian or foreign tourists on this route. Hotels register every guest on the state system, so carry original ID. Foreign nationals should carry passports and visas, and note that Shillong Peak has generally been closed to them." },
+    { "q": "What is the weather like in Shillong and Sohra?", "a": "Shillong at about 1,525 m and Sohra at about 1,480 m are cool all year. Winter days are 12 to 18°C and nights drop to 4 to 8°C. From June to September it rains heavily, especially in Sohra, which records over 11,000 mm a year. Pack layers and a rain jacket." },
+    { "q": "Is the Laitlum sunrise worth the early start?", "a": "On a clear morning, yes. The ridges catch the first light and mist often sits in the valley below. The drive is only 45 minutes from Shillong. If it is cloudy, we skip it, sleep in, and try again the next day if the schedule allows." }
+  ]
+}

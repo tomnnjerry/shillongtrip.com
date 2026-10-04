@@ -1,0 +1,158 @@
+{
+  "slug": "northeast-honeymoon-8n",
+  "title": "Northeast Honeymoon",
+  "nights": 8,
+  "themes": ["honeymoon"],
+  "states": ["meghalaya", "assam", "arunachal"],
+  "places": ["umiam-lake", "shillong", "dawki-umngot", "sohra", "nohkalikai-falls", "kaziranga", "dirang", "sela-pass", "tawang", "tawang-monastery", "madhuri-lake", "bomdila"],
+  "hero": "umiam-lake",
+  "price_from_inr": 47500,
+  "best_months": [11, 12, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 4600,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Northeast honeymoon, 8 nights / 9 days from Guwahati: Umiam Lake, Dawki, Sohra, a Kaziranga safari, a tea bungalow and two nights in snowy Tawang.",
+  "quick_answer": "This 8 nights / 9 days honeymoon covers Meghalaya, Kaziranga and Tawang with a private car and driver. You get Umiam Lake and Shillong, the clear Umngot at Dawki, a night in Sohra, a dawn elephant ride in Kaziranga, a tea-country night and two nights in Tawang with Sela and Madhuri Lake. It includes decoration, cake and a candlelight dinner.",
+  "overview": [
+    "Couples often ask for Meghalaya, Kaziranga and Tawang in one honeymoon. It can be done in 8 nights, and we would rather tell you the trade-off plainly: it covers a lot of ground, with two long drives of about 8 hours and several of 5–6 hours. In return you see three very different Northeasts: pine hills and a clear river on the Bangladesh border, rhinos in misty grassland at dawn, and prayer flags and snow at about 4,170 m on the Sela road.",
+    "We soften it where we can. There is a slow first evening by Umiam Lake, a night in a tea-country bungalow after the Kaziranga safari, and a night at Dirang before Tawang so the height does not spoil your trip. The couple's extras are simple and real: a decorated room and cake on your first night in Tawang, a candlelight dinner there, and a private car throughout. If you can add two nights, we will slow the whole route down; ask us when you enquire."
+  ],
+  "highlights": [
+    "An evening by Umiam Lake and a night in Shillong",
+    "A boat on the clear Umngot at Dawki and sunset over the Sohra cliffs",
+    "A dawn elephant ride in Kaziranga's grassland",
+    "A night in tea country at Balipara or Tezpur",
+    "Two nights in Tawang with a decorated room, cake and a candlelight dinner",
+    "Sela Lake, often snowbound from December to March, and Madhuri Lake"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong via Umiam Lake",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "120 km · 3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport with the car you keep for the whole trip. The road climbs into the Khasi Hills on NH-6. Stop at Umiam Lake, 15 km before Shillong, for tea by the water and a walk along the shore; a short boat ride is available at extra cost. In the luxury tier you stay tonight at Ri Kynjai, cottages above the lake with a view at sunset. Otherwise, check in at Shillong, at about 1,525 m, and spend the evening in one of the cafes in Laitumkhrah, many of which have live music.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Dawki's clear river and Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1484,
+      "drive": "180 km · 5.5 hrs",
+      "text": "Leave at 7.30 am for Dawki on the Bangladesh border, about 2.5 hours. From November to April the Umngot is clear enough that boats seem to float above the riverbed; boats are priced per boat, so agree the fare at the ghat. Take a boat for the two of you around midday, when the water looks clearest. After lunch, drive west through Pynursla to Sohra (Cherrapunji), about 3 hours. Reach the Seven Sisters falls viewpoint for sunset over the Bangladesh plains, then check in. Sohra nights are cool, around 8–10°C in winter.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Nohkalikai and on to Kaziranga",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "305 km · 8 hrs",
+      "text": "See Nohkalikai Falls, a 340 m plunge into a green pool, in the clear morning before you leave. Then the long drive of the trip: back through Shillong and down to Jorabat, then east on NH-27 through Nagaon to Kohora at the edge of Kaziranga, about 8 hours with lunch. The highway is good, four-lane for most of the way, and there are clean stops. You reach your lodge in the late afternoon. Have an early, quiet dinner; the elephant ride leaves before sunrise tomorrow, and it is worth being fresh for it.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Kaziranga elephant ride and tea country",
+      "stay": "Tezpur",
+      "altitude_m": 48,
+      "drive": "110 km · 2.5 hrs",
+      "text": "Elephant rides run only in the Central (Kohora) and Western (Bagori) ranges, in one-hour batches between about 5.30 and 7.30 am. You ride into tall grass among one-horned rhinos, swamp deer and wild buffalo as the mist lifts, one of the best hours of the trip. After breakfast, drive north across the Brahmaputra on the Kalia Bhomora bridge to Tezpur, or to Wild Mahseer's heritage bungalows at Balipara in the premium tier. The afternoon is yours: rest, a tea-garden walk, or the sunset view of the river from Agnigarh hill in Tezpur.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Tezpur to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1620,
+      "drive": "195 km · 6 hrs",
+      "text": "Leave at 7.30 am. Your ILP is checked at Bhalukpong, the gate into Arunachal. The road follows the Kameng river, then climbs through Tenga and Rupa to Bomdila at 2,415 m for lunch and its hilltop monastery, and descends 42 km to Dirang at about 1,620 m. Check in, and before dinner, go to the Dirang hot spring by the river; a soak after a day in the car is exactly what you will want. Sleeping in Dirang before Tawang is the simplest way to avoid altitude headaches on the next two nights.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Dirang to Tawang over Sela",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "135 km · 5 hrs",
+      "text": "Leave at 7.30 am. In fair weather we take the old road over Sela Pass at about 4,170 m for photographs at Sela Lake, often frozen and snow-covered from December to March; if the weather turns, the Sela Tunnel, open since March 2024, takes you through. Stop at the Jaswantgarh war memorial for tea and at Jang for the Nuranang falls. Reach Tawang in the early afternoon. Your room is decorated with flowers and a cake is waiting. In the late afternoon, visit Tawang Monastery, founded in 1681. Your driver files the Madhuri Lake and Bum La permit today.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Madhuri Lake and a candlelight dinner",
+      "stay": "Tawang",
+      "altitude_m": 2670,
+      "drive": "80 km · 6–7 hrs round trip",
+      "text": "Leave at 7 am in a local Tawang taxi, the only vehicles allowed on this road. Madhuri Lake (Sangetsar Tso), at about 3,700 m, is still and quiet, with dead tree trunks standing in the water under bare ridges. Indian citizens can continue to Bum La at 4,600 m on the India–China border if the Army allows it that day; it often closes after snow between December and March, and foreign guests cannot go. Back in Tawang by mid-afternoon, rest, then visit the war memorial's light and sound show. Tonight is your candlelight dinner at the hotel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Tawang to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2415,
+      "drive": "171 km · 6 hrs",
+      "text": "Leave Tawang after breakfast and drive back through the tunnel or over the pass, depending on the weather and on how much you want one more look at the snow. Lunch in Dirang. Continue to Bomdila at 2,415 m for the night. On a clear evening, walk up to the Gontse Gaden Rabgye Ling monastery for the view of the Kangto and Gorichen ranges turning pink at sunset. Bomdila's small market sells Monpa woollens and yak-hair caps if you want a last gift for each other. Early dinner; tomorrow we leave at first light.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Bomdila to Guwahati and depart",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "300 km · 8 hrs",
+      "text": "Leave Bomdila at 6 am. The road drops through Rupa and Tenga to Bhalukpong, then crosses the plains through Balipara, Dhekiajuli and Mangaldoi to Guwahati Airport, arriving around 2 pm on a normal day. Book a flight after 5 pm. If you would rather not rush, let us add a last night in Guwahati with a Brahmaputra sunset cruise, which is a gentle way to end a honeymoon. Our driver takes you to the terminal door, and we stay on WhatsApp until your flight leaves.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "8 nights in hotels on twin sharing, with a view room where the hotel has one",
+    "Daily breakfast and dinner",
+    "Flower decoration and cake on your first night in Tawang",
+    "One candlelight dinner in Tawang",
+    "Private car (Innova or similar) for the two of you, Guwahati to Guwahati",
+    "One elephant ride in Kaziranga",
+    "Local Tawang taxi for Madhuri Lake and Bum La",
+    "Help with the Arunachal tourist ILP for Indian citizens; PAP paperwork for foreign couples",
+    "Driver allowance, fuel, tolls, parking and state entry taxes",
+    "WhatsApp support from our desk throughout the trip"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Kaziranga entry and camera fees",
+    "Umngot boat ride, priced per boat at the ghat",
+    "Village entry fees at Meghalaya viewpoints, typically under ₹100 per person",
+    "ILP, PAP and Bum La permit fees",
+    "Lunches, snacks and drinks",
+    "Extra nights from snow closures, landslides or bandhs",
+    "Tips and anything not listed under inclusions"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Pegasus Crown or similar. Sohra: Cherrapunjee Holiday Resort or similar. Kaziranga: Wild Grass Lodge or similar. Tezpur: Cygnett Inn Imperial Tezpur or similar. Dirang: Pemaling Lords Inn or similar. Tawang: Hotel Tawang Heights or similar. Bomdila: Himland House or similar" },
+    { "tier": "Premium", "options": "Shillong: Hotel Polo Towers or similar. Sohra: Polo Orchid Resort or similar. Kaziranga: Infinity Resorts Kaziranga or similar. Balipara: Wild Mahseer or similar. Dirang: Dirang Boutique Cottages or similar. Tawang: Hotel Gakyi Khang Zhang or similar. Bomdila: Hotel Elysium or similar" },
+    { "tier": "Luxury", "options": "Umiam: Ri Kynjai or similar. Sohra: Polo Orchid Resort (best rooms) or similar. Kaziranga: Diphlu River Lodge or similar. Balipara: Wild Mahseer or similar. Dirang: Dirang Boutique Cottages (best rooms). Tawang: Vivanta Tawang or similar. Bomdila: Hotel Elysium (best rooms) or similar" }
+  ],
+  "good_to_know": [
+    "This is a full honeymoon: days 3 and 9 are about 8 hours on the road. Adding two nights (one in Guwahati, one more in Tawang) makes it much gentler; ask us for that version.",
+    "Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in; it costs about ₹300–500 each, so pay whatever the portal shows. Foreign couples need a Protected Area Permit through an approved operator. Meghalaya needs no permit, but hotels register all guests on the state tourism app.",
+    "Kaziranga opens in phases from about October and closes around May; elephant rides usually start in November. Dawki's water is clearest from about November to April. Check current status before you travel.",
+    "Bum La is for Indian civilians only, with a DC Tawang permit stamped by the Army, and often closes after snow between December and March.",
+    "Tawang nights fall well below 0°C in winter. Pack thermals, a down jacket each, gloves and a woollen cap.",
+    "Tell us your wedding date at booking so hotels can plan any small extras they offer to honeymoon couples."
+  ],
+  "faqs": [
+    { "q": "Can we see Meghalaya, Kaziranga and Tawang on an 8-night honeymoon?", "a": "Yes, but it is a busy honeymoon. There are two long drives of about 8 hours, from Sohra to Kaziranga and from Bomdila to Guwahati, because Tawang is two driving days from the plains. If you can spare 10 nights, we add a night in Guwahati and a third night in Tawang so every day is relaxed." },
+    { "q": "What honeymoon extras are included?", "a": "You get flower decoration and a cake on your first night in Tawang, one candlelight dinner at your Tawang hotel, rooms with a view where the hotel has them, and a private car and driver for the two of you throughout. We do not add shared sightseeing, so you set the pace each day." },
+    { "q": "Which is the most romantic stay on this trip?", "a": "Many couples pick Ri Kynjai above Umiam Lake, Wild Mahseer's heritage bungalows at Balipara or Vivanta Tawang with its mountain views; all three are in our premium or luxury tiers. Standard hotels are clean and comfortable but simpler. We can mix tiers, for example upgrading only the Tawang nights." },
+    { "q": "Will we see snow on this honeymoon?", "a": "Snow is likely at Sela Pass and Madhuri Lake from December to March, and fresh snow can fall in November and April. Tawang town gets snow in many Januaries. Meghalaya and Kaziranga do not get snow. Snow is never guaranteed on a given date, so check current status before you travel if snow matters most." },
+    { "q": "What is the best month for a Northeast honeymoon?", "a": "November is excellent: clear skies, a clear Umngot at Dawki, Kaziranga open and cool but not freezing nights in Tawang. December and February give snow at Sela with colder nights. March and April bring rhododendrons in the hills. Avoid June to September, when Kaziranga closes and monsoon landslides slow the roads." },
+    { "q": "Do we need permits for a Northeast honeymoon?", "a": "Meghalaya and Assam need no permit. For Tawang, Indian citizens need an Arunachal tourist ILP from eilp.arunachal.gov.in, costing about ₹300–500 each; pay what the portal shows. Foreign nationals need a Protected Area Permit through an approved operator. Bum La needs an extra Tawang permit. Check current status before you travel." },
+    { "q": "Is the Dawki boat ride safe for couples?", "a": "Yes. Boats on the Umngot are wooden rowing or small motor boats run by local boatmen, and life jackets are available; ask for them. The river is calm and clear from about November to April. In the monsoon the water is fast and muddy and rides may stop. Boats are priced per boat, so agree the fare first." },
+    { "q": "Can we fly to Tawang to save time?", "a": "There is no airport at Tawang. A Guwahati–Tawang helicopter service has run in the past, but we could not confirm a current schedule, so treat it as subject to operation and check current status before you travel. This honeymoon runs entirely by road, which also lets you stop at Sela Lake and Nuranang falls." },
+    { "q": "How much does the Northeast honeymoon package cost?", "a": "This 8 nights / 9 days honeymoon starts from ₹47,500 per person on twin sharing with standard hotels, breakfast and dinner, a private car, a Kaziranga elephant ride, decoration, cake and one candlelight dinner. Premium and luxury tiers with Wild Mahseer, Ri Kynjai and Vivanta Tawang cost more. Flights and fees are extra." }
+  ]
+}

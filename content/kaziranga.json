@@ -1,0 +1,14 @@
+{
+  "season": {
+    "open_month": 10,
+    "close_month": 4,
+    "text": "Kaziranga usually reopens in phases from October and runs to about the end of April or May, closing for the monsoon floods. Dates are set each year by the park; check before you book."
+  },
+  "zones": [
+    { "name": "Central (Kohora)", "gate": "Kohora", "best_for": "Rhinos, elephants, wild buffalo; the most popular range", "jeep": "Morning and afternoon slots", "elephant": "Early morning, about 5:30–7:30 am" },
+    { "name": "Western (Bagori)", "gate": "Bagori", "best_for": "Highest rhino density, open grassland", "jeep": "Morning and afternoon slots", "elephant": "Early morning, about 5:30–7:30 am" },
+    { "name": "Eastern (Agaratoli)", "gate": "Agaratoli", "best_for": "Birds, wetlands, fewer vehicles", "jeep": "Morning and afternoon slots", "elephant": "—" },
+    { "name": "Burapahar", "gate": "Ghorakati", "best_for": "Forested hills, primates, quieter trails", "jeep": "Morning and afternoon slots", "elephant": "—" }
+  ],
+  "note": "Entry is about ₹100 for Indians and ₹650 for foreign nationals, plus camera fees and a per-jeep charge (roughly ₹3,000–5,500, varies by range and season). Morning slots in Central and Western fill first between December and March. There is no official night safari."
+}

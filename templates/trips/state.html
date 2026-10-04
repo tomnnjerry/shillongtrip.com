@@ -1,0 +1,16 @@
+{% extends "base.html" %}{% load trips_tags %}
+{% block body %}
+<section class="sth">
+  <figure class="sth__img">{% img hero eager=True %}{% credit hero %}</figure>
+  <div class="shell sth__in"><div class="sth__card">{% crumbs crumb_list %}<span class="eyebrow">{% icon 'pin' %} State guide</span><h1>{{ s.name }}</h1><p>{{ s.line }}</p><div class="row"><a class="btn btn--sun" href="/packages/?state={{ s.key }}">{{ s.short }} packages</a><a class="btn btn--line" href="#places">Places</a></div></div></div>
+</section>
+<section class="band" id="places"><div class="shell">
+  <div class="tbl" tabindex="0"><table><caption>{{ s.name }} at a glance</caption><thead><tr><th scope="col">Place</th><th scope="col">Altitude</th><th scope="col">Best months</th><th scope="col">Permit</th><th scope="col">From hub</th></tr></thead>
+  <tbody>{% for d in places %}<tr><th scope="row"><a href="/places/{{ d.slug }}/">{{ d.name }}</a></th><td>{{ d.altitude_m|num }} m</td><td>{{ d.best_months|monthslabel }}</td><td>{% if d.permit.required %}Yes{% else %}No (Indians){% endif %}</td><td>{% if d.from_hub.km %}{{ d.from_hub.km|num }} km from {{ d.from_hub.hub }}{% else %}—{% endif %}</td></tr>{% endfor %}</tbody></table></div>
+  <div class="pl-grid pl-grid--mt">{% for d in places %}{% place_card d %}{% endfor %}</div>
+</div></section>
+{% if pks %}<section class="band band--mist"><div class="shell"><header class="band__head band__head--split"><div><span class="eyebrow">{% icon 'route' %} Packages</span><h2>{{ s.short }} tour packages</h2></div><a class="more" href="/packages/?state={{ s.key }}">Filter all {% icon 'arrow' %}</a></header><div class="pk-grid">{% for t in pks %}{% pk_card t %}{% endfor %}</div></div></section>{% endif %}
+{% faq_block faqs title=s.name|add:": questions travellers ask" %}
+{% if reads %}<section class="band"><div class="shell"><header class="band__head"><span class="eyebrow">{% icon 'doc' %} Guides</span><h2>Plan your {{ s.short }} trip</h2></header><div class="gd-grid">{% for g in reads %}{% guide_card g %}{% endfor %}</div></div></section>{% endif %}
+{% cta_panel img=s.hero %}
+{% endblock %}

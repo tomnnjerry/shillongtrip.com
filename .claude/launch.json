@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "shillongtrip", "runtimeExecutable": "python", "runtimeArgs": ["manage.py", "runserver", "127.0.0.1:4322", "--noreload"], "port": 4322 }
+  ]
+}

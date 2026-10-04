@@ -1,0 +1,129 @@
+{
+  "slug": "meghalaya-family-5n",
+  "title": "Meghalaya Family Holiday",
+  "nights": 5,
+  "themes": ["family"],
+  "states": ["meghalaya"],
+  "places": ["shillong", "umiam-lake", "shillong-peak", "elephant-falls", "sohra", "nohkalikai-falls", "mawsmai-cave", "mawlynnong"],
+  "hero": "mawsmai-cave",
+  "price_from_inr": 19500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4, 5],
+  "difficulty": "easy",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Meghalaya family tour, 5 nights / 6 days: Shillong, two nights in Sohra, Mawsmai Cave, Mawlynnong village. Short drives, private car, from ₹19,500 per person.",
+  "quick_answer": "Our Meghalaya Family Holiday is 5 nights / 6 days from Guwahati, paced for children and grandparents: two nights in Shillong, two in Sohra with Mawsmai Cave and Nohkalikai Falls, and a night in Mawlynnong village. Most days have under three hours in the car. It costs from ₹19,500 per adult on twin sharing.",
+  "overview": [
+    "Family trips go wrong in Meghalaya when the plan crams Dawki, Sohra and Shillong into three days and children spend eight hours a day in a car. We slow it down. There are two nights in Shillong and two in Sohra, so on four of six days you are in the car for less than three hours, and every afternoon has room for a nap or a hotel pool.",
+    "The sights are picked for mixed ages: boats at Umiam Lake, the tiers of Elephant Falls, the lit passage of Mawsmai Cave, which children love, and a night in Mawlynnong, where kids can walk the lanes safely and see how a village keeps itself clean. Grandparents can skip any steps without missing the day, because the car and a viewpoint are always close."
+  ],
+  "highlights": [
+    "Boat ride at the Umiam Lake Water Sports Complex on the way up",
+    "Mawsmai Cave, a lit limestone cave with an easy exit for those who do not want the squeeze",
+    "Two nights in Sohra with Nohkalikai Falls, Arwah Cave and Eco Park",
+    "Elephant Falls and Shillong Peak at 1,965 m",
+    "A night in Mawlynnong and a 20 minute walk to the Riwai root bridge",
+    "Four of six days with under three hours of driving"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong via Umiam Lake",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport or the railway station, with child seats if you asked for them. The highway climbs gradually through Jorabat, Byrnihat and Nongpoh; we stop at Nongpoh for a snack and a toilet break. At Umiam Lake, about 15 km before Shillong, children usually enjoy a 15 to 20 minute speedboat or paddle boat ride at the Water Sports Complex run by Meghalaya Tourism. Reach Shillong and check in by 4 pm. In the evening, walk around Ward's Lake, where paddle boats run when the lake is open, and eat early.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Elephant Falls, Shillong Peak and the Don Bosco Museum",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "Local sightseeing · about 40 km",
+      "text": "Start at Elephant Falls, 12 km from Police Bazar, where stepped paths lead to three tiers of water; grandparents can stop at the first viewpoint. Shillong Peak is 3 km away. It sits inside an Air Force area, so every adult needs original ID, and it has been closed on some weekdays; we confirm the evening before. Children like the coin telescopes on the viewing deck. After lunch, the Don Bosco Museum in Mawlai has seven floors of costumes, weapons, musical instruments and a rooftop skywalk; allow 90 minutes. Evening is free.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Shillong to Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "55 km · 1.5–2 hrs, plus stops",
+      "text": "After breakfast, drive the 55 km Sohra road. Stop at the Mawkdok Dympep valley viewpoint and at Wah Kaba Falls, both a few steps from the car. In Sohra, have lunch and then visit Eco Park, a flat, fenced park on the plateau edge with views over the plains and small streams that run off the cliff in the wet months. Check in by mid-afternoon. Many Sohra resorts have lawns where children can run around. If the sky is clear, drive 20 minutes to Thangkharang Park for sunset. Nights are cool, so pack jackets for everyone.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Nohkalikai Falls, Mawsmai Cave and Arwah Cave",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "Local sightseeing · about 30 km",
+      "text": "Be at the Nohkalikai viewpoint by 8 am, before cloud rises from the gorge; the fall is about 340 m, India's tallest plunge. Next, Mawsmai Cave: the lit route is about 150 m, with one tight squeeze and a shorter exit for anyone who prefers it. Wear shoes with grip, as the floor is wet. From outside the cave, look across to the Seven Sisters Falls, which run mainly in the rains. After lunch, walk the 1 km cliff path to Arwah Cave, which is wider and easier than Mawsmai. The afternoon is free for rest at the resort.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Sohra to Mawlynnong",
+      "stay": "Mawlynnong",
+      "altitude_m": 500,
+      "drive": "85 km · 3 hrs",
+      "text": "Leave Sohra after breakfast and drive back to Laitlyngkot, then south through Pynursla towards the Bangladesh border. Reach Mawlynnong by noon and check into a family homestay. After lunch, walk 20 minutes down stone steps to the Riwai living root bridge, a single span of fig roots that children can cross. Back in the village, look for the bamboo dustbins on every lane and the flower gardens in front of each house; the village bans plastic bags. Climb the bamboo Sky View platform if it is open. Dinner is home-cooked and mild; tell the host if children need plain food.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Mawlynnong to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "180 km · 5.5–6 hrs",
+      "text": "Have breakfast and leave by 8 am. The route runs back through Pynursla to the Shillong bypass and down the Guwahati highway via Umiam and Nongpoh, with breaks every 90 minutes and a lunch stop. You reach Guwahati around 2 to 2.30 pm, depending on traffic near Jorabat, so please book flights after 4 pm or trains after 4.30 pm. If your children would like to see Dawki, 30 km from Mawlynnong, we can add an early boat ride at 7.30 am and leave for Guwahati by 9.30, arriving around 3.30 pm.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "2 nights in Shillong, 2 nights in Sohra and 1 night in a Mawlynnong homestay, twin sharing",
+    "Daily breakfast and dinner",
+    "Private car (Dzire or similar for up to 3; Innova or Ertiga for 4 to 6)",
+    "Child seat on request, subject to availability",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Driver allowance, fuel, tolls and parking",
+    "All sightseeing as per the day plan",
+    "Hotel taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Entry fees at Elephant Falls, Shillong Peak, Don Bosco Museum, Eco Park, Nohkalikai, Mawsmai, Arwah, Mawlynnong and the Riwai bridge",
+    "Boating at Umiam and Ward's Lake",
+    "Lunches, snacks and drinks",
+    "Extra beds for children above the hotel's free age",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Costs from landslides, road closures or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Centre Point or Pinewood Hotel. Sohra: Sa-I-Mika Resort or Jiva Resort. Mawlynnong: Hep Homestay or Streamside Guest House, or similar" },
+    { "tier": "Premium", "options": "Shillong: Polo Towers Shillong or Hotel Pegasus Crown. Sohra: Cherrapunjee Holiday Resort. Mawlynnong: best available family homestay, or similar" },
+    { "tier": "Luxury", "options": "Shillong: Courtyard by Marriott Shillong or Vivanta Meghalaya Shillong. Sohra: Polo Cherrapunjee Resort. Mawlynnong: best available family homestay, or similar" }
+  ],
+  "good_to_know": [
+    "Children under about 5 usually stay free in their parents' room without an extra bed; ages 5 to 11 pay a child rate; we confirm by hotel",
+    "Carsick children do better in the front row of an Innova or Ertiga than in the back of a sedan; carry ginger candy and bags",
+    "Mawsmai Cave floors are wet and uneven; closed shoes with grip are better than sandals",
+    "Meghalaya hotels and homestays register every guest on the state system, so bring ID for all adults and age proof for children",
+    "Shillong Peak is inside an Air Force area and has generally been closed to foreign nationals; check current status before you travel"
+  ],
+  "faqs": [
+    { "q": "Is Meghalaya good for a family holiday with kids?", "a": "Yes. Distances between Shillong and Sohra are short, sights such as Elephant Falls, Mawsmai Cave and Umiam Lake suit children, and the cool weather keeps days comfortable. The key is pacing. We keep most days under three hours of driving and avoid long treks." },
+    { "q": "What is the minimum age for this trip?", "a": "There is no minimum age. Babies and toddlers travel comfortably if you carry a carrier for the steps at Elephant Falls and the Riwai root bridge. Mawsmai Cave suits children from about four who are happy in a dim, narrow space. Parents can skip any section without missing the day." },
+    { "q": "How much does the family package cost?", "a": "It starts at ₹19,500 per adult on twin sharing with standard hotels, breakfast and dinner, and a private car. Children under about five usually stay free without an extra bed; older children pay a child rate that depends on the hotel. A family of four typically needs an Innova or Ertiga." },
+    { "q": "Is the Mawsmai Cave safe for children?", "a": "Mawsmai is lit, has a marked route of about 150 m, and staff are present at the entrance. There is one narrow squeeze where adults may need to bend, and the floor is wet. Children usually find it exciting. Anyone uncomfortable can take the shorter exit before the squeeze." },
+    { "q": "Is a homestay in Mawlynnong comfortable for families?", "a": "Mawlynnong homestays are simple but clean, with attached or shared bathrooms, hot water by bucket or geyser, and home-cooked meals. Many have family rooms with three or four beds. If you prefer hotel comfort, we can replace the Mawlynnong night with a third night in Shillong." },
+    { "q": "What is the best time for a Meghalaya family trip?", "a": "October to May works best. School holidays in October and December to January are busy, so book early. From June to September waterfalls are fullest but rain can cut sightseeing short and paths get slippery. May is warm and green, with some afternoon storms." },
+    { "q": "Can grandparents manage this itinerary?", "a": "Yes. All sights are close to parking, and each has an easy option: the first viewpoint at Elephant Falls, the top viewpoint at Nohkalikai and the flat Eco Park. The Riwai root bridge involves about 20 minutes of steps each way and can be skipped. Hotels with lifts are available in Shillong." },
+    { "q": "Do we need any permits for this trip?", "a": "No permits are needed for Indian or foreign travellers on this route. Every hotel and homestay registers guests on Meghalaya's system, so carry photo ID for adults and age proof for children. Foreign guests should note that Shillong Peak has generally been closed to them." },
+    { "q": "Can we add Dawki to the family trip?", "a": "Yes. Dawki is 30 km from Mawlynnong. On the last morning we can leave at 7 am for a boat ride on the Umngot at 7.30, then drive to Guwahati by around 3.30 pm. Boating runs mainly from November to April and is often suspended in the monsoon." }
+  ]
+}

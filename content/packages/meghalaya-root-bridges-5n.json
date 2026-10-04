@@ -1,0 +1,130 @@
+{
+  "slug": "meghalaya-root-bridges-5n",
+  "title": "Living Root Bridges Trek",
+  "nights": 5,
+  "themes": ["trekking", "adventure"],
+  "states": ["meghalaya"],
+  "places": ["sohra", "nongriat-root-bridges", "nohkalikai-falls", "wei-sawdong-falls", "mawlynnong", "shillong"],
+  "hero": "nongriat-root-bridges",
+  "price_from_inr": 18500,
+  "best_months": [10, 11, 12, 1, 2, 3],
+  "difficulty": "challenging",
+  "max_altitude_m": 1525,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Living root bridges trek, 5 nights / 6 days: a night in Nongriat, Rainbow Falls, Wei Sawdong and the Riwai bridge at Mawlynnong. Guide included, from ₹18,500.",
+  "quick_answer": "This 5 nights / 6 days trek goes straight from Guwahati to Sohra, then down about 3,500 steps from Tyrna to sleep a night in Nongriat beside the double decker root bridge, with time for Rainbow Falls. It adds Wei Sawdong Falls and the Riwai root bridge at Mawlynnong. From ₹18,500 per person, registered guide included.",
+  "overview": [
+    "Most visitors see the double decker root bridge in a rushed day, arriving at noon with a hundred others and climbing out in the afternoon heat. We sleep in Nongriat instead. You reach the bridge after the day crowd thins, walk to Rainbow Falls without watching the clock, and climb the 3,500 steps back to Tyrna at 7 am while the valley is still in shade.",
+    "The rest of the trip is built around the same theme: Wei Sawdong's three-tier fall reached by a steep path near Dainthlen, and the Riwai root bridge at Mawlynnong on the southern slopes. We drive directly from Guwahati to Sohra on Day 1, which saves a night in Shillong for trekking time. You need to be fit enough to walk 5 to 7 hours on steps, and the trip is best from October to March, when the steps are dry."
+  ],
+  "highlights": [
+    "A night in Nongriat village, about 600 m, beside the double decker root bridge",
+    "Rainbow Falls and its blue pool, about an hour beyond Nongriat",
+    "Climb back up the 3,500 steps at 7 am in the shade",
+    "Wei Sawdong, a three-tier waterfall reached by a short but steep path",
+    "The Riwai living root bridge and a night in Mawlynnong",
+    "Registered local guide on every trek, as required in East Khasi Hills"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "155 km · 5–5.5 hrs",
+      "text": "We meet you at Guwahati Airport or the railway station and drive up the highway through Jorabat and Nongpoh to Shillong, then take the Sohra road without going into the city centre. Lunch is on the way, and on a clear day we stop at the Mawkdok Dympep valley viewpoint. You reach Sohra by late afternoon. Your guide visits in the evening to check shoes, bags and fitness, and to explain the plan. Pack a light overnight bag for Nongriat: a change of clothes, a torch, a towel and any medicines. The main luggage stays at the Sohra hotel.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Tyrna to Nongriat and the double decker bridge",
+      "stay": "Nongriat",
+      "altitude_m": 600,
+      "drive": "30 min drive, then trek 3 km · 2–3 hrs down",
+      "text": "Drive 30 minutes to Tyrna and start down by 9 am with your registered guide. About 3,500 concrete steps descend steeply through areca and betel groves, past the single root bridge at Nongthymmai and across two swaying steel-wire bridges over the Umshiang stream. You reach Nongriat around noon. Check into the homestay, eat lunch, then walk to the double decker root bridge, two levels of living rubber fig roots with natural pools below. Late afternoon is quiet after the day hikers leave. Dinner is rice, dal and local greens at the homestay. Electricity and phone signal are patchy.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Rainbow Falls and the climb out",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "Trek about 6 km · 5–6 hrs",
+      "text": "Start at 6.30 am for Rainbow Falls, about an hour each way over rocks, streams and a couple of smaller root bridges. On sunny mornings between October and March, the spray over the blue pool catches a rainbow, which gives the fall its name. Back in Nongriat by 9.30, collect your bag and begin the climb. The 3,500 steps take most people 1.5 to 2.5 hours with rest stops; drink water at each village shop. The car waits at Tyrna. Return to Sohra by early afternoon, have a hot shower and rest your legs. The evening is free.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Wei Sawdong and Nohkalikai Falls",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "Local sightseeing · about 40 km",
+      "text": "Start at the Nohkalikai viewpoint at 8 am, before cloud builds; the 340 m plunge is India's tallest. Then drive to Dainthlen Falls, where a Khasi legend says a giant serpent was killed. A short distance beyond, your guide leads the path down to Wei Sawdong, a three-tier fall that pours into a series of blue pools. The last section is steep, with a bamboo ladder and muddy patches, so allow 20 to 30 minutes each way and use your hands. Swimming depends on the water level and local rules. After lunch, rest or visit Arwah Cave, a 1 km walk along the cliff.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Sohra to Mawlynnong and the Riwai root bridge",
+      "stay": "Mawlynnong",
+      "altitude_m": 500,
+      "drive": "85 km · 3 hrs",
+      "text": "Leave Sohra after breakfast, drive back to Laitlyngkot and turn south through Pynursla, where the road runs along a ridge with views towards the plains. Reach Mawlynnong by noon and check into a homestay. After lunch, walk 20 minutes down to the Riwai living root bridge, a single span over a stream, much easier than Nongriat but just as old in style. Back in the village, walk the lanes to see the bamboo dustbins and flower gardens that won it the cleanest-village tag. Climb the bamboo Sky View platform if it is open. Dinner is simple home cooking.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Mawlynnong to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "180 km · 5.5–6 hrs",
+      "text": "Leave Mawlynnong by 8 am after breakfast. The route runs back through Pynursla to the Shillong bypass and then down the Guwahati highway via Umiam and Nongpoh, with a lunch stop on the way. You reach Guwahati by about 2 pm, depending on traffic near Jorabat. Please book flights after 4 pm or trains after 4.30 pm. If you have an extra night, we can drop you in Shillong instead and arrange a separate transfer the next day. Your driver drops you at the airport terminal or station entrance.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights in Sohra and 1 night each in Nongriat and Mawlynnong homestays, twin sharing",
+    "Breakfast and dinner daily, plus lunch in Nongriat on Day 2",
+    "Registered local guide for the Nongriat, Rainbow Falls and Wei Sawdong treks",
+    "Private car (Dzire or similar; Innova or Ertiga for 4 or more) for all road transfers",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Luggage storage at the Sohra hotel on the Nongriat night",
+    "Driver allowance, fuel, tolls and parking",
+    "Hotel taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Village entry fees at Tyrna, Nongriat, Rainbow Falls, Wei Sawdong, Mawlynnong and the Riwai bridge",
+    "Porters for the Nongriat steps (bookable at Tyrna)",
+    "Lunches other than Day 2, and snacks and drinks",
+    "Trekking poles, rain gear and personal equipment",
+    "Tips and personal expenses",
+    "Travel insurance with trekking cover",
+    "Costs from landslides, road closures or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Sohra: Jiva Resort or Sa-I-Mika Resort. Nongriat: village homestay with shared bathroom. Mawlynnong: Hep Homestay or Streamside Guest House, or similar" },
+    { "tier": "Premium", "options": "Sohra: Cherrapunjee Holiday Resort, Laitkynsew. Nongriat: best available homestay. Mawlynnong: best available homestay, or similar" },
+    { "tier": "Luxury", "options": "Sohra: Polo Cherrapunjee Resort. Nongriat and Mawlynnong have only homestays; we book the best available, or similar" }
+  ],
+  "good_to_know": [
+    "From June to September the Nongriat and Wei Sawdong paths are slippery and streams rise fast; we run this trip mainly from October to March",
+    "East Khasi Hills has required registered local guides on treks since mid-2025 (included here), and the Nongriat trail has been closed on Sundays, so we set your start date to avoid a Sunday descent; check current status before you travel",
+    "Wear trail shoes with good grip, not new boots; carry trekking poles if your knees complain on descents",
+    "Nongriat homestays are basic, with shared bathrooms, limited power and weak phone signal",
+    "Carry ₹2,000 in small notes for village entry fees, shops and porters",
+    "Hotels and homestays register every guest on Meghalaya's system; keep photo ID for all adults"
+  ],
+  "faqs": [
+    { "q": "How many steps are there to the double decker root bridge?", "a": "The route from Tyrna to Nongriat has about 3,500 concrete steps, roughly 3 km one way, and you climb the same steps back, from Nongriat at about 600 m. Going down takes 1.5 to 2.5 hours for most people and coming up takes about the same, with rests." },
+    { "q": "Why stay overnight in Nongriat?", "a": "Staying in Nongriat splits the hardest part of the trek over two days, gives you the root bridge after the day crowd leaves, and lets you reach Rainbow Falls early. You also climb out at 7 am in the shade rather than in the midday heat, which makes a real difference." },
+    { "q": "How fit do I need to be for this trek?", "a": "You should be able to climb stairs for two hours with short breaks, and walk 5 to 7 hours in a day. Regular walkers aged 12 to 60 generally manage well. People with knee, heart or breathing problems should talk to a doctor first. Porters are available at Tyrna for bags." },
+    { "q": "Can I do this trek in the monsoon?", "a": "It is possible but not what we recommend. From June to September the steps and rocks are slippery, the streams rise quickly after rain, and Rainbow Falls may be unsafe to reach. Guides may cut the route short. If you must go in the rains, keep a spare day and wear shoes with deep grip." },
+    { "q": "Is a guide compulsory for the Nongriat trek?", "a": "Since mid-2025, the East Khasi Hills district has required tourists to hire registered local guides for treks, including Nongriat and Wei Sawdong. Our price includes the guide. Rules are enforced at the trailheads and may change, so check current status before you travel." },
+    { "q": "What does the root bridges trek package cost?", "a": "It starts at ₹18,500 per person on twin sharing, including three nights in Sohra, homestay nights in Nongriat and Mawlynnong, breakfast and dinner, a private car and a registered guide. Premium Sohra stays add about ₹3,000 to ₹6,000 per person. Porters and village entry fees are extra." },
+    { "q": "What are the homestays in Nongriat like?", "a": "Nongriat homestays are simple rooms in village houses, usually with thin mattresses, blankets and shared bathrooms. Meals are rice, dal, vegetables and sometimes egg or chicken. Power cuts are common and mobile data is weak. Bring a torch, a power bank and quick-dry clothes." },
+    { "q": "What should I pack for the root bridges trek?", "a": "Pack trail shoes with grip, quick-dry clothes, a light rain jacket, a small daypack, a 1 litre water bottle, a torch, a power bank, sunscreen and basic medicines. A swimsuit is useful at Rainbow Falls and Wei Sawdong. Leave heavy bags at the Sohra hotel." },
+    { "q": "Can children do the Nongriat trek?", "a": "Active children from about ten upwards usually manage the trek, especially with an overnight in Nongriat. Younger children may need to be carried on the climb, which is tiring for parents. For families with small children, the easier Riwai root bridge near Mawlynnong is a better choice." }
+  ]
+}

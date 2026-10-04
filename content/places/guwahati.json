@@ -1,0 +1,70 @@
+{
+  "slug": "guwahati",
+  "name": "Guwahati",
+  "state": "assam",
+  "state_name": "Assam",
+  "district": "Kamrup Metropolitan",
+  "types": ["city", "base", "river", "temple"],
+  "tagline": "The Brahmaputra city where almost every Northeast trip begins",
+  "altitude_m": 55,
+  "coords": [26.1445, 91.7362],
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "best_time": "October to April for dry, mild days and river trips; May to September is hot, humid and wet.",
+  "permit": {
+    "required": false,
+    "indians": "No permit needed for Assam. Carry photo ID for hotel check-in",
+    "foreigners": "No RAP or PAP needed for Assam. Carry your passport and visa; your hotel files the standard Form C registration"
+  },
+  "from_hub": { "hub": "Guwahati Airport (GAU)", "km": 28, "hours": "1" },
+  "ideal_stay": "1 night on arrival or departure, 2 nights if you want Kamakhya, the river and the museums",
+  "meta_description": "Guwahati travel guide: Kamakhya, Brahmaputra cruises, Umananda, where to stay, how to reach Shillong and Kaziranga, and 9 answered FAQs.",
+  "quick_answer": "Guwahati is Assam's largest city and the gateway to the Northeast, on the south bank of the Brahmaputra about 28 km from the airport. Most travellers spend a night here for Kamakhya Temple, a sunset river cruise and Umananda island before driving 100 km to Shillong or about 195 km to Kaziranga. No permit is needed.",
+  "intro": [
+    "Almost every trip we plan in the Northeast starts or ends in Guwahati. The airport, the main railway station and the bus terminals for Shillong, Kaziranga and Tawang are all here, so the city is often treated as a transit stop. That is a mistake if you have half a day: the Brahmaputra is more than a kilometre wide at Guwahati, and watching it from a ferry at sunset explains the whole state.",
+    "The city stretches along the south bank for about 20 km. Paltan Bazaar and Fancy Bazaar are the old, crowded commercial core near the railway station. Uzan Bazaar and Pan Bazaar sit on the riverfront with ghats for the Umananda ferry and cruises. GS Road runs south-east towards Khanapara and the Meghalaya border, and Dispur, the state capital complex, sits along it.",
+    "Kamakhya Temple crowns Nilachal Hill on the western side of town, 8 km from Paltan Bazaar. Beyond it, the Saraighat bridges cross to North Guwahati, the road to Hajo and Sualkuchi. Guwahati is hot and humid from May to September, and the traffic on GS Road at office hours can add an hour to any airport run, so we build in slack."
+  ],
+  "highlights": [
+    { "name": "Kamakhya Temple", "text": "One of the most important Shakti peethas, on Nilachal Hill. The free general queue can take 2 to 4 hours on weekends and festival days; special darshan costs INR 501." },
+    { "name": "Brahmaputra sunset cruise", "text": "One to two hour cruises leave from the Uzan Bazaar and Fancy Bazaar riverfront in the late afternoon. Winter evenings are clearest; boats may not run when the river is high." },
+    { "name": "Umananda island", "text": "A small river island with a Shiva temple, reached by a 10 to 15 minute government ferry from Uzan Bazaar ghat. Ferries stop in the evening and when the water is rough." },
+    { "name": "Guwahati ropeway", "text": "A cable car across the Brahmaputra between the Kachari Ghat area and North Guwahati, about 1.8 km long, with a clear view of the river from above. Check it is running before you go." },
+    { "name": "Srimanta Sankaradeva Kalakshetra", "text": "A cultural complex in Panjabari with an open-air theatre, a museum of Assamese culture and a heritage village layout. Good for two hours on a hot afternoon." },
+    { "name": "Assam State Museum", "text": "Near Dighalipukhuri, with sculpture from across the state, Ahom-era objects and tribal galleries. Usually closed on Mondays and some public holidays." }
+  ],
+  "things_to_do": [
+    "Queue at Kamakhya Temple at opening time, then walk to the Bhubaneswari temple higher up Nilachal Hill for a city view",
+    "Take the government ferry from Uzan Bazaar to Umananda island in the morning",
+    "Book a sunset cruise on the Brahmaputra between October and April",
+    "Ride the ropeway across the river to North Guwahati and back",
+    "Eat an Assamese thali with khar, masor tenga (sour fish curry) and pitika (mashes)",
+    "Browse Fancy Bazaar and Paltan Bazaar for Assam tea, gamosa and muga silk",
+    "Spend a slow afternoon at Srimanta Sankaradeva Kalakshetra or the Assam State Museum",
+    "Visit Basistha Ashram and its small stream on the south-eastern edge of the city",
+    "Take a half-day trip to Hajo and the silk-weaving town of Sualkuchi across the river",
+    "Watch winter birds at Deepor Beel, a Ramsar wetland on the western edge of town"
+  ],
+  "how_to_reach": "Lokpriya Gopinath Bordoloi International Airport (GAU) is at Borjhar, about 28 km west of the city centre, with direct flights from Delhi, Kolkata, Mumbai, Bengaluru and most Northeast capitals; a new terminal opened in December 2025. Allow an hour to the city. Guwahati railway station in Paltan Bazaar and Kamakhya Junction receive trains from across India, including Rajdhani services from Delhi. From Guwahati, Shillong is about 100 km (3 hours) by road, Kaziranga about 195 km (4.5 to 5 hours) and Tezpur about 175 km. Buses and shared taxis for Shillong leave from Paltan Bazaar.",
+  "where_to_stay": "Paltan Bazaar and the station area have the most budget hotels and the easiest access to trains and Shillong taxis, but they are noisy. GS Road, from Christian Basti to Ganeshguri, has mid-range and business hotels and good restaurants. Vivanta Guwahati at Khanapara is on the Shillong side of town, useful if you are driving up to Meghalaya next morning. Radisson Blu Guwahati is on the airport side, handy for early flights. For river views, look at hotels in Uzan Bazaar and on the Kachari Ghat riverfront. Book ahead for Bihu in mid-April and the Ambubachi Mela in June.",
+  "tips": [
+    "Allow at least 90 minutes from GS Road to the airport after 4 pm; traffic at Jalukbari and Maligaon is slow",
+    "Carry cash at Kamakhya for offerings and shoe stands; the general queue is free and special darshan costs INR 501 per person; check current status before you travel",
+    "River cruises and the Umananda ferry depend on water levels and weather; confirm on the day",
+    "Dress modestly for temples and remove leather items before entering the Kamakhya sanctum area",
+    "Summer afternoons from May to September often touch 35 degrees Celsius with high humidity; plan sightseeing for mornings",
+    "Guwahati is the best place to buy supplies, SIM cards and cash before heading to Kaziranga, Tawang or the hills"
+  ],
+  "faqs": [
+    { "q": "Is Guwahati worth visiting or just a transit city?", "a": "It is worth a full day. Kamakhya Temple, a sunset cruise on the Brahmaputra, the Umananda ferry and the ropeway across the river fill a day comfortably, and the Assam State Museum and Srimanta Sankaradeva Kalakshetra suit a hot afternoon. Most visitors spend one night here at the start or end of a Meghalaya or Kaziranga trip." },
+    { "q": "How far is Guwahati airport from the city?", "a": "Guwahati airport at Borjhar is about 28 km from the city centre and the railway station. The drive takes about an hour in normal traffic and can stretch to 90 minutes in the evening. For Shillong, the drive from the airport is about 120 km and 3.5 hours, because the airport is on the far western side." },
+    { "q": "What is the best time to visit Guwahati?", "a": "October to April is best, with daytime temperatures of roughly 20 to 30 degrees Celsius and dry weather for river cruises. Mid-April brings Rongali Bihu celebrations. May to September is hot, humid and wet, with waterlogging in parts of the city after heavy rain, though Kamakhya and the museums stay open." },
+    { "q": "How many days do I need in Guwahati?", "a": "One full day covers the highlights: Kamakhya in the early morning, Umananda or the ropeway at midday and a Brahmaputra cruise at sunset. Add a second day for the museums, Basistha, Deepor Beel, or a half-day trip to Hajo and Sualkuchi across the river. Most itineraries use Guwahati for one night at each end." },
+    { "q": "How do I get from Guwahati to Shillong?", "a": "Shillong is about 100 km from Guwahati city on the four-lane GS Road (NH6) and takes 2.5 to 3.5 hours. You can hire a private cab, take a shared taxi or a Meghalaya Transport bus from Paltan Bazaar. Helicopter services have run on this route in the past, subject to operation; check current status before you travel." },
+    { "q": "How far is Kaziranga from Guwahati?", "a": "Kohora, the main gateway to Kaziranga's Central Range, is about 195 km from Guwahati along NH27 and NH715, which is 4.5 to 5 hours by car. Buses to Jorhat and Golaghat pass through Kohora. If you are flying in specifically for Kaziranga, Jorhat airport is closer, at about 97 km." },
+    { "q": "Is Guwahati safe for tourists?", "a": "Guwahati is generally safe for tourists, including families and solo travellers, with normal big-city precautions. Keep valuables close in Fancy Bazaar, Paltan Bazaar and the Kamakhya queues, use app cabs or prepaid taxis at night, and avoid isolated riverbanks after dark. Occasional bandhs can shut shops and transport for a day; ask your hotel." },
+    { "q": "What should I eat in Guwahati?", "a": "Try an Assamese thali with rice, dal, khar (an alkaline dish), masor tenga (a light sour fish curry), pitika (mashed vegetables or fish with mustard oil) and duck or pigeon curry if you eat meat. Pitha rice cakes appear around Bihu. Guwahati also has plenty of North Indian, Bengali and Chinese-style restaurants along GS Road." },
+    { "q": "Where should I stay in Guwahati for a short trip?", "a": "Stay near Paltan Bazaar or the railway station if you arrive by train or head to Shillong by shared taxi. GS Road suits most travellers, with mid-range hotels and restaurants on the way to Meghalaya. Choose the airport side for very early flights, and the Uzan Bazaar riverfront if you want to walk to the ferry ghats." }
+  ],
+  "nearby": ["kamakhya-temple", "hajo", "pobitora", "shillong", "kaziranga"],
+  "image_query": "Guwahati Brahmaputra river city"
+}

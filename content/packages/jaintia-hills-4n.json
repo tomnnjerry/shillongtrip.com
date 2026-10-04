@@ -1,0 +1,119 @@
+{
+  "slug": "jaintia-hills-4n",
+  "title": "Jaintia Hills: Jowai, Krang Suri and Nartiang",
+  "nights": 4,
+  "themes": ["offbeat", "culture"],
+  "states": ["meghalaya"],
+  "places": ["shillong", "nartiang-monoliths", "jowai", "krang-suri-falls"],
+  "hero": "nartiang-monoliths",
+  "price_from_inr": 15500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 1525,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Jaintia Hills tour, 4 nights / 5 days: Nartiang monoliths and Durga temple, two nights in Jowai, Krang Suri Falls, Thadlaskein Lake. From ₹15,500 per person.",
+  "quick_answer": "This 4 nights / 5 days trip from Guwahati goes east of Shillong into the Jaintia Hills, home of the Pnar people. You see the Nartiang monoliths and Durga temple, spend two nights in Jowai, swim at Krang Suri Falls in season, and visit Thadlaskein Lake and Syntu Ksiar. From ₹15,500 per person with a private car.",
+  "overview": [
+    "Most visitors to Meghalaya turn south to Sohra and Dawki and never see the hills east of Shillong. The Jaintia Hills are quieter and different in character: the Pnar people, the old Jaintia kingdom whose summer capital was at Nartiang, a Durga temple where the goddess is worshipped in the form of a plantain trunk, and a field of standing stones that includes one of the tallest menhirs in the region.",
+    "Jowai, 64 km from Shillong at about 1,380 m, is the base for two nights. From there Krang Suri Falls, with its clear blue pool, is an easy morning trip, and the Myntdu river valley at Syntu Ksiar and Ialong Park is close to town. Hotels in Jowai are simple, and that is part of the trade: you get places with few tourists and a strong sense of local life, especially at the Iawmusiang market."
+  ],
+  "highlights": [
+    "Nartiang, a field of standing stones and table stones linked to the Jaintia kings, with a menhir of about 8 m",
+    "Nartiang Durga Temple, revered as one of the 51 Shakti peethas, where Hindu and local traditions meet",
+    "Krang Suri Falls and its blue pool, with swimming in life jackets when the pool is open",
+    "Thadlaskein Lake, tied in Pnar tradition to the story of 290 clans",
+    "Syntu Ksiar on the Myntdu river and the memorial to the Jaintia leader Kiang Nangbah",
+    "Iawmusiang, one of the oldest markets in the Jaintia Hills"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport or the railway station and drives up the highway via Jorabat, Byrnihat and Nongpoh, with a tea stop on the way. Pause at the Umiam Lake viewpoint, about 15 km before Shillong. Check in by mid-afternoon. In the evening, walk around Ward's Lake and Police Bazar. If you have time, visit the Don Bosco Museum in Mawlai before it closes; its galleries on the Khasi and Jaintia peoples are a useful introduction to the trip ahead. Dinner is at the hotel or a Khasi eatery near the market.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Nartiang monoliths, Thadlaskein Lake and on to Jowai",
+      "stay": "Jowai",
+      "altitude_m": 1380,
+      "drive": "About 90 km · 3 hrs, plus stops",
+      "text": "Leave Shillong after breakfast on the NH-6 towards Jowai and turn off for Nartiang, about 2 hours in all. The monolith garden holds dozens of upright menhirs and flat table stones raised by the Jaintia kings and clans, the tallest about 8 m. A short drive away is the Nartiang Durga Temple, from the time when Nartiang was the kingdom's summer capital; the goddess is represented by a decorated plantain trunk. After lunch, drive to Thadlaskein Lake near the highway, linked in Pnar tradition to a 290-clan exodus. Reach Jowai by 4 pm and check in.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Krang Suri Falls and Iawmusiang market",
+      "stay": "Jowai",
+      "altitude_m": 1380,
+      "drive": "About 70 km round trip · 2.5 hrs driving",
+      "text": "Leave Jowai by 8 am for Krang Suri Falls, about an hour south towards Amlarem, so you arrive before the day visitors. A paved path and steps lead down to the pool, which is a clear blue from November to April. Swimming is allowed only in the marked area with a hired life jacket, and the pool may close in the monsoon. Allow two hours. On the way back, stop at Tyrshi Falls, about 8 km from Jowai. Late afternoon, walk through Iawmusiang market, where Pnar traders sell betel nut, dried fish, vegetables and household goods. Dinner is at the hotel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Syntu Ksiar, Ialong Park and back to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "64 km · 1.5–2 hrs, plus local stops",
+      "text": "After breakfast, visit Syntu Ksiar, a bend of the Myntdu river below Jowai with a memorial to Kiang Nangbah, the Jaintia leader who resisted British rule in the 1860s. Then drive to Ialong Park, an eco-park on the ridge above the Myntdu valley, for a short walk among pine trees and views over paddy fields. Leave Jowai around noon and drive 64 km back to Shillong on the NH-6, arriving by mid-afternoon. The evening is free. In July, when Behdienkhlam is held in Jowai, we can shift this plan so you see the festival; check current status before you travel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Shillong to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "After breakfast, leave Shillong around 9.30 am. If you would like a boat ride on Umiam Lake, the Water Sports Complex is on the highway and takes about an hour. Stop at Nongpoh for pineapples and local tea. Traffic near Jorabat and on the Guwahati bypass grows after 2 pm, so please book flights after 2.30 pm or trains after 3 pm. If you have a late departure, we can add the Kamakhya Temple on Nilachal Hill; the general queue is free but can take hours, and special darshan tickets are sold. Your driver drops you at the terminal or station.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "2 nights in Shillong and 2 nights in Jowai, twin sharing",
+    "Daily breakfast and dinner",
+    "Private car (Dzire or similar; Innova or Ertiga for 4 or more) for the whole itinerary",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Driver allowance, fuel, tolls and parking",
+    "Sightseeing as per the day plan",
+    "Hotel taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Entry and parking fees at Nartiang, Thadlaskein, Krang Suri, Tyrshi Falls, Syntu Ksiar and Ialong Park",
+    "Life-jacket hire and swimming charges at Krang Suri",
+    "Offerings or donations at the Nartiang Durga Temple",
+    "Lunches and drinks",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Costs from landslides, road closures or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Centre Point or Pinewood Hotel. Jowai: Windermere Hotel or Odyssey Stays Jowai, or similar" },
+    { "tier": "Premium", "options": "Shillong: Polo Towers Shillong or Hotel Pegasus Crown. Jowai: best available hotel room, or similar" },
+    { "tier": "Luxury", "options": "Shillong: Vivanta Meghalaya Shillong or Courtyard by Marriott Shillong. Jowai has no luxury hotels; we book its best available room, or similar" }
+  ],
+  "good_to_know": [
+    "Krang Suri is clearest and open for swimming mainly from November to April; in the monsoon the pool often closes, so check current status before you travel",
+    "Jowai hotels are simple and clean, with hot water and basic restaurants; expect fewer choices than in Shillong",
+    "Dress modestly at the Nartiang Durga Temple and ask before photographing rituals; animal sacrifice is part of some festivals",
+    "NH-6 between Jowai and Silchar sees monsoon landslides; this trip stays west of that stretch, but check current status before you travel",
+    "Hotels register every guest on Meghalaya's tourism app, so carry original photo ID for all adults"
+  ],
+  "faqs": [
+    { "q": "Where are the Jaintia Hills?", "a": "The Jaintia Hills are the eastern part of Meghalaya, split into West and East Jaintia Hills districts. Jowai, the main town, is 64 km east of Shillong on the NH-6 at about 1,380 m. The area is home to the Pnar people and was once the core of the Jaintia kingdom." },
+    { "q": "What are the Nartiang monoliths?", "a": "Nartiang has a large group of upright stones (menhirs) and flat table stones (dolmens) raised by the Jaintia kings and clans to mark events and honour the dead. The tallest menhir is about 8 m, among the tallest in the region. The site is about 2 hours from Shillong." },
+    { "q": "Can you swim at Krang Suri Falls?", "a": "Swimming has been allowed in a marked section of the pool with a hired life jacket, mainly from November to May, under local supervision. The pool is deep and cold, and it often closes to swimmers in the monsoon because of strong currents. Rules and fees are set locally; check current status before you travel." },
+    { "q": "What does the Jaintia Hills package cost?", "a": "It starts at ₹15,500 per person on twin sharing with standard hotels in Shillong and Jowai, breakfast and dinner, and a private sedan. Upgrading Shillong to a premium or luxury hotel adds about ₹2,500 to ₹6,000 per person; Jowai has limited upgrade options." },
+    { "q": "What is Behdienkhlam and when is it held?", "a": "Behdienkhlam is the main festival of the Pnar people, held in Jowai in July. Its name refers to driving away plague and evil. Communities carry tall decorated structures to a pool and play a football-like game with a wooden ball. Dates are set locally each year, so check current status before you travel." },
+    { "q": "Is the Nartiang Durga Temple open to all visitors?", "a": "Yes, visitors of all faiths may enter with respect. The temple dates from the Jaintia kingdom and is revered as one of the 51 Shakti peethas. The goddess is worshipped as a plantain trunk decorated with marigolds. Durga Puja in October is its busiest time. Remove shoes and dress modestly." },
+    { "q": "Can we add Dawki to this trip?", "a": "Yes. From Krang Suri the road continues south through Amlarem to Dawki. With one extra night, you can take an early boat on the Umngot and return to Shillong via Pynursla. Boating runs mainly from November to April and is often suspended in the monsoon." },
+    { "q": "Is this trip suitable for seniors?", "a": "Mostly, yes. Nartiang, Thadlaskein, Syntu Ksiar and Ialong Park involve short, easy walks. Krang Suri has steps down to the pool that can be steep and wet; seniors can watch from the upper viewpoint. Drives are short, with the longest about 3 hours." },
+    { "q": "Do we need a permit for the Jaintia Hills?", "a": "No permit is needed for Indian or foreign tourists. Meghalaya has no ILP, but hotels register every guest on the state tourism app, so carry original photo ID. Do not approach the Bangladesh border south of Amlarem beyond the public roads." }
+  ]
+}

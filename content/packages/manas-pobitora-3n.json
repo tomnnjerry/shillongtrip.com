@@ -1,0 +1,109 @@
+{
+  "slug": "manas-pobitora-3n",
+  "title": "Manas and Pobitora",
+  "nights": 3,
+  "themes": ["wildlife", "short-break"],
+  "states": ["assam"],
+  "places": ["guwahati", "manas", "pobitora"],
+  "hero": "pobitora",
+  "price_from_inr": 16500,
+  "best_months": [11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 150,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Manas and Pobitora tour, 3 nights / 4 days: two nights and three jeep safaris in Manas, then a dawn rhino safari at Pobitora before your flight.",
+  "quick_answer": "This 3 nights / 4 days wildlife break stays close to Guwahati: two nights at Manas National Park on the Bhutan border with three jeep safaris, then a night in Guwahati and a dawn rhino safari at Pobitora before an afternoon flight. It suits long weekends. From ₹16,500 per person, twin sharing, November to April.",
+  "overview": [
+    "If you have four days and want wildlife without the drive to Kaziranga, this is the trip. Manas is about 140 km from Guwahati and Pobitora about 50 km, so no single drive exceeds four hours. Manas is a UNESCO World Heritage Site and tiger reserve where sal forest meets grassland under the Bhutan foothills. It is quieter than Kaziranga, with fewer vehicles and a wilder feel, and it holds golden langur, found only in this corner of Assam and Bhutan.",
+    "Pobitora is the opposite: a compact sanctuary of about 38 square kilometres with one of the densest one-horned rhino populations anywhere. A single early-morning safari there usually gives more rhino at closer range than many longer trips. We end at Pobitora on the last morning, and the airport is about two hours away, so you can still catch an afternoon flight."
+  ],
+  "highlights": [
+    "Three jeep safaris in Manas's Bansbari range",
+    "The Manas river at Mathanguri with the Bhutan hills beyond",
+    "A chance of golden langur, gaur and wild elephant herds",
+    "Dawn rhino safari at Pobitora, often at close range",
+    "Short drives and easy pace, suitable for a long weekend"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Manas and an afternoon jeep",
+      "stay": "Manas",
+      "altitude_m": 90,
+      "drive": "145 km from airport · 4 hrs",
+      "text": "Our driver meets you at Guwahati airport. We cross the Brahmaputra at Saraighat and drive north-west through Nalbari and Barpeta Road to Bansbari, where most Manas lodges sit near the range office. Try to land by 10 am so we can reach the lodge for a late lunch and the afternoon jeep safari, which usually runs from about 2 pm until dusk. The first drive is typically through the forest track towards the grassland, with good chances of wild elephant, gaur and hog deer. Dinner at the lodge and an early night.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Manas: morning to Mathanguri, afternoon in the grassland",
+      "stay": "Manas",
+      "altitude_m": 90,
+      "drive": "Local · park roads",
+      "text": "The morning jeep leaves around 6.30 am and follows the main track about 20 km north to Mathanguri, where the Manas river emerges from Bhutan in a wide, clear channel. Golden langur are sometimes seen in the riverside trees, and great hornbills fly over the forest. Stop at the Mathanguri viewpoint before the return drive. Lunch and rest at the lodge. The afternoon safari explores grassland tracks where Bengal florican display in spring and swamp deer and wild buffalo graze. Evening walk in the fringe village with a local guide, if you wish.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Manas to Guwahati",
+      "stay": "Guwahati",
+      "altitude_m": 55,
+      "drive": "150 km · 4 hrs",
+      "text": "An optional bird walk around the lodge at first light; the fringe forest is good for barbets, drongos, bulbuls and minivets. After breakfast we drive back to Guwahati, arriving by early afternoon. The rest of the day is yours. Many travellers visit Kamakhya Temple on Nilachal Hill and end at the Brahmaputra riverfront for sunset, or take a short evening cruise. We keep dinner early because the Pobitora safari next morning starts before sunrise. If you prefer, we can book a simple stay near Pobitora instead of Guwahati.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Dawn rhino safari at Pobitora and departure",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "50 km to Pobitora · 1.5 hrs, then 70 km to airport · 2 hrs",
+      "text": "Leave Guwahati at 5.30 am for Pobitora. The first jeep safari of the day starts around 7 am and lasts about an hour and a half, crossing short grassland and wetlands where rhino, wild buffalo and water birds are often very close to the track. An elephant ride, where running, is another option. After breakfast at a local dhaba we drive to Guwahati airport, arriving by about 12.30 pm. Flights after 2 pm work comfortably. In January, the Jonbeel Mela barter fair near Jagiroad is worth a detour if the dates match.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "3 nights in the chosen hotel tier, twin sharing",
+    "Full board at Manas; breakfast and dinner in Guwahati",
+    "Private air-conditioned vehicle for all transfers",
+    "3 jeep safaris in Manas with entry and vehicle fees",
+    "1 jeep safari at Pobitora with entry fee",
+    "Still camera fees for one camera per person",
+    "Safari bookings and forest department formalities",
+    "Driver allowance, fuel, tolls and parking",
+    "Guwahati airport pickup and drop"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Elephant rides at Manas or Pobitora",
+    "Video camera and telephoto surcharges where levied",
+    "Kamakhya express entry and river cruise",
+    "Lunches outside Manas and drinks",
+    "Tips for guides and drivers",
+    "Travel insurance"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Manas: Birina Eco Camp; Guwahati: Hotel Kiranshree Portico, or similar" },
+    { "tier": "Premium", "options": "Manas: Musa Jungle Retreat; Guwahati: Radisson Blu Hotel Guwahati, or similar" },
+    { "tier": "Luxury", "options": "Manas: Bansbari Lodge; Guwahati: Vivanta Guwahati, or similar" }
+  ],
+  "good_to_know": [
+    "Manas usually opens to tourists in October and closes for the monsoon from about June. Pobitora's safari season generally runs November to April. Both depend on floods and forest orders, so check current status before you travel.",
+    "Manas jeep safaris run in morning, midday and afternoon slots of about three hours; Pobitora safaris are shorter, about 90 minutes.",
+    "Manas is quieter than Kaziranga, and sightings depend more on patience. Expect elephants, gaur and deer; count any golden langur or tiger as a bonus.",
+    "Wear earth-coloured clothes, carry a warm layer for dawn jeeps from December to February and bring binoculars.",
+    "Mobile signal is patchy inside Manas. Share your lodge number with family before you leave Guwahati."
+  ],
+  "faqs": [
+    { "q": "Is 3 nights enough for Manas and Pobitora?", "a": "Yes. Two nights at Manas give you three jeep safaris, including the drive to Mathanguri on the Bhutan border, and one morning at Pobitora is enough for its small area. A fourth night would let you add the Bhuyanpara range of Manas or a relaxed day in Guwahati." },
+    { "q": "How far is Pobitora from Guwahati?", "a": "Pobitora is about 50 km east of Guwahati city in Morigaon district, roughly one and a half hours by road. From the sanctuary to Guwahati airport is about 70 km and two hours. That makes a dawn safari followed by an afternoon flight very practical." },
+    { "q": "Which animals are seen at Pobitora?", "a": "Pobitora is known for Indian one-horned rhino, which are densely concentrated in its short grassland and wetlands. Wild buffalo, wild boar, hog deer and many water birds, including storks, egrets and ducks in winter, are also common. Leopards live in the surrounding hills but are rarely seen." },
+    { "q": "What makes Manas different from Kaziranga?", "a": "Manas is more forested and far less crowded. It sits on the Bhutan border, has the Manas river flowing out of the hills, and is home to golden langur and Bengal florican. Mammals are shyer, so sightings are fewer, but many visitors prefer its wilder atmosphere and quiet tracks." },
+    { "q": "When are Manas and Pobitora open?", "a": "Both parks are closed or largely inaccessible in the monsoon. Manas usually opens around October and Pobitora around November, and both close by May or June. November to April is the reliable window. Exact dates depend on flood damage, so check current status before you travel." },
+    { "q": "What does the Manas and Pobitora package cost?", "a": "The indicative price starts at ₹16,500 per person, twin sharing, with standard stays, full board at Manas, four jeep safaris and a private car. Bansbari Lodge and luxury Guwahati hotels cost considerably more. Flights and elephant rides are not included. We send an exact quote once dates are confirmed." },
+    { "q": "Can we do Kaziranga in the same trip?", "a": "Yes, but it needs more nights. Kaziranga is about 180 km beyond Pobitora, four hours further east. Our six-night Kaziranga, Manas and Pobitora tour adds three Kaziranga nights and five safaris. On a three-night budget, choosing Manas and Pobitora keeps drives short." },
+    { "q": "Is this trip suitable for families with children?", "a": "Yes. Drives are four hours at most, jeep safaris are short enough for children, and Manas lodges are comfortable and quiet. The dawn start at Pobitora is the only early morning. Children should wear subdued colours and stay seated in the jeep throughout." },
+    { "q": "Is it safe to visit Manas?", "a": "Yes. The Bodoland region around Manas has been peaceful for years, and the park receives visitors, including foreigners, throughout the season. You travel with our driver and park-approved guides. As anywhere in the region, follow local advice and check current status before you travel." }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "tawang-6n",
+  "title": "Tawang via Dirang and Sela",
+  "nights": 6,
+  "themes": ["adventure", "snow"],
+  "states": ["arunachal"],
+  "places": ["guwahati", "bomdila", "dirang", "sela-pass", "nuranang-falls", "tawang", "tawang-monastery"],
+  "hero": "tawang-monastery",
+  "price_from_inr": 29000,
+  "best_months": [3, 4, 5, 10, 11, 12],
+  "difficulty": "moderate",
+  "max_altitude_m": 4170,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Guwahati Airport (GAU)",
+  "meta_description": "Tawang tour from Guwahati, 6 nights / 7 days: nights in Bomdila and Dirang to acclimatise, Sela Pass, 3 nights in Tawang and the great monastery.",
+  "quick_answer": "This 6 nights / 7 days road trip from Guwahati climbs to Tawang the safe way: a night in Bomdila, a night in Dirang, then over Sela Pass to three nights in Tawang for the monastery, war memorial and optional Bum La. Return is via Bomdila. From ₹29,000 per person, twin sharing, March to May and October to December.",
+  "overview": [
+    "Tawang is about 450 km from Guwahati and sits at around 3,050 m. You cannot sensibly do it in one day, and you should not try to sleep there on your first night up from the plains. This plan breaks the climb: Bomdila at about 2,400 m on the first night, Dirang at about 1,500 m on the second, which lets your body adjust at a lower altitude, and only then the crossing of Sela Pass at about 4,170 m and the descent to Tawang.",
+    "Three nights in Tawang give you one full day for the monastery, founded in 1680–81 and the largest in India, and the town's other sights, plus a second day that you can use for the Bum La and Madhuri Lake excursion if you are an Indian citizen and the army permits it. The return is split at Bomdila so the last day into Guwahati is about eight to nine hours. The Sela Tunnel, open since March 2024, keeps the road usable in snow, while the old road over the pass remains the sightseeing stop in fair weather."
+  ],
+  "highlights": [
+    "Tawang Monastery, founded in 1680–81, and its museum of thangkas and manuscripts",
+    "Sela Pass at about 4,170 m and the frozen Sela Lake in winter",
+    "Nuranang Falls near Jang, a 100-metre drop beside the Tawang road",
+    "Dirang Dzong, hot springs and the apple and kiwi orchards of Dirang valley",
+    "The Tawang War Memorial and its evening light and sound show",
+    "Optional Bum La and Madhuri Lake day for Indian citizens"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Bomdila via Bhalukpong",
+      "stay": "Bomdila",
+      "altitude_m": 2400,
+      "drive": "290 km · 8–9 hrs",
+      "text": "We pick you up at Guwahati airport or your hotel at 6 am and cross the Brahmaputra towards Tezpur on the north bank. At Bhalukpong, the Assam–Arunachal border about five hours out, our driver shows your eILP and ID at the check gate. From there the road climbs along the Kameng river past Tipi, where an orchid centre is worth a short stop, and Tenga, an army town with a pleasant valley. The last stretch rises steeply to Bomdila, reached by early evening. Bomdila's monastery sits above the town; we visit it tomorrow morning.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Bomdila monastery and a short hop to Dirang",
+      "stay": "Dirang",
+      "altitude_m": 1500,
+      "drive": "42 km · 1.5 hrs",
+      "text": "A deliberately easy day for acclimatisation. After breakfast visit the Gontse Gaden Rabgye Ling monastery above Bomdila and the craft centre in town, where carpets and masks are made. We then drop 900 m to Dirang, in a warmer river valley. In the afternoon walk around Dirang Dzong, a stone fortress village of the Monpa people, soak your feet in the roadside hot springs, and visit the kiwi and apple orchards when in season. Sleeping lower tonight helps your body adjust before tomorrow's high pass.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Over Sela Pass to Tawang",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "140 km · 5–6 hrs",
+      "text": "We leave Dirang by 8 am and climb past the yak research farm at Nyukmadung towards Sela. In fair weather we take the old road to the pass at about 4,170 m for Sela Lake and tea at the army canteen; in snow we use the Sela Tunnel. Beyond the pass is Jaswant Garh, the memorial to rifleman Jaswant Singh Rawat of the 1962 war. Descending, we stop at Nuranang Falls near Jang, where the river drops about 100 m. Arrive in Tawang by mid-afternoon and take it easy for the rest of the day.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tawang Monastery and the town",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "Local · about 25 km",
+      "text": "Morning at Tawang Monastery, or Galden Namgey Lhatse, founded in 1680–81 on a ridge above the town. Arrive by 8 am to see the morning prayers with young monks, then the three-storey assembly hall with its large gilded Buddha and the museum of thangkas, manuscripts and old weapons. After lunch visit Urgelling, birthplace of the Sixth Dalai Lama, the Giant Buddha statue and the craft centre. At dusk go to the Tawang War Memorial, which honours soldiers of the 1962 war and hosts an evening light and sound show when running.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Optional Bum La and Madhuri Lake, or Tawang villages",
+      "stay": "Tawang",
+      "altitude_m": 3050,
+      "drive": "Bum La option about 75 km round trip · 7–8 hrs",
+      "text": "Indian citizens can spend today on Bum La, the pass on the India–China border at about 4,600 m, and Madhuri (Shonga-tser) Lake on the same road. The permit comes from the DC office in Tawang and is stamped by the army; we apply the day before. Only local SUVs go, and the road closes after snowfall, so treat it as a bonus. The alternative, and the plan for foreign guests, is a gentler day at the Ani Gompa nunneries, Khinmey monastery and a Monpa village with a butter tea stop. Check current status before you travel.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tawang to Bomdila",
+      "stay": "Bomdila",
+      "altitude_m": 2400,
+      "drive": "175 km · 6–7 hrs",
+      "text": "After breakfast we drive back through Jang and up to Sela, taking the tunnel or the old pass depending on the weather. If you missed anything on the way up, such as the lake in clear light, this is your second chance. Lunch in Dirang and continue 42 km to Bomdila, arriving by late afternoon. Splitting the return here makes tomorrow's drive to Guwahati about eight to nine hours instead of eleven. Evening free to walk Bomdila's market, where you can buy yak-wool shawls and dried yak cheese called chhurpi.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Bomdila to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "290 km · 8–9 hrs",
+      "text": "An early start at 6 am down through Tenga and Bhalukpong to the plains, where we stop for lunch around Tezpur or Balipara. We reach Guwahati by about 4 pm, depending on traffic, so please book a flight after 6.30 pm or a night in Guwahati. If you prefer a shorter day, we can drop you at Tezpur Airport, about 150 km from Bomdila, which has limited flights to Kolkata. Monsoon landslides can delay this road; we build in buffer and keep you updated on WhatsApp.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "6 nights in the chosen hotel tier, twin sharing",
+    "Daily breakfast and dinner",
+    "Private SUV such as an Innova, Xylo or Scorpio with a hill-experienced driver",
+    "Arunachal Temporary ILP processing for Indian citizens",
+    "Protected Area Permit processing for foreign nationals (group of two or more)",
+    "All sightseeing listed in Bomdila, Dirang and Tawang",
+    "Driver allowance, fuel, tolls, parking and inter-state taxes",
+    "Guwahati pickup and drop",
+    "Oxygen canister in the vehicle for emergencies",
+    "24-hour WhatsApp support"
+  ],
+  "exclusions": [
+    "Flights to and from Guwahati",
+    "Government ILP fee (about ₹300–500) and PAP royalty (USD 30–50)",
+    "Bum La and Madhuri Lake excursion: local SUV and permit costs",
+    "Monastery and museum entry fees and camera charges",
+    "Lunches, snacks and drinks",
+    "Room heaters where hotels charge extra",
+    "Tips and personal expenses",
+    "Travel insurance, which we strongly recommend at this altitude"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Bomdila: Hotel Tsepal Yangjom; Dirang: Hotel Pemaling; Tawang: Hotel Tawang Heights, or similar" },
+    { "tier": "Premium", "options": "Bomdila: Hotel Tsepal Yangjom deluxe room; Dirang: Dirang Boutique Cottages; Tawang: Hotel Menda-La or Timilo Boutique, or similar" },
+    { "tier": "Luxury", "options": "Bomdila: best available room in town; Dirang: Dirang Boutique Cottages; Tawang: Vivanta Arunachal Pradesh, Tawang, or similar" }
+  ],
+  "good_to_know": [
+    "Indian citizens need an Arunachal Temporary ILP, applied online at eilp.arunachal.gov.in, costing about ₹300–500; pay whatever the portal shows. It is checked at Bhalukpong. Foreigners need a Protected Area Permit through an approved operator. Check current status before you travel.",
+    "Do not sleep in Tawang on your first night up from the plains. This plan sleeps at Bomdila and Dirang first to reduce the risk of altitude sickness.",
+    "Bum La is open to Indian civilians only, on a DC Tawang permit stamped by the army, and closes often after snow between December and March.",
+    "Tawang nights fall below zero from November to March. Carry a down jacket, thermals, gloves and a woollen cap even in October.",
+    "The Bhalukpong to Bomdila road sees landslides from June to September; we do not run this trip in the peak monsoon.",
+    "Mobile data is patchy between Bhalukpong and Bomdila and on the Sela stretch. BSNL and Jio work best in Tawang town."
+  ],
+  "faqs": [
+    { "q": "How many days are needed for Tawang from Guwahati?", "a": "Plan at least six nights. Guwahati to Tawang is about 450 km and takes two days each way with a night in Bomdila or Dirang, which is also important for acclimatisation. That leaves two to three nights in Tawang. Seven nights gives a buffer for weather or a Bum La day." },
+    { "q": "Do Indians need a permit for Tawang?", "a": "Yes. Indian citizens need an Arunachal Inner Line Permit, now issued as a Temporary ILP online at eilp.arunachal.gov.in. It costs about ₹300–500; pay whatever the portal shows. Carry the eILP and original ID, as it is checked at Bhalukpong. Check current status before you travel." },
+    { "q": "Can foreigners visit Tawang?", "a": "Yes, with a Protected Area Permit arranged through an approved Indian tour operator, usually for groups of two or more. Solo foreigners are reported to be allowed for Tawang, Bomdila and Ziro. There is a royalty of USD 30–50 per person. Foreigners cannot visit Bum La." },
+    { "q": "Is Sela Pass open all year?", "a": "The Sela Tunnel, opened in March 2024, keeps the Dirang to Tawang road open through most of winter. The old road over Sela Pass itself, at about 4,170 m, can close after heavy snow, but it is usually open in fair weather for the lake and memorial. Check current status before you travel." },
+    { "q": "What is the best time to visit Tawang?", "a": "March to May and October to December. Spring brings rhododendrons and clear roads; autumn has the clearest skies. December and January bring snow at Sela and sometimes in Tawang, but Bum La often closes. June to September has landslides on the road and cloud on the pass." },
+    { "q": "How much does a 6-night Tawang package cost?", "a": "Our indicative price starts at ₹29,000 per person, twin sharing, with standard hotels, breakfast and dinner, a private SUV and permit processing. Premium and luxury tiers, such as Vivanta Tawang, cost significantly more. Government permit fees, Bum La costs and lunches are extra." },
+    { "q": "How do we avoid altitude sickness on the way to Tawang?", "a": "Sleep lower first, as this plan does at Bomdila and Dirang. Drink plenty of water, avoid alcohol on the first Tawang night and walk slowly. Headache and breathlessness are common at Sela and usually ease on descent. Consult your doctor before travel if you have heart or lung conditions." },
+    { "q": "Can we visit Bum La on this trip?", "a": "Indian citizens can, using Day 5. The permit is issued by the DC office in Tawang and stamped at the army cantonment; we apply the day before. Only local SUVs are allowed and the road closes after snow. Foreign nationals are not permitted. Check current status before you travel." },
+    { "q": "Is the Guwahati to Tawang road safe?", "a": "Yes, with an experienced hill driver. The road is a mix of good highway and narrow mountain sections, with steep drops and occasional landslides. We avoid night driving, keep daily drives under ten hours and do not run this route in the peak monsoon from June to September." }
+  ]
+}

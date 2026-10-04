@@ -1,0 +1,165 @@
+{
+  "slug": "northeast-backpacker-9n",
+  "title": "Northeast Backpacker Route",
+  "nights": 9,
+  "themes": ["solo", "budget"],
+  "states": ["meghalaya", "assam"],
+  "places": ["shillong", "sohra", "nongriat-root-bridges", "nohkalikai-falls", "dawki-umngot", "shnongpdeng", "mawlynnong", "kaziranga", "majuli"],
+  "hero": "nongriat-root-bridges",
+  "price_from_inr": 17500,
+  "best_months": [11, 12, 1, 2, 3],
+  "difficulty": "moderate",
+  "max_altitude_m": 1525,
+  "start": "Guwahati Airport (GAU)",
+  "end": "Jorhat Airport (JRH)",
+  "meta_description": "Northeast backpacking route, 9 nights / 10 days on shared sumos and buses: Nongriat root bridges, Shnongpdeng camps, Kaziranga and Majuli by bicycle.",
+  "quick_answer": "This 9-night backpacker route goes from Guwahati to Jorhat on shared sumos, buses and ferries. You sleep two nights in Nongriat by the double decker root bridge, camp by the Umngot at Shnongpdeng, share a Kaziranga jeep and cycle around Majuli. Stays are dorms, homestays and camps. Best November to March.",
+  "overview": [
+    "This is the route most independent travellers try to piece together from forum threads, planned properly. You move the way locals do: shared sumos from Guwahati and Shillong's Bara Bazar, buses along the Assam highway and the ferry across the Brahmaputra. We book your beds, tell you which stand each sumo leaves from and roughly when the last one goes, and stay on WhatsApp if something changes. What you save on private cars goes into more nights in the places that matter: two in Nongriat, one by the river at Shnongpdeng and two on Majuli.",
+    "Expect some effort. The walk down to Nongriat is about 3,500 steps each way, shared sumos leave when full, not on the clock, and the Shillong to Kaziranga day takes 7–8 hours with a change. Stays are clean dorms in Shillong, family homestays in Nongriat and Sohra, tents at Shnongpdeng and bamboo guesthouses on Majuli. The route ends in Jorhat, which has flights and trains to Guwahati and beyond. It suits solo travellers and pairs in their twenties to forties, but anyone who likes simple stays will enjoy it."
+  ],
+  "highlights": [
+    "Two nights in Nongriat, with the double decker root bridge and Rainbow Falls on foot",
+    "A riverside camp at Shnongpdeng with swimming, kayaking and boats on the Umngot",
+    "Shared sumos from Shillong's Bara Bazar and buses along the Assam highway",
+    "A shared jeep safari in Kaziranga, split with other travellers",
+    "Two nights on Majuli, exploring satras and Mising villages by bicycle",
+    "Dorms, homestays and camps on a route planned so you never miss the last sumo"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong by shared sumo",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "100 km · 3.5 hrs by shared taxi",
+      "text": "From Guwahati Airport, take an app cab or bus to Paltan Bazar, where shared sumos and small buses leave for Shillong through the day; we send you the stand location and a fair fare range. Shared taxis also run from near the airport at busier times. The road climbs to Shillong in about 3.5 hours with a tea stop at Umiam Lake. Check in to your dorm in Laitumkhrah or Police Bazar. Hostels in Meghalaya must register every guest on the state tourism app, so keep your ID ready. In the evening, walk Police Bazar for street food like jadoh and momos, then find live music in one of Laitumkhrah's cafes.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Shillong to Sohra and down to Nongriat",
+      "stay": "Nongriat",
+      "altitude_m": 700,
+      "drive": "70 km · 2 hrs by shared sumo and local taxi, then 2 hrs walking",
+      "text": "Leave early for Bara Bazar, where shared sumos to Sohra fill up from about 7 am; the ride takes 1.5 hours. From Sohra, share a local taxi 12 km to Tyrna, where the steps begin. The descent is about 3,500 concrete steps through forest and betel nut groves, crossing two steel rope bridges, and takes 1.5 to 2 hours. Your knees will feel it more than your lungs. Stop at the single-decker bridge on the way, then reach Nongriat and the double decker root bridge by early afternoon. Swim in the pool below it if the weather is warm. Your homestay serves dinner, and the village goes quiet soon after dark.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Rainbow Falls and a lazy day in Nongriat",
+      "stay": "Nongriat",
+      "altitude_m": 700,
+      "drive": "No driving · 3–4 hrs walking",
+      "text": "See the double decker bridge early, before day walkers arrive around 10 am. Then walk to Rainbow Falls, about 1.5 hours each way on a rougher forest path with more root bridges and stream crossings. The falls drop into a deep blue pool, and on sunny mornings a rainbow forms in the spray, which gives the place its name. Carry water and snacks, since there are only a few tea stalls on the way. Come back by mid-afternoon for a swim in the natural pools near the village. This quiet second night is the reason to stay two: most people rush in and out on the same day.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Climb out to Sohra, Nohkalikai and Mawsmai",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "2 hrs walking up, then about 30 km by local taxi",
+      "text": "Start the climb back to Tyrna by 7 am, while it is cool; going up takes about two hours with rests. At the top, share a local taxi with other walkers into Sohra and check in to your guesthouse. After lunch, split a taxi for the afternoon loop: Nohkalikai Falls, a 340 m drop into a green pool, then Mawsmai Cave, a short limestone cave with narrow squeezes, and the Seven Sisters cliffs at sunset. Sohra is one of the wettest places on earth and can be misty even in winter, so carry a rain jacket. Dinner at the guesthouse, and an early night after a day of stairs.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Sohra to Dawki and a Shnongpdeng camp",
+      "stay": "Shnongpdeng",
+      "altitude_m": 60,
+      "drive": "About 140 km · 5 hrs by shared sumos via Shillong",
+      "text": "There is no direct shared transport from Sohra to Dawki, so take a morning sumo back to Shillong and change at Bara Bazar for a Dawki sumo, which takes about 2.5 hours down winding roads to the Bangladesh border. From Dawki, a local taxi or shared auto covers the 8 km to Shnongpdeng, a village beside the clear Umngot river. Pitch up at a riverside camp, where tents come with bedding and meals. In the afternoon hire a boat, priced per boat, and try kayaking or the zip line if running. The water is clearest from November to April. After dark, the camp lights a bonfire in a marked spot.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Umngot morning, Mawlynnong, back to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 145 km · 5 hrs by local taxi and shared sumo",
+      "text": "Swim or snorkel in the Umngot in the morning, when the water is still and the river is quiet. Then split a local taxi with other campers for Mawlynnong, about an hour away, known for its clean lanes, bamboo bins and flower gardens, and walk to the Riwai living root bridge nearby. Back in Dawki by early afternoon, catch a shared sumo up to Shillong; the last ones leave around 3 to 4 pm, so do not cut it fine. Check in to your Shillong dorm again, do laundry, and have a proper meal. Tomorrow is the long travel day to Assam.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Shillong to Kaziranga by sumo and bus",
+      "stay": "Kaziranga",
+      "altitude_m": 70,
+      "drive": "About 290 km · 7–8 hrs with a change",
+      "text": "Take an early shared sumo or bus down to Jorabat or Guwahati, then board an ASTC or private bus heading east toward Jorhat, Golaghat or Tinsukia. Ask the conductor for Kohora, the village at Kaziranga's Central Range, and he will drop you on the highway. From Jakhalabandha onward, look out of the right-hand window for rhinos grazing near the road. Walk or take an auto to your lodge. In the evening, go to the lodge desk or range office to join a shared jeep for tomorrow morning; jeeps cost from about ₹3,500 per vehicle for up to six people, so sharing cuts the cost sharply.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Kaziranga jeep safari, ferry to Majuli",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "About 100 km · 3 hrs by bus and auto, plus ferry",
+      "text": "The shared jeep leaves around 7 am for a two-hour drive through the Central or Western Range: tall elephant grass, wetlands full of birds and, almost always, rhinos at close range, with wild buffalo, swamp deer and elephants too. Back at the highway by 10 am, catch a bus east to Jorhat, about 2.5 hours, then a shared auto to Nimati Ghat. Ferries to Majuli run several times a day, but the last one leaves mid-afternoon, so move steadily. The crossing takes about an hour among sandbanks and fishing boats. At Kamalabari, take a shared van to Garamur and check in to a bamboo guesthouse.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Majuli by bicycle",
+      "stay": "Majuli",
+      "altitude_m": 85,
+      "drive": "25–35 km by bicycle or scooter",
+      "text": "Rent a bicycle or scooter from your guesthouse and ride the flat island roads. Start at Samaguri Satra, where monks make masks for Majuli's religious theatre from bamboo, clay and cloth, then visit Auniati or Dakhinpat satra for their prayer halls and old manuscripts. Ride through Mising villages of stilt houses, where women weave on looms under the houses, and stop for rice beer only if you are offered. Majuli's famous sunsets are best from the riverbank on the island's southern side. In the evening, try a Mising meal of fish, greens and purang apin rice wrapped in leaves at your guesthouse.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Ferry to Jorhat and onward",
+      "stay": "Departure",
+      "altitude_m": 116,
+      "drive": "About 35 km · 2.5 hrs by van, ferry and auto",
+      "text": "Take a morning van from Garamur to Kamalabari ghat and the ferry back to Nimati. From Nimati, shared autos run 14 km to Jorhat town, and Jorhat Airport is another 7 km beyond, with flights to Kolkata and Delhi at the last check. If you are going on by land, the Jan Shatabdi and other trains run from Jorhat to Guwahati in about seven hours, and there are buses too. This is also a good jumping-off point for upper Assam or Arunachal's Ziro Valley via North Lakhimpur. We stay on WhatsApp until you are on your way, and can book onward beds if you are carrying on.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "9 nights: 2 in a Shillong hostel dorm, 2 in a Nongriat homestay, 1 in a Sohra guesthouse, 1 at a Shnongpdeng camp, 1 in a Kaziranga lodge and 2 in a Majuli bamboo guesthouse",
+    "Meals as listed, including dinners in Nongriat, Sohra, Shnongpdeng and Majuli",
+    "One seat in a shared Kaziranga jeep safari with park entry",
+    "Bicycle hire for one day on Majuli",
+    "Route notes with sumo stands, bus options and typical last departure times",
+    "Bed bookings made in your name and registered with Meghalaya's guest app where required",
+    "A named contact on WhatsApp from 7 am to 10 pm through the trip",
+    "Rebooking help if a sumo, bus or ferry does not run"
+  ],
+  "exclusions": [
+    "Flights to Guwahati and from Jorhat",
+    "Shared sumo, bus, auto, taxi and ferry fares, paid on the spot",
+    "Entry fees at Nongriat, Nohkalikai, Mawsmai, Mawlynnong and the satras",
+    "Umngot boat hire, kayaking and zip line fees",
+    "Lunches, drinks and meals not listed",
+    "Private rooms instead of dorms, unless you choose a higher tier",
+    "Travel insurance",
+    "Extra nights caused by missed transport, strikes or weather"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shared dorms in Laitumkhrah or Police Bazar hostels, Shillong; Serene Homestay, Nongriat, or similar; By The Way guesthouse, Sohra, or similar; a riverside camp at Shnongpdeng; Aranya Tourist Lodge, Kaziranga, or similar; La Maison de Ananda, Majuli, or similar" },
+    { "tier": "Premium", "options": "Private rooms: Hotel Centre Point, Shillong, or similar; Serene Homestay private room, Nongriat; Sa-I-Mika Park, Sohra, or similar; a Shnongpdeng camp tent with bedding; Aranya Tourist Lodge, Kaziranga; Me:Po Okum, Majuli, or similar" },
+    { "tier": "Luxury", "options": "Comfort upgrade: Tripura Castle, Shillong, or similar; Nongriat homestays stay simple; Cherrapunjee Holiday Resort, Sohra, or similar; Iora The Retreat, Kaziranga, or similar; Me:Po Okum, Majuli, or similar" }
+  ],
+  "good_to_know": [
+    "Meghalaya has no permit for Indians or foreigners, but every hostel, homestay and camp must register guests on the state tourism app. Renting self-drive cars or scooters to tourists is banned in Meghalaya. Check current status before you travel.",
+    "Shared sumos leave when full. The last ones on the Dawki–Shillong and Sohra–Shillong routes usually go by mid-afternoon, so plan around them.",
+    "The Nongriat trail is about 3,500 steps each way with steel rope bridges. It is steep but safe; skip it if you have bad knees and stay in Sohra instead.",
+    "Kaziranga opens in phases from October and closes for the monsoon from about May. Jeeps cost from about ₹3,500 per vehicle, shared by up to six. Check current status before you travel.",
+    "ATMs are reliable in Shillong, Sohra, Jorhat and Kohora, but carry cash for Nongriat, Shnongpdeng and Majuli, where UPI signal can drop.",
+    "Majuli ferries stop in the afternoon and may be suspended in high water or fog. Leave buffer on the last day."
+  ],
+  "faqs": [
+    { "q": "How much does it cost to backpack the Northeast for 10 days?", "a": "This route starts at ₹17,500 per person, covering 9 nights of beds, listed meals, a shared Kaziranga jeep seat and Majuli bicycle hire. Budget another ₹4,000–6,000 for shared transport, entry fees and lunches. Flights to Guwahati and from Jorhat are extra. Private rooms raise the cost." },
+    { "q": "Is the Northeast safe for solo backpackers?", "a": "Meghalaya and Assam on this route see many solo travellers, including women, and people are generally helpful. Use common sense: travel by day, keep to the last sumo times, and tell your hostel your plans. Hostels now register every guest on Meghalaya's tourism app. Check current advisories before you travel, as for anywhere." },
+    { "q": "How do shared sumos work in Meghalaya?", "a": "Shared sumos are jeeps or SUVs that run fixed routes from stands like Bara Bazar in Shillong and leave when all seats are sold. You pay the driver or a counter in cash. Front seats cost a little more. Morning departures are frequent; afternoons thin out, so we give you typical last times." },
+    { "q": "How hard is the walk to Nongriat?", "a": "It is about 3,500 steps down from Tyrna, taking 1.5 to 2 hours, and around two hours back up. The steps are concrete and there are railings on the steepest parts and at the two steel rope bridges. It is hard on knees rather than lungs. Carry little: a daypack for two nights is enough." },
+    { "q": "Can I rent a scooter in Meghalaya?", "a": "Not legally for self-drive. Since 2025 Meghalaya has banned renting private vehicles to tourists for self-driving, and police check. That is why this route uses shared sumos and local taxis there. On Majuli in Assam, guesthouses rent bicycles and sometimes scooters; carry your driving licence if you take a scooter." },
+    { "q": "How do I get from Shillong to Kaziranga by public transport?", "a": "Take a shared sumo or bus down to Jorabat or Guwahati, then any ASTC or private bus east toward Jorhat, Golaghat or Tinsukia, and ask to get off at Kohora. The whole trip takes 7–8 hours. Start early, since the best Kaziranga lodges fill and you want time to book tomorrow's jeep." },
+    { "q": "Do I need to book Kaziranga safaris in advance?", "a": "For a shared jeep, not usually; lodges and the range office help you join a group the evening before. In peak weeks around Christmas, New Year and Holi, jeeps and rooms fill up, so we book your seat ahead. Elephant rides, if you want one, need booking early and cost extra." },
+    { "q": "Where does this route end and how do I get home?", "a": "It ends at Jorhat, 14 km from Nimati Ghat, the Majuli ferry point. Jorhat Airport has flights to Kolkata and Delhi at the last check, and trains reach Guwahati in about seven hours. Many backpackers carry on to Ziro in Arunachal, which needs an ILP, or to Kohima via Dimapur." },
+    { "q": "What is the best season for this backpacker route?", "a": "November to March. The Umngot is clear, Kaziranga is open, paths to Nongriat are drier and nights are cool. October works too, though some Kaziranga ranges open late. From April storms start, and June to September brings heavy rain, closed safaris and slippery steps, though the root bridge country is at its greenest." }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "assam-tea-trail-4n",
+  "title": "Assam Tea Bungalow Stay",
+  "nights": 4,
+  "themes": ["tea", "luxury"],
+  "states": ["assam"],
+  "places": ["jorhat", "sivasagar", "dibrugarh"],
+  "hero": "dibrugarh",
+  "price_from_inr": 42000,
+  "best_months": [3, 4, 5, 10, 11],
+  "difficulty": "easy",
+  "max_altitude_m": 120,
+  "start": "Jorhat Airport (JRH)",
+  "end": "Dibrugarh Airport (DIB)",
+  "meta_description": "Assam tea bungalow stay, 4 nights / 5 days: two heritage planters' bungalows near Jorhat and Dibrugarh, garden walks, factory visits and tastings.",
+  "quick_answer": "This 4 nights / 5 days trip is for travellers who want Assam tea from the inside: two nights in a planter's bungalow near Jorhat and two in a Dibrugarh chang bungalow, with plucking walks, a factory visit in season, tastings and Sivasagar on the way. From ₹42,000 per person, twin sharing, best March to May and October to November.",
+  "overview": [
+    "Upper Assam grows a large share of India's tea, and some of the old managers' bungalows on these estates now take guests. They are not hotels. You get a handful of rooms with fireplaces and verandas, a cook who follows the house recipes, and staff who have worked the garden for decades. We pair two of them: Thengal Manor or Banyan Grove near Jorhat for the first half, and Mancotta or Chowkidinghee, raised chang bungalows in Dibrugarh, for the second.",
+    "Timing matters. Plucking runs from about late March to November, and factories process leaf only during those months. First flush in March and April and second flush in May and June produce the best teas; October and November are drier and pleasant. From December to February the bushes are pruned and factories are mostly idle, so we do not sell this trip then. The drive from Jorhat to Dibrugarh is about 140 km, broken at Sivasagar."
+  ],
+  "highlights": [
+    "Two nights each in two heritage tea bungalows, with home-style Assamese and Anglo-Indian cooking",
+    "A morning plucking walk with a garden supervisor",
+    "Tea factory visit during the manufacturing season, from withering to sorting",
+    "A guided tasting of orthodox and CTC grades, first and second flush",
+    "Hoolock gibbons at Hollongapar Gibbon Sanctuary near Jorhat",
+    "Rang Ghar and Talatal Ghar at Sivasagar on the drive to Dibrugarh"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Jorhat and settle into the bungalow",
+      "stay": "Jorhat",
+      "altitude_m": 116,
+      "drive": "Airport to bungalow 15–25 km · 30–45 min",
+      "text": "We meet you at Jorhat Airport at Rowriah and drive out through paddy and tea to your bungalow, either Thengal Manor at Jalukonibari, built by the Barooah family in 1929, or Banyan Grove on the Gatoonga Tea Estate. Lunch is served on the veranda. In the afternoon take a slow walk around the compound and the edge of the garden with the house staff. Tea at 4 pm is a ritual here, usually with a second-flush Assam and pakoras. Dinner is at the dining table, often by lamplight during power cuts, which the staff treat as normal.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Plucking walk, factory visit and Hollongapar gibbons",
+      "stay": "Jorhat",
+      "altitude_m": 116,
+      "drive": "Local · about 70 km",
+      "text": "Start at 7 am with pluckers in the garden, when they take two leaves and a bud into baskets carried on the head. A supervisor explains shade trees, pruning cycles and how a section is chosen each day. After breakfast we visit the factory, subject to the estate's permission and manufacturing that day, and follow the leaf through withering, rolling, fermentation and drying. In the afternoon drive about 20 km to Hollongapar Gibbon Sanctuary, a forest island among tea gardens that holds India's only ape, the hoolock gibbon. Walks are guided and last about two hours.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Jorhat to Dibrugarh via Sivasagar",
+      "stay": "Dibrugarh",
+      "altitude_m": 108,
+      "drive": "140 km · 3.5 hrs plus Sivasagar stops",
+      "text": "After breakfast we drive 60 km to Sivasagar, the old Ahom capital. We stop at Rang Ghar, the royal pavilion built in the mid-18th century to watch games, the Shiva Dol on the bank of the great tank, and Talatal Ghar. Lunch in Sivasagar, then 80 km to Dibrugarh, where tea gardens run right into the town. Check in at Mancotta Heritage Chang Bungalow, a raised bungalow of around 165 years old on a working estate, or Chowkidinghee Chang Bungalow nearby. Evening walk on the Brahmaputra embankment for sunset over a river several kilometres wide.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Dibrugarh tea day and a guided tasting",
+      "stay": "Dibrugarh",
+      "altitude_m": 108,
+      "drive": "Local · about 40 km",
+      "text": "A slower day. Morning walk through the estate around your bungalow, then a visit to a neighbouring garden's factory during the season. After lunch comes a guided tasting session, arranged through the bungalow, comparing orthodox and CTC grades, first and second flush, and green or white teas where the estate makes them. You learn to read leaf, liquor and infused leaf the way auctioneers do. Late afternoon, drive past the Bogibeel Bridge, the 4.94 km rail and road bridge across the Brahmaputra, for the view. Last evening on the chang bungalow's veranda.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Departure from Dibrugarh",
+      "stay": "Departure",
+      "altitude_m": 108,
+      "drive": "Bungalow to Dibrugarh Airport 15 km · 30 min",
+      "text": "Breakfast on the veranda and, if your flight allows, one more garden walk while the pluckers are at work. Dibrugarh Airport at Mohanbari is about 15 km from the centre and has direct flights to Kolkata, Delhi and Guwahati. If you have an extra day, we can extend the trip to Dibru-Saikhowa National Park for river birding, about 60 km east, or to the oil town of Digboi. Buying tea to take home: the bungalows can usually help you buy direct from the garden, and packed tea travels well in checked luggage.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "4 nights in heritage tea bungalows, twin sharing",
+    "All meals at the bungalows as listed, with afternoon tea",
+    "Private air-conditioned vehicle from Jorhat Airport to Dibrugarh Airport",
+    "Guided plucking walk with a garden supervisor",
+    "Tea factory visit, subject to estate permission and manufacturing that day",
+    "A guided tasting session in Dibrugarh",
+    "Hollongapar Gibbon Sanctuary entry and forest guide",
+    "Sivasagar monument tickets",
+    "Driver allowance, fuel, tolls and parking",
+    "Airport pickup and drop"
+  ],
+  "exclusions": [
+    "Flights to Jorhat and from Dibrugarh",
+    "Alcoholic drinks at the bungalows",
+    "Tea and handicraft purchases",
+    "Camera fees at the gibbon sanctuary",
+    "Laundry and personal expenses",
+    "Tips for bungalow staff and guides",
+    "Travel insurance"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Jorhat: Thengal Manor; Dibrugarh: Chowkidinghee Heritage Chang Bungalow, or similar" },
+    { "tier": "Premium", "options": "Jorhat: Banyan Grove, Gatoonga Tea Estate; Dibrugarh: Mancotta Heritage Chang Bungalow, or similar" },
+    { "tier": "Luxury", "options": "Exclusive use of Banyan Grove and Mancotta Heritage Chang Bungalow for your group, with a private cook and a dedicated tea host, or similar" }
+  ],
+  "good_to_know": [
+    "Tea factories work only in the plucking season, roughly late March to November. From December to February bushes are pruned and factories are mostly silent. Estate policies change, so check current status before you travel.",
+    "Factory visits depend on the estate's permission and that day's production; photography inside factories is sometimes restricted.",
+    "Tea bungalows have few rooms, often five to seven, and book out in October and November. Confirm three months ahead if you can.",
+    "Wear closed shoes and long trousers for garden walks. Leeches appear in wet months from May to September.",
+    "Power cuts happen in rural Upper Assam. The bungalows have backup, but air conditioning may be limited."
+  ],
+  "faqs": [
+    { "q": "When is the best time for an Assam tea garden stay?", "a": "March to May and October to November. First flush in March and April and second flush in May and June produce the most prized teas, and factories are busy. October and November are dry and pleasant. From December to February bushes are pruned and factories are mostly idle." },
+    { "q": "Can we visit a working tea factory?", "a": "Yes, during the manufacturing season, roughly late March to November, and with the estate's permission. We arrange visits through the bungalow or a neighbouring garden. You see withering, rolling, fermentation, drying and sorting. Visits are not possible on days the factory is not running, and photography may be restricted." },
+    { "q": "What is a chang bungalow?", "a": "A chang bungalow is a planter's house raised on stilts, built this way in Upper Assam for protection from floods and animals and for better airflow. Mancotta and Chowkidinghee in Dibrugarh are two restored examples that now take guests, with wooden floors, verandas and period furniture." },
+    { "q": "How much does the Assam tea bungalow package cost?", "a": "The indicative price starts at ₹42,000 per person, twin sharing, with four nights in heritage bungalows, most meals, a private car, a factory visit and a tasting. Tea bungalows cost more than city hotels because they have few rooms and include full board. Exclusive-use bookings cost more again." },
+    { "q": "Which airports should we fly into for this trip?", "a": "Fly into Jorhat and out of Dibrugarh, which avoids backtracking. Both have direct flights to Kolkata and Delhi. If you must use Guwahati, Jorhat is about 310 km and seven to eight hours away by road, and we would add a night at Kaziranga on the way." },
+    { "q": "Is the tea bungalow stay suitable for seniors?", "a": "Yes. It is one of our gentlest trips: short drives, flat walks, ground-floor rooms at most bungalows and home-cooked meals at fixed times. Chang bungalows have a flight of stairs to the raised floor. Tell us about mobility needs and we will choose rooms accordingly." },
+    { "q": "Can we combine the tea trail with Kaziranga or Majuli?", "a": "Yes. Kaziranga is 95 km from Jorhat and Majuli is a ferry ride from Nimati Ghat, 13 km from Jorhat. A common extension adds two nights at Kaziranga before the tea bungalows, or two nights on Majuli between Jorhat and Dibrugarh. We adjust the route and price." },
+    { "q": "What is the difference between orthodox and CTC tea?", "a": "Orthodox tea is rolled whole or broken leaf, giving a brighter, more complex cup; it is what connoisseurs and export buyers prize. CTC, meaning crush, tear, curl, cuts the leaf into small granules for a strong, fast-brewing tea, used in most Indian chai. Many Assam estates make both." },
+    { "q": "Do we need permits for Upper Assam?", "a": "No. Indian citizens and foreign nationals need no special permit for Jorhat, Sivasagar or Dibrugarh. Foreigners register at each hotel with a passport and visa. Some estates ask visitors to sign in at the gate for factory visits. Rules can change, so check current status before you travel." }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "meghalaya-budget-4n",
+  "title": "Meghalaya on a Budget",
+  "nights": 4,
+  "themes": ["budget", "solo"],
+  "states": ["meghalaya"],
+  "places": ["shillong", "dawki-umngot", "mawlynnong", "sohra", "mawsmai-cave", "nohkalikai-falls", "nongriat-root-bridges"],
+  "hero": "sohra",
+  "price_from_inr": 11500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "moderate",
+  "max_altitude_m": 1525,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Budget Meghalaya tour, 4 nights / 5 days: Shillong, Dawki and Mawlynnong, two nights in Sohra with the Nongriat trek. Guest houses, from ₹11,500 per person.",
+  "quick_answer": "Meghalaya on a Budget is 4 nights / 5 days from Guwahati using clean guest houses and a small hatchback. You get a Dawki and Mawlynnong day from Shillong, then two nights in Sohra with Nohkalikai Falls, Mawsmai Cave and an optional Nongriat root bridge trek. It costs from ₹11,500 per person on twin sharing.",
+  "overview": [
+    "This is the trip for students, solo travellers and friends who want the main sights without paying for resorts. We save money where it does not hurt: small guest houses with private bathrooms instead of hotels with lobbies, a hatchback such as a WagonR instead of a sedan, breakfast only, and two nights in one place wherever possible. We do not cut the car, because shared taxis to Dawki and Sohra eat whole days in waiting.",
+    "The route is Shillong for two nights, with a long day south to Dawki and Mawlynnong, then two nights in Sohra. The Sohra days cover Nohkalikai, Mawsmai Cave and Arwah Cave, and leave one day for the Nongriat double decker root bridge if you have the legs for about 3,500 steps each way. Travelling alone? The price is per person on twin sharing; solo travellers pay a single supplement."
+  ],
+  "highlights": [
+    "Two nights in Shillong and two in Sohra, so fewer check-ins and less packing",
+    "Dawki boat ride and Mawlynnong village in one long day",
+    "Nohkalikai Falls, Mawsmai Cave and Arwah Cave",
+    "Optional Nongriat double decker root bridge trek with a registered guide",
+    "Private hatchback for all sightseeing, so no waiting for shared taxis",
+    "Breakfast-only plan so you can eat jadoh and momos at local stalls"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport or the railway station in a hatchback. Drive up the highway through Jorabat, Byrnihat and Nongpoh, with a quick stop at the Umiam Lake viewpoint 15 km before Shillong. Check into a guest house in Police Bazar or Laitumkhrah, both walkable areas with cheap food. In the evening, walk around Ward's Lake and eat jadoh, Khasi rice cooked with pork, or momos at a small eatery; a filling meal costs ₹150 to ₹300. Shops close by 8.30 pm, so buy water and snacks for tomorrow's early start.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Day trip to Dawki and Mawlynnong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "About 200 km round trip · 7 hrs driving",
+      "text": "Leave Shillong by 7 am to beat the boat queues at Dawki, 85 km and 2.5 to 3 hours away through Pynursla. From November to April the Umngot is clear enough to see the riverbed. Boats seat four or five, so solo travellers can often share with another group and split the fare, which is fixed at the ghat. Walk onto the 1932 suspension bridge, then drive 30 km to Mawlynnong for a cheap village lunch and the 20 minute walk to the Riwai root bridge. Back in Shillong by about 6 pm. Carry cash; entry fees add up to a few hundred rupees.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Shillong to Sohra, Mawsmai and Arwah Cave",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "55 km · 1.5–2 hrs, plus local stops",
+      "text": "Check out after breakfast and drive the 55 km Sohra road, stopping at the Mawkdok Dympep valley viewpoint and Wah Kaba Falls, both free or nearly free. In Sohra, walk through Mawsmai Cave, a lit route of about 150 m with one tight squeeze, and look across to the Seven Sisters Falls, which flow mainly in the rains. After a local lunch, walk the 1 km cliff path to Arwah Cave. Check into a simple guest house or cottage. Sohra has few restaurants, so dinner is usually at your stay; ask the host in advance. Nights are cold from November to February.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Nohkalikai and the Nongriat trek",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "Trek about 6 km return · 6–8 hrs",
+      "text": "Be at the Nohkalikai viewpoint at 7.30 am for the clearest view of the 340 m fall. Then drive 30 minutes to Tyrna and meet your registered local guide, required on East Khasi Hills treks since mid-2025. About 3,500 steps lead down to Nongriat, crossing two steel-wire bridges, to the double decker root bridge and its natural pools. The climb back takes 1.5 to 2.5 hours. If you prefer not to trek, spend the day at Eco Park, Dainthlen Falls and the Thangkharang Park sunset viewpoint instead; the car stays with you either way.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Sohra to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "155 km · 5–5.5 hrs",
+      "text": "After breakfast, leave Sohra by 8.30 am. The road runs back past Mawkdok to the edge of Shillong, then down the Guwahati highway via Umiam and Nongpoh. Stop at a dhaba for a cheap lunch of rice, dal and fish curry. Traffic near Jorabat and on the Guwahati bypass can add time, so please book flights after 3.30 pm or trains after 4 pm. If you are catching an overnight train from Guwahati, you can leave your bags with a cloakroom at the station. Your driver drops you at the airport terminal or station entrance.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "4 nights in clean budget guest houses with private bathrooms (2 in Shillong, 2 in Sohra), twin sharing",
+    "Daily breakfast",
+    "Private hatchback (WagonR or similar) for all transfers and sightseeing",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Driver allowance, fuel, tolls and parking",
+    "Sightseeing as per the day plan",
+    "Taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Lunches, dinners and drinks",
+    "Registered guide for the Nongriat trek, paid locally at the rate set by the village (check current rates)",
+    "Dawki boat fare and all entry fees",
+    "Porters and optional activities such as ziplining",
+    "Tips and personal expenses",
+    "Travel insurance",
+    "Costs from landslides, road closures or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: budget guest houses in Police Bazar or Laitumkhrah with private bathrooms. Sohra: Sa-I-Mika Resort cottages or a local guest house, or similar" },
+    { "tier": "Premium", "options": "Shillong: Hotel Centre Point or Pinewood Hotel. Sohra: Jiva Resort, or similar" },
+    { "tier": "Luxury", "options": "Shillong: Polo Towers Shillong. Sohra: Cherrapunjee Holiday Resort, or similar" }
+  ],
+  "good_to_know": [
+    "Solo travellers pay a single supplement because the room and car are not shared; joining two or three friends brings the per-person cost down quickly",
+    "East Khasi Hills has required registered local guides on treks since mid-2025, guide rates are set locally, and the Nongriat trail has been closed on Sundays; check current status before you travel",
+    "Dawki boating runs mainly from November to April and is often suspended in the monsoon",
+    "ATMs are reliable in Shillong but limited in Sohra and Dawki; carry ₹3,000 to ₹4,000 in small notes",
+    "Guest houses register every guest on Meghalaya's tourism app, and renting private cars or scooters to tourists for self-drive is banned, so keep original photo ID ready and use a registered taxi",
+    "Prices rise and rooms sell out in October, late December and around long weekends; book early"
+  ],
+  "faqs": [
+    { "q": "How much does a budget Meghalaya trip cost?", "a": "This plan starts at ₹11,500 per person on twin sharing for four nights, with budget guest houses, breakfast and a private hatchback. Add about ₹600 to ₹1,000 a day for food, and ₹1,500 to ₹2,500 for entry fees, the Dawki boat and the Nongriat guide. Solo travellers pay a single supplement." },
+    { "q": "Is this package good for solo travellers?", "a": "Yes. Meghalaya is generally safe and friendly for solo travellers, including women, and the car takes the stress out of shared-taxi timings. The cost per person is higher alone because the room and car are not shared. Solo travellers can often share a Dawki boat with another group to split the fare." },
+    { "q": "Why not use shared taxis to save money?", "a": "Shared sumos from Shillong to Sohra and Dawki leave only when full, drop you in town rather than at the sights, and stop running by mid-afternoon. You would need separate local taxis at each end. For four days, a private hatchback costs a little more but saves a full day of waiting." },
+    { "q": "Can I skip the Nongriat trek?", "a": "Yes. The trek is optional and the guide cost is paid only if you go. Instead, you can spend Day 4 at Eco Park, Dainthlen Falls, the Mawkdok valley viewpoint and the Thangkharang Park sunset. The car stays with you on both options, so the price does not change." },
+    { "q": "Where can I eat cheaply in Shillong and Sohra?", "a": "In Shillong, small eateries around Police Bazar and Laitumkhrah serve jadoh, dohneiiong (pork with black sesame), momos and thali meals for ₹150 to ₹300. In Sohra, choices are fewer; guest houses cook simple dinners on request, and roadside stalls sell tea and snacks near the main sights." },
+    { "q": "What are the budget guest houses like?", "a": "We choose small, clean guest houses with private bathrooms, hot water, Wi-Fi where available and good recent reviews. Rooms are simple, without lifts or restaurants in most cases. They are in walkable areas so you can go out for food easily. Upgrades to mid-range hotels are available." },
+    { "q": "When is the cheapest time to visit Meghalaya?", "a": "Room rates are lowest from June to September and in parts of February and March. The monsoon, however, brings heavy rain, slippery trails and suspended boating at Dawki. For value and good conditions, early November, February and March are the best balance." },
+    { "q": "Is a Nongriat trek guide compulsory?", "a": "Since mid-2025, the East Khasi Hills district has required tourists to hire registered local guides for treks, including Nongriat. We arrange the guide on the day; you pay the local rate. The rules are enforced at Tyrna and may change, so check current status before you travel." },
+    { "q": "Can we start from Shillong instead of Guwahati?", "a": "Yes. If you reach Shillong on your own by shared taxi or bus, we can start the car from Shillong and reduce the price. Shared taxis and buses to Shillong run from Guwahati through the day. The return to Guwahati can also be dropped if you continue elsewhere by bus." }
+  ]
+}

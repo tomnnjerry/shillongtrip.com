@@ -1,0 +1,119 @@
+{
+  "slug": "meghalaya-classic-4n",
+  "title": "Shillong, Cherrapunji, Dawki and Mawlynnong",
+  "nights": 4,
+  "themes": ["family", "short-break"],
+  "states": ["meghalaya"],
+  "places": ["shillong", "shillong-peak", "elephant-falls", "sohra", "nohkalikai-falls", "mawsmai-cave", "mawlynnong", "dawki-umngot"],
+  "hero": "dawki-umngot",
+  "price_from_inr": 16500,
+  "best_months": [10, 11, 12, 1, 2, 3, 4],
+  "difficulty": "easy",
+  "max_altitude_m": 1965,
+  "start": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "end": "Guwahati Airport (GAU) or Guwahati Railway Station",
+  "meta_description": "Meghalaya tour package, 4 nights / 5 days: Shillong, Cherrapunji, a night in Mawlynnong and an early Dawki boat ride. Private car, from ₹16,500 per person.",
+  "quick_answer": "Our classic Meghalaya trip is 4 nights / 5 days from Guwahati: Shillong, a night in Sohra for Nohkalikai Falls, a night in Mawlynnong village, and a 7.30 am boat on the Umngot River at Dawki before the crowds. It costs from ₹16,500 per person with a private car, standard hotels, breakfast and dinner.",
+  "overview": [
+    "This is the route most first-time visitors want, laid out so that the long drives are broken up. Instead of a 9-hour Shillong to Dawki and back day, you sleep in Mawlynnong, 30 km from the river. That puts you on a boat at Dawki by 7.30 am, when the water is calm, the light is low and the queue at the ghat is short. By 10 am in peak season the wait can run past an hour.",
+    "The other nights are in Shillong and Sohra, so you see Nohkalikai Falls and Mawsmai Cave without rushing. The trip is easy for families and seniors: the only real walking is 20 minutes each way to the Riwai root bridge near Mawlynnong and the short cave route. The Umngot is clearest from November to April; in the monsoon, boating is often stopped."
+  ],
+  "highlights": [
+    "Early boat on the Umngot at Dawki, where the river is clear enough to see the stones on the bed from November to April",
+    "A night in Mawlynnong, the village Discover India magazine named Asia's cleanest in 2003",
+    "Riwai living root bridge, a 20 minute walk from Mawlynnong",
+    "Nohkalikai Falls, about 340 m, from the viewpoint at 8 am",
+    "Mawsmai Cave and the Mawkdok valley viewpoint on the Sohra road",
+    "Shillong Peak at 1,965 m and Elephant Falls"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Guwahati to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "Your driver meets you at Guwahati Airport or the railway station. The highway runs through Jorabat, Byrnihat and Nongpoh and climbs steadily into pine country; we stop for tea at Nongpoh. About 15 km before Shillong, pull over at the Umiam Lake viewpoint for twenty minutes. Check in by mid-afternoon and rest, because the next four days are fuller. In the evening, walk around Ward's Lake and Police Bazar, and try jadoh, a Khasi rice and pork dish, at one of the small eateries near the market. Shops close by about 8.30 pm.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Shillong Peak, Elephant Falls and Sohra",
+      "stay": "Sohra",
+      "altitude_m": 1480,
+      "drive": "70 km · 3 hrs with stops",
+      "text": "Leave the hotel by 8.45 am for Shillong Peak, inside an Air Force area; carry original ID for every adult. The view from 1,965 m covers the whole city. Elephant Falls is 3 km away. Then take the 55 km Sohra road, stopping at the Mawkdok Dympep valley viewpoint and Wah Kaba Falls. After lunch in Sohra, walk the lit 150 m route through Mawsmai Cave, which has one tight squeeze and an easy bypass. Check in by late afternoon. If the sky is clear, catch sunset over the Bangladesh plains at Thangkharang Park, 20 minutes from town.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Nohkalikai Falls and on to Mawlynnong",
+      "stay": "Mawlynnong",
+      "altitude_m": 500,
+      "drive": "85 km · 3 hrs",
+      "text": "Be at the Nohkalikai viewpoint at 8 am, before cloud fills the gorge; the 340 m fall drops into a pool that turns turquoise in the dry months. Leave Sohra by 10 am and drive back towards Shillong, turning south at Laitlyngkot for Pynursla and Mawlynnong. Arrive by early afternoon, check into a village homestay and walk to the Riwai living root bridge, about 20 minutes each way on stone steps. The village has bamboo dustbins on every lane and a strict no-plastic rule. After 4 pm the day visitors leave and the lanes go quiet. Dinner is simple Khasi home cooking.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Early boat at Dawki and back to Shillong",
+      "stay": "Shillong",
+      "altitude_m": 1525,
+      "drive": "30 km to Dawki, then 85 km · 3 hrs to Shillong",
+      "text": "Leave Mawlynnong at 6.30 am with a packed breakfast and reach Dawki by 7.30, ahead of the day-trippers from Shillong. A boat on the Umngot takes 30 to 45 minutes and fits four or five people; fares are per boat, so agree the price at the ghat before you board. Walk onto the 1932 suspension bridge for the classic view, and look at the Tamabil border crossing a short way down the road. Leave by 10.30 am and drive back via Pynursla, with a lunch stop, reaching Shillong around 3 pm. The evening is free for shopping at Police Bazar.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Shillong to Guwahati",
+      "stay": "Departure",
+      "altitude_m": 55,
+      "drive": "100 km · 3–3.5 hrs",
+      "text": "After breakfast, leave Shillong around 9.30 am. If you want a boat ride on Umiam Lake, the Water Sports Complex is right on the highway and takes about an hour. Pineapple and bay-leaf stalls at Nongpoh are the last stop in Meghalaya. Traffic near Jorabat and on the Guwahati bypass grows after 2 pm, so book flights after 2.30 pm or trains after 3 pm. If you have a late departure, we can add a stop at the Kamakhya Temple, though the inner sanctum queue can take hours. Drop at the airport terminal or station.",
+      "meals": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "2 nights in Shillong, 1 night in Sohra and 1 night in a Mawlynnong homestay, twin sharing",
+    "Daily breakfast and dinner, plus a packed breakfast on the Dawki morning",
+    "Private car (Dzire or similar; Innova or Ertiga for 4 or more) for the full itinerary",
+    "Pickup and drop at Guwahati Airport or Guwahati Railway Station",
+    "Driver allowance, fuel, tolls and parking",
+    "All sightseeing as per the day plan",
+    "Hotel taxes as applicable",
+    "WhatsApp support from our Guwahati desk"
+  ],
+  "exclusions": [
+    "Flights and train tickets",
+    "Boat fare at Dawki (paid at the ghat)",
+    "Entry and parking fees at Shillong Peak, Elephant Falls, Nohkalikai, Mawsmai Cave, Mawlynnong and the Riwai root bridge",
+    "Lunches and drinks",
+    "Optional activities such as ziplining at Mawkdok",
+    "Camera fees, tips and personal expenses",
+    "Travel insurance",
+    "Costs from landslides, road closures or strikes"
+  ],
+  "hotels": [
+    { "tier": "Standard", "options": "Shillong: Hotel Centre Point or Pinewood Hotel. Sohra: Jiva Resort or Sa-I-Mika Resort. Mawlynnong: Hep Homestay or Streamside Guest House, or similar" },
+    { "tier": "Premium", "options": "Shillong: Polo Towers Shillong or Hotel Pegasus Crown. Sohra: Cherrapunjee Holiday Resort. Mawlynnong: best available homestay, or similar" },
+    { "tier": "Luxury", "options": "Shillong: Vivanta Meghalaya Shillong or Courtyard by Marriott Shillong. Sohra: Polo Cherrapunjee Resort. Mawlynnong has no luxury stays, so we book its best homestay, or similar" }
+  ],
+  "good_to_know": [
+    "The Umngot is clearest from November to April; from June to September it runs muddy and boating is often suspended, so check current status before you travel",
+    "Mawlynnong homestays are clean and simple, with shared or basic attached bathrooms; tell us if you prefer to stay in Shillong instead",
+    "Villages charge small entry and parking fees at Mawlynnong, the Riwai root bridge and the Dawki ghat; carry ₹1,000 in small notes",
+    "Meghalaya requires hotels and homestays to register every guest on the state system, so keep photo ID for all adults ready",
+    "Taxi rules between Assam and Meghalaya have been disputed at times; if a change of car is needed at the border we arrange it, but check current status before you travel"
+  ],
+  "faqs": [
+    { "q": "What is the best time for this Meghalaya classic tour?", "a": "November to April is best, because the Umngot River at Dawki is clear and boats run every day. October is also good, with full waterfalls and a mostly clear river. From June to September the river turns muddy and boating is often stopped, although Sohra's waterfalls are at their fullest then." },
+    { "q": "Why do we stay in Mawlynnong instead of Shillong?", "a": "Mawlynnong is 30 km from Dawki, while Shillong is 85 km. Sleeping in the village lets you reach the river by 7.30 am, before the crowds, and saves about five hours of driving compared with a Shillong day trip. You also see the village after the day visitors leave." },
+    { "q": "How much does the Dawki boat ride cost?", "a": "Boat fares are set by the local boatmen and priced per boat, not per person. A boat seats four or five people for a ride of 30 to 45 minutes. Agree the fare at the ghat before you board, as it changes with the season and water level, and pay the boatman directly." },
+    { "q": "Can we see the Dawki river in the monsoon?", "a": "You can see it, but not at its best. From June to September heavy rain makes the Umngot muddy and fast, and the district often suspends boating. If you are travelling then, we suggest focusing on Sohra's waterfalls and keeping Dawki as a short stop if conditions allow." },
+    { "q": "Is this trip suitable for seniors?", "a": "Yes, with a small adjustment. The drives are on paved roads and the longest is about 3.5 hours. The Riwai root bridge involves around 20 minutes of steps each way, and Mawsmai Cave has one tight squeeze; both can be skipped. Seniors who prefer hotel comforts can stay in Shillong instead of Mawlynnong." },
+    { "q": "How much does the 4 night Meghalaya package cost?", "a": "It starts at ₹16,500 per person on twin sharing with standard hotels, one homestay night, breakfast and dinner, and a private sedan. Premium hotels add around ₹4,000 to ₹6,000 per person. Families of four or more usually take an Innova or Ertiga, which costs more but is shared." },
+    { "q": "Do we need a permit to visit Dawki?", "a": "Indian and foreign visitors do not need a permit to visit Dawki or boat on the Umngot. You should not cross into Bangladesh at Tamabil without a valid visa and immigration clearance. Carry photo ID, as Meghalaya registers every hotel and homestay guest." },
+    { "q": "Is Mawlynnong really Asia's cleanest village?", "a": "In 2003 Discover India magazine named Mawlynnong the cleanest village in Asia, and the title stuck. Villagers still sweep the lanes daily, use bamboo dustbins and ban plastic bags. Expect a neat, small village with homestays and tea shops rather than a big tourist centre." },
+    { "q": "Can we add the double decker root bridge to this trip?", "a": "Yes, by adding one night in Sohra. The Nongriat trek from Tyrna is about 3,500 steps down and the same back up, and takes most of a day. East Khasi Hills has required registered guides on treks since mid-2025, which we arrange. Check current status before you travel." }
+  ]
+}

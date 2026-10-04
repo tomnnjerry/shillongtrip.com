@@ -1,0 +1,132 @@
+{
+  "slug": "sela-pass",
+  "name": "Sela Pass",
+  "state": "arunachal",
+  "state_name": "Arunachal Pradesh",
+  "district": "Tawang (border with West Kameng)",
+  "types": [
+    "pass",
+    "snow",
+    "lake",
+    "road-trip"
+  ],
+  "tagline": "A 4,170 m pass with a frozen lake, now bypassed by the Sela Tunnel",
+  "altitude_m": 4170,
+  "coords": [
+    27.5047,
+    92.1047
+  ],
+  "best_months": [
+    3,
+    4,
+    5,
+    10,
+    11,
+    12
+  ],
+  "best_time": "October to May for the pass road; December to March for snow, when the old road can close and traffic moves through the tunnel.",
+  "permit": {
+    "required": true,
+    "indians": "Tourist eILP for Arunachal Pradesh (about Rs 300 to 500; pay what eilp.arunachal.gov.in shows; valid 15 days for the whole state). No extra permit for Sela.",
+    "foreigners": "Protected Area Permit (PAP) for Tawang and West Kameng, normally through a registered Indian tour operator for groups of two or more. Royalty is reported at USD 30–50 per person and the permit at 30 days; confirm with your operator."
+  },
+  "from_hub": {
+    "hub": "Tezpur",
+    "km": 260,
+    "hours": "8"
+  },
+  "ideal_stay": "A 30 to 60 minute stop on the Dirang–Tawang drive; no stay",
+  "meta_description": "Sela Pass guide: 4,170 m altitude, Sela Lake, snow months, the 2024 Sela Tunnel vs the old pass road, permits, altitude tips and drive times.",
+  "quick_answer": "Sela Pass is a 4,170 m pass on NH-13 between Dirang and Tawang, about 78 km before Tawang town, with Sela Lake beside the road. Indians need an eILP, foreigners a PAP. Since March 2024 the Sela Tunnel bypasses it, but tourist cars still cross the old pass road when it is open.",
+  "intro": [
+    "For most of the Tawang road's history, Sela was the obstacle: a 4,170 m saddle that snow closed for days at a time each winter. We have sat in queues of army trucks at the Sela gate waiting for the BRO to clear drifts, and walked the last few hundred metres to the lake because the car could not grip.",
+    "Since March 2024 the Sela Tunnel, at about 3,000 m, carries through traffic below the pass and keeps Tawang connected in winter. The old road over the top has not gone away. Tourist cars heading up to Tawang still take it when the weather allows, because the pass is the point: the painted gate, prayer flags, Sela Lake beside the road and snow on the slopes for much of the year. On the way down, most drivers now use the tunnel.",
+    "Sela Lake freezes in winter and is sacred to local Buddhists; there are said to be around 101 sacred lakes in the surrounding hills. Stop for half an hour, have a tea at the army-run canteen when it is open, and keep moving before the altitude catches up with you."
+  ],
+  "highlights": [
+    {
+      "name": "Sela Lake",
+      "text": "A high lake at about 4,160 m right beside the road on the Tawang side, frozen for much of the winter."
+    },
+    {
+      "name": "The Sela gate",
+      "text": "The painted gateway at the top of the pass, with prayer flags and the altitude board everyone photographs."
+    },
+    {
+      "name": "Sela Tunnel",
+      "text": "Opened on 9 March 2024 at about 3,000 m, with two tubes of roughly 980 m and 1,555 m, it keeps NH-13 open in winter."
+    },
+    {
+      "name": "Jaswantgarh War Memorial",
+      "text": "Below the pass on the Tawang side, honouring Rifleman Jaswant Singh Rawat, who held his post for about 72 hours in the 1962 war."
+    },
+    {
+      "name": "Snow from December to March",
+      "text": "The pass often has snow when Dirang and even Tawang town do not."
+    }
+  ],
+  "things_to_do": [
+    "Stop at the Sela gate for photographs and the altitude board",
+    "Walk down to the edge of Sela Lake, frozen solid in winter",
+    "Drink a hot tea and eat momos at the army canteen when it is open",
+    "Play in the snow on the slopes from December to March, keeping clear of the road",
+    "Stop at Jaswantgarh memorial on the Tawang side",
+    "Compare the drive: go over the pass on the way up and through the tunnel on the way down",
+    "Continue to Nuranang Falls near Jang, about 40 km short of Tawang"
+  ],
+  "how_to_reach": "Sela lies on NH-13 between Dirang and Tawang. From Dirang (about 1,500 m) it is roughly 55 to 60 km and 2 to 2.5 hours of steady climbing past Baisakhi; from Tawang it is about 78 km and 3 hours. From Tezpur, count on about 260 km and 8 hours, which is why almost everyone stops a night at Dirang or Bomdila first. Leave Dirang by 7 am so you cross the pass before afternoon cloud and wind. When snow closes the old road, traffic goes through the Sela Tunnel and you may not reach the lake. Check current status before you travel.",
+  "where_to_stay": "There is no tourist accommodation at the pass, and we would not want you to sleep at 4,170 m anyway. Stay the night before in Dirang (about 1,500 m), which has homestays, orchard farmstays and mid-range hotels along the river, or in Bomdila (about 2,400 m) if you are coming straight from Tezpur. Continue to Tawang for the next nights. In winter, pick a place with a room heater and confirm hot water, and keep a buffer day in case snow holds the road.",
+  "tips": [
+    "Cross early; by early afternoon cloud often closes in and the wind picks up",
+    "Spend no more than 30 to 60 minutes at the top and walk slowly",
+    "Carry a down jacket, gloves and a cap even in May; it can snow in any month",
+    "Snow chains and 4x4 matter in winter; ask your driver before you set off",
+    "There is no mobile signal on long stretches around the pass; tell your hotel your plan",
+    "The old pass road is maintained less now that the tunnel is open, so its condition varies season to season"
+  ],
+  "faqs": [
+    {
+      "q": "Is Sela Pass still open after the Sela Tunnel?",
+      "a": "Yes. The Sela Tunnel opened on 9 March 2024 and now carries most through traffic, but the old road over Sela Pass remains in use and tourist vehicles usually take it on the way up to Tawang. On the return most drivers use the tunnel. Heavy snow can close the old road for days; check current status before you travel."
+    },
+    {
+      "q": "What is the altitude of Sela Pass?",
+      "a": "Sela Pass is at about 4,170 m (13,680 ft), and Sela Lake just beside it is at roughly 4,160 m. The Sela Tunnel runs much lower, at about 3,000 m. For comparison, Dirang is about 1,500 m and Tawang about 3,050 m, so you climb over 2,600 m in a single morning from Dirang to the pass."
+    },
+    {
+      "q": "When does Sela Pass get snow?",
+      "a": "Snow is most reliable from December to March, and the lake is usually frozen from late December into March. Snow can also fall in October, November and April. After heavy falls the pass road may close until the BRO clears it, and traffic is routed through the tunnel. Keep a spare day in winter and check current status before you travel."
+    },
+    {
+      "q": "Do I need a special permit for Sela Pass?",
+      "a": "No separate Sela permit is needed. Indian citizens need the Arunachal Pradesh tourist eILP (about Rs 300 to 500 per person, as shown on the portal), which is checked at Bhalukpong. Foreign nationals need a Protected Area Permit, normally arranged by a registered Indian tour operator for groups of two or more."
+    },
+    {
+      "q": "Can foreigners cross Sela Pass?",
+      "a": "Yes. Sela lies on the main road to Tawang, and foreign nationals holding a valid Protected Area Permit for the region can drive over the pass and stop at the lake. The only area around Tawang closed to foreigners is Bum La on the border. Permit rules change, so confirm the details with your operator before travel."
+    },
+    {
+      "q": "Is altitude sickness a risk at Sela Pass?",
+      "a": "Yes, mainly because you arrive fast. Breathlessness and headaches are common at 4,170 m, especially if you came from the plains the day before. Sleep in Dirang first, keep the stop to under an hour, avoid running in the snow and drink water. Anyone feeling dizzy or nauseous should get back in the car and descend."
+    },
+    {
+      "q": "How long is the drive from Dirang to Tawang via Sela?",
+      "a": "Dirang to Tawang is roughly 135 km, and it typically takes 5 to 6 hours including a stop at Sela Pass and another at Jaswantgarh or Nuranang Falls. Using the Sela Tunnel saves around 10 km and about an hour. Snow, army convoys and road work can add hours, so start by 7 am."
+    },
+    {
+      "q": "Is there mobile network or an ATM at Sela Pass?",
+      "a": "There is no ATM anywhere near the pass; the nearest are in Dirang and Tawang. Mobile signal is weak or absent for long stretches on both sides of Sela, though you may pick up a network briefly near the top or at army posts. Download offline maps and tell your hotel your plan."
+    },
+    {
+      "q": "Is Sela Pass safe for children and senior citizens?",
+      "a": "A short stop is fine for most healthy children and seniors if they stay warm and move slowly. The main risks are cold, wind and thin air rather than the road itself. Keep small children well wrapped, limit the stop to 30 minutes, and let anyone with heart or lung conditions stay in the heated car."
+    }
+  ],
+  "nearby": [
+    "nuranang-falls",
+    "dirang",
+    "tawang",
+    "bomdila"
+  ],
+  "image_query": "Sela Pass Arunachal Pradesh lake"
+}
