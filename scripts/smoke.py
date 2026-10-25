@@ -14,7 +14,7 @@ from django.test import Client
 from trips import views
 
 c = Client()
-urls = [p for p, _ in views._sitemap_urls()] + ['/sitemap.xml', '/robots.txt', '/llms.txt', '/search.json', '/site.webmanifest']
+urls = [p for p, _ in views._sitemap_urls()] + ['/sitemap.xml', '/robots.txt', '/ads.txt', '/llms.txt', '/search.json', '/site.webmanifest']
 bad, titles, faq_pages = [], {}, 0
 for u in urls:
     r = c.get(u)

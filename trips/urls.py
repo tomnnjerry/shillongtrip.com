@@ -25,6 +25,7 @@ urlpatterns = [
     path('sitemap/', v.sitemap_page, name='sitemap_page'),
     path('sitemap.xml', v.sitemap_xml, name='sitemap_xml'),
     path('robots.txt', v.robots_txt),
+    path('ads.txt', v.ads_txt),
     path('llms.txt', v.llms_txt),
     path('search.json', v.search_json),
     path('site.webmanifest', v.webmanifest),

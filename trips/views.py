@@ -404,6 +404,10 @@ def robots_txt(request):
     return HttpResponse(f"User-agent: *\nAllow: /\nDisallow: /search.json\nDisallow: /admin/\nDisallow: /api/\n\nSitemap: {seo.abs_url('/sitemap.xml')}\n", content_type='text/plain')
 
 
+def ads_txt(request):
+    return HttpResponse('google.com, pub-9304666313639850, DIRECT, f08c47fec0942fa0\n', content_type='text/plain')
+
+
 def llms_txt(request):
     c = C.get()
     s = c.site
